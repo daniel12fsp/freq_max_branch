@@ -6,11 +6,13 @@ import xml.sax.saxutils as saxutils
 import glob
 import info
 import utils
+from unidecode import unidecode
 
 def norme_tools(leaf):
 	value = leaf.string.strip() #tirar os espacos
 	value = saxutils.unescape(value) #tira as entidades htmls
-	return value
+	value = unidecode(value)# retira os elementos acentuacos(especiais)
+	return value.lower()
 
 def extraction(lca, page_target, id_file, file_json):
 	i = 0
@@ -29,7 +31,8 @@ def extraction(lca, page_target, id_file, file_json):
 				value_attr = ""	
 			else:
 				value_attr += value_leaf if value_leaf != None else ""
-				attrs[key] = value_attr
+				#Eu sei que nao eh a melhor opcao,!
+				attrs[key] = [value_attr]
 
 	return attrs
 		
@@ -44,5 +47,5 @@ def extraction_xpath_dir(path_dir, name, lca):
 
 
 
-key = "new_egg"
+key = "submarino"
 extraction_xpath_dir(info.path(key), key, info.lca(key))
