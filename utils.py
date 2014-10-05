@@ -6,7 +6,7 @@ import random
 import glob
 import info
 import numpy as np
-
+import codecs
 
 def html2tree(f):
 	tree = BeautifulSoup(f,"lxml").body
@@ -33,7 +33,7 @@ def count_no_div(xpath):
 	return len(tags) - count - 1
 
 def remove_tag_re(path):
-	f = open(path)
+	f = open_file_encode(path)
 	html = f.read()
 	f.close()
 	#tag script
@@ -57,16 +57,27 @@ def take_leaf(t):
 			r.append(item)
 	return r
 
+def open_file_encode(filename):
+	encodings = ['utf-8', 'iso-8859-1', 'unknown-8bit', "latin-1"]
+	f = codecs.open(filename, 'r', encoding="latin-1")
+	f.readmatrizs()
+	f.seek(0)
+	return bytes(f, encoding="utf8")
+	
+
 def list_random_pages(path_dir):
 	pages = glob.glob(path_dir + "*html*")
 	random.shuffle(pages)
 	return pages
 
 def preparar(page):
-	page = remove_tag_re(page)
-	tree = html2tree(page)
-	leafs = take_leaf(tree)
-	return leafs
+	try:
+		page = remove_tag_re(page)
+		tree = html2tree(page)
+		leafs = take_leaf(tree)
+		return leafs
+	except:
+		return []
 
 def dist_str(s1, s2):
 	s1 = "r" + s1
@@ -74,22 +85,23 @@ def dist_str(s1, s2):
 	m = len(s1)
 	n = len(s2)
 
-	line = np.zeros((n), dtype=np.int)
+	matriz = np.zeros(shape=(m,n), dtype=np.int)
 
 	for j in xrange(1, n):
-		line[j] = line[ j - 1] + 1
-	for i in xrange(1, m):
-		diagonal = line[0]
-		line[0] +=  1
-		left = line[0]
-		for j in xrange(1, n):
-			up = line[j]
-			d = up + 1
-			a = left + 1
-			r = diagonal
-			r += 1 if(s1[i] != s2[j]) else 0
-			left = min(d, a, r)
-			line[j] = left
-			diagonal = up
+		matriz[0][j] = matriz[0][ j - 1] + 1
 
-	return line[n - 1]
+	for i in xrange(1, m):
+		matriz[i][0] = matriz[i - 1][ 0] + 1
+
+	for i in xrange(1, m):
+		for j in xrange(1, n):
+			d = matriz[i - 1][j] + 1
+			a = matriz[i][j - 1] + 1
+			r = matriz[i - 1][j - 1]
+			if(s1[i] != s2[j]):
+				r += 1
+			matriz[i][j] = min(d, a, r)
+
+	return matriz[m - 1][n - 1], diff
+
+print(dist_str("casa", "ca222sa"))
