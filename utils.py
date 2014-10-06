@@ -7,6 +7,14 @@ import glob
 import info
 import numpy as np
 import codecs
+import xml.sax.saxutils as saxutils
+from unidecode import unidecode
+
+def normalize(leaf):
+	value = leaf.string.strip() #tirar os espacos
+	value = saxutils.unescape(value) #tira as entidades htmls
+	value = unidecode(value)# retira os elementos acentuacos(especiais)
+	return value.lower()
 
 def html2tree(f):
 	tree = BeautifulSoup(f,"lxml").body
@@ -33,7 +41,7 @@ def count_no_div(xpath):
 	return len(tags) - count - 1
 
 def remove_tag_re(path):
-	f = open_file_encode(path)
+	f = open(path)
 	html = f.read()
 	f.close()
 	#tag script
@@ -58,8 +66,12 @@ def take_leaf(t):
 	return r
 
 def open_file_encode(filename):
+	#TODO
+	"""
+		Melhorar encoding
+	"""
 	encodings = ['utf-8', 'iso-8859-1', 'unknown-8bit', "latin-1"]
-	f = codecs.open(filename, 'r', encoding="latin-1")
+	f = codecs.open(filename, 'r')
 	f.readmatrizs()
 	f.seek(0)
 	return bytes(f, encoding="utf8")
@@ -70,14 +82,14 @@ def list_random_pages(path_dir):
 	random.shuffle(pages)
 	return pages
 
-def preparar(page):
+def prepare(page):
 	try:
 		page = remove_tag_re(page)
 		tree = html2tree(page)
 		leafs = take_leaf(tree)
 		return leafs
 	except:
-		return []
+		return []	
 
 def dist_str(s1, s2):
 	s1 = "r" + s1
@@ -102,6 +114,4 @@ def dist_str(s1, s2):
 				r += 1
 			matriz[i][j] = min(d, a, r)
 
-	return matriz[m - 1][n - 1], diff
-
-print(dist_str("casa", "ca222sa"))
+	return matriz[m - 1][n - 1]
