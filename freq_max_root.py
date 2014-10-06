@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 # -*- coding: utf8 -*-
 import info
-import glob
 import utils
 import re
 import gc
