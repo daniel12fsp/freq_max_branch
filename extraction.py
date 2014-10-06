@@ -30,8 +30,8 @@ def extraction(lca, page_target, id_file, file_json):
 
 	return attrs
 		
-def extraction_xpath_dir(path_dir, name, lca):
-	file_json = open( name + ".json","w")
+def extraction_xpath_dir(path_dir, store, lca):
+	file_json = open(info.json(store),"w")
 	for page in sorted(glob.glob(path_dir + '*html*')):
 		print(page)
 		id_file =	re.findall("(\d+)\.html", page)[0]
@@ -41,5 +41,5 @@ def extraction_xpath_dir(path_dir, name, lca):
 
 
 
-key = "new_egg"
-extraction_xpath_dir(info.path(key), key, info.lca(key))
+store = "new_egg"
+extraction_xpath_dir(info.path(store), store, info.lca(store))

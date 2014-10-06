@@ -1,4 +1,6 @@
 #!/bin/python
+import os
+#Wrapper - Paginas
 
 path = "/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/"
 
@@ -18,7 +20,9 @@ lcas ={
 
 }
 
-comparator_path = "/media/doc/home/doc/2014/academico/outros/freq_max_leaf-git/"
+#Extracao
+
+comparator_path = os.getcwd() + "/"
 
 comparator = {
 "americanas" : (comparator_path + "json/americanas.json", comparator_path + "gabarito/gabarito_americanas.json"),
