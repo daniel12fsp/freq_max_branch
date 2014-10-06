@@ -2,9 +2,14 @@
 import itertools
 import json
 import sys
+import info
 
-lines_experimento = open(sys.argv[1]).read().splitlines()
-lines_gabarito    = open(sys.argv[2]).read().splitlines()
+store = "ponto_frio"
+
+lines_experimento = open(info.json(store)).read().splitlines()
+print(info.json(store))
+lines_gabarito    = open(info.gabarito(store)).read().splitlines()
+print(info.gabarito(store))
 
 erro = 0
 def float_division(a, b):
@@ -30,9 +35,9 @@ gabarito    = lines_to_hash(lines_gabarito)
 for gab_id in gabarito:
 
 	exp = experimento[gab_id]
-	print(exp)
+	#print(exp)
 	gab = gabarito[gab_id]
-	print(gab)
+	#print(gab)
 	attr_exp = exp["atributos"]
 	attr_gab = gab["atributos"]
 

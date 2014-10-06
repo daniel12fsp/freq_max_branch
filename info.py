@@ -17,6 +17,7 @@ lcas ={
 "americanas" : "/div/div/div/div/div/div/dl"
 
 }
+
 comparator_path = "/media/doc/home/doc/2014/academico/outros/freq_max_leaf-git/"
 
 comparator = {
@@ -31,4 +32,9 @@ def lca(key):
 def path(key):
 	return paths.get(key)
 
+def json(key):
+	return comparator.get(key,(None, None))[0]
+
+def gabarito(key):
+	return comparator.get(key,(None, None))[1]
 
