@@ -30,6 +30,8 @@ comparator = {
 "new_egg" : (comparator_path + "json/new_egg.json", comparator_path + "gabarito/gabarito_new_egg.json")
 }
 
+report_path = os.getcwd() + "/relatorios/"
+
 def lca(key):
 	return lcas.get(key)
 
