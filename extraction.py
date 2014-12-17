@@ -6,6 +6,10 @@ import glob
 import info
 import utils
 
+
+def check(lca, xpath):
+	return re.search(lca, xpath) != None or  utils.dist_str(lca, xpath) <= 5
+
 def extraction(lca, page_target, id_file, file_json):
 	i = 0
 	attrs = {}
@@ -13,7 +17,7 @@ def extraction(lca, page_target, id_file, file_json):
 	for leaf in utils.prepare(page_target):
 		#print(leaf)
 		grandpa = leaf.parent.parent
-		if(leaf.string and re.search(lca, utils.generate_xpath(grandpa))):
+		if(leaf.string and check(lca, utils.generate_xpath(grandpa))):
 			value_leaf = utils.normalize(leaf)
 			if(not tag_attr_name):
 				#print("###", leaf.parent.name)
@@ -41,5 +45,5 @@ def extraction_xpath_dir(path_dir, store, lca):
 
 
 
-store = "new_egg"
+store = "ponto_frio"
 extraction_xpath_dir(info.path(store), store, info.lca(store))

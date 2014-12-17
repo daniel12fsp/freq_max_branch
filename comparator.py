@@ -4,7 +4,7 @@ import json
 import sys
 import info
 
-store = "ponto_frio"
+store = "new_egg"
 
 error = open(info.report_path + "error_" + store,"w")
 report = open(info.report_path + "report_" + store, "w")
@@ -37,12 +37,10 @@ experimento = lines_to_hash(lines_experimento )
 gabarito    = lines_to_hash(lines_gabarito)
 
 
-for gab_id in gabarito:
+for exp_id in experimento:
 
-	exp = experimento[gab_id]
-	#print(exp)
-	gab = gabarito[gab_id]
-	#print(gab)
+	exp = experimento[exp_id]
+	gab = gabarito[exp_id]
 	attr_exp = exp["atributos"]
 	attr_gab = gab["atributos"]
 

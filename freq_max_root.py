@@ -5,6 +5,7 @@ import utils
 import re
 import gc
 
+
 def freq_max_root(ls, father = {}):
 	for leaf in ls:
 		grandpa = leaf.parent.parent
@@ -54,7 +55,7 @@ def main(path_dir, qtd_max = 10):
 			qtd += 1
 			page = pages.pop()
 			#print(page)
-			ls = utils.preparar(page)
+			ls = utils.prepare(page)
 			father = freq_max_root(ls, father)
 
 		xpaths = {}
@@ -91,14 +92,18 @@ def rodada(store, output, output2):
 
 
 
+
+
 output = open("saida_loja_simples", "w", 0)
 output2 = open("saida_loja_completa", "w", 0)
+rodada("americanas", output, output2)
+exit()
 for store in info.paths:
 	output2.write(store + "\n")
 	output2.write(("-"*40) + "\n")
 	output.write(store + "\n" )
 	output.write(("-"*40) + "\n" )
-	for _ in range(50):
+	for _ in range(5):
 		rodada(store, output, output2)
 		gc.collect()
 	output.flush()
