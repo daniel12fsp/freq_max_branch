@@ -1,0 +1,1111 @@
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/compsource_camera/V204040SU000.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204040SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: OM-D
+Product Model: E-M5
+Product Name: OM-D E-M5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Product UPC: 050332182745
+Screen Size: 3"
+Display Screen Type: OLED
+Touchscreen: Yes
+Display Resolution: 610000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 16.9 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes: Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom
+Aspect Ratio: 16:9
+Image Formats: RAW MPO JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: AVCHD MPEG-4 Motion JPEG (AVI) MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: WAV
+Digital Zoom: No
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto Manual
+Lens Mount Type: Micro Four Thirds
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600
+Exposure Control: Program AE Aperture Priority AE Shutter Priority AE Manual
+Flash Modes: Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync
+Built-in Flash: No
+External Flash: Included
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card
+Wireless LAN: No
+GPS: No
+Camera Modes: Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Microphone Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body Only
+Height: 3.5"
+Width: 4.8"
+Depth: 1.7"
+Weight (Approximate): 14.99 oz
+What's in the box: OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card
+Features: Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe
+Certifications & Standards: CE FCC Canadian ICES-003
+Language Supported: English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay
+Platform Supported: PC Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: WEEE
+Limited Warranty: 1 Year
+{'Video Formats': 'AVCHD MPEG-4 Motion JPEG (AVI) MOV', 'Wireless LAN': 'No', 'Camera Assembly': 'Body Only', 'Product Name': 'OM-D E-M5 Mirrorless Camera', 'Audio Formats': 'WAV', 'Maximum Video Resolution': '1920 x 1080', 'Color': 'Silver', 'GPS': 'No', 'Minimum Diopter Adjustment': '-4', 'Width': '4.8"', 'Product Type': 'Mirrorless Camera', 'Shortest Shutter Speed': '1/4000 Second', 'HD Movie Mode': 'Yes', 'Language Supported': 'English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay', 'Product UPC': '050332182745', 'Brand Name': 'Olympus', 'Built-in Flash': 'No', 'Total Camera Resolution': '16.9 Megapixel', 'Features': 'Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe', 'Touchscreen': 'Yes', 'Image Sensor Type': 'Live MOS', 'Aspect Ratio': '16:9', 'USB': 'Yes', 'Lens Mount Type': 'Micro Four Thirds', 'Certifications & Standards': 'CE FCC Canadian ICES-003', 'Number of Batteries Supported': '1', 'Autofocus Points': '35', 'Battery Chemistry': 'Lithium Ion (Li-Ion)', 'Viewfinder Type': 'Electronic', 'Camera Modes': 'Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide', 'Display Screen Type': 'OLED', 'HDMI': 'Yes', 'Flash Modes': 'Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync', 'Battery Life': '330 Shot', 'Focus Modes': 'Auto Manual', 'Battery Included': 'Yes', 'Maximum Frame Rate': '60 fps', 'Product Model': 'E-M5', 'White Balance Modes': 'Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom', 'Maximum Image Resolution': '4608 x 3456', 'Effective Camera Resolution': '16.1 Megapixel', 'Green Compliant': 'Yes', 'Manufacturer': 'Olympus Corporation', 'Image Stabilization': 'Optical', 'Manufacturer Part Number': 'V204040SU000', 'ISO Sensitivity': 'Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600', 'External Flash': 'Included', 'Battery Model Supported': 'BLN-1', 'Depth': '1.7"', 'PictBridge': 'Yes', 'Image Sensor Size': '4/3" (0.71" x 0.53")', "What's in the box": 'OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card', 'Digital Zoom': 'No', 'Weight (Approximate)': '14.99 oz', 'Product Line': 'OM-D', 'Image Formats': 'RAW MPO JPEG', 'Platform Supported': 'PC Mac', 'Analog Video Out': 'Yes', 'Exposure Control': 'Program AE Aperture Priority AE Shutter Priority AE Manual', 'Battery Size Supported': 'Proprietary Battery Size', 'Height': '3.5"', 'Maximum Diopter Adjustment': '2', 'Built-in Devices': 'Microphone Speaker', 'Display Resolution': '610000 Pixel', 'Longest Shutter Speed': '60 Second', 'Battery Built-in': 'No', 'Green Compliance Certificate/Authority': 'WEEE', 'Manufacturer Website Address': 'http://www.olympusamerica.com', 'Limited Warranty': '1 Year', 'Battery Rechargeable': 'Yes', 'Memory Card Supported': 'Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card', 'Screen Size': '3"'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/compsource_camera/V204040SU000.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204040SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: OM-D
+Product Model: E-M5
+Product Name: OM-D E-M5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Product UPC: 050332182745
+Screen Size: 3"
+Display Screen Type: OLED
+Touchscreen: Yes
+Display Resolution: 610000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 16.9 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes: Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom
+Aspect Ratio: 16:9
+Image Formats: RAW MPO JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: AVCHD MPEG-4 Motion JPEG (AVI) MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: WAV
+Digital Zoom: No
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto Manual
+Lens Mount Type: Micro Four Thirds
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600
+Exposure Control: Program AE Aperture Priority AE Shutter Priority AE Manual
+Flash Modes: Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync
+Built-in Flash: No
+External Flash: Included
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card
+Wireless LAN: No
+GPS: No
+Camera Modes: Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Microphone Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body Only
+Height: 3.5"
+Width: 4.8"
+Depth: 1.7"
+Weight (Approximate): 14.99 oz
+What's in the box: OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card
+Features: Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe
+Certifications & Standards: CE FCC Canadian ICES-003
+Language Supported: English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay
+Platform Supported: PC Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: WEEE
+Limited Warranty: 1 Year
+{'Video Formats': 'AVCHD MPEG-4 Motion JPEG (AVI) MOV', 'Wireless LAN': 'No', 'Camera Assembly': 'Body Only', 'Product Name': 'OM-D E-M5 Mirrorless Camera', 'Audio Formats': 'WAV', 'Maximum Video Resolution': '1920 x 1080', 'Color': 'Silver', 'GPS': 'No', 'Minimum Diopter Adjustment': '-4', 'Width': '4.8"', 'Product Type': 'Mirrorless Camera', 'Shortest Shutter Speed': '1/4000 Second', 'HD Movie Mode': 'Yes', 'Language Supported': 'English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay', 'Product UPC': '050332182745', 'Brand Name': 'Olympus', 'Built-in Flash': 'No', 'Total Camera Resolution': '16.9 Megapixel', 'Features': 'Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe', 'Touchscreen': 'Yes', 'Image Sensor Type': 'Live MOS', 'Aspect Ratio': '16:9', 'USB': 'Yes', 'Lens Mount Type': 'Micro Four Thirds', 'Certifications & Standards': 'CE FCC Canadian ICES-003', 'Number of Batteries Supported': '1', 'Autofocus Points': '35', 'Battery Chemistry': 'Lithium Ion (Li-Ion)', 'Viewfinder Type': 'Electronic', 'Camera Modes': 'Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide', 'Display Screen Type': 'OLED', 'HDMI': 'Yes', 'Flash Modes': 'Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync', 'Battery Life': '330 Shot', 'Focus Modes': 'Auto Manual', 'Battery Included': 'Yes', 'Maximum Frame Rate': '60 fps', 'Product Model': 'E-M5', 'White Balance Modes': 'Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom', 'Maximum Image Resolution': '4608 x 3456', 'Effective Camera Resolution': '16.1 Megapixel', 'Green Compliant': 'Yes', 'Manufacturer': 'Olympus Corporation', 'Image Stabilization': 'Optical', 'Manufacturer Part Number': 'V204040SU000', 'ISO Sensitivity': 'Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600', 'External Flash': 'Included', 'Battery Model Supported': 'BLN-1', 'Depth': '1.7"', 'PictBridge': 'Yes', 'Image Sensor Size': '4/3" (0.71" x 0.53")', "What's in the box": 'OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card', 'Digital Zoom': 'No', 'Weight (Approximate)': '14.99 oz', 'Product Line': 'OM-D', 'Image Formats': 'RAW MPO JPEG', 'Platform Supported': 'PC Mac', 'Analog Video Out': 'Yes', 'Exposure Control': 'Program AE Aperture Priority AE Shutter Priority AE Manual', 'Battery Size Supported': 'Proprietary Battery Size', 'Height': '3.5"', 'Maximum Diopter Adjustment': '2', 'Built-in Devices': 'Microphone Speaker', 'Display Resolution': '610000 Pixel', 'Longest Shutter Speed': '60 Second', 'Battery Built-in': 'No', 'Green Compliance Certificate/Authority': 'WEEE', 'Manufacturer Website Address': 'http://www.olympusamerica.com', 'Limited Warranty': '1 Year', 'Battery Rechargeable': 'Yes', 'Memory Card Supported': 'Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card', 'Screen Size': '3"'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/compsource_camera/V204040SU000.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204040SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: OM-D
+Product Model: E-M5
+Product Name: OM-D E-M5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Product UPC: 050332182745
+Screen Size: 3"
+Display Screen Type: OLED
+Touchscreen: Yes
+Display Resolution: 610000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 16.9 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes: Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom
+Aspect Ratio: 16:9
+Image Formats: RAW MPO JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: AVCHD MPEG-4 Motion JPEG (AVI) MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: WAV
+Digital Zoom: No
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto Manual
+Lens Mount Type: Micro Four Thirds
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600
+Exposure Control: Program AE Aperture Priority AE Shutter Priority AE Manual
+Flash Modes: Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync
+Built-in Flash: No
+External Flash: Included
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card
+Wireless LAN: No
+GPS: No
+Camera Modes: Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Microphone Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body Only
+Height: 3.5"
+Width: 4.8"
+Depth: 1.7"
+Weight (Approximate): 14.99 oz
+What's in the box: OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card
+Features: Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe
+Certifications & Standards: CE FCC Canadian ICES-003
+Language Supported: English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay
+Platform Supported: PC Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: WEEE
+Limited Warranty: 1 Year
+{'Video Formats': 'AVCHD MPEG-4 Motion JPEG (AVI) MOV', 'Wireless LAN': 'No', 'Camera Assembly': 'Body Only', 'Product Name': 'OM-D E-M5 Mirrorless Camera', 'Audio Formats': 'WAV', 'Maximum Video Resolution': '1920 x 1080', 'Color': 'Silver', 'GPS': 'No', 'Minimum Diopter Adjustment': '-4', 'Width': '4.8"', 'Product Type': 'Mirrorless Camera', 'Shortest Shutter Speed': '1/4000 Second', 'HD Movie Mode': 'Yes', 'Language Supported': 'English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay', 'Product UPC': '050332182745', 'Brand Name': 'Olympus', 'Built-in Flash': 'No', 'Total Camera Resolution': '16.9 Megapixel', 'Features': 'Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe', 'Touchscreen': 'Yes', 'Image Sensor Type': 'Live MOS', 'Aspect Ratio': '16:9', 'USB': 'Yes', 'Lens Mount Type': 'Micro Four Thirds', 'Certifications & Standards': 'CE FCC Canadian ICES-003', 'Number of Batteries Supported': '1', 'Autofocus Points': '35', 'Battery Chemistry': 'Lithium Ion (Li-Ion)', 'Viewfinder Type': 'Electronic', 'Camera Modes': 'Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide', 'Display Screen Type': 'OLED', 'HDMI': 'Yes', 'Flash Modes': 'Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync', 'Battery Life': '330 Shot', 'Focus Modes': 'Auto Manual', 'Battery Included': 'Yes', 'Maximum Frame Rate': '60 fps', 'Product Model': 'E-M5', 'White Balance Modes': 'Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom', 'Maximum Image Resolution': '4608 x 3456', 'Effective Camera Resolution': '16.1 Megapixel', 'Green Compliant': 'Yes', 'Manufacturer': 'Olympus Corporation', 'Image Stabilization': 'Optical', 'Manufacturer Part Number': 'V204040SU000', 'ISO Sensitivity': 'Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600', 'External Flash': 'Included', 'Battery Model Supported': 'BLN-1', 'Depth': '1.7"', 'PictBridge': 'Yes', 'Image Sensor Size': '4/3" (0.71" x 0.53")', "What's in the box": 'OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card', 'Digital Zoom': 'No', 'Weight (Approximate)': '14.99 oz', 'Product Line': 'OM-D', 'Image Formats': 'RAW MPO JPEG', 'Platform Supported': 'PC Mac', 'Analog Video Out': 'Yes', 'Exposure Control': 'Program AE Aperture Priority AE Shutter Priority AE Manual', 'Battery Size Supported': 'Proprietary Battery Size', 'Height': '3.5"', 'Maximum Diopter Adjustment': '2', 'Built-in Devices': 'Microphone Speaker', 'Display Resolution': '610000 Pixel', 'Longest Shutter Speed': '60 Second', 'Battery Built-in': 'No', 'Green Compliance Certificate/Authority': 'WEEE', 'Manufacturer Website Address': 'http://www.olympusamerica.com', 'Limited Warranty': '1 Year', 'Battery Rechargeable': 'Yes', 'Memory Card Supported': 'Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card', 'Screen Size': '3"'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/compsource_camera/V204040SU000.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204040SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: OM-D
+Product Model: E-M5
+Product Name: OM-D E-M5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Product UPC: 050332182745
+Screen Size: 3"
+Display Screen Type: OLED
+Touchscreen: Yes
+Display Resolution: 610000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 16.9 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes: Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom
+Aspect Ratio: 16:9
+Image Formats: RAW MPO JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: AVCHD MPEG-4 Motion JPEG (AVI) MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: WAV
+Digital Zoom: No
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto Manual
+Lens Mount Type: Micro Four Thirds
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600
+Exposure Control: Program AE Aperture Priority AE Shutter Priority AE Manual
+Flash Modes: Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync
+Built-in Flash: No
+External Flash: Included
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card
+Wireless LAN: No
+GPS: No
+Camera Modes: Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Microphone Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body Only
+Height: 3.5"
+Width: 4.8"
+Depth: 1.7"
+Weight (Approximate): 14.99 oz
+What's in the box: OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card
+Features: Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe
+Certifications & Standards: CE FCC Canadian ICES-003
+Language Supported: English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay
+Platform Supported: PC Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: WEEE
+Limited Warranty: 1 Year
+{'Video Formats': 'AVCHD MPEG-4 Motion JPEG (AVI) MOV', 'Wireless LAN': 'No', 'Camera Assembly': 'Body Only', 'Product Name': 'OM-D E-M5 Mirrorless Camera', 'Audio Formats': 'WAV', 'Maximum Video Resolution': '1920 x 1080', 'Color': 'Silver', 'GPS': 'No', 'Minimum Diopter Adjustment': '-4', 'Width': '4.8"', 'Product Type': 'Mirrorless Camera', 'Shortest Shutter Speed': '1/4000 Second', 'HD Movie Mode': 'Yes', 'Language Supported': 'English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay', 'Product UPC': '050332182745', 'Brand Name': 'Olympus', 'Built-in Flash': 'No', 'Total Camera Resolution': '16.9 Megapixel', 'Features': 'Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe', 'Touchscreen': 'Yes', 'Image Sensor Type': 'Live MOS', 'Aspect Ratio': '16:9', 'USB': 'Yes', 'Lens Mount Type': 'Micro Four Thirds', 'Certifications & Standards': 'CE FCC Canadian ICES-003', 'Number of Batteries Supported': '1', 'Autofocus Points': '35', 'Battery Chemistry': 'Lithium Ion (Li-Ion)', 'Viewfinder Type': 'Electronic', 'Camera Modes': 'Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide', 'Display Screen Type': 'OLED', 'HDMI': 'Yes', 'Flash Modes': 'Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync', 'Battery Life': '330 Shot', 'Focus Modes': 'Auto Manual', 'Battery Included': 'Yes', 'Maximum Frame Rate': '60 fps', 'Product Model': 'E-M5', 'White Balance Modes': 'Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom', 'Maximum Image Resolution': '4608 x 3456', 'Effective Camera Resolution': '16.1 Megapixel', 'Green Compliant': 'Yes', 'Manufacturer': 'Olympus Corporation', 'Image Stabilization': 'Optical', 'Manufacturer Part Number': 'V204040SU000', 'ISO Sensitivity': 'Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600', 'External Flash': 'Included', 'Battery Model Supported': 'BLN-1', 'Depth': '1.7"', 'PictBridge': 'Yes', 'Image Sensor Size': '4/3" (0.71" x 0.53")', "What's in the box": 'OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card', 'Digital Zoom': 'No', 'Weight (Approximate)': '14.99 oz', 'Product Line': 'OM-D', 'Image Formats': 'RAW MPO JPEG', 'Platform Supported': 'PC Mac', 'Analog Video Out': 'Yes', 'Exposure Control': 'Program AE Aperture Priority AE Shutter Priority AE Manual', 'Battery Size Supported': 'Proprietary Battery Size', 'Height': '3.5"', 'Maximum Diopter Adjustment': '2', 'Built-in Devices': 'Microphone Speaker', 'Display Resolution': '610000 Pixel', 'Longest Shutter Speed': '60 Second', 'Battery Built-in': 'No', 'Green Compliance Certificate/Authority': 'WEEE', 'Manufacturer Website Address': 'http://www.olympusamerica.com', 'Limited Warranty': '1 Year', 'Battery Rechargeable': 'Yes', 'Memory Card Supported': 'Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card', 'Screen Size': '3"'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/compsource_camera/V204040SU000.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204040SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: OM-D
+Product Model: E-M5
+Product Name: OM-D E-M5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Product UPC: 050332182745
+Screen Size: 3"
+Display Screen Type: OLED
+Touchscreen: Yes
+Display Resolution: 610000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 16.9 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes: Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom
+Aspect Ratio: 16:9
+Image Formats: RAW MPO JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: AVCHD MPEG-4 Motion JPEG (AVI) MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: WAV
+Digital Zoom: No
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto Manual
+Lens Mount Type: Micro Four Thirds
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600
+Exposure Control: Program AE Aperture Priority AE Shutter Priority AE Manual
+Flash Modes: Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync
+Built-in Flash: No
+External Flash: Included
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card
+Wireless LAN: No
+GPS: No
+Camera Modes: Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Microphone Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body Only
+Height: 3.5"
+Width: 4.8"
+Depth: 1.7"
+Weight (Approximate): 14.99 oz
+What's in the box: OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card
+Features: Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe
+Certifications & Standards: CE FCC Canadian ICES-003
+Language Supported: English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay
+Platform Supported: PC Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: WEEE
+Limited Warranty: 1 Year
+{'Video Formats': 'AVCHD MPEG-4 Motion JPEG (AVI) MOV', 'Wireless LAN': 'No', 'Camera Assembly': 'Body Only', 'Product Name': 'OM-D E-M5 Mirrorless Camera', 'Audio Formats': 'WAV', 'Maximum Video Resolution': '1920 x 1080', 'Color': 'Silver', 'GPS': 'No', 'Minimum Diopter Adjustment': '-4', 'Width': '4.8"', 'Product Type': 'Mirrorless Camera', 'Shortest Shutter Speed': '1/4000 Second', 'HD Movie Mode': 'Yes', 'Language Supported': 'English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay', 'Product UPC': '050332182745', 'Brand Name': 'Olympus', 'Built-in Flash': 'No', 'Total Camera Resolution': '16.9 Megapixel', 'Features': 'Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe', 'Touchscreen': 'Yes', 'Image Sensor Type': 'Live MOS', 'Aspect Ratio': '16:9', 'USB': 'Yes', 'Lens Mount Type': 'Micro Four Thirds', 'Certifications & Standards': 'CE FCC Canadian ICES-003', 'Number of Batteries Supported': '1', 'Autofocus Points': '35', 'Battery Chemistry': 'Lithium Ion (Li-Ion)', 'Viewfinder Type': 'Electronic', 'Camera Modes': 'Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide', 'Display Screen Type': 'OLED', 'HDMI': 'Yes', 'Flash Modes': 'Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync', 'Battery Life': '330 Shot', 'Focus Modes': 'Auto Manual', 'Battery Included': 'Yes', 'Maximum Frame Rate': '60 fps', 'Product Model': 'E-M5', 'White Balance Modes': 'Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom', 'Maximum Image Resolution': '4608 x 3456', 'Effective Camera Resolution': '16.1 Megapixel', 'Green Compliant': 'Yes', 'Manufacturer': 'Olympus Corporation', 'Image Stabilization': 'Optical', 'Manufacturer Part Number': 'V204040SU000', 'ISO Sensitivity': 'Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600', 'External Flash': 'Included', 'Battery Model Supported': 'BLN-1', 'Depth': '1.7"', 'PictBridge': 'Yes', 'Image Sensor Size': '4/3" (0.71" x 0.53")', "What's in the box": 'OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card', 'Digital Zoom': 'No', 'Weight (Approximate)': '14.99 oz', 'Product Line': 'OM-D', 'Image Formats': 'RAW MPO JPEG', 'Platform Supported': 'PC Mac', 'Analog Video Out': 'Yes', 'Exposure Control': 'Program AE Aperture Priority AE Shutter Priority AE Manual', 'Battery Size Supported': 'Proprietary Battery Size', 'Height': '3.5"', 'Maximum Diopter Adjustment': '2', 'Built-in Devices': 'Microphone Speaker', 'Display Resolution': '610000 Pixel', 'Longest Shutter Speed': '60 Second', 'Battery Built-in': 'No', 'Green Compliance Certificate/Authority': 'WEEE', 'Manufacturer Website Address': 'http://www.olympusamerica.com', 'Limited Warranty': '1 Year', 'Battery Rechargeable': 'Yes', 'Memory Card Supported': 'Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card', 'Screen Size': '3"'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/compsource_camera/V204040SU000.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204040SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: OM-D
+Product Model: E-M5
+Product Name: OM-D E-M5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Product UPC: 050332182745
+Screen Size: 3"
+Display Screen Type: OLED
+Touchscreen: Yes
+Display Resolution: 610000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 16.9 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes: Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom
+Aspect Ratio: 16:9
+Image Formats: RAW MPO JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: AVCHD MPEG-4 Motion JPEG (AVI) MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: WAV
+Digital Zoom: No
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto Manual
+Lens Mount Type: Micro Four Thirds
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600
+Exposure Control: Program AE Aperture Priority AE Shutter Priority AE Manual
+Flash Modes: Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync
+Built-in Flash: No
+External Flash: Included
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card
+Wireless LAN: No
+GPS: No
+Camera Modes: Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Microphone Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body Only
+Height: 3.5"
+Width: 4.8"
+Depth: 1.7"
+Weight (Approximate): 14.99 oz
+What's in the box: OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card
+Features: Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe
+Certifications & Standards: CE FCC Canadian ICES-003
+Language Supported: English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay
+Platform Supported: PC Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: WEEE
+Limited Warranty: 1 Year
+{'Video Formats': 'AVCHD MPEG-4 Motion JPEG (AVI) MOV', 'Wireless LAN': 'No', 'Camera Assembly': 'Body Only', 'Product Name': 'OM-D E-M5 Mirrorless Camera', 'Audio Formats': 'WAV', 'Maximum Video Resolution': '1920 x 1080', 'Color': 'Silver', 'GPS': 'No', 'Minimum Diopter Adjustment': '-4', 'Width': '4.8"', 'Product Type': 'Mirrorless Camera', 'Shortest Shutter Speed': '1/4000 Second', 'HD Movie Mode': 'Yes', 'Language Supported': 'English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay', 'Product UPC': '050332182745', 'Brand Name': 'Olympus', 'Built-in Flash': 'No', 'Total Camera Resolution': '16.9 Megapixel', 'Features': 'Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe', 'Touchscreen': 'Yes', 'Image Sensor Type': 'Live MOS', 'Aspect Ratio': '16:9', 'USB': 'Yes', 'Lens Mount Type': 'Micro Four Thirds', 'Certifications & Standards': 'CE FCC Canadian ICES-003', 'Number of Batteries Supported': '1', 'Autofocus Points': '35', 'Battery Chemistry': 'Lithium Ion (Li-Ion)', 'Viewfinder Type': 'Electronic', 'Camera Modes': 'Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide', 'Display Screen Type': 'OLED', 'HDMI': 'Yes', 'Flash Modes': 'Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync', 'Battery Life': '330 Shot', 'Focus Modes': 'Auto Manual', 'Battery Included': 'Yes', 'Maximum Frame Rate': '60 fps', 'Product Model': 'E-M5', 'White Balance Modes': 'Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom', 'Maximum Image Resolution': '4608 x 3456', 'Effective Camera Resolution': '16.1 Megapixel', 'Green Compliant': 'Yes', 'Manufacturer': 'Olympus Corporation', 'Image Stabilization': 'Optical', 'Manufacturer Part Number': 'V204040SU000', 'ISO Sensitivity': 'Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600', 'External Flash': 'Included', 'Battery Model Supported': 'BLN-1', 'Depth': '1.7"', 'PictBridge': 'Yes', 'Image Sensor Size': '4/3" (0.71" x 0.53")', "What's in the box": 'OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card', 'Digital Zoom': 'No', 'Weight (Approximate)': '14.99 oz', 'Product Line': 'OM-D', 'Image Formats': 'RAW MPO JPEG', 'Platform Supported': 'PC Mac', 'Analog Video Out': 'Yes', 'Exposure Control': 'Program AE Aperture Priority AE Shutter Priority AE Manual', 'Battery Size Supported': 'Proprietary Battery Size', 'Height': '3.5"', 'Maximum Diopter Adjustment': '2', 'Built-in Devices': 'Microphone Speaker', 'Display Resolution': '610000 Pixel', 'Longest Shutter Speed': '60 Second', 'Battery Built-in': 'No', 'Green Compliance Certificate/Authority': 'WEEE', 'Manufacturer Website Address': 'http://www.olympusamerica.com', 'Limited Warranty': '1 Year', 'Battery Rechargeable': 'Yes', 'Memory Card Supported': 'Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card', 'Screen Size': '3"'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/compsource_camera/V204040SU000.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204040SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: OM-D
+Product Model: E-M5
+Product Name: OM-D E-M5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Product UPC: 050332182745
+Screen Size: 3"
+Display Screen Type: OLED
+Touchscreen: Yes
+Display Resolution: 610000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 16.9 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes: Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom
+Aspect Ratio: 16:9
+Image Formats: RAW MPO JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: AVCHD MPEG-4 Motion JPEG (AVI) MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: WAV
+Digital Zoom: No
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto Manual
+Lens Mount Type: Micro Four Thirds
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600
+Exposure Control: Program AE Aperture Priority AE Shutter Priority AE Manual
+Flash Modes: Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync
+Built-in Flash: No
+External Flash: Included
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card
+Wireless LAN: No
+GPS: No
+Camera Modes: Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Microphone Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body Only
+Height: 3.5"
+Width: 4.8"
+Depth: 1.7"
+Weight (Approximate): 14.99 oz
+What's in the box: OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card
+Features: Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe
+Certifications & Standards: CE FCC Canadian ICES-003
+Language Supported: English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay
+Platform Supported: PC Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: WEEE
+Limited Warranty: 1 Year
+{'Video Formats': 'AVCHD MPEG-4 Motion JPEG (AVI) MOV', 'Wireless LAN': 'No', 'Camera Assembly': 'Body Only', 'Product Name': 'OM-D E-M5 Mirrorless Camera', 'Audio Formats': 'WAV', 'Maximum Video Resolution': '1920 x 1080', 'Color': 'Silver', 'GPS': 'No', 'Minimum Diopter Adjustment': '-4', 'Width': '4.8"', 'Product Type': 'Mirrorless Camera', 'Shortest Shutter Speed': '1/4000 Second', 'HD Movie Mode': 'Yes', 'Language Supported': 'English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay', 'Product UPC': '050332182745', 'Brand Name': 'Olympus', 'Built-in Flash': 'No', 'Total Camera Resolution': '16.9 Megapixel', 'Features': 'Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe', 'Touchscreen': 'Yes', 'Image Sensor Type': 'Live MOS', 'Aspect Ratio': '16:9', 'USB': 'Yes', 'Lens Mount Type': 'Micro Four Thirds', 'Certifications & Standards': 'CE FCC Canadian ICES-003', 'Number of Batteries Supported': '1', 'Autofocus Points': '35', 'Battery Chemistry': 'Lithium Ion (Li-Ion)', 'Viewfinder Type': 'Electronic', 'Camera Modes': 'Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide', 'Display Screen Type': 'OLED', 'HDMI': 'Yes', 'Flash Modes': 'Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync', 'Battery Life': '330 Shot', 'Focus Modes': 'Auto Manual', 'Battery Included': 'Yes', 'Maximum Frame Rate': '60 fps', 'Product Model': 'E-M5', 'White Balance Modes': 'Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom', 'Maximum Image Resolution': '4608 x 3456', 'Effective Camera Resolution': '16.1 Megapixel', 'Green Compliant': 'Yes', 'Manufacturer': 'Olympus Corporation', 'Image Stabilization': 'Optical', 'Manufacturer Part Number': 'V204040SU000', 'ISO Sensitivity': 'Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600', 'External Flash': 'Included', 'Battery Model Supported': 'BLN-1', 'Depth': '1.7"', 'PictBridge': 'Yes', 'Image Sensor Size': '4/3" (0.71" x 0.53")', "What's in the box": 'OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card', 'Digital Zoom': 'No', 'Weight (Approximate)': '14.99 oz', 'Product Line': 'OM-D', 'Image Formats': 'RAW MPO JPEG', 'Platform Supported': 'PC Mac', 'Analog Video Out': 'Yes', 'Exposure Control': 'Program AE Aperture Priority AE Shutter Priority AE Manual', 'Battery Size Supported': 'Proprietary Battery Size', 'Height': '3.5"', 'Maximum Diopter Adjustment': '2', 'Built-in Devices': 'Microphone Speaker', 'Display Resolution': '610000 Pixel', 'Longest Shutter Speed': '60 Second', 'Battery Built-in': 'No', 'Green Compliance Certificate/Authority': 'WEEE', 'Manufacturer Website Address': 'http://www.olympusamerica.com', 'Limited Warranty': '1 Year', 'Battery Rechargeable': 'Yes', 'Memory Card Supported': 'Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card', 'Screen Size': '3"'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/compsource_camera/V204040SU000.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204040SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: OM-D
+Product Model: E-M5
+Product Name: OM-D E-M5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Product UPC: 050332182745
+Screen Size: 3"
+Display Screen Type: OLED
+Touchscreen: Yes
+Display Resolution: 610000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 16.9 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes: Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom
+Aspect Ratio: 16:9
+Image Formats: RAW MPO JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: AVCHD MPEG-4 Motion JPEG (AVI) MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: WAV
+Digital Zoom: No
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto Manual
+Lens Mount Type: Micro Four Thirds
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600
+Exposure Control: Program AE Aperture Priority AE Shutter Priority AE Manual
+Flash Modes: Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync
+Built-in Flash: No
+External Flash: Included
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card
+Wireless LAN: No
+GPS: No
+Camera Modes: Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Microphone Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body Only
+Height: 3.5"
+Width: 4.8"
+Depth: 1.7"
+Weight (Approximate): 14.99 oz
+What's in the box: OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card
+Features: Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe
+Certifications & Standards: CE FCC Canadian ICES-003
+Language Supported: English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay
+Platform Supported: PC Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: WEEE
+Limited Warranty: 1 Year
+{'Video Formats': 'AVCHD MPEG-4 Motion JPEG (AVI) MOV', 'Wireless LAN': 'No', 'Camera Assembly': 'Body Only', 'Product Name': 'OM-D E-M5 Mirrorless Camera', 'Audio Formats': 'WAV', 'Maximum Video Resolution': '1920 x 1080', 'Color': 'Silver', 'GPS': 'No', 'Minimum Diopter Adjustment': '-4', 'Width': '4.8"', 'Product Type': 'Mirrorless Camera', 'Shortest Shutter Speed': '1/4000 Second', 'HD Movie Mode': 'Yes', 'Language Supported': 'English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay', 'Product UPC': '050332182745', 'Brand Name': 'Olympus', 'Built-in Flash': 'No', 'Total Camera Resolution': '16.9 Megapixel', 'Features': 'Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe', 'Touchscreen': 'Yes', 'Image Sensor Type': 'Live MOS', 'Aspect Ratio': '16:9', 'USB': 'Yes', 'Lens Mount Type': 'Micro Four Thirds', 'Certifications & Standards': 'CE FCC Canadian ICES-003', 'Number of Batteries Supported': '1', 'Autofocus Points': '35', 'Battery Chemistry': 'Lithium Ion (Li-Ion)', 'Viewfinder Type': 'Electronic', 'Camera Modes': 'Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide', 'Display Screen Type': 'OLED', 'HDMI': 'Yes', 'Flash Modes': 'Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync', 'Battery Life': '330 Shot', 'Focus Modes': 'Auto Manual', 'Battery Included': 'Yes', 'Maximum Frame Rate': '60 fps', 'Product Model': 'E-M5', 'White Balance Modes': 'Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom', 'Maximum Image Resolution': '4608 x 3456', 'Effective Camera Resolution': '16.1 Megapixel', 'Green Compliant': 'Yes', 'Manufacturer': 'Olympus Corporation', 'Image Stabilization': 'Optical', 'Manufacturer Part Number': 'V204040SU000', 'ISO Sensitivity': 'Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600', 'External Flash': 'Included', 'Battery Model Supported': 'BLN-1', 'Depth': '1.7"', 'PictBridge': 'Yes', 'Image Sensor Size': '4/3" (0.71" x 0.53")', "What's in the box": 'OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card', 'Digital Zoom': 'No', 'Weight (Approximate)': '14.99 oz', 'Product Line': 'OM-D', 'Image Formats': 'RAW MPO JPEG', 'Platform Supported': 'PC Mac', 'Analog Video Out': 'Yes', 'Exposure Control': 'Program AE Aperture Priority AE Shutter Priority AE Manual', 'Battery Size Supported': 'Proprietary Battery Size', 'Height': '3.5"', 'Maximum Diopter Adjustment': '2', 'Built-in Devices': 'Microphone Speaker', 'Display Resolution': '610000 Pixel', 'Longest Shutter Speed': '60 Second', 'Battery Built-in': 'No', 'Green Compliance Certificate/Authority': 'WEEE', 'Manufacturer Website Address': 'http://www.olympusamerica.com', 'Limited Warranty': '1 Year', 'Battery Rechargeable': 'Yes', 'Memory Card Supported': 'Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card', 'Screen Size': '3"'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/compsource_camera/V204040SU000.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204040SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: OM-D
+Product Model: E-M5
+Product Name: OM-D E-M5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Product UPC: 050332182745
+Screen Size: 3"
+Display Screen Type: OLED
+Touchscreen: Yes
+Display Resolution: 610000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 16.9 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes: Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom
+Aspect Ratio: 16:9
+Image Formats: RAW MPO JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: AVCHD MPEG-4 Motion JPEG (AVI) MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: WAV
+Digital Zoom: No
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto Manual
+Lens Mount Type: Micro Four Thirds
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600
+Exposure Control: Program AE Aperture Priority AE Shutter Priority AE Manual
+Flash Modes: Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync
+Built-in Flash: No
+External Flash: Included
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card
+Wireless LAN: No
+GPS: No
+Camera Modes: Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Microphone Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body Only
+Height: 3.5"
+Width: 4.8"
+Depth: 1.7"
+Weight (Approximate): 14.99 oz
+What's in the box: OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card
+Features: Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe
+Certifications & Standards: CE FCC Canadian ICES-003
+Language Supported: English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay
+Platform Supported: PC Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: WEEE
+Limited Warranty: 1 Year
+{'Video Formats': 'AVCHD MPEG-4 Motion JPEG (AVI) MOV', 'Wireless LAN': 'No', 'Camera Assembly': 'Body Only', 'Product Name': 'OM-D E-M5 Mirrorless Camera', 'Audio Formats': 'WAV', 'Maximum Video Resolution': '1920 x 1080', 'Color': 'Silver', 'GPS': 'No', 'Minimum Diopter Adjustment': '-4', 'Width': '4.8"', 'Product Type': 'Mirrorless Camera', 'Shortest Shutter Speed': '1/4000 Second', 'HD Movie Mode': 'Yes', 'Language Supported': 'English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay', 'Product UPC': '050332182745', 'Brand Name': 'Olympus', 'Built-in Flash': 'No', 'Total Camera Resolution': '16.9 Megapixel', 'Features': 'Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe', 'Touchscreen': 'Yes', 'Image Sensor Type': 'Live MOS', 'Aspect Ratio': '16:9', 'USB': 'Yes', 'Lens Mount Type': 'Micro Four Thirds', 'Certifications & Standards': 'CE FCC Canadian ICES-003', 'Number of Batteries Supported': '1', 'Autofocus Points': '35', 'Battery Chemistry': 'Lithium Ion (Li-Ion)', 'Viewfinder Type': 'Electronic', 'Camera Modes': 'Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide', 'Display Screen Type': 'OLED', 'HDMI': 'Yes', 'Flash Modes': 'Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync', 'Battery Life': '330 Shot', 'Focus Modes': 'Auto Manual', 'Battery Included': 'Yes', 'Maximum Frame Rate': '60 fps', 'Product Model': 'E-M5', 'White Balance Modes': 'Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom', 'Maximum Image Resolution': '4608 x 3456', 'Effective Camera Resolution': '16.1 Megapixel', 'Green Compliant': 'Yes', 'Manufacturer': 'Olympus Corporation', 'Image Stabilization': 'Optical', 'Manufacturer Part Number': 'V204040SU000', 'ISO Sensitivity': 'Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600', 'External Flash': 'Included', 'Battery Model Supported': 'BLN-1', 'Depth': '1.7"', 'PictBridge': 'Yes', 'Image Sensor Size': '4/3" (0.71" x 0.53")', "What's in the box": 'OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card', 'Digital Zoom': 'No', 'Weight (Approximate)': '14.99 oz', 'Product Line': 'OM-D', 'Image Formats': 'RAW MPO JPEG', 'Platform Supported': 'PC Mac', 'Analog Video Out': 'Yes', 'Exposure Control': 'Program AE Aperture Priority AE Shutter Priority AE Manual', 'Battery Size Supported': 'Proprietary Battery Size', 'Height': '3.5"', 'Maximum Diopter Adjustment': '2', 'Built-in Devices': 'Microphone Speaker', 'Display Resolution': '610000 Pixel', 'Longest Shutter Speed': '60 Second', 'Battery Built-in': 'No', 'Green Compliance Certificate/Authority': 'WEEE', 'Manufacturer Website Address': 'http://www.olympusamerica.com', 'Limited Warranty': '1 Year', 'Battery Rechargeable': 'Yes', 'Memory Card Supported': 'Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card', 'Screen Size': '3"'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/compsource_camera/V204040SU000.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204040SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: OM-D
+Product Model: E-M5
+Product Name: OM-D E-M5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Product UPC: 050332182745
+Screen Size: 3"
+Display Screen Type: OLED
+Touchscreen: Yes
+Display Resolution: 610000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 16.9 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes: Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom
+Aspect Ratio: 16:9
+Image Formats: RAW MPO JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: AVCHD MPEG-4 Motion JPEG (AVI) MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: WAV
+Digital Zoom: No
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto Manual
+Lens Mount Type: Micro Four Thirds
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600
+Exposure Control: Program AE Aperture Priority AE Shutter Priority AE Manual
+Flash Modes: Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync
+Built-in Flash: No
+External Flash: Included
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card
+Wireless LAN: No
+GPS: No
+Camera Modes: Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Microphone Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body Only
+Height: 3.5"
+Width: 4.8"
+Depth: 1.7"
+Weight (Approximate): 14.99 oz
+What's in the box: OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card
+Features: Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe
+Certifications & Standards: CE FCC Canadian ICES-003
+Language Supported: English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay
+Platform Supported: PC Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: WEEE
+Limited Warranty: 1 Year
+{'Video Formats': 'AVCHD MPEG-4 Motion JPEG (AVI) MOV', 'Wireless LAN': 'No', 'Camera Assembly': 'Body Only', 'Product Name': 'OM-D E-M5 Mirrorless Camera', 'Audio Formats': 'WAV', 'Maximum Video Resolution': '1920 x 1080', 'Color': 'Silver', 'GPS': 'No', 'Minimum Diopter Adjustment': '-4', 'Width': '4.8"', 'Product Type': 'Mirrorless Camera', 'Shortest Shutter Speed': '1/4000 Second', 'HD Movie Mode': 'Yes', 'Language Supported': 'English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay', 'Product UPC': '050332182745', 'Brand Name': 'Olympus', 'Built-in Flash': 'No', 'Total Camera Resolution': '16.9 Megapixel', 'Features': 'Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe', 'Touchscreen': 'Yes', 'Image Sensor Type': 'Live MOS', 'Aspect Ratio': '16:9', 'USB': 'Yes', 'Lens Mount Type': 'Micro Four Thirds', 'Certifications & Standards': 'CE FCC Canadian ICES-003', 'Number of Batteries Supported': '1', 'Autofocus Points': '35', 'Battery Chemistry': 'Lithium Ion (Li-Ion)', 'Viewfinder Type': 'Electronic', 'Camera Modes': 'Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide', 'Display Screen Type': 'OLED', 'HDMI': 'Yes', 'Flash Modes': 'Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync', 'Battery Life': '330 Shot', 'Focus Modes': 'Auto Manual', 'Battery Included': 'Yes', 'Maximum Frame Rate': '60 fps', 'Product Model': 'E-M5', 'White Balance Modes': 'Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom', 'Maximum Image Resolution': '4608 x 3456', 'Effective Camera Resolution': '16.1 Megapixel', 'Green Compliant': 'Yes', 'Manufacturer': 'Olympus Corporation', 'Image Stabilization': 'Optical', 'Manufacturer Part Number': 'V204040SU000', 'ISO Sensitivity': 'Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600', 'External Flash': 'Included', 'Battery Model Supported': 'BLN-1', 'Depth': '1.7"', 'PictBridge': 'Yes', 'Image Sensor Size': '4/3" (0.71" x 0.53")', "What's in the box": 'OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card', 'Digital Zoom': 'No', 'Weight (Approximate)': '14.99 oz', 'Product Line': 'OM-D', 'Image Formats': 'RAW MPO JPEG', 'Platform Supported': 'PC Mac', 'Analog Video Out': 'Yes', 'Exposure Control': 'Program AE Aperture Priority AE Shutter Priority AE Manual', 'Battery Size Supported': 'Proprietary Battery Size', 'Height': '3.5"', 'Maximum Diopter Adjustment': '2', 'Built-in Devices': 'Microphone Speaker', 'Display Resolution': '610000 Pixel', 'Longest Shutter Speed': '60 Second', 'Battery Built-in': 'No', 'Green Compliance Certificate/Authority': 'WEEE', 'Manufacturer Website Address': 'http://www.olympusamerica.com', 'Limited Warranty': '1 Year', 'Battery Rechargeable': 'Yes', 'Memory Card Supported': 'Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card', 'Screen Size': '3"'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/compsource_camera/V204040SU000.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204040SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: OM-D
+Product Model: E-M5
+Product Name: OM-D E-M5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Product UPC: 050332182745
+Screen Size: 3"
+Display Screen Type: OLED
+Touchscreen: Yes
+Display Resolution: 610000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 16.9 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes: Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom
+Aspect Ratio: 16:9
+Image Formats: RAW MPO JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: AVCHD MPEG-4 Motion JPEG (AVI) MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: WAV
+Digital Zoom: No
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto Manual
+Lens Mount Type: Micro Four Thirds
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600
+Exposure Control: Program AE Aperture Priority AE Shutter Priority AE Manual
+Flash Modes: Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync
+Built-in Flash: No
+External Flash: Included
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card
+Wireless LAN: No
+GPS: No
+Camera Modes: Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Microphone Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body Only
+Height: 3.5"
+Width: 4.8"
+Depth: 1.7"
+Weight (Approximate): 14.99 oz
+What's in the box: OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card
+Features: Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe
+Certifications & Standards: CE FCC Canadian ICES-003
+Language Supported: English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay
+Platform Supported: PC Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: WEEE
+Limited Warranty: 1 Year
+{'Video Formats': 'AVCHD MPEG-4 Motion JPEG (AVI) MOV', 'Wireless LAN': 'No', 'Camera Assembly': 'Body Only', 'Product Name': 'OM-D E-M5 Mirrorless Camera', 'Audio Formats': 'WAV', 'Maximum Video Resolution': '1920 x 1080', 'Color': 'Silver', 'GPS': 'No', 'Minimum Diopter Adjustment': '-4', 'Width': '4.8"', 'Product Type': 'Mirrorless Camera', 'Shortest Shutter Speed': '1/4000 Second', 'HD Movie Mode': 'Yes', 'Language Supported': 'English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay', 'Product UPC': '050332182745', 'Brand Name': 'Olympus', 'Built-in Flash': 'No', 'Total Camera Resolution': '16.9 Megapixel', 'Features': 'Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe', 'Touchscreen': 'Yes', 'Image Sensor Type': 'Live MOS', 'Aspect Ratio': '16:9', 'USB': 'Yes', 'Lens Mount Type': 'Micro Four Thirds', 'Certifications & Standards': 'CE FCC Canadian ICES-003', 'Number of Batteries Supported': '1', 'Autofocus Points': '35', 'Battery Chemistry': 'Lithium Ion (Li-Ion)', 'Viewfinder Type': 'Electronic', 'Camera Modes': 'Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide', 'Display Screen Type': 'OLED', 'HDMI': 'Yes', 'Flash Modes': 'Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync', 'Battery Life': '330 Shot', 'Focus Modes': 'Auto Manual', 'Battery Included': 'Yes', 'Maximum Frame Rate': '60 fps', 'Product Model': 'E-M5', 'White Balance Modes': 'Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom', 'Maximum Image Resolution': '4608 x 3456', 'Effective Camera Resolution': '16.1 Megapixel', 'Green Compliant': 'Yes', 'Manufacturer': 'Olympus Corporation', 'Image Stabilization': 'Optical', 'Manufacturer Part Number': 'V204040SU000', 'ISO Sensitivity': 'Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600', 'External Flash': 'Included', 'Battery Model Supported': 'BLN-1', 'Depth': '1.7"', 'PictBridge': 'Yes', 'Image Sensor Size': '4/3" (0.71" x 0.53")', "What's in the box": 'OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card', 'Digital Zoom': 'No', 'Weight (Approximate)': '14.99 oz', 'Product Line': 'OM-D', 'Image Formats': 'RAW MPO JPEG', 'Platform Supported': 'PC Mac', 'Analog Video Out': 'Yes', 'Exposure Control': 'Program AE Aperture Priority AE Shutter Priority AE Manual', 'Battery Size Supported': 'Proprietary Battery Size', 'Height': '3.5"', 'Maximum Diopter Adjustment': '2', 'Built-in Devices': 'Microphone Speaker', 'Display Resolution': '610000 Pixel', 'Longest Shutter Speed': '60 Second', 'Battery Built-in': 'No', 'Green Compliance Certificate/Authority': 'WEEE', 'Manufacturer Website Address': 'http://www.olympusamerica.com', 'Limited Warranty': '1 Year', 'Battery Rechargeable': 'Yes', 'Memory Card Supported': 'Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card', 'Screen Size': '3"'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/compsource_camera/V204040SU000.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204040SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: OM-D
+Product Model: E-M5
+Product Name: OM-D E-M5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Product UPC: 050332182745
+Screen Size: 3"
+Display Screen Type: OLED
+Touchscreen: Yes
+Display Resolution: 610000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 16.9 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes: Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom
+Aspect Ratio: 16:9
+Image Formats: RAW MPO JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: AVCHD MPEG-4 Motion JPEG (AVI) MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: WAV
+Digital Zoom: No
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto Manual
+Lens Mount Type: Micro Four Thirds
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600
+Exposure Control: Program AE Aperture Priority AE Shutter Priority AE Manual
+Flash Modes: Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync
+Built-in Flash: No
+External Flash: Included
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card
+Wireless LAN: No
+GPS: No
+Camera Modes: Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Microphone Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body Only
+Height: 3.5"
+Width: 4.8"
+Depth: 1.7"
+Weight (Approximate): 14.99 oz
+What's in the box: OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card
+Features: Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe
+Certifications & Standards: CE FCC Canadian ICES-003
+Language Supported: English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay
+Platform Supported: PC Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: WEEE
+Limited Warranty: 1 Year
+{'Video Formats': 'AVCHD MPEG-4 Motion JPEG (AVI) MOV', 'Wireless LAN': 'No', 'Camera Assembly': 'Body Only', 'Product Name': 'OM-D E-M5 Mirrorless Camera', 'Audio Formats': 'WAV', 'Maximum Video Resolution': '1920 x 1080', 'Color': 'Silver', 'GPS': 'No', 'Minimum Diopter Adjustment': '-4', 'Width': '4.8"', 'Product Type': 'Mirrorless Camera', 'Shortest Shutter Speed': '1/4000 Second', 'HD Movie Mode': 'Yes', 'Language Supported': 'English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay', 'Product UPC': '050332182745', 'Brand Name': 'Olympus', 'Built-in Flash': 'No', 'Total Camera Resolution': '16.9 Megapixel', 'Features': 'Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe', 'Touchscreen': 'Yes', 'Image Sensor Type': 'Live MOS', 'Aspect Ratio': '16:9', 'USB': 'Yes', 'Lens Mount Type': 'Micro Four Thirds', 'Certifications & Standards': 'CE FCC Canadian ICES-003', 'Number of Batteries Supported': '1', 'Autofocus Points': '35', 'Battery Chemistry': 'Lithium Ion (Li-Ion)', 'Viewfinder Type': 'Electronic', 'Camera Modes': 'Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide', 'Display Screen Type': 'OLED', 'HDMI': 'Yes', 'Flash Modes': 'Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync', 'Battery Life': '330 Shot', 'Focus Modes': 'Auto Manual', 'Battery Included': 'Yes', 'Maximum Frame Rate': '60 fps', 'Product Model': 'E-M5', 'White Balance Modes': 'Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom', 'Maximum Image Resolution': '4608 x 3456', 'Effective Camera Resolution': '16.1 Megapixel', 'Green Compliant': 'Yes', 'Manufacturer': 'Olympus Corporation', 'Image Stabilization': 'Optical', 'Manufacturer Part Number': 'V204040SU000', 'ISO Sensitivity': 'Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600', 'External Flash': 'Included', 'Battery Model Supported': 'BLN-1', 'Depth': '1.7"', 'PictBridge': 'Yes', 'Image Sensor Size': '4/3" (0.71" x 0.53")', "What's in the box": 'OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card', 'Digital Zoom': 'No', 'Weight (Approximate)': '14.99 oz', 'Product Line': 'OM-D', 'Image Formats': 'RAW MPO JPEG', 'Platform Supported': 'PC Mac', 'Analog Video Out': 'Yes', 'Exposure Control': 'Program AE Aperture Priority AE Shutter Priority AE Manual', 'Battery Size Supported': 'Proprietary Battery Size', 'Height': '3.5"', 'Maximum Diopter Adjustment': '2', 'Built-in Devices': 'Microphone Speaker', 'Display Resolution': '610000 Pixel', 'Longest Shutter Speed': '60 Second', 'Battery Built-in': 'No', 'Green Compliance Certificate/Authority': 'WEEE', 'Manufacturer Website Address': 'http://www.olympusamerica.com', 'Limited Warranty': '1 Year', 'Battery Rechargeable': 'Yes', 'Memory Card Supported': 'Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card', 'Screen Size': '3"'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/compsource_camera/V204040SU000.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204040SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: OM-D
+Product Model: E-M5
+Product Name: OM-D E-M5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Product UPC: 050332182745
+Screen Size: 3"
+Display Screen Type: OLED
+Touchscreen: Yes
+Display Resolution: 610000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 16.9 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes: Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom
+Aspect Ratio: 16:9
+Image Formats: RAW MPO JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: AVCHD MPEG-4 Motion JPEG (AVI) MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: WAV
+Digital Zoom: No
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto Manual
+Lens Mount Type: Micro Four Thirds
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600
+Exposure Control: Program AE Aperture Priority AE Shutter Priority AE Manual
+Flash Modes: Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync
+Built-in Flash: No
+External Flash: Included
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card
+Wireless LAN: No
+GPS: No
+Camera Modes: Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Microphone Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body Only
+Height: 3.5"
+Width: 4.8"
+Depth: 1.7"
+Weight (Approximate): 14.99 oz
+What's in the box: OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card
+Features: Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe
+Certifications & Standards: CE FCC Canadian ICES-003
+Language Supported: English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay
+Platform Supported: PC Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: WEEE
+Limited Warranty: 1 Year
+{'Video Formats': 'AVCHD MPEG-4 Motion JPEG (AVI) MOV', 'Wireless LAN': 'No', 'Camera Assembly': 'Body Only', 'Product Name': 'OM-D E-M5 Mirrorless Camera', 'Audio Formats': 'WAV', 'Maximum Video Resolution': '1920 x 1080', 'Color': 'Silver', 'GPS': 'No', 'Minimum Diopter Adjustment': '-4', 'Width': '4.8"', 'Product Type': 'Mirrorless Camera', 'Shortest Shutter Speed': '1/4000 Second', 'HD Movie Mode': 'Yes', 'Language Supported': 'English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay', 'Product UPC': '050332182745', 'Brand Name': 'Olympus', 'Built-in Flash': 'No', 'Total Camera Resolution': '16.9 Megapixel', 'Features': 'Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe', 'Touchscreen': 'Yes', 'Image Sensor Type': 'Live MOS', 'Aspect Ratio': '16:9', 'USB': 'Yes', 'Lens Mount Type': 'Micro Four Thirds', 'Certifications & Standards': 'CE FCC Canadian ICES-003', 'Number of Batteries Supported': '1', 'Autofocus Points': '35', 'Battery Chemistry': 'Lithium Ion (Li-Ion)', 'Viewfinder Type': 'Electronic', 'Camera Modes': 'Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide', 'Display Screen Type': 'OLED', 'HDMI': 'Yes', 'Flash Modes': 'Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync', 'Battery Life': '330 Shot', 'Focus Modes': 'Auto Manual', 'Battery Included': 'Yes', 'Maximum Frame Rate': '60 fps', 'Product Model': 'E-M5', 'White Balance Modes': 'Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom', 'Maximum Image Resolution': '4608 x 3456', 'Effective Camera Resolution': '16.1 Megapixel', 'Green Compliant': 'Yes', 'Manufacturer': 'Olympus Corporation', 'Image Stabilization': 'Optical', 'Manufacturer Part Number': 'V204040SU000', 'ISO Sensitivity': 'Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600', 'External Flash': 'Included', 'Battery Model Supported': 'BLN-1', 'Depth': '1.7"', 'PictBridge': 'Yes', 'Image Sensor Size': '4/3" (0.71" x 0.53")', "What's in the box": 'OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card', 'Digital Zoom': 'No', 'Weight (Approximate)': '14.99 oz', 'Product Line': 'OM-D', 'Image Formats': 'RAW MPO JPEG', 'Platform Supported': 'PC Mac', 'Analog Video Out': 'Yes', 'Exposure Control': 'Program AE Aperture Priority AE Shutter Priority AE Manual', 'Battery Size Supported': 'Proprietary Battery Size', 'Height': '3.5"', 'Maximum Diopter Adjustment': '2', 'Built-in Devices': 'Microphone Speaker', 'Display Resolution': '610000 Pixel', 'Longest Shutter Speed': '60 Second', 'Battery Built-in': 'No', 'Green Compliance Certificate/Authority': 'WEEE', 'Manufacturer Website Address': 'http://www.olympusamerica.com', 'Limited Warranty': '1 Year', 'Battery Rechargeable': 'Yes', 'Memory Card Supported': 'Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card', 'Screen Size': '3"'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/compsource_camera/V204040SU000.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204040SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: OM-D
+Product Model: E-M5
+Product Name: OM-D E-M5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Product UPC: 050332182745
+Screen Size: 3"
+Display Screen Type: OLED
+Touchscreen: Yes
+Display Resolution: 610000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 16.9 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes: Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom
+Aspect Ratio: 16:9
+Image Formats: RAW MPO JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: AVCHD MPEG-4 Motion JPEG (AVI) MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: WAV
+Digital Zoom: No
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto Manual
+Lens Mount Type: Micro Four Thirds
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600
+Exposure Control: Program AE Aperture Priority AE Shutter Priority AE Manual
+Flash Modes: Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync
+Built-in Flash: No
+External Flash: Included
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card
+Wireless LAN: No
+GPS: No
+Camera Modes: Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Microphone Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body Only
+Height: 3.5"
+Width: 4.8"
+Depth: 1.7"
+Weight (Approximate): 14.99 oz
+What's in the box: OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card
+Features: Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe
+Certifications & Standards: CE FCC Canadian ICES-003
+Language Supported: English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay
+Platform Supported: PC Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: WEEE
+Limited Warranty: 1 Year
+{'Video Formats': 'AVCHD MPEG-4 Motion JPEG (AVI) MOV', 'Wireless LAN': 'No', 'Camera Assembly': 'Body Only', 'Product Name': 'OM-D E-M5 Mirrorless Camera', 'Audio Formats': 'WAV', 'Maximum Video Resolution': '1920 x 1080', 'Color': 'Silver', 'GPS': 'No', 'Minimum Diopter Adjustment': '-4', 'Width': '4.8"', 'Product Type': 'Mirrorless Camera', 'Shortest Shutter Speed': '1/4000 Second', 'HD Movie Mode': 'Yes', 'Language Supported': 'English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay', 'Product UPC': '050332182745', 'Brand Name': 'Olympus', 'Built-in Flash': 'No', 'Total Camera Resolution': '16.9 Megapixel', 'Features': 'Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe', 'Touchscreen': 'Yes', 'Image Sensor Type': 'Live MOS', 'Aspect Ratio': '16:9', 'USB': 'Yes', 'Lens Mount Type': 'Micro Four Thirds', 'Certifications & Standards': 'CE FCC Canadian ICES-003', 'Number of Batteries Supported': '1', 'Autofocus Points': '35', 'Battery Chemistry': 'Lithium Ion (Li-Ion)', 'Viewfinder Type': 'Electronic', 'Camera Modes': 'Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide', 'Display Screen Type': 'OLED', 'HDMI': 'Yes', 'Flash Modes': 'Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync', 'Battery Life': '330 Shot', 'Focus Modes': 'Auto Manual', 'Battery Included': 'Yes', 'Maximum Frame Rate': '60 fps', 'Product Model': 'E-M5', 'White Balance Modes': 'Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom', 'Maximum Image Resolution': '4608 x 3456', 'Effective Camera Resolution': '16.1 Megapixel', 'Green Compliant': 'Yes', 'Manufacturer': 'Olympus Corporation', 'Image Stabilization': 'Optical', 'Manufacturer Part Number': 'V204040SU000', 'ISO Sensitivity': 'Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600', 'External Flash': 'Included', 'Battery Model Supported': 'BLN-1', 'Depth': '1.7"', 'PictBridge': 'Yes', 'Image Sensor Size': '4/3" (0.71" x 0.53")', "What's in the box": 'OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card', 'Digital Zoom': 'No', 'Weight (Approximate)': '14.99 oz', 'Product Line': 'OM-D', 'Image Formats': 'RAW MPO JPEG', 'Platform Supported': 'PC Mac', 'Analog Video Out': 'Yes', 'Exposure Control': 'Program AE Aperture Priority AE Shutter Priority AE Manual', 'Battery Size Supported': 'Proprietary Battery Size', 'Height': '3.5"', 'Maximum Diopter Adjustment': '2', 'Built-in Devices': 'Microphone Speaker', 'Display Resolution': '610000 Pixel', 'Longest Shutter Speed': '60 Second', 'Battery Built-in': 'No', 'Green Compliance Certificate/Authority': 'WEEE', 'Manufacturer Website Address': 'http://www.olympusamerica.com', 'Limited Warranty': '1 Year', 'Battery Rechargeable': 'Yes', 'Memory Card Supported': 'Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card', 'Screen Size': '3"'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/compsource_camera/V204040SU000.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204040SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: OM-D
+Product Model: E-M5
+Product Name: OM-D E-M5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Product UPC: 050332182745
+Screen Size: 3"
+Display Screen Type: OLED
+Touchscreen: Yes
+Display Resolution: 610000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 16.9 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes: Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom
+Aspect Ratio: 16:9
+Image Formats: RAW MPO JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: AVCHD MPEG-4 Motion JPEG (AVI) MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: WAV
+Digital Zoom: No
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto Manual
+Lens Mount Type: Micro Four Thirds
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600
+Exposure Control: Program AE Aperture Priority AE Shutter Priority AE Manual
+Flash Modes: Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync
+Built-in Flash: No
+External Flash: Included
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card
+Wireless LAN: No
+GPS: No
+Camera Modes: Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Microphone Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body Only
+Height: 3.5"
+Width: 4.8"
+Depth: 1.7"
+Weight (Approximate): 14.99 oz
+What's in the box: OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card
+Features: Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe
+Certifications & Standards: CE FCC Canadian ICES-003
+Language Supported: English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay
+Platform Supported: PC Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: WEEE
+Limited Warranty: 1 Year
+{'Video Formats': 'AVCHD MPEG-4 Motion JPEG (AVI) MOV', 'Wireless LAN': 'No', 'Camera Assembly': 'Body Only', 'Product Name': 'OM-D E-M5 Mirrorless Camera', 'Audio Formats': 'WAV', 'Maximum Video Resolution': '1920 x 1080', 'Color': 'Silver', 'GPS': 'No', 'Minimum Diopter Adjustment': '-4', 'Width': '4.8"', 'Product Type': 'Mirrorless Camera', 'Shortest Shutter Speed': '1/4000 Second', 'HD Movie Mode': 'Yes', 'Language Supported': 'English French German Spanish Italian Japanese Korean Chinese (Simplified) Chinese (Traditional) Russian Czech Dutch Danish Polish Portuguese Swedish Norwegian Finnish Croatian Slovakian Hungarian Greek Slovenian Turkish Latvian Estonian Lithuanian Ukrainian Serbian Bulgarian Romanian Indonesian Thai Malay', 'Product UPC': '050332182745', 'Brand Name': 'Olympus', 'Built-in Flash': 'No', 'Total Camera Resolution': '16.9 Megapixel', 'Features': 'Self-timer Continuous Shooting Mode Face Detection Live View External Flash Shoe', 'Touchscreen': 'Yes', 'Image Sensor Type': 'Live MOS', 'Aspect Ratio': '16:9', 'USB': 'Yes', 'Lens Mount Type': 'Micro Four Thirds', 'Certifications & Standards': 'CE FCC Canadian ICES-003', 'Number of Batteries Supported': '1', 'Autofocus Points': '35', 'Battery Chemistry': 'Lithium Ion (Li-Ion)', 'Viewfinder Type': 'Electronic', 'Camera Modes': 'Scene Modes: Portrait e-Portrait Landscape Landscape With Portrait Macro Sports Night Scene Night Scene With Portrait Children High key Low key Nature Macro Candle Sunset Documents Panorama Fireworks Beach and Snow Fisheye Converter Macro Converter 3D Wide Converter Underwater Macro Underwater Wide', 'Display Screen Type': 'OLED', 'HDMI': 'Yes', 'Flash Modes': 'Auto Flash Flash OFF Flash ON Red-eye Reduction Slow Sync Rear Curtain Sync Flash Exposure Compensation X-sync', 'Battery Life': '330 Shot', 'Focus Modes': 'Auto Manual', 'Battery Included': 'Yes', 'Maximum Frame Rate': '60 fps', 'Product Model': 'E-M5', 'White Balance Modes': 'Auto Tungsten Flourescent 1 Sunlight Flash Overcast Shade Underwater Custom', 'Maximum Image Resolution': '4608 x 3456', 'Effective Camera Resolution': '16.1 Megapixel', 'Green Compliant': 'Yes', 'Manufacturer': 'Olympus Corporation', 'Image Stabilization': 'Optical', 'Manufacturer Part Number': 'V204040SU000', 'ISO Sensitivity': 'Auto ISO 200 ISO 400 ISO 800 ISO 1600 ISO 3200 ISO 6400 ISO 12800 ISO 25600', 'External Flash': 'Included', 'Battery Model Supported': 'BLN-1', 'Depth': '1.7"', 'PictBridge': 'Yes', 'Image Sensor Size': '4/3" (0.71" x 0.53")', "What's in the box": 'OM-D E-M5 Mirrorless Camera Body Cap Strap USB Cable CB-USB6 AV Cable (Monaural) CB-AVC3 Flash FL-LM2 Rechargeable Lithium-Ion Battery BLN-1 Lithium-Ion Charger BCN-1 Flash Case Software CD-ROM Instruction Manual Warranty Card', 'Digital Zoom': 'No', 'Weight (Approximate)': '14.99 oz', 'Product Line': 'OM-D', 'Image Formats': 'RAW MPO JPEG', 'Platform Supported': 'PC Mac', 'Analog Video Out': 'Yes', 'Exposure Control': 'Program AE Aperture Priority AE Shutter Priority AE Manual', 'Battery Size Supported': 'Proprietary Battery Size', 'Height': '3.5"', 'Maximum Diopter Adjustment': '2', 'Built-in Devices': 'Microphone Speaker', 'Display Resolution': '610000 Pixel', 'Longest Shutter Speed': '60 Second', 'Battery Built-in': 'No', 'Green Compliance Certificate/Authority': 'WEEE', 'Manufacturer Website Address': 'http://www.olympusamerica.com', 'Limited Warranty': '1 Year', 'Battery Rechargeable': 'Yes', 'Memory Card Supported': 'Secure Digital (SD) Card Secure Digital High Capacity (SDHC) Card Secure Digital Extended Capacity (SDXC) Eye-Fi Card', 'Screen Size': '3"'}
+finalizou

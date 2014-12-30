@@ -1,0 +1,3073 @@
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/32LB5800.html
+
+Screen Size
+ 
+                                                    31.5"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1920 x 1080
+                                                
+
+Screen Refresh Rate
+ 
+                                                    60Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (edge-lit)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    Netflix,Hulu,Vudu,Amazon
+                                                
+
+Wi-Fi
+ 
+                                                    Yes
+                                                
+
+MHL-compatible
+ 
+                                                    Yes
+                                                
+
+Picture In Picture
+ 
+                                                    No
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    In-home
+                                                
+
+Total Video Inputs
+ 
+                                                    4
+                                                
+
+HDMI Inputs
+ 
+                                                    3
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    0
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    Yes
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    1 Rear 
+
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    None
+                                                
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    61 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $7        
+                                                
+
+Width (inches)
+ 
+                                                    28-7/8
+                                                
+
+Height with Stand (inches)
+ 
+                                                    19-1/8
+                                                
+
+Height without Stand (inches)
+ 
+                                                    17-1/8
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    8-1/2
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    2-5/8
+                                                
+
+Stand Width (inches)
+ 
+                                                    26-3/4
+                                                
+
+Weight with Stand
+ 
+                                                    13.7 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    13.2 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    No
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    1 Rear \n', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (edge-lit)\n                                                ', '\nWeight with Stand\n': '\n                                                    13.7 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    8-1/2\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    31.5"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    3\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    2-5/8\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    60Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    17-1/8\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    61 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    Yes\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    19-1/8\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    Netflix,Hulu,Vudu,Amazon\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1920 x 1080\n                                                ', '\nMHL-compatible\n': '\n                                                    Yes\n                                                ', '\nWall Bracket Included\n': '\n                                                    No\n                                                ', '\nAnalog Audio Output\n': '\n                                                    None\n                                                ', '\nEthernet Port\n': '\n                                                    Yes\n                                                ', '\nStand Width (inches)\n': '\n                                                    26-3/4\n                                                ', '\nWidth (inches)\n': '\n                                                    28-7/8\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    13.2 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $7        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    In-home\n                                                ', '\nComposite Video Inputs\n': '\n                                                    0\n                                                ', '\nTotal Video Inputs\n': '\n                                                    4\n                                                ', '\nPicture In Picture\n': '\n                                                    No\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/39LB5800.html
+
+Screen Size
+ 
+                                                    38.5"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1920 x 1080
+                                                
+
+Screen Refresh Rate
+ 
+                                                    60Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (edge-lit)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    Netflix,Hulu,Vudu,Amazon
+                                                
+
+Wi-Fi
+ 
+                                                    Yes
+                                                
+
+MHL-compatible
+ 
+                                                    Yes
+                                                
+
+Picture In Picture
+ 
+                                                    No
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    In-home
+                                                
+
+Total Video Inputs
+ 
+                                                    4
+                                                
+
+HDMI Inputs
+ 
+                                                    3
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    0
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    Yes
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    1 Rear 
+
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    None
+                                                
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    71 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $8        
+                                                
+
+Width (inches)
+ 
+                                                    34-7/8
+                                                
+
+Height with Stand (inches)
+ 
+                                                    22-3/8
+                                                
+
+Height without Stand (inches)
+ 
+                                                    20-5/8
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    8-7/8
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    2-5/8
+                                                
+
+Stand Width (inches)
+ 
+                                                    32-5/8
+                                                
+
+Weight with Stand
+ 
+                                                    18.3 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    17.6 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    No
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    1 Rear \n', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (edge-lit)\n                                                ', '\nWeight with Stand\n': '\n                                                    18.3 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    8-7/8\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    38.5"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    3\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    2-5/8\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    60Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    20-5/8\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    71 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    Yes\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    22-3/8\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    Netflix,Hulu,Vudu,Amazon\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1920 x 1080\n                                                ', '\nMHL-compatible\n': '\n                                                    Yes\n                                                ', '\nWall Bracket Included\n': '\n                                                    No\n                                                ', '\nAnalog Audio Output\n': '\n                                                    None\n                                                ', '\nEthernet Port\n': '\n                                                    Yes\n                                                ', '\nStand Width (inches)\n': '\n                                                    32-5/8\n                                                ', '\nWidth (inches)\n': '\n                                                    34-7/8\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    17.6 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $8        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    In-home\n                                                ', '\nComposite Video Inputs\n': '\n                                                    0\n                                                ', '\nTotal Video Inputs\n': '\n                                                    4\n                                                ', '\nPicture In Picture\n': '\n                                                    No\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/42LB5800.html
+
+Screen Size
+ 
+                                                    41.9"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1920 x 1080
+                                                
+
+Screen Refresh Rate
+ 
+                                                    60Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (edge-lit)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    Netflix,Hulu,Vudu,Amazon
+                                                
+
+Wi-Fi
+ 
+                                                    Yes
+                                                
+
+MHL-compatible
+ 
+                                                    Yes
+                                                
+
+Picture In Picture
+ 
+                                                    No
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    In-home
+                                                
+
+Total Video Inputs
+ 
+                                                    4
+                                                
+
+HDMI Inputs
+ 
+                                                    3
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    0
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    Yes
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    1 Rear 
+
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    None
+                                                
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    76 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $8        
+                                                
+
+Width (inches)
+ 
+                                                    37-7/8
+                                                
+
+Height with Stand (inches)
+ 
+                                                    24-1/8
+                                                
+
+Height without Stand (inches)
+ 
+                                                    22-1/4
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    8-5/8
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    2-5/8
+                                                
+
+Stand Width (inches)
+ 
+                                                    35-3/4
+                                                
+
+Weight with Stand
+ 
+                                                    20.9 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    20.3 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    No
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    1 Rear \n', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (edge-lit)\n                                                ', '\nWeight with Stand\n': '\n                                                    20.9 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    8-5/8\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    41.9"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    3\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    2-5/8\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    60Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    22-1/4\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    76 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    Yes\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    24-1/8\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    Netflix,Hulu,Vudu,Amazon\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1920 x 1080\n                                                ', '\nMHL-compatible\n': '\n                                                    Yes\n                                                ', '\nWall Bracket Included\n': '\n                                                    No\n                                                ', '\nAnalog Audio Output\n': '\n                                                    None\n                                                ', '\nEthernet Port\n': '\n                                                    Yes\n                                                ', '\nStand Width (inches)\n': '\n                                                    35-3/4\n                                                ', '\nWidth (inches)\n': '\n                                                    37-7/8\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    20.3 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $8        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    In-home\n                                                ', '\nComposite Video Inputs\n': '\n                                                    0\n                                                ', '\nTotal Video Inputs\n': '\n                                                    4\n                                                ', '\nPicture In Picture\n': '\n                                                    No\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/42LB6300.html
+
+Screen Size
+ 
+                                                    41.9"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1920 x 1080
+                                                
+
+Screen Refresh Rate
+ 
+                                                    120 Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (edge-lit)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    Netflix,Hulu,Vudu,Amazon,Cinem
+                                                
+
+Wi-Fi
+ 
+                                                    Yes
+                                                
+
+MHL-compatible
+ 
+                                                    Yes
+                                                
+
+Picture In Picture
+ 
+                                                    No
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    In-home
+                                                
+
+Total Video Inputs
+ 
+                                                    4
+                                                
+
+HDMI Inputs
+ 
+                                                    3
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    0
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    Yes
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    1 Rear 
+
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    None
+                                                
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    64 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $7        
+                                                
+
+Width (inches)
+ 
+                                                    37-3/4
+                                                
+
+Height with Stand (inches)
+ 
+                                                    24-1/8
+                                                
+
+Height without Stand (inches)
+ 
+                                                    22-1/4
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    8-1/4
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    2-5/8
+                                                
+
+Stand Width (inches)
+ 
+                                                    35-5/8
+                                                
+
+Weight with Stand
+ 
+                                                    21.8 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    21.2 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    No
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    1 Rear \n', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (edge-lit)\n                                                ', '\nWeight with Stand\n': '\n                                                    21.8 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    8-1/4\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    41.9"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    3\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    2-5/8\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    120 Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    22-1/4\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    64 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    Yes\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    24-1/8\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    Netflix,Hulu,Vudu,Amazon,Cinem\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1920 x 1080\n                                                ', '\nMHL-compatible\n': '\n                                                    Yes\n                                                ', '\nWall Bracket Included\n': '\n                                                    No\n                                                ', '\nAnalog Audio Output\n': '\n                                                    None\n                                                ', '\nEthernet Port\n': '\n                                                    Yes\n                                                ', '\nStand Width (inches)\n': '\n                                                    35-5/8\n                                                ', '\nWidth (inches)\n': '\n                                                    37-3/4\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    21.2 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $7        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    In-home\n                                                ', '\nComposite Video Inputs\n': '\n                                                    0\n                                                ', '\nTotal Video Inputs\n': '\n                                                    4\n                                                ', '\nPicture In Picture\n': '\n                                                    No\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/47LB6300.html
+
+Screen Size
+ 
+                                                    46.9"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1920 x 1080
+                                                
+
+Screen Refresh Rate
+ 
+                                                    120 Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (edge-lit)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    Netflix,Hulu,Vudu,Amazon,Cinem
+                                                
+
+Wi-Fi
+ 
+                                                    Yes
+                                                
+
+MHL-compatible
+ 
+                                                    Yes
+                                                
+
+Picture In Picture
+ 
+                                                    No
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    In-home
+                                                
+
+Total Video Inputs
+ 
+                                                    4
+                                                
+
+HDMI Inputs
+ 
+                                                    3
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    0
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    Yes
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    1 Rear 
+
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    None
+                                                
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    75 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $8        
+                                                
+
+Width (inches)
+ 
+                                                    42-1/4
+                                                
+
+Height with Stand (inches)
+ 
+                                                    26-5/8
+                                                
+
+Height without Stand (inches)
+ 
+                                                    24-3/4
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    9-1/8
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    2-5/8
+                                                
+
+Stand Width (inches)
+ 
+                                                    38-3/4
+                                                
+
+Weight with Stand
+ 
+                                                    29.3 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    28.6 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    No
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    1 Rear \n', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (edge-lit)\n                                                ', '\nWeight with Stand\n': '\n                                                    29.3 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    9-1/8\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    46.9"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    3\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    2-5/8\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    120 Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    24-3/4\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    75 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    Yes\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    26-5/8\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    Netflix,Hulu,Vudu,Amazon,Cinem\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1920 x 1080\n                                                ', '\nMHL-compatible\n': '\n                                                    Yes\n                                                ', '\nWall Bracket Included\n': '\n                                                    No\n                                                ', '\nAnalog Audio Output\n': '\n                                                    None\n                                                ', '\nEthernet Port\n': '\n                                                    Yes\n                                                ', '\nStand Width (inches)\n': '\n                                                    38-3/4\n                                                ', '\nWidth (inches)\n': '\n                                                    42-1/4\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    28.6 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $8        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    In-home\n                                                ', '\nComposite Video Inputs\n': '\n                                                    0\n                                                ', '\nTotal Video Inputs\n': '\n                                                    4\n                                                ', '\nPicture In Picture\n': '\n                                                    No\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/KDL-32R420B.html
+
+Screen Size
+ 
+                                                    31.5"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1366 x 768
+                                                
+
+Screen Refresh Rate
+ 
+                                                    60 Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (direct-lit)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    No
+                                                
+
+Wi-Fi
+ 
+                                                    Yes
+                                                
+
+MHL-compatible
+ 
+                                                    Yes
+                                                
+
+Picture In Picture
+ 
+                                                    No
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    Carry-in
+                                                
+
+Total Video Inputs
+ 
+                                                    3
+                                                
+
+HDMI Inputs
+ 
+                                                    4
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    1
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    No
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    1 Rear 
+
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    3.5mm Rear 
+
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    61 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $7        
+                                                
+
+Width (inches)
+ 
+                                                    29
+                                                
+
+Height with Stand (inches)
+ 
+                                                    18-5/8
+                                                
+
+Height without Stand (inches)
+ 
+                                                    17-7/8
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    5-3/4
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    3-1/8
+                                                
+
+Stand Width (inches)
+ 
+                                                    11-5/8
+                                                
+
+Weight with Stand
+ 
+                                                    10.8 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    10.4 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    No
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    1 Rear \n', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (direct-lit)\n                                                ', '\nWeight with Stand\n': '\n                                                    10.8 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    5-3/4\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    31.5"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    4\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    3-1/8\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    60 Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    17-7/8\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    61 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    Yes\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    18-5/8\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    No\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1366 x 768\n                                                ', '\nMHL-compatible\n': '\n                                                    Yes\n                                                ', '\nWall Bracket Included\n': '\n                                                    No\n                                                ', '\nAnalog Audio Output\n': '\n                                                    3.5mm Rear \n', '\nEthernet Port\n': '\n                                                    No\n                                                ', '\nStand Width (inches)\n': '\n                                                    11-5/8\n                                                ', '\nWidth (inches)\n': '\n                                                    29\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    10.4 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $7        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    Carry-in\n                                                ', '\nComposite Video Inputs\n': '\n                                                    1\n                                                ', '\nTotal Video Inputs\n': '\n                                                    3\n                                                ', '\nPicture In Picture\n': '\n                                                    No\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/KDL-40W600B.html
+
+Screen Size
+ 
+                                                    40"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1920 x 1080
+                                                
+
+Screen Refresh Rate
+ 
+                                                    60 Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (edge-lit w/ frame dim)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    Netflix,Hulu,Amazon,Video Unli
+                                                
+
+Wi-Fi
+ 
+                                                    Yes
+                                                
+
+MHL-compatible
+ 
+                                                    Yes
+                                                
+
+Picture In Picture
+ 
+                                                    Yes
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    In-home
+                                                
+
+Total Video Inputs
+ 
+                                                    6
+                                                
+
+HDMI Inputs
+ 
+                                                    4
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    1
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    Yes
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    1 Rear 
+
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    3.5mm Rear 
+
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    78 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $9        
+                                                
+
+Width (inches)
+ 
+                                                    36-1/2
+                                                
+
+Height with Stand (inches)
+ 
+                                                    23
+                                                
+
+Height without Stand (inches)
+ 
+                                                    21-7/8
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    6-1/2
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    4-1/8
+                                                
+
+Stand Width (inches)
+ 
+                                                    21-3/4
+                                                
+
+Weight with Stand
+ 
+                                                    17.5 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    16.3 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    Yes
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    1 Rear \n', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (edge-lit w/ frame dim)\n                                                ', '\nWeight with Stand\n': '\n                                                    17.5 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    6-1/2\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    40"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    4\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    4-1/8\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    60 Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    21-7/8\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    78 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    Yes\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    23\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    Netflix,Hulu,Amazon,Video Unli\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1920 x 1080\n                                                ', '\nMHL-compatible\n': '\n                                                    Yes\n                                                ', '\nWall Bracket Included\n': '\n                                                    Yes\n                                                ', '\nAnalog Audio Output\n': '\n                                                    3.5mm Rear \n', '\nEthernet Port\n': '\n                                                    Yes\n                                                ', '\nStand Width (inches)\n': '\n                                                    21-3/4\n                                                ', '\nWidth (inches)\n': '\n                                                    36-1/2\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    16.3 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $9        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    In-home\n                                                ', '\nComposite Video Inputs\n': '\n                                                    1\n                                                ', '\nTotal Video Inputs\n': '\n                                                    6\n                                                ', '\nPicture In Picture\n': '\n                                                    Yes\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/UN19F4000.html
+
+Screen Size
+ 
+                                                    18.5"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1366 x 768
+                                                
+
+Screen Refresh Rate
+ 
+                                                    60 Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (edge-lit white)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    No
+                                                
+
+Wi-Fi
+ 
+                                                    No
+                                                
+
+MHL-compatible
+ 
+                                                    No
+                                                
+
+Picture In Picture
+ 
+                                                    No
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    Carry-in
+                                                
+
+Total Video Inputs
+ 
+                                                    3
+                                                
+
+HDMI Inputs
+ 
+                                                    2
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    0
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    No
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    None
+                                                
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    None
+                                                
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    29 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $3        
+                                                
+
+Width (inches)
+ 
+                                                    17-3/4
+                                                
+
+Height with Stand (inches)
+ 
+                                                    12-1/2
+                                                
+
+Height without Stand (inches)
+ 
+                                                    11-1/4
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    5
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    3-3/8
+                                                
+
+Stand Width (inches)
+ 
+                                                    7-1/8
+                                                
+
+Weight with Stand
+ 
+                                                    5.7 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    5.5 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    No
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    None\n                                                ', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (edge-lit white)\n                                                ', '\nWeight with Stand\n': '\n                                                    5.7 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    5\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    18.5"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    2\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    3-3/8\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    60 Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    11-1/4\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    29 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    No\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    12-1/2\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    No\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1366 x 768\n                                                ', '\nMHL-compatible\n': '\n                                                    No\n                                                ', '\nWall Bracket Included\n': '\n                                                    No\n                                                ', '\nAnalog Audio Output\n': '\n                                                    None\n                                                ', '\nEthernet Port\n': '\n                                                    No\n                                                ', '\nStand Width (inches)\n': '\n                                                    7-1/8\n                                                ', '\nWidth (inches)\n': '\n                                                    17-3/4\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    5.5 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $3        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    Carry-in\n                                                ', '\nComposite Video Inputs\n': '\n                                                    0\n                                                ', '\nTotal Video Inputs\n': '\n                                                    3\n                                                ', '\nPicture In Picture\n': '\n                                                    No\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/UN22F5000.html
+
+Screen Size
+ 
+                                                    21.5"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1920 x 1080
+                                                
+
+Screen Refresh Rate
+ 
+                                                    60 Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (edge-lit)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    No
+                                                
+
+Wi-Fi
+ 
+                                                    No
+                                                
+
+MHL-compatible
+ 
+                                                    No
+                                                
+
+Picture In Picture
+ 
+                                                    No
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    Carry-in
+                                                
+
+Total Video Inputs
+ 
+                                                    3
+                                                
+
+HDMI Inputs
+ 
+                                                    2
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    0
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    No
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    None
+                                                
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    None
+                                                
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    34 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $4        
+                                                
+
+Width (inches)
+ 
+                                                    20-1/4
+                                                
+
+Height with Stand (inches)
+ 
+                                                    14-1/2
+                                                
+
+Height without Stand (inches)
+ 
+                                                    12-5/8
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    6-3/4
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    3
+                                                
+
+Stand Width (inches)
+ 
+                                                    10-1/2
+                                                
+
+Weight with Stand
+ 
+                                                    6.3 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    5.7 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    No
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    None\n                                                ', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (edge-lit)\n                                                ', '\nWeight with Stand\n': '\n                                                    6.3 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    6-3/4\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    21.5"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    2\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    3\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    60 Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    12-5/8\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    34 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    No\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    14-1/2\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    No\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1920 x 1080\n                                                ', '\nMHL-compatible\n': '\n                                                    No\n                                                ', '\nWall Bracket Included\n': '\n                                                    No\n                                                ', '\nAnalog Audio Output\n': '\n                                                    None\n                                                ', '\nEthernet Port\n': '\n                                                    No\n                                                ', '\nStand Width (inches)\n': '\n                                                    10-1/2\n                                                ', '\nWidth (inches)\n': '\n                                                    20-1/4\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    5.7 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $4        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    Carry-in\n                                                ', '\nComposite Video Inputs\n': '\n                                                    0\n                                                ', '\nTotal Video Inputs\n': '\n                                                    3\n                                                ', '\nPicture In Picture\n': '\n                                                    No\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/UN28H4000.html
+
+Screen Size
+ 
+                                                    27.5"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1366 x 768
+                                                
+
+Screen Refresh Rate
+ 
+                                                    60 Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (edge-lit white)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    No
+                                                
+
+Wi-Fi
+ 
+                                                    No
+                                                
+
+MHL-compatible
+ 
+                                                    No
+                                                
+
+Picture In Picture
+ 
+                                                    No
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    Carry-in
+                                                
+
+Total Video Inputs
+ 
+                                                    3
+                                                
+
+HDMI Inputs
+ 
+                                                    2
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    0
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    No
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    1 Rear 
+
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    None
+                                                
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    46 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $5        
+                                                
+
+Width (inches)
+ 
+                                                    25-3/8
+                                                
+
+Height with Stand (inches)
+ 
+                                                    17-1/8
+                                                
+
+Height without Stand (inches)
+ 
+                                                    15-5/8
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    6-1/2
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    2-3/4
+                                                
+
+Stand Width (inches)
+ 
+                                                    12-1/4
+                                                
+
+Weight with Stand
+ 
+                                                    9 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    8.2 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    No
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    1 Rear \n', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (edge-lit white)\n                                                ', '\nWeight with Stand\n': '\n                                                    9 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    6-1/2\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    27.5"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    2\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    2-3/4\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    60 Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    15-5/8\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    46 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    No\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    17-1/8\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    No\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1366 x 768\n                                                ', '\nMHL-compatible\n': '\n                                                    No\n                                                ', '\nWall Bracket Included\n': '\n                                                    No\n                                                ', '\nAnalog Audio Output\n': '\n                                                    None\n                                                ', '\nEthernet Port\n': '\n                                                    No\n                                                ', '\nStand Width (inches)\n': '\n                                                    12-1/4\n                                                ', '\nWidth (inches)\n': '\n                                                    25-3/8\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    8.2 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $5        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    Carry-in\n                                                ', '\nComposite Video Inputs\n': '\n                                                    0\n                                                ', '\nTotal Video Inputs\n': '\n                                                    3\n                                                ', '\nPicture In Picture\n': '\n                                                    No\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/UN32F5000.html
+
+Screen Size
+ 
+                                                    31.5"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1920 x 1080
+                                                
+
+Screen Refresh Rate
+ 
+                                                    60 Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (edge-lit)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    No
+                                                
+
+Wi-Fi
+ 
+                                                    No
+                                                
+
+MHL-compatible
+ 
+                                                    No
+                                                
+
+Picture In Picture
+ 
+                                                    No
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    Carry-in
+                                                
+
+Total Video Inputs
+ 
+                                                    3
+                                                
+
+HDMI Inputs
+ 
+                                                    2
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    0
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    No
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    1 Rear 
+
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    3.5mm Rear 
+
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    52 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $6        
+                                                
+
+Width (inches)
+ 
+                                                    29-1/8
+                                                
+
+Height with Stand (inches)
+ 
+                                                    19-7/8
+                                                
+
+Height without Stand (inches)
+ 
+                                                    17-1/2
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    7-5/8
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    2-3/4
+                                                
+
+Stand Width (inches)
+ 
+                                                    16-1/2
+                                                
+
+Weight with Stand
+ 
+                                                    12.3 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    11 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    No
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    1 Rear \n', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (edge-lit)\n                                                ', '\nWeight with Stand\n': '\n                                                    12.3 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    7-5/8\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    31.5"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    2\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    2-3/4\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    60 Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    17-1/2\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    52 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    No\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    19-7/8\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    No\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1920 x 1080\n                                                ', '\nMHL-compatible\n': '\n                                                    No\n                                                ', '\nWall Bracket Included\n': '\n                                                    No\n                                                ', '\nAnalog Audio Output\n': '\n                                                    3.5mm Rear \n', '\nEthernet Port\n': '\n                                                    No\n                                                ', '\nStand Width (inches)\n': '\n                                                    16-1/2\n                                                ', '\nWidth (inches)\n': '\n                                                    29-1/8\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    11 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $6        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    Carry-in\n                                                ', '\nComposite Video Inputs\n': '\n                                                    0\n                                                ', '\nTotal Video Inputs\n': '\n                                                    3\n                                                ', '\nPicture In Picture\n': '\n                                                    No\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/UN32H5203.html
+
+Screen Size
+ 
+                                                    31.5"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1920 x 1080
+                                                
+
+Screen Refresh Rate
+ 
+                                                    60 Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (direct-lit)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    M-GO, Netflix(coming soon)
+                                                
+
+Wi-Fi
+ 
+                                                    Yes
+                                                
+
+MHL-compatible
+ 
+                                                    No
+                                                
+
+Picture In Picture
+ 
+                                                    Yes
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    Carry-in
+                                                
+
+Total Video Inputs
+ 
+                                                    3
+                                                
+
+HDMI Inputs
+ 
+                                                    2
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    0
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    Yes
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    1 Rear 
+
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    3.5mm Rear 
+
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    53 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $6        
+                                                
+
+Width (inches)
+ 
+                                                    29-1/8
+                                                
+
+Height with Stand (inches)
+ 
+                                                    19-5/8
+                                                
+
+Height without Stand (inches)
+ 
+                                                    17-1/2
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    7-5/8
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    3-3/4
+                                                
+
+Stand Width (inches)
+ 
+                                                    16-5/8
+                                                
+
+Weight with Stand
+ 
+                                                    14.1 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    12.5 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    No
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    1 Rear \n', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (direct-lit)\n                                                ', '\nWeight with Stand\n': '\n                                                    14.1 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    7-5/8\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    31.5"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    2\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    3-3/4\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    60 Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    17-1/2\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    53 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    Yes\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    19-5/8\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    M-GO, Netflix(coming soon)\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1920 x 1080\n                                                ', '\nMHL-compatible\n': '\n                                                    No\n                                                ', '\nWall Bracket Included\n': '\n                                                    No\n                                                ', '\nAnalog Audio Output\n': '\n                                                    3.5mm Rear \n', '\nEthernet Port\n': '\n                                                    Yes\n                                                ', '\nStand Width (inches)\n': '\n                                                    16-5/8\n                                                ', '\nWidth (inches)\n': '\n                                                    29-1/8\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    12.5 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $6        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    Carry-in\n                                                ', '\nComposite Video Inputs\n': '\n                                                    0\n                                                ', '\nTotal Video Inputs\n': '\n                                                    3\n                                                ', '\nPicture In Picture\n': '\n                                                    Yes\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/UN32H5500.html
+
+Screen Size
+ 
+                                                    31.5"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1920 x 1080
+                                                
+
+Screen Refresh Rate
+ 
+                                                    60 Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (edge-lit)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    Netflix,Hulu,Vudu,Amazon,HBOGO
+                                                
+
+Wi-Fi
+ 
+                                                    Yes
+                                                
+
+MHL-compatible
+ 
+                                                    No
+                                                
+
+Picture In Picture
+ 
+                                                    Yes
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    Carry-in
+                                                
+
+Total Video Inputs
+ 
+                                                    4
+                                                
+
+HDMI Inputs
+ 
+                                                    3
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    0
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    Yes
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    1 Rear 
+
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    3.5mm Rear 
+
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    51 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $6        
+                                                
+
+Width (inches)
+ 
+                                                    28-1/2
+                                                
+
+Height with Stand (inches)
+ 
+                                                    18-1/4
+                                                
+
+Height without Stand (inches)
+ 
+                                                    16-7/8
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    6-1/2
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    2-3/4
+                                                
+
+Stand Width (inches)
+ 
+                                                    12-1/2
+                                                
+
+Weight with Stand
+ 
+                                                    11.6 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    10.8 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    No
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    1 Rear \n', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (edge-lit)\n                                                ', '\nWeight with Stand\n': '\n                                                    11.6 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    6-1/2\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    31.5"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    3\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    2-3/4\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    60 Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    16-7/8\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    51 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    Yes\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    18-1/4\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    Netflix,Hulu,Vudu,Amazon,HBOGO\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1920 x 1080\n                                                ', '\nMHL-compatible\n': '\n                                                    No\n                                                ', '\nWall Bracket Included\n': '\n                                                    No\n                                                ', '\nAnalog Audio Output\n': '\n                                                    3.5mm Rear \n', '\nEthernet Port\n': '\n                                                    Yes\n                                                ', '\nStand Width (inches)\n': '\n                                                    12-1/2\n                                                ', '\nWidth (inches)\n': '\n                                                    28-1/2\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    10.8 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $6        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    Carry-in\n                                                ', '\nComposite Video Inputs\n': '\n                                                    0\n                                                ', '\nTotal Video Inputs\n': '\n                                                    4\n                                                ', '\nPicture In Picture\n': '\n                                                    Yes\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/UN32H6350.html
+
+Screen Size
+ 
+                                                    31.5"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1920 x 1080
+                                                
+
+Screen Refresh Rate
+ 
+                                                    120 Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (edge-lit)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    Netflix,Hulu,Vudu,Amazon,HBOGO
+                                                
+
+Wi-Fi
+ 
+                                                    Yes
+                                                
+
+MHL-compatible
+ 
+                                                    No
+                                                
+
+Picture In Picture
+ 
+                                                    Yes
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    Carry-in
+                                                
+
+Total Video Inputs
+ 
+                                                    5
+                                                
+
+HDMI Inputs
+ 
+                                                    4
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    0
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    Yes
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    1 Rear 
+
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    3.5mm Rear 
+
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    62 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $7        
+                                                
+
+Width (inches)
+ 
+                                                    28-1/2
+                                                
+
+Height with Stand (inches)
+ 
+                                                    19-3/4
+                                                
+
+Height without Stand (inches)
+ 
+                                                    17
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    10-1/2
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    2-3/4
+                                                
+
+Stand Width (inches)
+ 
+                                                    22
+                                                
+
+Weight with Stand
+ 
+                                                    13.4 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    11.2 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    No
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    1 Rear \n', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (edge-lit)\n                                                ', '\nWeight with Stand\n': '\n                                                    13.4 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    10-1/2\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    31.5"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    4\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    2-3/4\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    120 Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    17\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    62 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    Yes\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    19-3/4\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    Netflix,Hulu,Vudu,Amazon,HBOGO\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1920 x 1080\n                                                ', '\nMHL-compatible\n': '\n                                                    No\n                                                ', '\nWall Bracket Included\n': '\n                                                    No\n                                                ', '\nAnalog Audio Output\n': '\n                                                    3.5mm Rear \n', '\nEthernet Port\n': '\n                                                    Yes\n                                                ', '\nStand Width (inches)\n': '\n                                                    22\n                                                ', '\nWidth (inches)\n': '\n                                                    28-1/2\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    11.2 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $7        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    Carry-in\n                                                ', '\nComposite Video Inputs\n': '\n                                                    0\n                                                ', '\nTotal Video Inputs\n': '\n                                                    5\n                                                ', '\nPicture In Picture\n': '\n                                                    Yes\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/UN40H5203.html
+
+Screen Size
+ 
+                                                    40"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1920 x 1080
+                                                
+
+Screen Refresh Rate
+ 
+                                                    60 Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (direct-lit)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    M-GO, Netflix(coming soon)
+                                                
+
+Wi-Fi
+ 
+                                                    Yes
+                                                
+
+MHL-compatible
+ 
+                                                    No
+                                                
+
+Picture In Picture
+ 
+                                                    Yes
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    Carry-in
+                                                
+
+Total Video Inputs
+ 
+                                                    3
+                                                
+
+HDMI Inputs
+ 
+                                                    2
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    0
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    Yes
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    1 Rear 
+
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    3.5mm Rear 
+
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    70 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $8        
+                                                
+
+Width (inches)
+ 
+                                                    36-5/8
+                                                
+
+Height with Stand (inches)
+ 
+                                                    23-7/8
+                                                
+
+Height without Stand (inches)
+ 
+                                                    21-5/8
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    9-7/8
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    3-3/4
+                                                
+
+Stand Width (inches)
+ 
+                                                    21-5/8
+                                                
+
+Weight with Stand
+ 
+                                                    23.3 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    18.9 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    No
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    1 Rear \n', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (direct-lit)\n                                                ', '\nWeight with Stand\n': '\n                                                    23.3 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    9-7/8\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    40"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    2\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    3-3/4\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    60 Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    21-5/8\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    70 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    Yes\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    23-7/8\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    M-GO, Netflix(coming soon)\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1920 x 1080\n                                                ', '\nMHL-compatible\n': '\n                                                    No\n                                                ', '\nWall Bracket Included\n': '\n                                                    No\n                                                ', '\nAnalog Audio Output\n': '\n                                                    3.5mm Rear \n', '\nEthernet Port\n': '\n                                                    Yes\n                                                ', '\nStand Width (inches)\n': '\n                                                    21-5/8\n                                                ', '\nWidth (inches)\n': '\n                                                    36-5/8\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    18.9 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $8        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    Carry-in\n                                                ', '\nComposite Video Inputs\n': '\n                                                    0\n                                                ', '\nTotal Video Inputs\n': '\n                                                    3\n                                                ', '\nPicture In Picture\n': '\n                                                    Yes\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/crutchfield_tvs/UN40H5500.html
+
+Screen Size
+ 
+                                                    40"
+                                                
+
+Screen Design
+ 
+                                                    Flat
+                                                
+
+Aspect Ratio
+ 
+                                                    16:9
+                                                
+
+Screen Resolution (pixels)
+ 
+                                                    1920 x 1080
+                                                
+
+Screen Refresh Rate
+ 
+                                                    60 Hz
+                                                
+
+Backlighting Type
+ 
+                                                    LED (edge-lit)
+                                                
+
+3D
+ 
+                                                    No
+                                                
+
+Instant Internet Movie Streaming
+ 
+                                                    Netflix,Hulu,Vudu,Amazon,HBOGO
+                                                
+
+Wi-Fi
+ 
+                                                    Yes
+                                                
+
+MHL-compatible
+ 
+                                                    No
+                                                
+
+Picture In Picture
+ 
+                                                    Yes
+                                                
+
+Parts Warranty
+ 
+                                                    1 Year
+                                                
+
+Labor Warranty
+ 
+                                                    1 Year
+                                                
+
+Type of Warranty Service
+ 
+                                                    In-Home
+                                                
+
+Total Video Inputs
+ 
+                                                    4
+                                                
+
+HDMI Inputs
+ 
+                                                    3
+                                                
+
+Component Video Inputs
+ 
+                                                    1
+                                                
+
+Composite Video Inputs
+ 
+                                                    0
+                                                
+
+RF Inputs
+ 
+                                                    1
+                                                
+
+PC Input
+ 
+                                                    No
+                                                
+
+Ethernet Port
+ 
+                                                    Yes
+                                                
+
+USB Port
+ 
+                                                    Yes
+                                                
+
+Optical Digital Audio Output
+ 
+                                                    1 Rear 
+
+
+Coaxial Digital Audio Output
+ 
+                                                    None
+                                                
+
+Analog Audio Output
+ 
+                                                    3.5mm Rear 
+
+
+Estimated Yearly Electricity Use (EnergyGuide)
+ 
+                                                    71 kWh    
+                                                
+
+Estimated Yearly Energy Cost (EnergyGuide)
+ 
+                                                    $8        
+                                                
+
+Width (inches)
+ 
+                                                    35-3/4
+                                                
+
+Height with Stand (inches)
+ 
+                                                    22-7/8
+                                                
+
+Height without Stand (inches)
+ 
+                                                    21
+                                                
+
+Depth with Stand (inches)
+ 
+                                                    7-3/4
+                                                
+
+Depth without Stand (inches)
+ 
+                                                    2-3/4
+                                                
+
+Stand Width (inches)
+ 
+                                                    15-1/8
+                                                
+
+Weight with Stand
+ 
+                                                    18.2 lbs
+                                                
+
+Weight without Stand
+ 
+                                                    16.9 lbs
+                                                
+
+Wall Mountable
+ 
+                                                    Yes
+                                                
+
+Wall Bracket Included
+ 
+                                                    No
+                                                
+
+Pedestal Stand
+ 
+                                                    Assembly required
+                                                
+{'\nPedestal Stand\n': '\n                                                    Assembly required\n                                                ', '\nPC Input\n': '\n                                                    No\n                                                ', '\nOptical Digital Audio Output\n': '\n                                                    1 Rear \n', '\nUSB Port\n': '\n                                                    Yes\n                                                ', '\nBacklighting Type\n': '\n                                                    LED (edge-lit)\n                                                ', '\nWeight with Stand\n': '\n                                                    18.2 lbs\n                                                ', '\nDepth with Stand (inches)\n': '\n                                                    7-3/4\n                                                ', '\nAspect Ratio\n': '\n                                                    16:9\n                                                ', '\nScreen Size\n': '\n                                                    40"\n                                                ', '\nCoaxial Digital Audio Output\n': '\n                                                    None\n                                                ', '\nHDMI Inputs\n': '\n                                                    3\n                                                ', '\nDepth without Stand (inches)\n': '\n                                                    2-3/4\n                                                ', '\nScreen Refresh Rate\n': '\n                                                    60 Hz\n                                                ', '\nHeight without Stand (inches)\n': '\n                                                    21\n                                                ', '\nWall Mountable\n': '\n                                                    Yes\n                                                ', '\nEstimated Yearly Electricity Use (EnergyGuide)\n': '\n                                                    71 kWh    \n                                                ', '\nWi-Fi\n': '\n                                                    Yes\n                                                ', '\nScreen Design\n': '\n                                                    Flat\n                                                ', '\nHeight with Stand (inches)\n': '\n                                                    22-7/8\n                                                ', '\nInstant Internet Movie Streaming\n': '\n                                                    Netflix,Hulu,Vudu,Amazon,HBOGO\n                                                ', '\nScreen Resolution (pixels)\n': '\n                                                    1920 x 1080\n                                                ', '\nMHL-compatible\n': '\n                                                    No\n                                                ', '\nWall Bracket Included\n': '\n                                                    No\n                                                ', '\nAnalog Audio Output\n': '\n                                                    3.5mm Rear \n', '\nEthernet Port\n': '\n                                                    Yes\n                                                ', '\nStand Width (inches)\n': '\n                                                    15-1/8\n                                                ', '\nWidth (inches)\n': '\n                                                    35-3/4\n                                                ', '\nRF Inputs\n': '\n                                                    1\n                                                ', '\nLabor Warranty\n': '\n                                                    1 Year\n                                                ', '\nWeight without Stand\n': '\n                                                    16.9 lbs\n                                                ', '\nEstimated Yearly Energy Cost (EnergyGuide)\n': '\n                                                    $8        \n                                                ', '\nParts Warranty\n': '\n                                                    1 Year\n                                                ', '\nType of Warranty Service\n': '\n                                                    In-Home\n                                                ', '\nComposite Video Inputs\n': '\n                                                    0\n                                                ', '\nTotal Video Inputs\n': '\n                                                    4\n                                                ', '\nPicture In Picture\n': '\n                                                    Yes\n                                                ', '\nComponent Video Inputs\n': '\n                                                    1\n                                                ', '\n3D\n': '\n                                                    No\n                                                '}
+finalizou

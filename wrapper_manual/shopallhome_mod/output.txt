@@ -1,0 +1,865 @@
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/39LB5800.html
+Screen Size 39"
+Screen Size Class (diagonal) 39" Class (38.5" diagonal)
+Resolution 1920 x 1080
+Display Type LED
+MCI 120
+TV without Stand (WxHxD) 34.84" x 20.63" x 2.19"
+TV with Stand (WxHxD) 34.84" x 22.32" x 8.58"
+TV without Stand weight 17.6 lbs
+TV with Stand weight 18.3 lbs
+TV Shipping Dimensions (WxHxD) 38.58" x 23.43" x 5.75"
+Shipping Weight 22.0 lbs
+Triple XD™ Engine Yes
+Just Scan (1:1 Pixel Matching) 0% OverScan HDMI™: 1080p/1080i/720p, Component: 1080p/1080i/720p, RF: 1080i/720p
+Resolution Upscaler Yes
+Picture Mode 8 Modes
+Aspect Ratio 8 Modes
+Real Cinema 24p (2:2 pull down) Yes
+Picture Wizard Yes
+Speaker System 2ch Speaker System
+Mono/Stereo/Dual (MTS/SAP) Yes
+Dolby® Digital Decoder Yes
+DTS Decoder Yes
+Audio Output (Watts - THD 10%) 20W
+Sound Mode 6 Modes
+Clear Voice II Yes
+Optical Sound Sync Yes
+Wireless Sound Sync Yes
+MHL (Mobile HD Link) Yes
+Premium Content Netflix, Hulu Plus, Youtube and more
+Wi-Fi® Built-in Yes
+Wi-Fi Direct Yes
+SIMPLINK™ (HDMI™ CEC) Yes
+USB Yes
+- Video DivX HD
+- Photo JPEG, JPS, MPO
+- Audio AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MPEG, MP3, PCM, DTS
+RF In (Antenna/Cable) 1 (Rear)
+Component Video In(Y, Pb, Pr + Audio) 1 (Rear)
+Composite In (AV) 1 (shared w/Component)
+HDMI™ 3 (Side)
+Digital Audio Out (Optical) 1 (Rear)
+USB 2.0 3 (Side)
+LAN 1 (Rear)
+RS-232 (mini jack) 1 (Rear)
+VESA® Size (mm) 200 x 200
+Remote Control Standard
+ENERGY STAR® Qualified Yes
+Power Supply (Voltage, Hz) 100V ~ 240V, 50/60 Hz
+Standby Mode 0.3W
+Limited Warranty 1 Year Parts & Labor
+UPC 719192593442
+{'VESA® Size (mm)': '200 x 200', 'Display Type': 'LED', 'Remote Control': 'Standard', 'Premium Content': 'Netflix, Hulu Plus, Youtube and more', 'Wi-Fi Direct': 'Yes', 'Dolby® Digital Decoder': 'Yes', 'Power Supply (Voltage, Hz)': '100V ~ 240V, 50/60 Hz', 'Speaker System': '2ch Speaker System', 'ENERGY STAR® Qualified': 'Yes', 'MHL (Mobile HD Link)': 'Yes', '- Photo': 'JPEG, JPS, MPO', 'Triple XD™ Engine': 'Yes', 'Shipping Weight': '22.0 lbs', 'Optical Sound Sync': 'Yes', 'Component Video In(Y, Pb, Pr + Audio)': '1 (Rear)', 'RF In (Antenna/Cable)': '1 (Rear)', 'LAN': '1 (Rear)', 'Sound Mode': '6 Modes', 'DTS Decoder': 'Yes', 'MCI': '120', 'Composite In (AV)': '1 (shared w/Component)', 'Real Cinema 24p (2:2 pull down)': 'Yes', 'TV with Stand (WxHxD)': '34.84" x 22.32" x 8.58"', 'TV Shipping Dimensions (WxHxD)': '38.58" x 23.43" x 5.75"', 'TV without Stand (WxHxD)': '34.84" x 20.63" x 2.19"', 'Digital Audio Out (Optical)': '1 (Rear)', 'Resolution': '1920 x 1080', 'Audio Output (Watts - THD 10%)': '20W', 'Just Scan (1:1 Pixel Matching) 0% OverScan': 'HDMI™: 1080p/1080i/720p, Component: 1080p/1080i/720p, RF: 1080i/720p', 'Screen Size': '39"', 'Resolution Upscaler': 'Yes', 'Picture Mode': '8 Modes', 'Clear Voice II': 'Yes', 'UPC': '719192593442', '- Video': 'DivX HD', 'SIMPLINK™ (HDMI™ CEC)': 'Yes', 'Picture Wizard': 'Yes', 'Aspect Ratio': '8 Modes', 'USB': 'Yes', '- Audio': 'AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MPEG, MP3, PCM, DTS', 'Standby Mode': '0.3W', 'Screen Size Class (diagonal)': '39" Class (38.5" diagonal)', 'Limited Warranty': '1 Year Parts & Labor', 'Wi-Fi® Built-in': 'Yes', 'TV without Stand weight': '17.6 lbs', 'Wireless Sound Sync': 'Yes', 'TV with Stand weight': '18.3 lbs', 'HDMI™': '3 (Side)', 'Mono/Stereo/Dual (MTS/SAP)': 'Yes', 'RS-232 (mini jack)': '1 (Rear)', 'USB 2.0': '3 (Side)'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/22LB4510.html
+Screen Size 22"
+Screen Size Class (diagonal) 22" Class (21.5" diagonal)
+Resolution 1920 x 1080
+MCI 120
+TV without Stand (WxHxD) 20" x 12.4" x 2.2"
+TV with Stand (WxHxD) 20" x 14.1" x 5.6"
+TV without Stand weight 6.17 lbs
+TV with Stand weight 6.61 lbs
+TV Shipping Dimensions (WxHxD) 26" x 15" x 5"
+Shipping Weight 9.26 lbs
+Picture Mode 8 Modes (Vivid, Standard, Cinema, Sport, Game, Photo, Eco, Expert1, Expert2)
+Aspect Ratio 8 Modes (16:9, Just Scan, Original, 4:3, Cinema Zoom, Zoom, Full Wide, 14.9 Zoom)
+Just Scan (1:1 Pixel Matching) HDMI: 1080i, Component: 1080p, RF 720p
+AV Mode II 3 Modes (Cinema/Game/Off)
+Speaker System 1 Way, 2 Speakers
+Audio Output Power (Watts - THD 10%) 5W + 5W
+Virtual Surround Yes
+Clear Voice II Yes
+Video MPEG1, MPEG2
+Audio MP3
+Photo JPEG, JPG
+RF In (Antenna/Cable) 1 (Rear)
+AV In 1 (Rear)
+Component Video In(Y, Pb, Pr + Audio) 1 (Rear)
+HDMI™/ HDCP In 1 (rear)
+RGB In (D-Sub 15 Pin) - PC 1 (Rear)
+PC Audio Input 1 (Rear)
+USB 2.0 1 (Side)
+VESA® Size (mm) 75 x 75
+Remote Control Yes
+Batteries AA x 2
+ENERGY STAR® Qualified Yes
+Power Supply (Voltage, Hz) 100V ~ 240V, 50/60 Hz
+Standby Mode 0.4W
+Limited Warranty 1 Year Parts & Labor
+UPC 719192194052
+{'MCI': '120', 'Photo': 'JPEG, JPG', 'TV with Stand (WxHxD)': '20" x 14.1" x 5.6"', 'TV without Stand (WxHxD)': '20" x 12.4" x 2.2"', 'Remote Control': 'Yes', 'VESA® Size (mm)': '75 x 75', 'Batteries': 'AA x 2', 'Virtual Surround': 'Yes', 'Screen Size': '22"', 'Clear Voice II': 'Yes', 'Audio': 'MP3', 'Aspect Ratio': '8 Modes (16:9, Just Scan, Original, 4:3, Cinema Zoom, Zoom, Full Wide, 14.9 Zoom)', 'Speaker System': '1 Way, 2 Speakers', 'ENERGY STAR® Qualified': 'Yes', 'Picture Mode': '8 Modes (Vivid, Standard, Cinema, Sport, Game, Photo, Eco, Expert1, Expert2)', 'AV Mode II': '3 Modes (Cinema/Game/Off)', 'Video': 'MPEG1, MPEG2', 'TV Shipping Dimensions (WxHxD)': '26" x 15" x 5"', 'Resolution': '1920 x 1080', 'Just Scan (1:1 Pixel Matching)': 'HDMI: 1080i, Component: 1080p, RF 720p', 'Shipping Weight': '9.26 lbs', 'USB 2.0': '1 (Side)', 'Screen Size Class (diagonal)': '22" Class (21.5" diagonal)', 'Component Video In(Y, Pb, Pr + Audio)': '1 (Rear)', 'RF In (Antenna/Cable)': '1 (Rear)', 'Power Supply (Voltage, Hz)': '100V ~ 240V, 50/60 Hz', 'Limited Warranty': '1 Year Parts & Labor', 'TV without Stand weight': '6.17 lbs', 'RGB In (D-Sub 15 Pin) - PC': '1 (Rear)', 'Standby Mode': '0.4W', 'TV with Stand weight': '6.61 lbs', 'HDMI™/ HDCP In': '1 (rear)', 'Audio Output Power (Watts - THD 10%)': '5W + 5W', 'UPC': '719192194052', 'AV In': '1 (Rear)', 'PC Audio Input': '1 (Rear)'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/29LB4510.html
+Screen Size 29"
+Energy Star Qualified Yes
+Screen Size Class (diagonal) 29" Class (29" diagonal)
+Resolution 1366 x 768p
+MCI 120
+TV without Stand (WxHxD) 26.32" x 16.16" x 3.22"
+TV with Stand (WxHxD) 26.32" x 17.99" x 7.17"
+TV without stand weight 11.46 lbs
+TV with stand weight 12.34 lbs
+TV Shipping Dimensions (WxHxD) 32.48" x 18.9" x 5.59"
+Shipping Weight 15.87 lbs
+Picture Mode 8 Modes (Vivid, Standard, Cinema, Sport, Game, Photo, Eco, Expert1, Expert2)
+Aspect Ratio 8 Modes (16:9, Just Scan, Original, 4:3, Cinema Zoom, Zoom, Full Wide, 14.9 Zoom)
+Just Scan (1:1 Pixel Matching) HDMI: 1080i, Component: 1080p, RF 720p
+AV Mode II 3 Modes (Cinema/Game/Off)
+Speaker System 1 Way, 2 Speakers
+Audio Output Power (Watts - THD 10%) 5W + 5W
+Virtual Surround Yes
+Clear Voice II Yes
+Video MPEG1, MPEG2
+Audio MP3
+Photo JPEG, JPG
+RF In (Antenna/Cable) 1 (Rear)
+AV In 1 (Rear)
+Component Video In(Y, Pb, Pr + Audio) 1 (Rear)
+HDMI™/ HDCP In 1 (rear)
+RGB In (D-Sub 15 Pin) - PC 1 (Rear)
+PC Audio Input 1 (Rear)
+USB 2.0 1 (Side)
+VESA® Wall Mount Pattern 100mm x 100mm
+Remote Control Yes
+Batteries AA x 2
+ENERGY STAR® Qualified Yes
+Power Supply (Voltage, Hz) 100V ~ 240V, 50/60 Hz
+Standby Mode 0.4W
+Limited Warranty 1 Year Parts & Labor
+UPC 719192194069
+{'MCI': '120', 'Photo': 'JPEG, JPG', 'TV with Stand (WxHxD)': '26.32" x 17.99" x 7.17"', 'TV without Stand (WxHxD)': '26.32" x 16.16" x 3.22"', 'Remote Control': 'Yes', 'Batteries': 'AA x 2', 'Virtual Surround': 'Yes', 'TV without stand weight': '11.46 lbs', 'Energy Star Qualified': 'Yes', 'Screen Size': '29"', 'Clear Voice II': 'Yes', 'Audio': 'MP3', 'Aspect Ratio': '8 Modes (16:9, Just Scan, Original, 4:3, Cinema Zoom, Zoom, Full Wide, 14.9 Zoom)', 'Speaker System': '1 Way, 2 Speakers', 'ENERGY STAR® Qualified': 'Yes', 'Picture Mode': '8 Modes (Vivid, Standard, Cinema, Sport, Game, Photo, Eco, Expert1, Expert2)', 'VESA® Wall Mount Pattern': '100mm x 100mm', 'AV Mode II': '3 Modes (Cinema/Game/Off)', 'Video': 'MPEG1, MPEG2', 'TV Shipping Dimensions (WxHxD)': '32.48" x 18.9" x 5.59"', 'Resolution': '1366 x 768p', 'Just Scan (1:1 Pixel Matching)': 'HDMI: 1080i, Component: 1080p, RF 720p', 'Shipping Weight': '15.87 lbs', 'USB 2.0': '1 (Side)', 'Screen Size Class (diagonal)': '29" Class (29" diagonal)', 'Component Video In(Y, Pb, Pr + Audio)': '1 (Rear)', 'RF In (Antenna/Cable)': '1 (Rear)', 'Power Supply (Voltage, Hz)': '100V ~ 240V, 50/60 Hz', 'Limited Warranty': '1 Year Parts & Labor', 'TV with stand weight': '12.34 lbs', 'RGB In (D-Sub 15 Pin) - PC': '1 (Rear)', 'Standby Mode': '0.4W', 'HDMI™/ HDCP In': '1 (rear)', 'Audio Output Power (Watts - THD 10%)': '5W + 5W', 'UPC': '719192194069', 'AV In': '1 (Rear)', 'PC Audio Input': '1 (Rear)'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/32LB5600.html
+Screen Size 32"
+Screen Size Class (diagonal) 32" Class (31.5" diagonal)
+Resolution 1920 x 1080
+MCI 120
+TV without Stand (WxHxD) 28.82" x 16.97" x 2.19"
+TV with Stand (WxHxD) 28.82" x 18.94" x 8.15"
+TV without Stand weight 13.2 lbs
+TV with Stand weight 13.7 lbs
+TV Shipping Dimensions (WxHxD) 31.89" x 19.49" x 5.75"
+Shipping Weight 16.3 lbs
+Triple XD™ Engine Yes
+Picture Mode 7 Modes
+Aspect Ratio 6 Modes
+Just Scan (1:1 Pixel Matching) HDMI, Component, RF: 1080i, 1080p, 720p
+Real Cinema 24p (2:2 pull down) Yes
+Screen Share Yes
+- MHL (Mobile HD Link) Yes
+Audio MP3
+Photo JPEG
+RF In (Antenna/Cable) 1 (Rear)
+Component Video In(Y, Pb, Pr + Audio) 1 (Rear)
+Composite In (AV) 1 (shared w/Component)
+HDMI™ 2 (1 Rear, 1 Side)
+Digital Audio Out (Optical) 1 (Rear)
+USB 2.0 1 (Side)
+RS-232 (mini jack) 1 (Side)
+VESA® Wall Mount Pattern 200mm x 200mm
+ENERGY STAR® Qualified Yes
+Power Supply (Voltage, Hz) 100V ~ 240V, 50/60 Hz
+Standby Mode 0.3W
+Limited Warranty 1 Year Parts & Labor
+UPC 719192593466
+{'MCI': '120', 'Photo': 'JPEG', 'Real Cinema 24p (2:2 pull down)': 'Yes', 'TV with Stand (WxHxD)': '28.82" x 18.94" x 8.15"', 'TV without Stand (WxHxD)': '28.82" x 16.97" x 2.19"', 'Digital Audio Out (Optical)': '1 (Rear)', '- MHL (Mobile HD Link)': 'Yes', 'Screen Share': 'Yes', 'Screen Size': '32"', 'Audio': 'MP3', 'Power Supply (Voltage, Hz)': '100V ~ 240V, 50/60 Hz', 'ENERGY STAR® Qualified': 'Yes', 'Picture Mode': '7 Modes', 'VESA® Wall Mount Pattern': '200mm x 200mm', 'Aspect Ratio': '6 Modes', 'TV Shipping Dimensions (WxHxD)': '31.89" x 19.49" x 5.75"', 'Resolution': '1920 x 1080', 'Just Scan (1:1 Pixel Matching)': 'HDMI, Component, RF: 1080i, 1080p, 720p', 'Shipping Weight': '16.3 lbs', 'Composite In (AV)': '1 (shared w/Component)', 'Screen Size Class (diagonal)': '32" Class (31.5" diagonal)', 'Component Video In(Y, Pb, Pr + Audio)': '1 (Rear)', 'RF In (Antenna/Cable)': '1 (Rear)', 'UPC': '719192593466', 'Limited Warranty': '1 Year Parts & Labor', 'TV without Stand weight': '13.2 lbs', 'Triple XD™ Engine': 'Yes', 'Standby Mode': '0.3W', 'TV with Stand weight': '13.7 lbs', 'HDMI™': '2 (1 Rear, 1 Side)', 'RS-232 (mini jack)': '1 (Side)', 'USB 2.0': '1 (Side)'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/32LB560B.html
+Screen Size 32"
+Screen Size Class (diagonal) 32" Class (31.5" diagonal)
+Resolution 1366 x 768
+Display Type LED
+MCI 120
+TV without Stand (WxHxD) 28.8" x 17" x 2.2"
+TV with Stand (WxHxD) 28.8" x 18.9" x 8.15"
+TV without Stand weight 13.2 lbs
+TV with Stand weight 13.7 lbs
+TV Shipping Dimensions (WxHxD) 31.9" x 19.5" x 5.75"
+Shipping Weight 16.3 lbs
+Triple XD™ Engine Yes
+Picture Mode 7 Modes
+Aspect Ratio 6 Modes
+Just Scan (1:1 Pixel Matching) HDMI, Component, RF: 1080i, 1080p, 720p
+Real Cinema 24p (2:2 pull down) Yes
+Screen Share Yes
+- MHL (Mobile HD Link) Yes
+Audio MP3
+Photo JPEG
+RF In (Antenna/Cable) 1 (Rear)
+Component Video In(Y, Pb, Pr + Audio) 1 (Rear)
+Composite In (AV) 1 (shared w/Component)
+HDMI™ 2 (1 Rear, 1 Side)
+USB 2.0 1 (Side)
+RS-232 (mini jack) 1 (Side)
+VESA® Wall Mount Pattern 200mm x 200mm
+ENERGY STAR® Qualified Yes
+Power Supply (Voltage, Hz) 100V ~ 240V, 50/60 Hz
+Standby Mode 0.3W
+Limited Warranty 1 Year Parts & Labor
+UPC 719192593572
+{'MCI': '120', 'Photo': 'JPEG', 'Real Cinema 24p (2:2 pull down)': 'Yes', 'TV with Stand (WxHxD)': '28.8" x 18.9" x 8.15"', 'Display Type': 'LED', 'TV without Stand (WxHxD)': '28.8" x 17" x 2.2"', '- MHL (Mobile HD Link)': 'Yes', 'Screen Share': 'Yes', 'Screen Size': '32"', 'Audio': 'MP3', 'Power Supply (Voltage, Hz)': '100V ~ 240V, 50/60 Hz', 'ENERGY STAR® Qualified': 'Yes', 'Picture Mode': '7 Modes', 'VESA® Wall Mount Pattern': '200mm x 200mm', 'Shipping Weight': '16.3 lbs', 'TV Shipping Dimensions (WxHxD)': '31.9" x 19.5" x 5.75"', 'Resolution': '1366 x 768', 'Just Scan (1:1 Pixel Matching)': 'HDMI, Component, RF: 1080i, 1080p, 720p', 'Aspect Ratio': '6 Modes', 'Composite In (AV)': '1 (shared w/Component)', 'Screen Size Class (diagonal)': '32" Class (31.5" diagonal)', 'Component Video In(Y, Pb, Pr + Audio)': '1 (Rear)', 'RF In (Antenna/Cable)': '1 (Rear)', 'UPC': '719192593572', 'Limited Warranty': '1 Year Parts & Labor', 'TV without Stand weight': '13.2 lbs', 'Triple XD™ Engine': 'Yes', 'Standby Mode': '0.3W', 'TV with Stand weight': '13.7 lbs', 'HDMI™': '2 (1 Rear, 1 Side)', 'RS-232 (mini jack)': '1 (Side)', 'USB 2.0': '1 (Side)'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/32LB5800.html
+Screen Size 32"
+Energy Star Qualified Yes
+Screen Size Class (diagonal) 32" Class (31.5" diagonal)
+Resolution 1920 x 1080p
+Display Type LED
+MCI 120
+TV without Stand (WxHxD) 28.82" x 16.97" x 2.19"
+TV with Stand (WxHxD) 28.82" x 18.94" x 8.15"
+TV without stand weight 13.2 lbs
+TV with stand weight 13.7 lbs
+TV Shipping Dimensions (WxHxD) 31.89" x 19.49" x 5.75"
+Shipping Weight 16.3 lbs
+Triple XD™ Engine Yes
+Just Scan (1:1 Pixel Matching) 0% OverScan HDMI™: 1080p/1080i/720p, Component: 1080p/1080i/720p, RF: 1080i/720p
+Resolution Upscaler Yes
+Picture Mode 8 Modes
+Aspect Ratio 8 Modes
+Real Cinema 24p (2:2 pull down) Yes
+Picture Wizard Yes
+Speaker System 2ch Speaker System
+Mono/Stereo/Dual (MTS/SAP) Yes
+Dolby® Digital Decoder Yes
+DTS Decoder Yes
+Audio Output (Watts - THD 10%) 20W
+Sound Mode 6 Modes
+Clear Voice II Yes
+Optical Sound Sync Yes
+Wireless Sound Sync Yes
+MHL (Mobile HD Link) Yes
+Premium Content Netflix, Hulu Plus, Youtube and more
+Wi-Fi® Built-in Yes
+Wi-Fi Direct Yes
+SIMPLINK™ (HDMI™ CEC) Yes
+USB Yes
+- Video DivX HD
+- Photo JPEG, JPS, MPO
+- Audio AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MPEG, MP3, PCM, DTS
+RF In (Antenna/Cable) 1 (Rear)
+Component Video In(Y, Pb, Pr + Audio) 1 (Rear)
+Composite In (AV) 1 (shared w/Component)
+HDMI® 3 (Side)
+Digital Audio Out (Optical) 1 (Rear)
+USB 2.0 3 (Side)
+LAN 1 (Rear)
+RS-232 (mini jack) 1 (Rear)
+VESA® Size (mm) 200 x 200
+Remote Control Standard
+ENERGY STAR® Qualified Yes
+Power Supply (Voltage, Hz) 100V ~ 240V, 50/60 Hz
+Standby Mode 0.3W
+Limited Warranty 1 Year Parts & Labor
+UPC 719192593435
+{'VESA® Size (mm)': '200 x 200', 'Display Type': 'LED', 'Remote Control': 'Standard', 'TV without stand weight': '13.2 lbs', 'RF In (Antenna/Cable)': '1 (Rear)', 'Wi-Fi Direct': 'Yes', 'Energy Star Qualified': 'Yes', 'Dolby® Digital Decoder': 'Yes', 'Power Supply (Voltage, Hz)': '100V ~ 240V, 50/60 Hz', 'Speaker System': '2ch Speaker System', 'ENERGY STAR® Qualified': 'Yes', 'MHL (Mobile HD Link)': 'Yes', '- Photo': 'JPEG, JPS, MPO', 'Triple XD™ Engine': 'Yes', 'Shipping Weight': '16.3 lbs', 'Optical Sound Sync': 'Yes', 'Component Video In(Y, Pb, Pr + Audio)': '1 (Rear)', 'Premium Content': 'Netflix, Hulu Plus, Youtube and more', 'UPC': '719192593435', 'LAN': '1 (Rear)', 'Sound Mode': '6 Modes', 'DTS Decoder': 'Yes', 'MCI': '120', 'Composite In (AV)': '1 (shared w/Component)', 'Real Cinema 24p (2:2 pull down)': 'Yes', 'TV with Stand (WxHxD)': '28.82" x 18.94" x 8.15"', 'TV Shipping Dimensions (WxHxD)': '31.89" x 19.49" x 5.75"', 'TV without Stand (WxHxD)': '28.82" x 16.97" x 2.19"', 'Digital Audio Out (Optical)': '1 (Rear)', 'Audio Output (Watts - THD 10%)': '20W', 'Just Scan (1:1 Pixel Matching) 0% OverScan': 'HDMI™: 1080p/1080i/720p, Component: 1080p/1080i/720p, RF: 1080i/720p', 'Screen Size': '32"', 'Resolution Upscaler': 'Yes', 'Picture Wizard': 'Yes', 'Picture Mode': '8 Modes', 'HDMI®': '3 (Side)', '- Video': 'DivX HD', 'SIMPLINK™ (HDMI™ CEC)': 'Yes', 'Resolution': '1920 x 1080p', 'Aspect Ratio': '8 Modes', 'USB': 'Yes', '- Audio': 'AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MPEG, MP3, PCM, DTS', 'Standby Mode': '0.3W', 'Screen Size Class (diagonal)': '32" Class (31.5" diagonal)', 'Limited Warranty': '1 Year Parts & Labor', 'Wi-Fi® Built-in': 'Yes', 'TV with stand weight': '13.7 lbs', 'Wireless Sound Sync': 'Yes', 'Clear Voice II': 'Yes', 'Mono/Stereo/Dual (MTS/SAP)': 'Yes', 'RS-232 (mini jack)': '1 (Rear)', 'USB 2.0': '3 (Side)'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/32LN5300.html
+Screen Size 32"
+Screen Size Diagonal 31.5"
+Resolution 1920 x 1080p
+Display Type LED
+Refresh Rate 60Hz
+Triple XD™ Engine Yes
+ENERGY STAR® Qualified Yes
+No. of HDMI Ports 2
+USB 3.0/2.0 Yes
+MHL™ Mobile High Definition Link Yes
+SIMPLINK™ (HDMI™ CEC) Yes
+Screen Size Class (diagonal) 32" Class (31.5" diagonal)
+Resolution 1920 x 1080
+BLU Type Direct LED
+Refresh Rate 60Hz
+MCI 120
+TV without Stand (WxHxD) 29.06" x 17.20" x 3.11"
+TV with Stand (WxHxD) 29.06" x 19.57" x 8.15"
+TV without Stand weight 13.2 lbs
+TV with Stand weight 14.8 lbs
+TV Shipping Dimensions (WxHxD) 35.63" x 20.87" x 6.38"
+Shipping Weight 17.2 lbs
+Triple XD™ Engine Yes
+Picture Mode 7 Modes (Vivid/Standard/Cinema/Sport/Game/Expert1/Expert2)
+Picture Wizard II Yes
+Smart Energy Saving Yes
+Aspect Ratio 6 Modes (16:9, Just Scan, Original, 4:3, Cinema Zoom 1, Zoom)
+Just Scan (1:1 Pixel Matching) HDMI/Component/RF - 1080i, 1080p, 720p
+AV Mode II (Picture & Sound) 3 Modes (Cinema/Game/Off )
+Speaker System 1 Way, 2 Speakers
+Audio Output Power (Watts - THD 10%) 10W + 10W
+Mono/Stereo/Dual (MTS/SAP) Yes
+Virtual Surround Yes
+Sound Mode 5 Modes (Standard/Music/Cinema/Sport/Game)
+Clear Voice II Yes
+MHL™ Mobile High Definition Link Yes
+SIMPLINK™ (HDMI™ CEC) Yes
+USB Playback MP3
+RF In (Antenna/Cable) 1 (Rear)
+AV In 1 (Rear)
+Component Video In(Y, Pb, Pr + Audio) 1 (Rear)
+HDMI™/HDCP Input 2 (1 Side, 1 Rear)
+USB 3.0/2.0 Input 1 (Side)
+Digital Audio Out (Optical) 1 (Rear)
+RS-232C (Control/Service) 1 (Rear) via mini jack
+HDMI™/HDCP Input 1
+USB 3.0/2.0 Input 1
+RF In (Antenna/Cable) 1
+AV In 1
+Component Video In (Y, Pb, Pr) + Audio 1
+Digital Audio Out (Optical) 1
+HDMI™/HDCP Input 1
+RS-232C (Control/Service) 1
+VESA Standard 200mm x 100mm
+Remote Control Yes
+Batteries AA x 2
+ENERGY STAR® Qualified Yes
+Power Supply (Voltage, Hz) 100V ~ 240V, 50/60 Hz
+Power Consumption 28.9W
+Standby Mode 0.3W
+Limited Warranty 1 Year Parts & Labor
+UPC 719192588400
+{'Display Type': 'LED', 'Component Video In (Y, Pb, Pr) + Audio': '1', 'No. of HDMI Ports': '2', 'Remote Control': 'Yes', 'USB 3.0/2.0': 'Yes', 'MHL™ Mobile High Definition Link': 'Yes', 'Clear Voice II': 'Yes', 'Batteries': 'AA x 2', 'Speaker System': '1 Way, 2 Speakers', 'Power Consumption': '28.9W', 'ENERGY STAR® Qualified': 'Yes', 'Just Scan (1:1 Pixel Matching)': 'HDMI/Component/RF - 1080i, 1080p, 720p', 'Shipping Weight': '17.2 lbs', 'Digital Audio Out (Optical)': '1', 'Component Video In(Y, Pb, Pr + Audio)': '1 (Rear)', 'RF In (Antenna/Cable)': '1', 'TV without Stand weight': '13.2 lbs', 'Sound Mode': '5 Modes (Standard/Music/Cinema/Sport/Game)', 'Audio Output Power (Watts - THD 10%)': '10W + 10W', 'AV In': '1', 'USB Playback': 'MP3', 'MCI': '120', 'TV with Stand (WxHxD)': '29.06" x 19.57" x 8.15"', 'Triple XD™ Engine': 'Yes', 'TV without Stand (WxHxD)': '29.06" x 17.20" x 3.11"', 'Screen Size Diagonal': '31.5"', 'Virtual Surround': 'Yes', 'Screen Size': '32"', 'RS-232C (Control/Service)': '1', 'Refresh Rate': '60Hz', 'VESA Standard': '200mm x 100mm', 'USB 3.0/2.0 Input': '1', 'Picture Mode': '7 Modes (Vivid/Standard/Cinema/Sport/Game/Expert1/Expert2)', 'UPC': '719192588400', 'TV Shipping Dimensions (WxHxD)': '35.63" x 20.87" x 6.38"', 'SIMPLINK™ (HDMI™ CEC)': 'Yes', 'Resolution': '1920 x 1080', 'Aspect Ratio': '6 Modes (16:9, Just Scan, Original, 4:3, Cinema Zoom 1, Zoom)', 'Standby Mode': '0.3W', 'Screen Size Class (diagonal)': '32" Class (31.5" diagonal)', 'Picture Wizard II': 'Yes', 'HDMI™/HDCP Input': '1', 'Power Supply (Voltage, Hz)': '100V ~ 240V, 50/60 Hz', 'Limited Warranty': '1 Year Parts & Labor', 'AV Mode II (Picture & Sound)': '3 Modes (Cinema/Game/Off )', 'Smart Energy Saving': 'Yes', 'TV with Stand weight': '14.8 lbs', 'Mono/Stereo/Dual (MTS/SAP)': 'Yes', 'BLU Type': 'Direct LED'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/39LB5600.html
+Screen Size 39"
+Energy Star Qualified Yes
+Screen Size Class (diagonal) 39" Class (38.5" diagonal)
+Resolution 1920 x 1080
+MCI 120
+TV without Stand (WxHxD) 34.84" x 20.63" x 2.19"
+TV with Stand (WxHxD) 34.84" x 22.32" x 8.58"
+TV without Stand weight 17.6 lbs
+TV with Stand weight 18.3 lbs
+TV Shipping Dimensions (WxHxD) 38.58" x 23.43" x 5.75"
+Shipping Weight 22.0 lbs
+Triple XD™ Engine Yes
+Picture Mode 7 Modes
+Aspect Ratio 6 Modes
+Just Scan (1:1 Pixel Matching) HDMI, Component, RF: 1080i, 1080p, 720p
+Real Cinema 24p (2:2 pull down) Yes
+Screen Share Yes
+- MHL (Mobile HD Link) Yes
+Audio MP3
+Photo JPEG
+RF In (Antenna/Cable) 1 (Rear)
+Component Video In(Y, Pb, Pr + Audio) 1 (Rear)
+Composite In (AV) 1 (shared w/Component)
+HDMI™ 2 (1 Rear, 1 Side)
+Digital Audio Out (Optical) 1 (Rear)
+USB 2.0 1 (Side)
+RS-232 (mini jack) 1 (Side)
+VESA® Wall Mount Pattern 200mm x 200mm
+ENERGY STAR® Qualified Yes
+Power Supply (Voltage, Hz) 100V ~ 240V, 50/60 Hz
+Standby Mode 0.3W
+Limited Warranty 1 Year Parts & Labor
+UPC 719192593473
+{'MCI': '120', 'Photo': 'JPEG', 'Real Cinema 24p (2:2 pull down)': 'Yes', 'TV with Stand (WxHxD)': '34.84" x 22.32" x 8.58"', 'TV without Stand (WxHxD)': '34.84" x 20.63" x 2.19"', 'Digital Audio Out (Optical)': '1 (Rear)', '- MHL (Mobile HD Link)': 'Yes', 'Screen Share': 'Yes', 'Energy Star Qualified': 'Yes', 'Screen Size': '39"', 'Audio': 'MP3', 'Power Supply (Voltage, Hz)': '100V ~ 240V, 50/60 Hz', 'ENERGY STAR® Qualified': 'Yes', 'Picture Mode': '7 Modes', 'VESA® Wall Mount Pattern': '200mm x 200mm', 'Aspect Ratio': '6 Modes', 'TV Shipping Dimensions (WxHxD)': '38.58" x 23.43" x 5.75"', 'Resolution': '1920 x 1080', 'Just Scan (1:1 Pixel Matching)': 'HDMI, Component, RF: 1080i, 1080p, 720p', 'Shipping Weight': '22.0 lbs', 'Composite In (AV)': '1 (shared w/Component)', 'Screen Size Class (diagonal)': '39" Class (38.5" diagonal)', 'Component Video In(Y, Pb, Pr + Audio)': '1 (Rear)', 'RF In (Antenna/Cable)': '1 (Rear)', 'UPC': '719192593473', 'Limited Warranty': '1 Year Parts & Labor', 'TV without Stand weight': '17.6 lbs', 'Triple XD™ Engine': 'Yes', 'Standby Mode': '0.3W', 'TV with Stand weight': '18.3 lbs', 'HDMI™': '2 (1 Rear, 1 Side)', 'RS-232 (mini jack)': '1 (Side)', 'USB 2.0': '1 (Side)'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/42LB5600.html
+Screen Size 42"
+Screen Size Class (diagonal) 42" Class (41.9" diagonal)
+Resolution 1920 x 1080
+MCI 120
+TV without Stand (WxHxD) 37.8" x 22.3" x 2.19"
+TV with Stand (WxHxD) 37.8" x 24" x 8.6"
+TV without Stand weight 20.3 lbs
+TV with Stand weight 20.9 lbs
+TV Shipping Dimensions (WxHxD) 41.5" x 25.4" x 5.75"
+Shipping Weight 25.6 lbs
+Triple XD™ Engine Yes
+Picture Mode 7 Modes
+Aspect Ratio 6 Modes
+Just Scan (1:1 Pixel Matching) HDMI, Component, RF: 1080i, 1080p, 720p
+Real Cinema 24p (2:2 pull down) Yes
+Screen Share Yes
+- MHL (Mobile HD Link) Yes
+Audio MP3
+Photo JPEG
+RF In (Antenna/Cable) 1 (Rear)
+Component Video In(Y, Pb, Pr + Audio) 1 (Rear)
+Composite In (AV) 1 (shared w/Component)
+HDMI™ 2 (1 Rear, 1 Side)
+Digital Audio Out (Optical) 1 (Rear)
+USB 2.0 1 (Side)
+RS-232 (mini jack) 1 (Side)
+VESA® Wall Mount Pattern 400mm x 400mm
+ENERGY STAR® Qualified Yes
+Power Supply (Voltage, Hz) 100V ~ 240V, 50/60 Hz
+Standby Mode 0.3W
+Limited Warranty 1 Year Parts & Labor
+UPC 719192593589
+{'MCI': '120', 'Photo': 'JPEG', 'Real Cinema 24p (2:2 pull down)': 'Yes', 'TV with Stand (WxHxD)': '37.8" x 24" x 8.6"', 'TV without Stand (WxHxD)': '37.8" x 22.3" x 2.19"', 'Digital Audio Out (Optical)': '1 (Rear)', '- MHL (Mobile HD Link)': 'Yes', 'Screen Share': 'Yes', 'Screen Size': '42"', 'Audio': 'MP3', 'Power Supply (Voltage, Hz)': '100V ~ 240V, 50/60 Hz', 'ENERGY STAR® Qualified': 'Yes', 'Picture Mode': '7 Modes', 'VESA® Wall Mount Pattern': '400mm x 400mm', 'Aspect Ratio': '6 Modes', 'TV Shipping Dimensions (WxHxD)': '41.5" x 25.4" x 5.75"', 'Resolution': '1920 x 1080', 'Just Scan (1:1 Pixel Matching)': 'HDMI, Component, RF: 1080i, 1080p, 720p', 'Shipping Weight': '25.6 lbs', 'Composite In (AV)': '1 (shared w/Component)', 'Screen Size Class (diagonal)': '42" Class (41.9" diagonal)', 'Component Video In(Y, Pb, Pr + Audio)': '1 (Rear)', 'RF In (Antenna/Cable)': '1 (Rear)', 'UPC': '719192593589', 'Limited Warranty': '1 Year Parts & Labor', 'TV without Stand weight': '20.3 lbs', 'Triple XD™ Engine': 'Yes', 'Standby Mode': '0.3W', 'TV with Stand weight': '20.9 lbs', 'HDMI™': '2 (1 Rear, 1 Side)', 'RS-232 (mini jack)': '1 (Side)', 'USB 2.0': '1 (Side)'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/42LB5800.html
+Screen Size 42"
+Energy Star Qualified Yes
+Screen Size Class (diagonal) 42" Class (41.9" diagonal)
+Resolution 1920 x 1080p
+Display Type LED
+MCI 120
+TV without Stand (WxHxD) 37.83" x 22.32" x 2.19"
+TV with Stand (WxHxD) 37.83" x 24.02" x 8.58"
+TV without stand weight 20.3 lbs
+TV with stand weight 20.9 lbs
+TV Shipping Dimensions (WxHxD) 41.50" x 25.39" x 5.75"
+Shipping Weight 25.6 lbs
+Triple XD™ Engine Yes
+Just Scan (1:1 Pixel Matching) 0% OverScan HDMI™: 1080p/1080i/720p, Component: 1080p/1080i/720p, RF: 1080i/720p
+Resolution Upscaler Yes
+Picture Mode 8 Modes
+Aspect Ratio 8 Modes
+Real Cinema 24p (2:2 pull down) Yes
+Picture Wizard Yes
+Speaker System 2ch Speaker System
+Mono/Stereo/Dual (MTS/SAP) Yes
+Dolby® Digital Decoder Yes
+DTS Decoder Yes
+Audio Output (Watts - THD 10%) 20W
+Sound Mode 6 Modes
+Clear Voice II Yes
+Optical Sound Sync Yes
+Wireless Sound Sync Yes
+MHL (Mobile HD Link) Yes
+Premium Content Netflix, Hulu Plus, Youtube and more
+Wi-Fi® Built-in Yes
+Wi-Fi Direct Yes
+SIMPLINK™ (HDMI™ CEC) Yes
+USB Yes
+- Video DivX HD
+- Photo JPEG, JPS, MPO
+- Audio AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MPEG, MP3, PCM, DTS
+RF In (Antenna/Cable) 1 (Rear)
+Component Video In(Y, Pb, Pr + Audio) 1 (Rear)
+Composite In (AV) 1 (shared w/Component)
+HDMI® 3 (Side)
+Digital Audio Out (Optical) 1 (Rear)
+USB 2.0 3 (Side)
+LAN 1 (Rear)
+RS-232 (mini jack) 1 (Rear)
+VESA® Size (mm) 400 x 400
+Remote Control Standard
+ENERGY STAR® Qualified Yes
+Power Supply (Voltage, Hz) 100V ~ 240V, 50/60 Hz
+Standby Mode 0.3W
+Limited Warranty 1 Year Parts & Labor
+UPC 719192593459
+{'VESA® Size (mm)': '400 x 400', 'Display Type': 'LED', 'Remote Control': 'Standard', 'TV without stand weight': '20.3 lbs', 'RF In (Antenna/Cable)': '1 (Rear)', 'Wi-Fi Direct': 'Yes', 'Energy Star Qualified': 'Yes', 'Dolby® Digital Decoder': 'Yes', 'Power Supply (Voltage, Hz)': '100V ~ 240V, 50/60 Hz', 'Speaker System': '2ch Speaker System', 'ENERGY STAR® Qualified': 'Yes', 'MHL (Mobile HD Link)': 'Yes', '- Photo': 'JPEG, JPS, MPO', 'Triple XD™ Engine': 'Yes', 'Shipping Weight': '25.6 lbs', 'Optical Sound Sync': 'Yes', 'Component Video In(Y, Pb, Pr + Audio)': '1 (Rear)', 'Premium Content': 'Netflix, Hulu Plus, Youtube and more', 'UPC': '719192593459', 'LAN': '1 (Rear)', 'Sound Mode': '6 Modes', 'DTS Decoder': 'Yes', 'MCI': '120', 'Composite In (AV)': '1 (shared w/Component)', 'Real Cinema 24p (2:2 pull down)': 'Yes', 'TV with Stand (WxHxD)': '37.83" x 24.02" x 8.58"', 'TV Shipping Dimensions (WxHxD)': '41.50" x 25.39" x 5.75"', 'TV without Stand (WxHxD)': '37.83" x 22.32" x 2.19"', 'Digital Audio Out (Optical)': '1 (Rear)', 'Audio Output (Watts - THD 10%)': '20W', 'Just Scan (1:1 Pixel Matching) 0% OverScan': 'HDMI™: 1080p/1080i/720p, Component: 1080p/1080i/720p, RF: 1080i/720p', 'Screen Size': '42"', 'Resolution Upscaler': 'Yes', 'Picture Wizard': 'Yes', 'Picture Mode': '8 Modes', 'HDMI®': '3 (Side)', '- Video': 'DivX HD', 'SIMPLINK™ (HDMI™ CEC)': 'Yes', 'Resolution': '1920 x 1080p', 'Aspect Ratio': '8 Modes', 'USB': 'Yes', '- Audio': 'AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MPEG, MP3, PCM, DTS', 'Standby Mode': '0.3W', 'Screen Size Class (diagonal)': '42" Class (41.9" diagonal)', 'Limited Warranty': '1 Year Parts & Labor', 'Wi-Fi® Built-in': 'Yes', 'TV with stand weight': '20.9 lbs', 'Wireless Sound Sync': 'Yes', 'Clear Voice II': 'Yes', 'Mono/Stereo/Dual (MTS/SAP)': 'Yes', 'RS-232 (mini jack)': '1 (Rear)', 'USB 2.0': '3 (Side)'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/42LB6300.html
+Screen Size 42"
+Screen Size Class (diagonal) 42" Class (41.9" diagonal)
+Resolution 1920 x 1080
+Display Type LED
+MCI 600
+TV without Stand (WxHxD) 37.80" x 22.30" x 2.15"
+TV with Stand (WxHxD) 37.80" x 24.02" x 8.58"
+TV without Stand weight 21.2 lbs
+TV with Stand weight 21.8 lbs
+TV Shipping Dimensions (WxHxD) 41.34" x 25.79" x 5.91"
+Shipping Weight 26.0 lbs
+Triple XD™ Engine Yes
+Resolution Upscaler Yes
+Picture Mode 8 Modes
+Aspect Ratio 8 Modes
+Just Scan (1:1 Pixel Matching) HDMI/Component/RF - 1080i, 1080p, 720p
+Real Cinema 24p (2:2 pull down) Yes
+Picture Wizard Yes
+Speaker System 2ch Speaker System
+Audio Output Power (Watts - THD 10%) 20W
+Mono/Stereo/Dual (MTS/SAP) Yes
+Dolby® Digital Decoder Yes
+DTS Decoder Yes
+Sound Mode 6 Modes
+Clear Voice II Yes
+Sound Optimizer 3 Modes
+Optical Sound Sync Yes
+Wireless Sound Sync Yes
+Private Sound Sync Yes
+Premium Content Yes
+Full Web Browser Yes
+Skype™ Ready Yes (Camera AN-VC500 required and sold separately. Skype subscription required.)
+Magic Remote Control Yes
+Natural Voice Recognition Yes
+Universal Control Capability Yes
+Launcher Bar Yes
+Games Yes
+Easy Setup Yes
+Recent/Multitasking Yes
+LG App Store Yes
+LivePlus Yes
+Live Menu Yes
+Media Share Yes
+- Remote App Yes
+- Network File Browser Yes
+- YouTube Send-to-TV Yes
+Screen Share Yes
+- MHL (Mobile HD Link) Yes
+- Miracast Yes
+- WiDi Yes
+Wi-Fi® Built-in Yes
+Wi-Fi Direct Yes
+SIMPLINK™ (HDMI™ CEC) Yes
+USB Yes
+- Video DivX HD
+- Photo JPEG, JPS, MPO
+- Audio AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MPEG, MP3, PCM, DTS
+RF In (Antenna/Cable) 1 (Rear)
+Component Video In(Y, Pb, Pr + Audio) 1 (Rear)
+Composite In (AV) 1 (shared w/Component)
+HDMI™ 3 (Side)
+Digital Audio Out (Optical) 1 (Rear)
+USB 2.0 3 (Side)
+LAN 1 (Rear)
+RS-232 (mini jack) 1 (Rear)
+VESA® Size (mm) 400 x 400
+Remote Control Magic Remote
+ENERGY STAR® Qualified Yes
+Power Supply (Voltage, Hz) 100V ~ 240V, 50/60 Hz
+Standby Mode 0.3W
+Limited Warranty 1 Year Parts & Labor
+UPC 719192593282
+{'VESA® Size (mm)': '400 x 400', 'Easy Setup': 'Yes', 'Composite In (AV)': '1 (shared w/Component)', 'Display Type': 'LED', '- MHL (Mobile HD Link)': 'Yes', 'LivePlus': 'Yes', 'Natural Voice Recognition': 'Yes', 'Screen Share': 'Yes', 'Wi-Fi Direct': 'Yes', '- WiDi': 'Yes', 'Dolby® Digital Decoder': 'Yes', '- Miracast': 'Yes', 'Power Supply (Voltage, Hz)': '100V ~ 240V, 50/60 Hz', 'Speaker System': '2ch Speaker System', 'Remote Control': 'Magic Remote', 'Media Share': 'Yes', 'ENERGY STAR® Qualified': 'Yes', 'DTS Decoder': 'Yes', 'Just Scan (1:1 Pixel Matching)': 'HDMI/Component/RF - 1080i, 1080p, 720p', 'Shipping Weight': '26.0 lbs', 'Optical Sound Sync': 'Yes', 'Skype™ Ready': 'Yes (Camera AN-VC500 required and sold separately. Skype subscription required.)', 'Private Sound Sync': 'Yes', 'Premium Content': 'Yes', 'LAN': '1 (Rear)', 'Recent/Multitasking': 'Yes', 'Sound Mode': '6 Modes', '- Network File Browser': 'Yes', 'Full Web Browser': 'Yes', 'Component Video In(Y, Pb, Pr + Audio)': '1 (Rear)', 'MCI': '600', '- Video': 'DivX HD', 'Real Cinema 24p (2:2 pull down)': 'Yes', 'TV with Stand (WxHxD)': '37.80" x 24.02" x 8.58"', 'Triple XD™ Engine': 'Yes', 'TV without Stand (WxHxD)': '37.80" x 22.30" x 2.15"', 'Digital Audio Out (Optical)': '1 (Rear)', '- Audio': 'AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MPEG, MP3, PCM, DTS', 'Universal Control Capability': 'Yes', 'Magic Remote Control': 'Yes', 'Resolution': '1920 x 1080', '- Remote App': 'Yes', 'Sound Optimizer': '3 Modes', 'Live Menu': 'Yes', 'Screen Size': '42"', 'Games': 'Yes', '- YouTube Send-to-TV': 'Yes', 'HDMI™': '3 (Side)', 'Resolution Upscaler': 'Yes', 'Picture Mode': '8 Modes', 'Audio Output Power (Watts - THD 10%)': '20W', 'UPC': '719192593282', 'TV Shipping Dimensions (WxHxD)': '41.34" x 25.79" x 5.91"', 'SIMPLINK™ (HDMI™ CEC)': 'Yes', 'Picture Wizard': 'Yes', 'Aspect Ratio': '8 Modes', 'USB': 'Yes', 'Wi-Fi® Built-in': 'Yes', 'Standby Mode': '0.3W', 'Screen Size Class (diagonal)': '42" Class (41.9" diagonal)', 'RF In (Antenna/Cable)': '1 (Rear)', 'Launcher Bar': 'Yes', 'Limited Warranty': '1 Year Parts & Labor', '- Photo': 'JPEG, JPS, MPO', 'TV without Stand weight': '21.2 lbs', 'Wireless Sound Sync': 'Yes', 'TV with Stand weight': '21.8 lbs', 'Clear Voice II': 'Yes', 'Mono/Stereo/Dual (MTS/SAP)': 'Yes', 'RS-232 (mini jack)': '1 (Rear)', 'USB 2.0': '3 (Side)', 'LG App Store': 'Yes'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/42LM6200.html
+Screen Size 42"
+Resolution 1920 x 1080p
+Display Type LED
+3D Ready Yes
+LG Smart TV Yes
+TruMotion (Frame Rate) 120 Hz
+MPRT 120 Hz
+No. of HDMI Ports 4
+TV without stand (WxHxD) 38.5" x 23.3" x 1.3"
+TV with stand (WxHxD) 38.5" x 26.3" x 10.3"
+Shipping Dimensions (WxHxD) 47.1" x 30.3" x 5.2"
+TV without stand weight 28.9 lbs
+TV with stand weight 33.7 lbs
+Shipping weight 41.2 lbs
+Screen Size Class (diagonal) 42" Class (42.0" diagonal)
+Resolution 1920 x 1080p
+BLU Type Edge LED
+Response Time TruMotion 120Hz
+Dynamic Contrast Ratio 6,000,000:1
+Analog Yes
+Digital ATSC/NTSC/Clear QAM (1 Tuner)
+Triple XD Engine Yes
+Resolution Upscaler (Plus/Basic) Basic
+Picture Mode 7 Modes (Intelligent Sensor/Vivid/Standard/Cinema/Game/ISF Expert 1/ISF Expert 2)
+Picture Wizard II Yes
+Just Scan (1:1 Pixel Matching) HDMI 1080p/1080i/720p, Component 1080p/1080i/720p, RF 1080p/1080i/720p
+AV Mode (Picture & Sound) 3 Modes (Cinema/Game/Off)
+Mono/Stereo/Dual (MTS/SAP) Yes
+Dolby® Digital Decoder Yes
+Speaker System 1 Way 2 Speakers
+Audio Output (Watts - THD 10%) 10W + 10W
+Virtual Surround Yes
+Clear Voice II Yes
+Sound Mode 7 Modes (Standard/Music/Cinema/Sport/ Game/Vivid/User Setting)
+Sound Optimizer 3 Modes (Low/Medium/High)
+Mute (Normal/2 Level) Normal
+3D Type (SG/FPR) FPR (Passive)
+3D Format Auto Correction Yes
+3D to 2D Yes
+2D to 3D Yes
+3D Depth Control (3D & 2D to 3D) 20 Levels
+3D Viewpoint Control (3D & 2D to 3D) 20 Levels
+3D Image Correction Yes
+3D Sound Zooming Yes
+Dual Play Capable Yes (AG-F310DP glasses required and sold seperately)
+Home Dashboard 2.0 Yes
+App Store Yes
+Premium Content Providers Yes
+Full Web Browser Yes
+Social Center Yes
+Search & Recommendation Yes
+3D World (3D Content Streaming) Yes
+Skype™ Ready Yes (Camera required and sold seperately. Skype subscription also required.)
+Smart Phone Remote Support Yes
+Picture in Picture (Web/Skype) Yes
+Wi-Fi Ready / Built-in Built-in
+WiFi Direct Yes
+Media Link Yes
+DLNA (Movie/Photo/Music) Yes
+Windows 7 Certified Yes
+WiFi Display Yes
+Intel® Wireless Display (WiDi) Yes
+SIMPLINK (HDMI CEC) Yes
+Intelligent Sensor Yes
+Smart Energy Saving Yes (Backlight Control+Intelligent Sensor)
+Input Labeling Yes
+Quick View (Flashback) Yes
+Closed Caption Yes
+Language 4 (English/Spanish/French/Korean)
+Auto Tuning/Programming Yes
+Channel Add/Delete Yes
+Favorite Channel Programming Yes
+Auto/Manual Clock Yes
+On/Off Timer Yes
+Sleep Timer Yes
+Auto Off/Auto Sleep Yes
+RF In (Antenna/Cable) 1 (Rear)
+AV In 1 (Rear)
+Component Video In(Y, Pb, Pr) + Audio 1 (Rear)
+Digital Audio Out (Optical) 1 (Rear)
+HDMI™/HDCP Input 4 (Side)
+RGB In (D-Sub 15 Pin) - PC 1 (Rear)
+PC Audio Input 1 (Rear)
+USB 2.0 3 (Side)
+LAN 1 (Rear)
+Swivel (Left/Right) 10°/10°
+VESA Compatible 400mm x 400mm
+Magic Remote Yes (3 mode)
+3D Glasses 6 Pairs Included
+ENERGY STAR® Qualified Yes
+Power Supply (Voltage, Hz) 100V ~ 240V, 50/60 Hz
+Standby Mode 0.1W
+Limited Warranty 1 Year Parts & Labor
+UPC 719192583757
+{'3D to 2D': 'Yes', 'Display Type': 'LED', 'No. of HDMI Ports': '4', 'Shipping weight': '41.2 lbs', 'TV without stand weight': '28.9 lbs', '3D World (3D Content Streaming)': 'Yes', 'Shipping Dimensions (WxHxD)': '47.1" x 30.3" x 5.2"', 'Clear Voice II': 'Yes', 'Auto Tuning/Programming': 'Yes', 'DLNA (Movie/Photo/Music)': 'Yes', 'Auto/Manual Clock': 'Yes', 'Input Labeling': 'Yes', 'Mute (Normal/2 Level)': 'Normal', 'Skype™ Ready': 'Yes (Camera required and sold seperately. Skype subscription also required.)', 'Sleep Timer': 'Yes', 'Dual Play Capable': 'Yes (AG-F310DP glasses required and sold seperately)', '3D Depth Control (3D & 2D to 3D)': '20 Levels', 'MPRT': '120 Hz', 'Smart Phone Remote Support': 'Yes', '3D Glasses': '6 Pairs Included', 'Triple XD Engine': 'Yes', 'WiFi Display': 'Yes', 'Search & Recommendation': 'Yes', 'Digital Audio Out (Optical)': '1 (Rear)', 'Virtual Surround': 'Yes', 'Intel® Wireless Display (WiDi)': 'Yes', 'Intelligent Sensor': 'Yes', 'AV Mode (Picture & Sound)': '3 Modes (Cinema/Game/Off)', 'Media Link': 'Yes', 'On/Off Timer': 'Yes', 'Picture in Picture (Web/Skype)': 'Yes', 'App Store': 'Yes', 'UPC': '719192583757', 'Analog': 'Yes', 'Language': '4 (English/Spanish/French/Korean)', 'AV In': '1 (Rear)', '3D Viewpoint Control (3D & 2D to 3D)': '20 Levels', 'RF In (Antenna/Cable)': '1 (Rear)', 'TV with stand weight': '33.7 lbs', 'WiFi Direct': 'Yes', 'Dolby® Digital Decoder': 'Yes', 'Mono/Stereo/Dual (MTS/SAP)': 'Yes', '3D Format Auto Correction': 'Yes', 'USB 2.0': '3 (Side)', 'BLU Type': 'Edge LED', 'Home Dashboard 2.0': 'Yes', 'SIMPLINK (HDMI CEC)': 'Yes', 'TV with stand (WxHxD)': '38.5" x 26.3" x 10.3"', 'Channel Add/Delete': 'Yes', 'LG Smart TV': 'Yes', 'Power Supply (Voltage, Hz)': '100V ~ 240V, 50/60 Hz', 'Speaker System': '1 Way 2 Speakers', 'ENERGY STAR® Qualified': 'Yes', 'Wi-Fi Ready / Built-in': 'Built-in', 'Closed Caption': 'Yes', 'VESA Compatible': '400mm x 400mm', 'Response Time': 'TruMotion 120Hz', 'Just Scan (1:1 Pixel Matching)': 'HDMI 1080p/1080i/720p, Component 1080p/1080i/720p, RF 1080p/1080i/720p', '3D Ready': 'Yes', 'Component Video In(Y, Pb, Pr) + Audio': '1 (Rear)', 'LAN': '1 (Rear)', 'Magic Remote': 'Yes (3 mode)', 'Sound Mode': '7 Modes (Standard/Music/Cinema/Sport/ Game/Vivid/User Setting)', 'Resolution Upscaler (Plus/Basic)': 'Basic', 'Full Web Browser': 'Yes', '3D Image Correction': 'Yes', 'Premium Content Providers': 'Yes', '2D to 3D': 'Yes', 'Audio Output (Watts - THD 10%)': '10W + 10W', 'Favorite Channel Programming': 'Yes', '3D Type (SG/FPR)': 'FPR (Passive)', 'Screen Size': '42"', 'Social Center': 'Yes', 'Auto Off/Auto Sleep': 'Yes', 'Windows 7 Certified': 'Yes', 'Sound Optimizer': '3 Modes (Low/Medium/High)', 'Picture Mode': '7 Modes (Intelligent Sensor/Vivid/Standard/Cinema/Game/ISF Expert 1/ISF Expert 2)', 'Dynamic Contrast Ratio': '6,000,000:1', 'TV without stand (WxHxD)': '38.5" x 23.3" x 1.3"', 'Resolution': '1920 x 1080p', '3D Sound Zooming': 'Yes', 'Digital': 'ATSC/NTSC/Clear QAM (1 Tuner)', 'Standby Mode': '0.1W', 'Screen Size Class (diagonal)': '42" Class (42.0" diagonal)', 'Picture Wizard II': 'Yes', 'HDMI™/HDCP Input': '4 (Side)', 'Limited Warranty': '1 Year Parts & Labor', 'Smart Energy Saving': 'Yes (Backlight Control+Intelligent Sensor)', 'TruMotion (Frame Rate)': '120 Hz', 'RGB In (D-Sub 15 Pin) - PC': '1 (Rear)', 'Swivel (Left/Right)': '10°/10°', 'Quick View (Flashback)': 'Yes', 'PC Audio Input': '1 (Rear)'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/42LN5400.html
+Screen Size Diagonal 41.9"
+Resolution 1920 x 1080p
+Display Type LED
+TruMotion (Frame Rate) 120 Hz
+Triple XD™ Engine Yes
+Full HD 1080 Yes
+ENERGY STAR® Qualified Yes
+No. of HDMI Ports 2
+USB 3.0/2.0 Yes
+MHL™ Mobile High Definition Link Yes
+SIMPLINK™ (HDMI™ CEC) Yes
+Screen Size Class (diagonal) 42" Class (41.9" diagonal)
+Resolution 1920 x 1080p
+BLU Type Direct LED
+Response Time TruMotion 120Hz
+MCI 240
+TV without stand (WxHxD) 38.11" x 22.28" x 3.11"
+TV with stand (WxHxD) 38.11" x 24.72" x 9.25"
+Shipping Dimensions (WxHxD) 45.28" x 25.98" x 6.89"
+TV without stand weight 20.5 lbs
+TV with stand weight 22.9 lbs
+Shipping weight 28.9 lbs
+Triple XD™ Engine Yes
+Picture Mode 7 Modes (Vivid/Standard/Cinema/Sport/Game/Expert1/Expert2)
+Picture Wizard II Yes
+Smart Energy Saving Yes
+Aspect Ratio 6 Modes (16:9, Just Scan, Original, 4:3, Cinema Zoom 1, Zoom)
+AV Mode II (Picture & Sound) 3 Modes (Cinema/Game/Off )
+Speaker System 1 Way, 2 Speakers
+Audio Output Power (Watts - THD 10%) 10W + 10W
+Mono/Stereo/Dual (MTS/SAP) Yes
+Virtual Surround Yes
+Sound Mode 5 Modes (Standard/Music/Cinema/Sport/Game)
+Clear Voice II Yes
+MHL™ Mobile High Definition Link Yes
+SIMPLINK™ (HDMI™ CEC) Yes
+USB Playback MP3
+RF In (Antenna/Cable) 1 (Rear)
+AV In 1 (Rear)
+Component Video In(Y, Pb, Pr + Audio) 1 (Rear)
+HDMI™/HDCP Input 2 (1 Side, 1 Rear)
+USB 3.0/2.0 Input 1 (Side)
+Digital Audio Out (Optical) 1 (Rear)
+RS-232C (Control/Service) 1 (Rear)
+HDMI™/HDCP Input 1
+USB 3.0/2.0 Input 1
+RF In (Antenna/Cable) 1
+AV In 1
+Component Video In (Y, Pb, Pr) + Audio 1
+Digital Audio Out (Optical) 1
+HDMI™/HDCP Input 1
+RS-232C (Control/Service) via Headphone
+VESA Standard 200mm x 200mm
+Remote Control Yes
+Batteries AA x 2
+ENERGY STAR® Qualified Yes
+Power Supply (Voltage, Hz) 100V ~ 240V, 50/60 Hz
+Power Consumption 44W
+Standby Mode 0.3W
+Limited Warranty 1 Year Parts & Labor
+UPC 719192588370
+{'Display Type': 'LED', 'Component Video In (Y, Pb, Pr) + Audio': '1', 'No. of HDMI Ports': '2', 'Remote Control': 'Yes', 'USB 3.0/2.0': 'Yes', 'TV without stand weight': '20.5 lbs', 'MHL™ Mobile High Definition Link': 'Yes', 'Shipping Dimensions (WxHxD)': '45.28" x 25.98" x 6.89"', 'Clear Voice II': 'Yes', 'Batteries': 'AA x 2', 'Speaker System': '1 Way, 2 Speakers', 'ENERGY STAR® Qualified': 'Yes', 'Response Time': 'TruMotion 120Hz', 'Digital Audio Out (Optical)': '1', 'Component Video In(Y, Pb, Pr + Audio)': '1 (Rear)', 'RF In (Antenna/Cable)': '1', 'SIMPLINK™ (HDMI™ CEC)': 'Yes', 'TV with stand weight': '22.9 lbs', 'Sound Mode': '5 Modes (Standard/Music/Cinema/Sport/Game)', 'Audio Output Power (Watts - THD 10%)': '10W + 10W', 'AV In': '1', 'USB Playback': 'MP3', 'MCI': '240', 'Shipping weight': '28.9 lbs', 'Power Consumption': '44W', 'Triple XD™ Engine': 'Yes', 'Screen Size Diagonal': '41.9"', 'Virtual Surround': 'Yes', 'RS-232C (Control/Service)': 'via Headphone', 'VESA Standard': '200mm x 200mm', 'USB 3.0/2.0 Input': '1', 'Full HD 1080': 'Yes', 'Picture Mode': '7 Modes (Vivid/Standard/Cinema/Sport/Game/Expert1/Expert2)', 'UPC': '719192588370', 'TV without stand (WxHxD)': '38.11" x 22.28" x 3.11"', 'Resolution': '1920 x 1080p', 'Aspect Ratio': '6 Modes (16:9, Just Scan, Original, 4:3, Cinema Zoom 1, Zoom)', 'Standby Mode': '0.3W', 'Screen Size Class (diagonal)': '42" Class (41.9" diagonal)', 'Picture Wizard II': 'Yes', 'HDMI™/HDCP Input': '1', 'Power Supply (Voltage, Hz)': '100V ~ 240V, 50/60 Hz', 'Limited Warranty': '1 Year Parts & Labor', 'AV Mode II (Picture & Sound)': '3 Modes (Cinema/Game/Off )', 'Smart Energy Saving': 'Yes', 'TruMotion (Frame Rate)': '120 Hz', 'TV with stand (WxHxD)': '38.11" x 24.72" x 9.25"', 'Mono/Stereo/Dual (MTS/SAP)': 'Yes', 'BLU Type': 'Direct LED'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/47LB5800.html
+Screen Size 47"
+Screen Size Class (diagonal) 47" Class (46.9" diagonal)
+Resolution 1920 x 1080
+Display Type LED
+MCI 120
+TV without Stand (WxHxD) 42.24" x 24.76" x 2.20"
+TV with Stand (WxHxD) 42.24" x 26.61" x 10.04"
+TV without Stand weight 27.1 lbs
+TV with Stand weight 28.0 lbs
+TV Shipping Dimensions (WxHxD) 45.04" x 27.36" x 5.75"
+Shipping Weight 36.2 lbs
+Triple XD™ Engine Yes
+Just Scan (1:1 Pixel Matching) 0% OverScan HDMI™: 1080p/1080i/720p, Component: 1080p/1080i/720p, RF: 1080i/720p
+Resolution Upscaler Yes
+Picture Mode 8 Modes
+Aspect Ratio 8 Modes
+Real Cinema 24p (2:2 pull down) Yes
+Picture Wizard Yes
+Speaker System 2ch Speaker System
+Mono/Stereo/Dual (MTS/SAP) Yes
+Dolby® Digital Decoder Yes
+DTS Decoder Yes
+Audio Output (Watts - THD 10%) 20W
+Sound Mode 6 Modes
+Clear Voice II Yes
+Optical Sound Sync Yes
+Wireless Sound Sync Yes
+MHL (Mobile HD Link) Yes
+Premium Content Netflix, Hulu Plus, Youtube and more
+Wi-Fi® Built-in Yes
+Wi-Fi Direct Yes
+SIMPLINK™ (HDMI™ CEC) Yes
+USB Yes
+- Video DivX HD
+- Photo JPEG, JPS, MPO
+- Audio AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MPEG, MP3, PCM, DTS
+RF In (Antenna/Cable) 1 (Rear)
+Component Video In(Y, Pb, Pr + Audio) 1 (Rear)
+Composite In (AV) 1 (shared w/Component)
+HDMI™ 3 (Side)
+Digital Audio Out (Optical) 1 (Rear)
+USB 2.0 3 (Side)
+LAN 1 (Rear)
+RS-232 (mini jack) 1 (Rear)
+VESA® Size (mm) 400 x 400
+Remote Control Standard
+ENERGY STAR® Qualified Yes
+Power Supply (Voltage, Hz) 100V ~ 240V, 50/60 Hz
+Standby Mode 0.3W
+Limited Warranty 1 Year Parts & Labor
+UPC 719192593930
+{'VESA® Size (mm)': '400 x 400', 'Display Type': 'LED', 'Remote Control': 'Standard', 'Premium Content': 'Netflix, Hulu Plus, Youtube and more', 'Wi-Fi Direct': 'Yes', 'Dolby® Digital Decoder': 'Yes', 'Power Supply (Voltage, Hz)': '100V ~ 240V, 50/60 Hz', 'Speaker System': '2ch Speaker System', 'ENERGY STAR® Qualified': 'Yes', 'MHL (Mobile HD Link)': 'Yes', '- Photo': 'JPEG, JPS, MPO', 'Triple XD™ Engine': 'Yes', 'Shipping Weight': '36.2 lbs', 'Optical Sound Sync': 'Yes', 'Component Video In(Y, Pb, Pr + Audio)': '1 (Rear)', 'RF In (Antenna/Cable)': '1 (Rear)', 'LAN': '1 (Rear)', 'Sound Mode': '6 Modes', 'DTS Decoder': 'Yes', 'MCI': '120', 'Composite In (AV)': '1 (shared w/Component)', 'Real Cinema 24p (2:2 pull down)': 'Yes', 'TV with Stand (WxHxD)': '42.24" x 26.61" x 10.04"', 'TV Shipping Dimensions (WxHxD)': '45.04" x 27.36" x 5.75"', 'TV without Stand (WxHxD)': '42.24" x 24.76" x 2.20"', 'Digital Audio Out (Optical)': '1 (Rear)', 'Resolution': '1920 x 1080', 'Audio Output (Watts - THD 10%)': '20W', 'Just Scan (1:1 Pixel Matching) 0% OverScan': 'HDMI™: 1080p/1080i/720p, Component: 1080p/1080i/720p, RF: 1080i/720p', 'Screen Size': '47"', 'Resolution Upscaler': 'Yes', 'Picture Mode': '8 Modes', 'Clear Voice II': 'Yes', 'UPC': '719192593930', '- Video': 'DivX HD', 'SIMPLINK™ (HDMI™ CEC)': 'Yes', 'Picture Wizard': 'Yes', 'Aspect Ratio': '8 Modes', 'USB': 'Yes', '- Audio': 'AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MPEG, MP3, PCM, DTS', 'Standby Mode': '0.3W', 'Screen Size Class (diagonal)': '47" Class (46.9" diagonal)', 'Limited Warranty': '1 Year Parts & Labor', 'Wi-Fi® Built-in': 'Yes', 'TV without Stand weight': '27.1 lbs', 'Wireless Sound Sync': 'Yes', 'TV with Stand weight': '28.0 lbs', 'HDMI™': '3 (Side)', 'Mono/Stereo/Dual (MTS/SAP)': 'Yes', 'RS-232 (mini jack)': '1 (Rear)', 'USB 2.0': '3 (Side)'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/49UB8200.html
+Screen Size 49"
+Screen Size Class (diagonal) 49" Class (48.5" diagonal)
+Resolution 3840 x 2160
+Display Type LED
+UCI (Ultra Clarity Index) 1080
+TV without Stand (WxHxD) 43" x 25.4" x 1.5"
+TV with Stand (WxHxD) 43" x 26.9" x 9.8"
+TV without Stand weight 38.6 lbs
+TV with Stand weight 39.7 lbs
+TV Shipping Dimensions (WxHxD) 47.1" x 29.1" x 6.9"
+Shipping Weight 47.4 lbs
+Tru 4K Engine Yes
+4K Resolution Upscaler Yes
+Dynamic Color Enhancer Yes
+Picture Mode 8 Modes
+Aspect Ratio 6 Modes
+Just Scan (1:1 Pixel Matching) HDMI, Component, RF: 1080i, 1080p, 720p
+Real Cinema 24p (2:2 pull down) Yes
+Picture Wizard III Yes
+Speaker System 2ch Speaker System
+Audio Output Power (Watts - THD 10%) 20W
+Mono/Stereo/Dual (MTS/SAP) Yes
+Dolby® Digital Decoder Yes
+DTS Decoder Yes
+Sound Mode 6 Modes
+Clear Voice II Yes
+Sound Optimizer 3 Modes
+Optical Sound Sync Yes
+Wireless Sound Sync Yes
+Premium VOD Services Netflix, Hulu Plus, Youtube and more
+Skype™ Ready Yes (Camera AN-VC500 required and sold separately. Skype subscription required.)
+Media Share Yes
+- Remote App Yes
+- Network File Browser Yes
+- YouTube Send-to-TV Yes
+Screen Share Yes
+- MHL (Mobile HD Link) Yes
+- Miracast Yes
+- WiDi Yes
+Wi-Fi® Built-in Yes
+Wi-Fi Direct Yes
+SIMPLINK™ (HDMI™ CEC) Yes
+USB Yes
+- Video DivX HD
+- Photo JPEG
+- Audio AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MPEG, MP3, PCM, DTS
+RF In (Antenna/Cable) 1 (Rear)
+Component Video In(Y, Pb, Pr + Audio) 1 (Rear)
+Composite In (AV) 1 (shared w/Component)
+HDMI™ 3(2 Rear, 1 Side)
+USB 3.0/2.0 In 1/2 (Side)
+Digital Audio Out (Optical) 1 (Rear)
+LAN 1 (Rear)
+RS-232 (mini jack) 1 (Rear)
+VESA® Size (mm) 400 x 400
+Power Supply (Voltage, Hz) 100V ~ 240V, 50/60 Hz
+Standby Mode 0.3W
+Limited Warranty 1 Year Parts & Labor
+UPC 719192595903
+{'VESA® Size (mm)': '400 x 400', 'Composite In (AV)': '1 (shared w/Component)', 'Display Type': 'LED', '- MHL (Mobile HD Link)': 'Yes', '- Network File Browser': 'Yes', 'Screen Share': 'Yes', 'Wi-Fi Direct': 'Yes', '- WiDi': 'Yes', '4K Resolution Upscaler': 'Yes', '- Miracast': 'Yes', 'Power Supply (Voltage, Hz)': '100V ~ 240V, 50/60 Hz', 'Speaker System': '2ch Speaker System', 'Picture Wizard III': 'Yes', 'Media Share': 'Yes', 'DTS Decoder': 'Yes', 'Just Scan (1:1 Pixel Matching)': 'HDMI, Component, RF: 1080i, 1080p, 720p', 'Shipping Weight': '47.4 lbs', 'LAN': '1 (Rear)', 'Optical Sound Sync': 'Yes', 'Skype™ Ready': 'Yes (Camera AN-VC500 required and sold separately. Skype subscription required.)', 'Component Video In(Y, Pb, Pr + Audio)': '1 (Rear)', 'RF In (Antenna/Cable)': '1 (Rear)', 'USB 3.0/2.0 In': '1/2 (Side)', 'Sound Mode': '6 Modes', 'Audio Output Power (Watts - THD 10%)': '20W', 'UPC': '719192595903', '- Video': 'DivX HD', 'Real Cinema 24p (2:2 pull down)': 'Yes', 'TV with Stand (WxHxD)': '43" x 26.9" x 9.8"', 'TV without Stand (WxHxD)': '43" x 25.4" x 1.5"', 'Digital Audio Out (Optical)': '1 (Rear)', '- Photo': 'JPEG', 'UCI (Ultra Clarity Index)': '1080', 'Sound Optimizer': '3 Modes', 'Screen Size': '49"', '- Remote App': 'Yes', '- YouTube Send-to-TV': 'Yes', 'HDMI™': '3(2 Rear, 1 Side)', 'Tru 4K Engine': 'Yes', 'Picture Mode': '8 Modes', 'Premium VOD Services': 'Netflix, Hulu Plus, Youtube and more', 'TV Shipping Dimensions (WxHxD)': '47.1" x 29.1" x 6.9"', 'SIMPLINK™ (HDMI™ CEC)': 'Yes', 'Resolution': '3840 x 2160', 'Aspect Ratio': '6 Modes', 'Dynamic Color Enhancer': 'Yes', 'USB': 'Yes', 'Wi-Fi® Built-in': 'Yes', 'Standby Mode': '0.3W', 'Screen Size Class (diagonal)': '49" Class (48.5" diagonal)', 'Limited Warranty': '1 Year Parts & Labor', '- Audio': 'AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MPEG, MP3, PCM, DTS', 'TV without Stand weight': '38.6 lbs', 'Wireless Sound Sync': 'Yes', 'Dolby® Digital Decoder': 'Yes', 'TV with Stand weight': '39.7 lbs', 'Clear Voice II': 'Yes', 'Mono/Stereo/Dual (MTS/SAP)': 'Yes', 'RS-232 (mini jack)': '1 (Rear)'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/shopallhome_tvs/49UB8500.html
+Screen Size 49"
+Screen Size Class (diagonal) 49" Class (48.5" diagonal)
+Resolution 3840 x 2160
+Display Type LED
+UCI (Ultra Clarity Index) 1200
+TV without Stand (WxHxD) 43" x 25.4" x 1.5"
+TV with Stand (WxHxD) 43" x 27.1" x 9.5"
+TV without Stand weight 38.5 lbs
+TV with Stand weight 40.1 lbs
+TV Shipping Dimensions (WxHxD) 47.1" x 29.1" x 6.9"
+Shipping Weight 47.8 lbs
+Tru 4K Engine Yes
+4K Resolution Upscaler Yes
+Tru Color Generator Yes
+Dynamic Color Enhancer Yes
+Picture Mode 9 Modes
+Aspect Ratio 8 Modes
+Just Scan (1:1 Pixel Matching) HDMI: 1080i, Component: 1080p, RF 720p
+Real Cinema 24p (2:2 pull down) Yes
+Picture Wizard III Yes
+Speaker System 2ch Speaker System
+Audio Output Power (Watts - THD 10%) 20W
+Mono/Stereo/Dual (MTS/SAP) Yes
+Dolby® Digital Decoder Yes
+DTS Decoder Yes
+Sound Mode 6 Modes
+Clear Voice II Yes
+Sound Optimizer 3 Modes
+Optical Sound Sync Yes
+Wireless Sound Sync Yes
+3D Type FPR (Passive)
+3D to 2D Yes
+2D to 3D Yes
+3D Depth Control Yes
+3D Viewpoint Control 20 Levels
+3D Image Correction Yes
+Dual Play Capable Yes (Glasses AG-F400DP required and sold separately.)
+Premium Content Yes
+Full Web Browser Yes
+Skype™ Ready Yes (Camera AN-VC500 required and sold separately. Skype subscription required.)
+Magic Remote Control Yes
+Natural Voice Recognition Yes
+Universal Control Capability Yes
+Launcher Bar Yes
+Games Yes
+Easy Setup Yes
+Recent/Multitasking Yes
+LG App Store Yes
+LivePlus Yes
+Live Menu Yes
+Media Share Yes
+- Remote App Yes
+- Network File Browser Yes
+- YouTube Send-to-TV Yes
+Screen Share Yes
+- MHL (Mobile HD Link) Yes
+- Miracast Yes
+- WiDi Yes
+Wi-Fi® Built-in Yes
+Wi-Fi Direct Yes
+SIMPLINK™ (HDMI™ CEC) Yes
+USB Yes
+- Video DivX HD
+- Photo JPEG, JPS, MPO
+- Audio AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MPEG, MP3, PCM, DTS
+RF In (Antenna/Cable) 1 (Rear)
+Component Video In(Y, Pb, Pr + Audio) 1 (Rear)
+Composite In (AV) 1 (shared w/Component)
+HDMI™ 4 HDMI (Side)
+USB 3.0/2.0 In 1/2 (Side)
+Digital Audio Out (Optical) 1 (Rear)
+LAN 1 (Rear)
+RS-232 1 (Rear)
+3D Glasses 2 Pairs Included
+Limited Warranty 1 Year Parts & Labor
+UPC 719192593916
+{'Easy Setup': 'Yes', '3D to 2D': 'Yes', 'Composite In (AV)': '1 (shared w/Component)', 'Display Type': 'LED', '- MHL (Mobile HD Link)': 'Yes', 'LivePlus': 'Yes', '3D Viewpoint Control': '20 Levels', 'Premium Content': 'Yes', 'Wi-Fi Direct': 'Yes', '- WiDi': 'Yes', '4K Resolution Upscaler': 'Yes', '- Miracast': 'Yes', 'Speaker System': '2ch Speaker System', 'Picture Wizard III': 'Yes', 'Media Share': 'Yes', 'DTS Decoder': 'Yes', '3D Type': 'FPR (Passive)', 'Just Scan (1:1 Pixel Matching)': 'HDMI: 1080i, Component: 1080p, RF 720p', 'Shipping Weight': '47.8 lbs', 'LAN': '1 (Rear)', 'Optical Sound Sync': 'Yes', 'Skype™ Ready': 'Yes (Camera AN-VC500 required and sold separately. Skype subscription required.)', 'Component Video In(Y, Pb, Pr + Audio)': '1 (Rear)', 'Dual Play Capable': 'Yes (Glasses AG-F400DP required and sold separately.)', 'USB 3.0/2.0 In': '1/2 (Side)', 'Recent/Multitasking': 'Yes', '- Video': 'DivX HD', 'Sound Mode': '6 Modes', '- Network File Browser': 'Yes', '3D Glasses': '2 Pairs Included', 'Full Web Browser': 'Yes', '3D Depth Control': 'Yes', 'Natural Voice Recognition': 'Yes', '3D Image Correction': 'Yes', 'Real Cinema 24p (2:2 pull down)': 'Yes', 'TV with Stand (WxHxD)': '43" x 27.1" x 9.5"', '2D to 3D': 'Yes', 'TV without Stand (WxHxD)': '43" x 25.4" x 1.5"', 'Digital Audio Out (Optical)': '1 (Rear)', 'Universal Control Capability': 'Yes', 'Magic Remote Control': 'Yes', '- Photo': 'JPEG, JPS, MPO', 'UCI (Ultra Clarity Index)': '1200', 'Sound Optimizer': '3 Modes', '- Remote App': 'Yes', 'Live Menu': 'Yes', 'Screen Size': '49"', 'Games': 'Yes', '- YouTube Send-to-TV': 'Yes', 'HDMI™': '4 HDMI (Side)', 'Tru 4K Engine': 'Yes', 'Screen Share': 'Yes', 'Picture Mode': '9 Modes', 'Audio Output Power (Watts - THD 10%)': '20W', 'UPC': '719192593916', 'TV Shipping Dimensions (WxHxD)': '47.1" x 29.1" x 6.9"', 'SIMPLINK™ (HDMI™ CEC)': 'Yes', 'Resolution': '3840 x 2160', 'RS-232': '1 (Rear)', 'Aspect Ratio': '8 Modes', 'Dynamic Color Enhancer': 'Yes', 'USB': 'Yes', 'Wi-Fi® Built-in': 'Yes', 'Screen Size Class (diagonal)': '49" Class (48.5" diagonal)', 'RF In (Antenna/Cable)': '1 (Rear)', 'Launcher Bar': 'Yes', 'Limited Warranty': '1 Year Parts & Labor', '- Audio': 'AC3 (Dolby Digital), EAC3, HE-AAC, AAC, MPEG, MP3, PCM, DTS', 'Tru Color Generator': 'Yes', 'TV without Stand weight': '38.5 lbs', 'Wireless Sound Sync': 'Yes', 'Dolby® Digital Decoder': 'Yes', 'TV with Stand weight': '40.1 lbs', 'Clear Voice II': 'Yes', 'Mono/Stereo/Dual (MTS/SAP)': 'Yes', 'LG App Store': 'Yes'}
+finalizou

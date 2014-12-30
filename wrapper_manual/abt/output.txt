@@ -1,0 +1,3961 @@
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/bhphotovideo_tvs/32LN530B.html
+Screen Size (Diagonal)
+								
+								
+								
+								
+							 
+								31.5"
+                                
+                                
+                                
+							
+Panel Type
+								
+								
+								
+								
+							 
+								LED LCD
+                                
+                                
+                                
+							
+Aspect Ratio
+								
+								
+								
+								
+							 
+								16 : 9
+                                
+                                
+                                
+							
+Pixel Resolution
+								
+								
+								
+								
+							 
+								1024 x 768
+                                
+                                
+                                
+							
+Refresh Rate
+								
+								
+								
+								
+							 
+								60 Hz
+                                
+                                
+                                
+							
+Viewing Angle(H x V)
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Video System
+								
+								
+								
+								
+							 
+								ATSC, CATV, NTSC-M, QAM
+                                
+                                
+                                
+							
+HDTV Compatibility
+								
+								
+								
+								
+							 
+								720 p
+                                
+                                
+                                
+							
+TV Tuner
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+3D
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Sound
+								
+								
+								
+								
+							 
+								Stereo
+                                
+                                
+                                
+							
+Subwoofer
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Power
+								
+								
+								
+								
+							 
+								20 W
+                                
+                                
+                                
+							
+Orientation
+								
+								
+								
+								
+							 
+								1-Way 2 Speakers
+                                
+                                
+                                
+							
+Inputs/Outputs
+								
+								
+								
+								
+							 
+								1x HDMI Audio/Video In (Rear)1x HDMI Audio/Video In (Side)1x RCA Component Video In (Rear)1x RCA Composite Video In (Rear)1x RCA Stereo (L/R) Audio In (Rear)1x USB Audio/Video/Photo In (Side)1x RF Antenna In (Rear)1x RS-232C Control/Service In/Out (Rear)
+                                
+                                
+                                
+							
+Picture Modes
+								
+								
+								
+								
+							 
+								Cinema, Game, ISF Expert 1, ISF Expert 2, Sports, Standard, Vivid
+                                
+                                
+                                
+							
+Media Player
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Menu Language
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Remote Control
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Wall Mounting
+								
+								
+								
+								
+							 
+								200 x 100 mm
+                                
+                                
+                                
+							
+Battery Type
+								
+								
+								
+								
+							 
+								2 x  AAA
+                                
+                                
+                                
+							
+Power Requirements
+								
+								
+								
+								
+							 
+								100-240 VAC, 50/60 Hz
+                                
+                                
+                                
+							
+Power Consumption
+								
+								
+								
+								
+							 
+								Operational: 28.9WStandby: 0.3W
+                                
+                                
+                                
+							
+Operating/Storage Temperature
+								
+								
+								
+								
+							 
+Operating32 to 104°F (0 to 40°C)Humidity: 0 - 80%Storage-4 to 140°F (-20 to 60°C)Humidity: 0 - 85%
+                                
+                                
+                                
+							
+Energy Star Compliant
+								
+								
+								
+								
+							 
+								Version 6.0
+                                
+                                
+                                
+							
+Dimensions (WxHxD)
+								
+								
+								
+								
+							 
+								29.1 x 17.7 x 3.1" / 738.0 x 449.0 x 79.0 mm without stand29.1 x 19.6 x 8.1" / 738.0 x 497.0 x 207.0 mm with stand
+
+Weight
+								
+								
+								
+								
+							 
+								14.1 lb / 6.40 kg without stand15.4 lb / 6.99 kg with stand
+
+{'Aspect Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t16 : 9\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dimensions (WxHxD)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t29.1 x 17.7 x 3.1"\xa0/\xa0738.0 x 449.0 x 79.0 mm without stand29.1 x 19.6 x 8.1"\xa0/\xa0738.0 x 497.0 x 207.0 mm with stand\n', 'Inputs/Outputs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1x HDMI\xa0Audio/Video\xa0In\xa0(Rear)1x HDMI\xa0Audio/Video\xa0In\xa0(Side)1x RCA Component\xa0Video\xa0In\xa0(Rear)1x RCA Composite\xa0Video\xa0In\xa0(Rear)1x RCA Stereo (L/R)\xa0Audio\xa0In\xa0(Rear)1x USB\xa0Audio/Video/Photo\xa0In\xa0(Side)1x RF\xa0Antenna\xa0In\xa0(Rear)1x RS-232C\xa0Control/Service\xa0In/Out\xa0(Rear)\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wall Mounting\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t200 x 100 mm\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Pixel Resolution\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1024 x 768\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Panel Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tLED LCD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Media Player\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Menu Language\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Energy Star Compliant\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tVersion 6.0\n                                \n                                \n                                \n\t\t\t\t\t\t\t', '3D\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'HDTV Compatibility\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t720\xa0p\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Subwoofer\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Remote Control\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Operating/Storage Temperature\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nOperating32 to 104°F (0 to 40°C)Humidity: 0 - 80%Storage-4 to 140°F (-20 to 60°C)Humidity: 0 - 85%\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t20\xa0W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tStereo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Consumption\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tOperational: 28.9WStandby: 0.3W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Video System\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tATSC, CATV, NTSC-M, QAM\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Viewing Angle(H x V)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Refresh Rate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Weight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t14.1 lb\xa0/\xa06.40 kg without stand15.4 lb\xa0/\xa06.99 kg with stand\n', 'Battery Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t2 x  AAA\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Requirements\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t100-240 VAC, 50/60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Orientation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1-Way 2 Speakers\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Picture Modes\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tCinema, Game, ISF Expert 1, ISF Expert 2, Sports, Standard, Vivid\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Screen Size (Diagonal)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t31.5"\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'TV Tuner\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/bhphotovideo_tvs/KDL-40W600B.html
+Screen Size (Diagonal)
+								
+								
+								
+								
+							 
+								40"
+                                
+                                
+                                
+							
+Panel Type
+								
+								
+								
+								
+							 
+								LED LCD
+                                
+                                
+                                
+							
+Aspect Ratio
+								
+								
+								
+								
+							 
+								16 : 9
+                                
+                                
+                                
+							
+Pixel Resolution
+								
+								
+								
+								
+							 
+								1920 x 1080
+                                
+                                
+                                
+							
+Dynamic Contrast Ratio
+								
+								
+								
+								
+							 
+								1000000 : 1
+                                
+                                
+									
+1
+
+Please Note:
+Over 1-million
+close
+
+
+
+Refresh Rate
+								
+								
+								
+								
+							 
+								60 Hz
+                                
+                                
+                                
+							
+Viewing Angle(H x V)
+								
+								
+								
+								
+							 
+								89&deg H x 89&deg V
+                                
+                                
+                                
+							
+Video System
+								
+								
+								
+								
+							 
+								ATSC, CATV, Clear QAM, NTSC
+                                
+                                
+                                
+							
+HDTV Compatibility
+								
+								
+								
+								
+							 
+								1080/24 p (HDMI only)1080/60 i1080/60 p480/60 i480/60 p720/60 p1080/30 p (HDMI only)720/30 p (HDMI only)720/24 p (HDMI only)
+
+TV Tuner
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+3D
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Sound
+								
+								
+								
+								
+							 
+								Stereo
+                                
+                                
+                                
+							
+Power
+								
+								
+								
+								
+							 
+								16 W
+                                
+                                
+                                
+							
+Orientation
+								
+								
+								
+								
+							 
+								Bottom
+                                
+                                
+                                
+							
+Dolby Digital
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Inputs/Outputs
+								
+								
+								
+								
+							 
+								1x 1/8" (3.5mm) Mini Audio Out (Side)2x RCA Stereo (L/R) Audio In (Rear)1x RCA Component Video In (Rear)2x USB 2.0 Audio/Video/Photo In (Side)2x RCA Composite Video In (Rear)3x HDMI Audio/Video In (Bottom)1x HDMI Audio/Video In (Side)1x Ethernet LAN In/Out (Rear)1x RF Antenna In (Bottom)1x TOSLINK Audio Out (Rear)
+                                
+                                
+                                
+							
+Picture Modes
+								
+								
+								
+								
+							 
+								Cinema, Custom, Full, Game, Graphics, Normal, Photo, Sports, Vivid, Wide Zoom, Zoom
+                                
+                                
+                                
+							
+Sound Modes
+								
+								
+								
+								
+							 
+								CinemaGameMusicSportStandard
+                                
+                                
+                                
+							
+Media Player
+								
+								
+								
+								
+							 
+								3GPPAVCHDAVIJPEGMKVMOVMP3MP4MPEG1MPEG2PSMPEG2TSMPOWAVWEBMWMAWMVXvid
+                                
+                                
+                                
+							
+Wi-Fi
+								
+								
+								
+								
+							 
+								Built-in
+                                
+                                
+                                
+							
+Menu Language
+								
+								
+								
+								
+							 
+								English, Spanish, French
+                                
+                                
+                                
+							
+Remote Control
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Battery Type
+								
+								
+								
+								
+							 
+								2 x  AAA
+                                
+                                
+                                
+							
+Power Requirements
+								
+								
+								
+								
+							 
+								120-240 VAC, 50/60 Hz
+                                
+                                
+                                
+							
+Power Consumption
+								
+								
+								
+								
+							 
+								Maximum: 75.0 WStandby: 0.5 W
+                                
+                                
+                                
+							
+Energy Star Compliant
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Dimensions (WxHxD)
+								
+								
+								
+								
+							 
+								36.5 x 22.0 x 3.6" / 92.7 x 55.9 x 9.1 cm Without Stand36.5 x 23.0 x 6.5" / 92.7 x 58.4 x 16.5 cm With Stand
+
+Weight
+								
+								
+								
+								
+							 
+								16.3 lb / 7.39 kg Without Stand17.5 lb / 7.94 kg With Stand
+
+{'Dolby Digital\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Aspect Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t16 : 9\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dynamic Contrast Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1000000 : 1\n                                \n                                \n\t\t\t\t\t\t\t\t\t\n1\n\nPlease Note:\nOver 1-million\nclose\n\n\n', 'Inputs/Outputs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1x 1/8" (3.5mm) Mini\xa0Audio\xa0Out\xa0(Side)2x RCA Stereo (L/R)\xa0Audio\xa0In\xa0(Rear)1x RCA Component\xa0Video\xa0In\xa0(Rear)2x USB 2.0\xa0Audio/Video/Photo\xa0In\xa0(Side)2x RCA Composite\xa0Video\xa0In\xa0(Rear)3x HDMI\xa0Audio/Video\xa0In\xa0(Bottom)1x HDMI\xa0Audio/Video\xa0In\xa0(Side)1x Ethernet\xa0LAN\xa0In/Out\xa0(Rear)1x RF\xa0Antenna\xa0In\xa0(Bottom)1x TOSLINK\xa0Audio\xa0Out\xa0(Rear)\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Pixel Resolution\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1920 x 1080\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Panel Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tLED LCD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dimensions (WxHxD)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t36.5 x 22.0 x 3.6"\xa0/\xa092.7 x 55.9 x 9.1 cm Without Stand36.5 x 23.0 x 6.5"\xa0/\xa092.7 x 58.4 x 16.5 cm With Stand\n', 'Media Player\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t3GPPAVCHDAVIJPEGMKVMOVMP3MP4MPEG1MPEG2PSMPEG2TSMPOWAVWEBMWMAWMVXvid\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Menu Language\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tEnglish, Spanish, French\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Energy Star Compliant\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Weight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t16.3 lb\xa0/\xa07.39 kg Without Stand17.5 lb\xa0/\xa07.94 kg With Stand\n', '3D\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'HDTV Compatibility\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1080/24\xa0p\xa0(HDMI only)1080/60\xa0i1080/60\xa0p480/60\xa0i480/60\xa0p720/60\xa0p1080/30\xa0p\xa0(HDMI only)720/30\xa0p\xa0(HDMI only)720/24\xa0p\xa0(HDMI only)\n', 'Remote Control\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tStereo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t16\xa0W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Screen Size (Diagonal)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t40"\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Consumption\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tMaximum: 75.0 WStandby: 0.5 W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Video System\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tATSC, CATV, Clear QAM, NTSC\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Viewing Angle(H x V)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t89&deg H x 89&deg V\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Refresh Rate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Battery Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t2 x  AAA\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wi-Fi\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBuilt-in\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Requirements\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t120-240 VAC, 50/60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Orientation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBottom\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Picture Modes\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tCinema, Custom, Full, Game, Graphics, Normal, Photo, Sports, Vivid, Wide Zoom, Zoom\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound Modes\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tCinemaGameMusicSportStandard\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'TV Tuner\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/bhphotovideo_tvs/KDL-48W600B.html
+Screen Size (Diagonal)
+								
+								
+								
+								
+							 
+								47.6"
+                                
+                                
+                                
+							
+Panel Type
+								
+								
+								
+								
+							 
+								LED LCD
+                                
+                                
+                                
+							
+Aspect Ratio
+								
+								
+								
+								
+							 
+								16 : 9
+                                
+                                
+                                
+							
+Pixel Resolution
+								
+								
+								
+								
+							 
+								1920 x 1080
+                                
+                                
+                                
+							
+Dynamic Contrast Ratio
+								
+								
+								
+								
+							 
+								1000000 : 1
+                                
+                                
+									
+1
+
+Please Note:
+Over 1-million
+close
+
+
+
+Refresh Rate
+								
+								
+								
+								
+							 
+								60 Hz
+                                
+                                
+                                
+							
+Viewing Angle(H x V)
+								
+								
+								
+								
+							 
+								89&deg H x 89&deg V
+                                
+                                
+                                
+							
+Video System
+								
+								
+								
+								
+							 
+								ATSC, CATV, Clear QAM, NTSC
+                                
+                                
+                                
+							
+HDTV Compatibility
+								
+								
+								
+								
+							 
+								1080/24 p (HDMI only)1080/60 i1080/60 p480/60 i480/60 p720/60 p1080/30 p (HDMI only)720/30 p (HDMI only)720/24 p (HDMI only)
+
+TV Tuner
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+3D
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Sound
+								
+								
+								
+								
+							 
+								Stereo
+                                
+                                
+                                
+							
+Power
+								
+								
+								
+								
+							 
+								16 W
+                                
+                                
+                                
+							
+Orientation
+								
+								
+								
+								
+							 
+								Bottom
+                                
+                                
+                                
+							
+Dolby Digital
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Inputs/Outputs
+								
+								
+								
+								
+							 
+								1x 1/8" (3.5mm) Mini Audio Out (Side)2x RCA Stereo (L/R) Audio In (Rear)1x RCA Component Video In (Rear)2x USB 2.0 Audio/Video/Photo In (Side)2x RCA Composite Video In (Rear)3x HDMI Audio/Video In (Bottom)1x HDMI Audio/Video In (Side)1x Ethernet LAN In/Out (Rear)1x RF Antenna In (Bottom)1x TOSLINK Audio Out (Rear)
+                                
+                                
+                                
+							
+Picture Modes
+								
+								
+								
+								
+							 
+								Cinema, Custom, Full, Game, Graphics, Normal, Photo, Sports, Vivid, Wide Zoom, Zoom
+                                
+                                
+                                
+							
+Sound Modes
+								
+								
+								
+								
+							 
+								CinemaGameMusicSportStandard
+                                
+                                
+                                
+							
+Media Player
+								
+								
+								
+								
+							 
+								3GPPAVCHDAVIJPEGMKVMOVMP3MP4MPEG1MPEG2PSMPEG2TSMPOWAVWEBMWMAWMVXvid
+                                
+                                
+                                
+							
+Wi-Fi
+								
+								
+								
+								
+							 
+								Built-in
+                                
+                                
+                                
+							
+Menu Language
+								
+								
+								
+								
+							 
+								English, Spanish, French
+                                
+                                
+                                
+							
+Remote Control
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Battery Type
+								
+								
+								
+								
+							 
+								2 x  AAA
+                                
+                                
+                                
+							
+Power Requirements
+								
+								
+								
+								
+							 
+								120-240 VAC, 50/60 Hz
+                                
+                                
+                                
+							
+Power Consumption
+								
+								
+								
+								
+							 
+								Maximum: 75.0 WStandby: 0.5 W
+                                
+                                
+                                
+							
+Energy Star Compliant
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Dimensions (WxHxD)
+								
+								
+								
+								
+							 
+								42.9 x 25.5 x 3.6" / 109.0 x 64.8 x 9.1 cm Without Stand42.9 x 26.6 x 7.3" / 109.0 x 67.6 x 18.5 cm With Stand
+
+Weight
+								
+								
+								
+								
+							 
+								21.9 lb / 9.93 kg Without Stand22.7 lb / 10.30 kg With Stand
+
+{'Dolby Digital\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Aspect Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t16 : 9\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dynamic Contrast Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1000000 : 1\n                                \n                                \n\t\t\t\t\t\t\t\t\t\n1\n\nPlease Note:\nOver 1-million\nclose\n\n\n', 'Inputs/Outputs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1x 1/8" (3.5mm) Mini\xa0Audio\xa0Out\xa0(Side)2x RCA Stereo (L/R)\xa0Audio\xa0In\xa0(Rear)1x RCA Component\xa0Video\xa0In\xa0(Rear)2x USB 2.0\xa0Audio/Video/Photo\xa0In\xa0(Side)2x RCA Composite\xa0Video\xa0In\xa0(Rear)3x HDMI\xa0Audio/Video\xa0In\xa0(Bottom)1x HDMI\xa0Audio/Video\xa0In\xa0(Side)1x Ethernet\xa0LAN\xa0In/Out\xa0(Rear)1x RF\xa0Antenna\xa0In\xa0(Bottom)1x TOSLINK\xa0Audio\xa0Out\xa0(Rear)\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Pixel Resolution\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1920 x 1080\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Panel Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tLED LCD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dimensions (WxHxD)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t42.9 x 25.5 x 3.6"\xa0/\xa0109.0 x 64.8 x 9.1 cm Without Stand42.9 x 26.6 x 7.3"\xa0/\xa0109.0 x 67.6 x 18.5 cm With Stand\n', 'Media Player\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t3GPPAVCHDAVIJPEGMKVMOVMP3MP4MPEG1MPEG2PSMPEG2TSMPOWAVWEBMWMAWMVXvid\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Menu Language\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tEnglish, Spanish, French\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Energy Star Compliant\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Weight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t21.9 lb\xa0/\xa09.93 kg Without Stand22.7 lb\xa0/\xa010.30 kg With Stand\n', '3D\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'HDTV Compatibility\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1080/24\xa0p\xa0(HDMI only)1080/60\xa0i1080/60\xa0p480/60\xa0i480/60\xa0p720/60\xa0p1080/30\xa0p\xa0(HDMI only)720/30\xa0p\xa0(HDMI only)720/24\xa0p\xa0(HDMI only)\n', 'Remote Control\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tStereo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t16\xa0W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Screen Size (Diagonal)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t47.6"\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Consumption\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tMaximum: 75.0 WStandby: 0.5 W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Video System\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tATSC, CATV, Clear QAM, NTSC\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Viewing Angle(H x V)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t89&deg H x 89&deg V\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Refresh Rate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Battery Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t2 x  AAA\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wi-Fi\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBuilt-in\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Requirements\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t120-240 VAC, 50/60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Orientation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBottom\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Picture Modes\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tCinema, Custom, Full, Game, Graphics, Normal, Photo, Sports, Vivid, Wide Zoom, Zoom\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound Modes\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tCinemaGameMusicSportStandard\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'TV Tuner\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/bhphotovideo_tvs/LC-32LE551U.html
+Screen Size (Diagonal)
+								
+								
+								
+								
+							 
+								31.5"
+                                
+                                
+                                
+							
+Panel Type
+								
+								
+								
+								
+							 
+								LED LCD
+                                
+                                
+                                
+							
+Aspect Ratio
+								
+								
+								
+								
+							 
+								16 : 9
+                                
+                                
+                                
+							
+Pixel Resolution
+								
+								
+								
+								
+							 
+								1920 x 1080
+                                
+                                
+                                
+							
+Dynamic Contrast Ratio
+								
+								
+								
+								
+							 
+								4000000 : 1
+                                
+                                
+                                
+							
+Refresh Rate
+								
+								
+								
+								
+							 
+								60 Hz
+                                
+                                
+                                
+							
+Video System
+								
+								
+								
+								
+							 
+								NTSC
+                                
+                                
+                                
+							
+TV Tuner
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+3D
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Sound
+								
+								
+								
+								
+							 
+								Stereo
+                                
+                                
+                                
+							
+Subwoofer
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Power
+								
+								
+								
+								
+							 
+								20 W
+                                
+                                
+                                
+							
+Orientation
+								
+								
+								
+								
+							 
+								Bottom
+                                
+                                
+                                
+							
+Inputs/Outputs
+								
+								
+								
+								
+							 
+								1x USB Audio/Video/Photo 2x HDMI Audio/Video In1x RCA Component Video In1x RCA Composite Video In1x RCA Stereo (L/R) Audio In1x RCA S/PDIF Audio Out1x RF Antenna In
+                                
+                                
+                                
+							
+Media Player
+								
+								
+								
+								
+							 
+								JPEGMP3MPEG2
+                                
+                                
+                                
+							
+Digital Media Slot
+								
+								
+								
+								
+							 
+None
+
+Wi-Fi
+								
+								
+								
+								
+							 
+None
+
+Menu Language
+								
+								
+								
+								
+							 
+								English, Spanish, French
+                                
+                                
+                                
+							
+Remote Control
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Tilt/Swivel
+								
+								
+								
+								
+							 
+								Tilt: NoSwivel: No
+                                
+                                
+                                
+							
+Wall Mounting
+								
+								
+								
+								
+							 
+								100 x 100 mm
+                                
+                                
+                                
+							
+Power Requirements
+								
+								
+								
+								
+							 
+								120 VAC, 60 Hz
+                                
+                                
+                                
+							
+Energy Star Compliant
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Dimensions (WxHxD)
+								
+								
+								
+								
+							 
+								28.4 x 18.5 x 2.5" / 72.1 x 47.0 x 6.4 cm Without Stand28.4 x 16.8 x 6.5" / 72.1 x 42.7 x 16.5 cm With Stand
+
+Weight
+								
+								
+								
+								
+							 
+								10.36 lb / 4.70 kg
+                                
+                                
+                                
+							
+{'Digital Media Slot\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNone\n', 'Aspect Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t16 : 9\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dynamic Contrast Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t4000000 : 1\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Inputs/Outputs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1x USB\xa0Audio/Video/Photo\xa02x HDMI\xa0Audio/Video\xa0In1x RCA Component\xa0Video\xa0In1x RCA Composite\xa0Video\xa0In1x RCA Stereo (L/R)\xa0Audio\xa0In1x RCA S/PDIF\xa0Audio\xa0Out1x RF\xa0Antenna\xa0In\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Tilt/Swivel\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tTilt: NoSwivel: No\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wall Mounting\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t100 x 100 mm\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Menu Language\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tEnglish, Spanish, French\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dimensions (WxHxD)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t28.4 x 18.5 x 2.5"\xa0/\xa072.1 x 47.0 x 6.4 cm Without Stand28.4 x 16.8 x 6.5"\xa0/\xa072.1 x 42.7 x 16.5 cm With Stand\n', 'Media Player\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tJPEGMP3MPEG2\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Pixel Resolution\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1920 x 1080\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Energy Star Compliant\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', '3D\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Subwoofer\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Remote Control\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t20\xa0W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tStereo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Video System\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNTSC\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Panel Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tLED LCD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Refresh Rate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Weight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t10.36 lb\xa0/\xa04.70 kg\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wi-Fi\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNone\n', 'Power Requirements\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t120 VAC, 60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Orientation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBottom\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Screen Size (Diagonal)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t31.5"\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'TV Tuner\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/bhphotovideo_tvs/LC-48LE551U.html
+Screen Size (Diagonal)
+								
+								
+								
+								
+							 
+								47.6"
+                                
+                                
+                                
+							
+Panel Type
+								
+								
+								
+								
+							 
+								LED LCD
+                                
+                                
+                                
+							
+Aspect Ratio
+								
+								
+								
+								
+							 
+								16 : 9
+                                
+                                
+                                
+							
+Pixel Resolution
+								
+								
+								
+								
+							 
+								1920 x 1080
+                                
+                                
+                                
+							
+Dynamic Contrast Ratio
+								
+								
+								
+								
+							 
+								4000000 : 1
+                                
+                                
+                                
+							
+Refresh Rate
+								
+								
+								
+								
+							 
+								60 Hz
+                                
+                                
+                                
+							
+Video System
+								
+								
+								
+								
+							 
+								NTSC
+                                
+                                
+                                
+							
+TV Tuner
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+3D
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Sound
+								
+								
+								
+								
+							 
+								Stereo
+                                
+                                
+                                
+							
+Subwoofer
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Power
+								
+								
+								
+								
+							 
+								20 W
+                                
+                                
+                                
+							
+Orientation
+								
+								
+								
+								
+							 
+								Bottom
+                                
+                                
+                                
+							
+Inputs/Outputs
+								
+								
+								
+								
+							 
+								1x USB Audio/Video/Photo 3x HDMI Audio/Video In1x RCA Component Video In1x RCA Composite Video In1x RCA Stereo (L/R) Audio In1x RCA S/PDIF Audio Out1x RF Antenna In
+                                
+                                
+                                
+							
+Media Player
+								
+								
+								
+								
+							 
+								JPEGMP3MPEG2
+                                
+                                
+                                
+							
+Digital Media Slot
+								
+								
+								
+								
+							 
+None
+
+Wi-Fi
+								
+								
+								
+								
+							 
+None
+
+Menu Language
+								
+								
+								
+								
+							 
+								English, Spanish, French
+                                
+                                
+                                
+							
+Remote Control
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Tilt/Swivel
+								
+								
+								
+								
+							 
+								Tilt: NoSwivel: No
+                                
+                                
+                                
+							
+Wall Mounting
+								
+								
+								
+								
+							 
+								200 x 200 mm
+                                
+                                
+                                
+							
+Power Requirements
+								
+								
+								
+								
+							 
+								120 VAC, 60 Hz
+                                
+                                
+                                
+							
+Energy Star Compliant
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Dimensions (WxHxD)
+								
+								
+								
+								
+							 
+								42.6 x 24.9 x 2.6" / 108.2 x 63.2 x 6.6 cm Without Stand42.6 x 26.6 x 11.5" / 108.2 x 67.6 x 29.2 cm With Stand
+
+Weight
+								
+								
+								
+								
+							 
+								28.66 lb / 13.00 kg
+                                
+                                
+                                
+							
+{'Digital Media Slot\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNone\n', 'Aspect Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t16 : 9\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dynamic Contrast Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t4000000 : 1\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Inputs/Outputs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1x USB\xa0Audio/Video/Photo\xa03x HDMI\xa0Audio/Video\xa0In1x RCA Component\xa0Video\xa0In1x RCA Composite\xa0Video\xa0In1x RCA Stereo (L/R)\xa0Audio\xa0In1x RCA S/PDIF\xa0Audio\xa0Out1x RF\xa0Antenna\xa0In\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Tilt/Swivel\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tTilt: NoSwivel: No\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wall Mounting\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t200 x 200 mm\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Menu Language\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tEnglish, Spanish, French\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dimensions (WxHxD)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t42.6 x 24.9 x 2.6"\xa0/\xa0108.2 x 63.2 x 6.6 cm Without Stand42.6 x 26.6 x 11.5"\xa0/\xa0108.2 x 67.6 x 29.2 cm With Stand\n', 'Media Player\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tJPEGMP3MPEG2\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Pixel Resolution\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1920 x 1080\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Energy Star Compliant\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', '3D\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Subwoofer\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Remote Control\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t20\xa0W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tStereo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Video System\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNTSC\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Panel Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tLED LCD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Refresh Rate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Weight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t28.66 lb\xa0/\xa013.00 kg\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wi-Fi\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNone\n', 'Power Requirements\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t120 VAC, 60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Orientation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBottom\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Screen Size (Diagonal)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t47.6"\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'TV Tuner\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/bhphotovideo_tvs/LC-60LE757.html
+Screen Size (Diagonal)
+								
+								
+								
+								
+							 
+								60"
+                                
+                                
+                                
+							
+Panel Type
+								
+								
+								
+								
+							 
+								LED LCD
+                                
+                                
+                                
+							
+Aspect Ratio
+								
+								
+								
+								
+							 
+								16 : 9
+                                
+                                
+                                
+							
+Pixel Resolution
+								
+								
+								
+								
+							 
+								1920 x 1080
+                                
+                                
+                                
+							
+Dynamic Contrast Ratio
+								
+								
+								
+								
+							 
+								10000000 : 1
+                                
+                                
+                                
+							
+Refresh Rate
+								
+								
+								
+								
+							 
+								240 Hz
+                                
+                                
+                                
+							
+Viewing Angle(H x V)
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Video System
+								
+								
+								
+								
+							 
+								ATSC, NTSC, QAM
+                                
+                                
+                                
+							
+TV Tuner
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+3D
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Sound
+								
+								
+								
+								
+							 
+								Stereo
+                                
+                                
+                                
+							
+Subwoofer
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Power
+								
+								
+								
+								
+							 
+								35 W
+                                
+                                
+                                
+							
+Inputs/Outputs
+								
+								
+								
+								
+							 
+								4x HDMI Audio/Video In1x RCA Component Video In2x RCA Composite Video In3x RCA Stereo (L/R) Audio In1x 1/8" (3.5mm) Mini Audio In1x VGA Video In2x USB 2.0 Audio/Video/Photo In1x RCA S/PDIF Audio Out1x 1/8" (3.5mm) Mini Audio Out1x Ethernet LAN In1x RF Antenna In1x RS-232C Control In/Out
+                                
+                                
+                                
+							
+Wi-Fi
+								
+								
+								
+								
+							 
+								Built-in
+                                
+                                
+                                
+							
+Menu Language
+								
+								
+								
+								
+							 
+								English, Spanish, French
+                                
+                                
+                                
+							
+Remote Control
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Wall Mounting
+								
+								
+								
+								
+							 
+								400 x 400 mm
+                                
+                                
+                                
+							
+Power Requirements
+								
+								
+								
+								
+							 
+								120 VAC, 60 Hz
+                                
+                                
+                                
+							
+Power Consumption
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Energy Star Compliant
+								
+								
+								
+								
+							 
+								Version 6.0
+                                
+                                
+                                
+							
+Dimensions (WxHxD)
+								
+								
+								
+								
+							 
+								54.3 x 31.8 x 2.3" / 137.9 x 80.8 x 5.8 cm without stand54.3 x 33.0 x 14.3" / 137.9 x 83.8 x 36.3 cm with stand
+
+Weight
+								
+								
+								
+								
+							 
+								71.7 lb / 32.52 kg without stand79.4 lb / 36.02 kg with stand
+
+{'Aspect Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t16 : 9\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dynamic Contrast Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t10000000 : 1\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Inputs/Outputs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t4x HDMI\xa0Audio/Video\xa0In1x RCA Component\xa0Video\xa0In2x RCA Composite\xa0Video\xa0In3x RCA Stereo (L/R)\xa0Audio\xa0In1x 1/8" (3.5mm) Mini\xa0Audio\xa0In1x VGA\xa0Video\xa0In2x USB 2.0\xa0Audio/Video/Photo\xa0In1x RCA S/PDIF\xa0Audio\xa0Out1x 1/8" (3.5mm) Mini\xa0Audio\xa0Out1x Ethernet\xa0LAN\xa0In1x RF\xa0Antenna\xa0In1x RS-232C\xa0Control\xa0In/Out\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wall Mounting\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t400 x 400 mm\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Pixel Resolution\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1920 x 1080\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Panel Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tLED LCD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dimensions (WxHxD)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t54.3 x 31.8 x 2.3"\xa0/\xa0137.9 x 80.8 x 5.8 cm without stand54.3 x 33.0 x 14.3"\xa0/\xa0137.9 x 83.8 x 36.3 cm with stand\n', 'Menu Language\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tEnglish, Spanish, French\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Energy Star Compliant\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tVersion 6.0\n                                \n                                \n                                \n\t\t\t\t\t\t\t', '3D\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Subwoofer\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Remote Control\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t35\xa0W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tStereo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Consumption\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Video System\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tATSC, NTSC, QAM\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Viewing Angle(H x V)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Refresh Rate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t240 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Weight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t71.7 lb\xa0/\xa032.52 kg without stand79.4 lb\xa0/\xa036.02 kg with stand\n', 'Wi-Fi\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBuilt-in\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Requirements\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t120 VAC, 60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Screen Size (Diagonal)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t60"\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'TV Tuner\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/bhphotovideo_tvs/LC-80LE650U.html
+Screen Size (Diagonal)
+								
+								
+								
+								
+							 
+								80"
+                                
+                                
+                                
+							
+Panel Type
+								
+								
+								
+								
+							 
+								LED LCD
+                                
+                                
+                                
+							
+Aspect Ratio
+								
+								
+								
+								
+							 
+								16 : 9
+                                
+                                
+                                
+							
+Pixel Resolution
+								
+								
+								
+								
+							 
+								1920 x 1080
+                                
+                                
+                                
+							
+Dynamic Contrast Ratio
+								
+								
+								
+								
+							 
+								4000000 : 1
+                                
+                                
+                                
+							
+Refresh Rate
+								
+								
+								
+								
+							 
+								120 Hz
+                                
+                                
+                                
+							
+Viewing Angle(H x V)
+								
+								
+								
+								
+							 
+								176&deg H x 176&deg V
+                                
+                                
+                                
+							
+Video System
+								
+								
+								
+								
+							 
+								ATSC, NTSC, QAM
+                                
+                                
+                                
+							
+TV Tuner
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+3D
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Sound
+								
+								
+								
+								
+							 
+								Stereo
+                                
+                                
+                                
+							
+Subwoofer
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Power
+								
+								
+								
+								
+							 
+								20 W
+                                
+                                
+                                
+							
+Inputs/Outputs
+								
+								
+								
+								
+							 
+								4x HDMI Audio/Video In (Side)1x RCA Component Video In (Rear)2x RCA Composite Video In (Rear)3x RCA Stereo (L/R) Audio In (Rear)1x 1/8" (3.5mm) Mini Audio In (Bottom)1x VGA Video In (Rear)1x USB 2.0 Audio/Video/Photo In (Side)1x USB 2.0 Audio/Video/Photo In (Bottom)1x RCA S/PDIF Audio Out (Bottom)1x 1/8" (3.5mm) Mini Audio Out (Side)1x Ethernet LAN In (Bottom)1x RS-232C Control In/Out (Rear)
+                                
+                                
+                                
+							
+Wi-Fi
+								
+								
+								
+								
+							 
+								Built-in
+                                
+                                
+                                
+							
+Remote Control
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Wall Mounting
+								
+								
+								
+								
+							 
+								400 x 400 mm
+                                
+                                
+                                
+							
+Power Requirements
+								
+								
+								
+								
+							 
+								120 VAC, 60 Hz
+                                
+                                
+                                
+							
+Power Consumption
+								
+								
+								
+								
+							 
+								Operational: 268.0W
+                                
+                                
+                                
+							
+Energy Star Compliant
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Dimensions (WxHxD)
+								
+								
+								
+								
+							 
+								72.0 x 42.8 x 3.4" / 182.9 x 108.7 x 8.6 cm without stand72.0 x 43.6 x 17.5" / 182.9 x 110.7 x 44.5 cm with stand
+
+Weight
+								
+								
+								
+								
+							 
+								121.3 lb / 55.02 kg without stand130.1 lb / 59.01 kg with stand
+
+{'Aspect Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t16 : 9\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dynamic Contrast Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t4000000 : 1\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Inputs/Outputs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t4x HDMI\xa0Audio/Video\xa0In\xa0(Side)1x RCA Component\xa0Video\xa0In\xa0(Rear)2x RCA Composite\xa0Video\xa0In\xa0(Rear)3x RCA Stereo (L/R)\xa0Audio\xa0In\xa0(Rear)1x 1/8" (3.5mm) Mini\xa0Audio\xa0In\xa0(Bottom)1x VGA\xa0Video\xa0In\xa0(Rear)1x USB 2.0\xa0Audio/Video/Photo\xa0In\xa0(Side)1x USB 2.0\xa0Audio/Video/Photo\xa0In\xa0(Bottom)1x RCA S/PDIF\xa0Audio\xa0Out\xa0(Bottom)1x 1/8" (3.5mm) Mini\xa0Audio\xa0Out\xa0(Side)1x Ethernet\xa0LAN\xa0In\xa0(Bottom)1x RS-232C\xa0Control\xa0In/Out\xa0(Rear)\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wall Mounting\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t400 x 400 mm\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Panel Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tLED LCD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dimensions (WxHxD)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t72.0 x 42.8 x 3.4"\xa0/\xa0182.9 x 108.7 x 8.6 cm without stand72.0 x 43.6 x 17.5"\xa0/\xa0182.9 x 110.7 x 44.5 cm with stand\n', 'Pixel Resolution\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1920 x 1080\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Energy Star Compliant\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', '3D\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Subwoofer\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Remote Control\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t20\xa0W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tStereo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Consumption\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tOperational: 268.0W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Video System\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tATSC, NTSC, QAM\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Viewing Angle(H x V)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t176&deg H x 176&deg V\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Refresh Rate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t120 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Weight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t121.3 lb\xa0/\xa055.02 kg without stand130.1 lb\xa0/\xa059.01 kg with stand\n', 'Wi-Fi\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBuilt-in\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Requirements\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t120 VAC, 60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Screen Size (Diagonal)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t80"\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'TV Tuner\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/bhphotovideo_tvs/UN32H6350.html
+Screen Size (Diagonal)
+								
+								
+								
+								
+							 
+								38.6"
+                                
+                                
+                                
+							
+Panel Type
+								
+								
+								
+								
+							 
+								LED LCD
+                                
+                                
+                                
+							
+Aspect Ratio
+								
+								
+								
+								
+							 
+								16 : 9
+                                
+                                
+                                
+							
+Pixel Resolution
+								
+								
+								
+								
+							 
+								1920 x 1080
+                                
+                                
+                                
+							
+Refresh Rate
+								
+								
+								
+								
+							 
+								60 Hz
+                                
+                                
+                                
+							
+Viewing Angle(H x V)
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Video System
+								
+								
+								
+								
+							 
+								ATSC, Clear QAM, NTSC
+                                
+                                
+                                
+							
+HDTV Compatibility
+								
+								
+								
+								
+							 
+								1080 p1080 i720 p480 p480 i
+                                
+                                
+                                
+							
+TV Tuner
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+3D
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Sound
+								
+								
+								
+								
+							 
+								Stereo
+                                
+                                
+                                
+							
+Subwoofer
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Power
+								
+								
+								
+								
+							 
+								20 W
+                                
+                                
+                                
+							
+Orientation
+								
+								
+								
+								
+							 
+								Full-Range x 2 L/R
+                                
+                                
+                                
+							
+Dolby Digital
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Inputs/Outputs
+								
+								
+								
+								
+							 
+								2x HDMI Audio/Video In1x RCA Component Video In1x RCA Composite Video In1x RCA Stereo (L/R) Audio In1x USB 2.0 Audio/Video/Photo In1x RCA S/PDIF Audio Out1x RF Antenna In
+                                
+                                
+                                
+							
+Media Player
+								
+								
+								
+								
+							 
+								3GPPAACAC3ADPCMASFAVIDATFLVH.264HE-AACJPEGLPCMM2TSMKVMP3MP4MPEG1MPEG2MPEG4 ASPMPEG4 SPPSTPTRPTSVOBWAVWMAWMA ProWMV
+                                
+                                
+                                
+							
+Menu Language
+								
+								
+								
+								
+							 
+								English, Spanish, French
+                                
+                                
+                                
+							
+Remote Control
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Tilt/Swivel
+								
+								
+								
+								
+							 
+								Tilt: NoSwivel: Yes
+                                
+                                
+                                
+							
+Wall Mounting
+								
+								
+								
+								
+							 
+								200 x 200 mm
+                                
+                                
+                                
+							
+Power Requirements
+								
+								
+								
+								
+							 
+								110-120 VAC, 60 Hz
+                                
+                                
+                                
+							
+Power Consumption
+								
+								
+								
+								
+							 
+								Maximum: 80.0 WTypical: 46.0 WStandby:  
+						
+Energy Star Compliant
+								
+								
+								
+								
+							 
+								Version 6.0
+                                
+                                
+                                
+							
+Dimensions (WxHxD)
+								
+								
+								
+								
+							 
+								35.3 x 21.0 x 3.7" / 89.7 x 53.3 x 9.4 cm without stand35.3 x 23.2 x 9.0" / 89.7 x 58.9 x 22.9 cm with stand
+
+Bezel
+								
+								
+								
+								
+							 
+								17.8 mm
+                                
+                                
+                                
+							
+Weight
+								
+								
+								
+								
+							 
+								17.2 lb / 7.80 kg without stand21.6 lb / 9.80 kg with stand
+
+{'Dolby Digital\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Aspect Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t16 : 9\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Inputs/Outputs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t2x HDMI\xa0Audio/Video\xa0In1x RCA Component\xa0Video\xa0In1x RCA Composite\xa0Video\xa0In1x RCA Stereo (L/R)\xa0Audio\xa0In1x USB 2.0\xa0Audio/Video/Photo\xa0In1x RCA S/PDIF\xa0Audio\xa0Out1x RF\xa0Antenna\xa0In\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Tilt/Swivel\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tTilt: NoSwivel: Yes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wall Mounting\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t200 x 200 mm\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Pixel Resolution\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1920 x 1080\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Panel Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tLED LCD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dimensions (WxHxD)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t35.3 x 21.0 x 3.7"\xa0/\xa089.7 x 53.3 x 9.4 cm without stand35.3 x 23.2 x 9.0"\xa0/\xa089.7 x 58.9 x 22.9 cm with stand\n', 'Menu Language\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tEnglish, Spanish, French\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Energy Star Compliant\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tVersion 6.0\n                                \n                                \n                                \n\t\t\t\t\t\t\t', '3D\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'HDTV Compatibility\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1080\xa0p1080\xa0i720\xa0p480\xa0p480\xa0i\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Subwoofer\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Remote Control\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t20\xa0W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tStereo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Consumption\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tMaximum: 80.0 WTypical: 46.0 WStandby:  \n\t\t\t\t\t\t', 'Video System\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tATSC, Clear QAM, NTSC\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Viewing Angle(H x V)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Refresh Rate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Weight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t17.2 lb\xa0/\xa07.80 kg without stand21.6 lb\xa0/\xa09.80 kg with stand\n', 'Orientation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tFull-Range x 2 L/R\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Requirements\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t110-120 VAC, 60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Media Player\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t3GPPAACAC3ADPCMASFAVIDATFLVH.264HE-AACJPEGLPCMM2TSMKVMP3MP4MPEG1MPEG2MPEG4 ASPMPEG4 SPPSTPTRPTSVOBWAVWMAWMA ProWMV\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Bezel\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t17.8 mm\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Screen Size (Diagonal)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t38.6"\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'TV Tuner\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/bhphotovideo_tvs/UN40H6350.html
+Screen Size (Diagonal)
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Panel Type
+								
+								
+								
+								
+							 
+								LED LCD
+                                
+                                
+                                
+							
+Aspect Ratio
+								
+								
+								
+								
+							 
+								16 : 9
+                                
+                                
+                                
+							
+Pixel Resolution
+								
+								
+								
+								
+							 
+								1920 x 1080
+                                
+                                
+                                
+							
+Refresh Rate
+								
+								
+								
+								
+							 
+								120 Hz
+                                
+                                
+                                
+							
+3D
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Sound
+								
+								
+								
+								
+							 
+								Stereo
+                                
+                                
+                                
+							
+Inputs/Outputs
+								
+								
+								
+								
+							 
+								4x HDMI Audio/Video In3x USB Audio/Video/Photo In1x RCA Component Video In1x RCA Composite Video In1x RCA Stereo (L/R) Audio In1x 1/8" (3.5mm) Mini Audio Out1x RF Antenna In1x TOSLINK Audio Out1x IR Control Out1x RS-232C Control In/Out1x Ethernet LAN In/Out
+                                
+                                
+                                
+							
+Wi-Fi
+								
+								
+								
+								
+							 
+								Built-in
+                                
+                                
+                                
+							
+Remote Control
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Tilt/Swivel
+								
+								
+								
+								
+							 
+								Tilt: NoSwivel: Yes
+                                
+                                
+                                
+							
+Wall Mounting
+								
+								
+								
+								
+							 
+								200 x 200 mm
+                                
+                                
+                                
+							
+Dimensions (WxHxD)
+								
+								
+								
+								
+							 
+								35.7 x 21.1 x 2.5" / 90.7 x 53.6 x 6.4 cm Without Stand35.7 x 23.8 x 10.4" / 90.7 x 60.4 x 26.4 cm With Stand
+
+Weight
+								
+								
+								
+								
+							 
+								17.2 lb / 7.80 kg Without Stand19.6 lb / 8.89 kg With Stand
+
+{'Wall Mounting\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t200 x 200 mm\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Remote Control\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Aspect Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t16 : 9\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Screen Size (Diagonal)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Inputs/Outputs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t4x HDMI\xa0Audio/Video\xa0In3x USB\xa0Audio/Video/Photo\xa0In1x RCA Component\xa0Video\xa0In1x RCA Composite\xa0Video\xa0In1x RCA Stereo (L/R)\xa0Audio\xa0In1x 1/8" (3.5mm) Mini\xa0Audio\xa0Out1x RF\xa0Antenna\xa0In1x TOSLINK\xa0Audio\xa0Out1x IR\xa0Control\xa0Out1x RS-232C\xa0Control\xa0In/Out1x Ethernet\xa0LAN\xa0In/Out\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Tilt/Swivel\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tTilt: NoSwivel: Yes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Refresh Rate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t120 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Weight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t17.2 lb\xa0/\xa07.80 kg Without Stand19.6 lb\xa0/\xa08.89 kg With Stand\n', 'Wi-Fi\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBuilt-in\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Panel Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tLED LCD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dimensions (WxHxD)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t35.7 x 21.1 x 2.5"\xa0/\xa090.7 x 53.6 x 6.4 cm Without Stand35.7 x 23.8 x 10.4"\xa0/\xa090.7 x 60.4 x 26.4 cm With Stand\n', 'Pixel Resolution\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1920 x 1080\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tStereo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', '3D\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/bhphotovideo_tvs/UN50EH5000.html
+Screen Size (Diagonal)
+								
+								
+								
+								
+							 
+								50"
+                                
+                                
+                                
+							
+Panel Type
+								
+								
+								
+								
+							 
+								LED LCD
+                                
+                                
+                                
+							
+Aspect Ratio
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Colors
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Pixel Resolution
+								
+								
+								
+								
+							 
+								1920 x 1080
+                                
+                                
+                                
+							
+Brightness
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Contrast Ratio
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Dynamic Contrast Ratio
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Response Time
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Refresh Rate
+								
+								
+								
+								
+							 
+								120 Hz
+                                
+                                
+                                
+							
+Dot Pitch
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Display Colors
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Viewing Angle(H x V)
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Lifespan
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Video System
+								
+								
+								
+								
+							 
+								NTSC
+                                
+                                
+                                
+							
+HDTV Compatibility
+								
+								
+								
+								
+							 
+								1080 p
+                                
+                                
+                                
+							
+TV Scan Lines
+								
+								
+								
+								
+							 
+								Up to 1080
+                                
+                                
+                                
+							
+TV Tuner
+								
+								
+								
+								
+							 
+None
+
+Sound
+								
+								
+								
+								
+							 
+								Surround Sound
+                                
+                                
+                                
+							
+Subwoofer
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Power
+								
+								
+								
+								
+							 
+								20 W
+                                
+                                
+                                
+							
+Orientation
+								
+								
+								
+								
+							 
+								SRS TheaterSound HD
+                                
+                                
+                                
+							
+Dolby Digital
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Inputs/Outputs
+								
+								
+								
+								
+							 
+								2x HDMI Audio/Video In1x USB 2.0 Audio/Video In/Out1x RCA S/PDIF Audio Out1x RCA Component Audio/Video In
+                                
+                                
+                                
+							
+Picture in Picture (PIP)
+								
+								
+								
+								
+							 
+None
+
+Picture Modes
+								
+								
+								
+								
+							 
+								Full
+                                
+                                
+                                
+							
+Digital Media Slot
+								
+								
+								
+								
+							 
+None
+
+Wi-Fi
+								
+								
+								
+								
+							 
+None
+
+Menu Language
+								
+								
+								
+								
+							 
+								English
+                                
+                                
+                                
+							
+Remote Control
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Wall Mounting
+								
+								
+								
+								
+							 
+								400 x 400 mm
+                                
+                                
+                                
+							
+Power Requirements
+								
+								
+								
+								
+							 
+								120 VAC, 50/60 Hz
+                                
+                                
+                                
+							
+Power Consumption
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Operating/Storage Temperature
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Dimensions (WxHxD)
+								
+								
+								
+								
+							 
+								44.8 x 26.4 x 3.7" / 113.8 x 67.1 x 9.4 cm Without stand44.8 x 28.5 x 9.0" / 113.8 x 72.4 x 22.9 cm With stand
+
+Bezel
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Weight
+								
+								
+								
+								
+							 
+								34.6 lb / 15.69 kg Without stand40.3 lb / 18.28 kg With stand
+
+{'Display Colors\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Dolby Digital\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Screen Size (Diagonal)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t50"\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'TV Scan Lines\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tUp to 1080\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Digital Media Slot\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNone\n', 'Aspect Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Dynamic Contrast Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Inputs/Outputs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t2x HDMI\xa0Audio/Video\xa0In1x USB 2.0\xa0Audio/Video\xa0In/Out1x RCA S/PDIF\xa0Audio\xa0Out1x RCA Component\xa0Audio/Video\xa0In\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dot Pitch\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Wall Mounting\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t400 x 400 mm\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Menu Language\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tEnglish\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Panel Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tLED LCD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dimensions (WxHxD)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t44.8 x 26.4 x 3.7"\xa0/\xa0113.8 x 67.1 x 9.4 cm Without stand44.8 x 28.5 x 9.0"\xa0/\xa0113.8 x 72.4 x 22.9 cm With stand\n', 'Pixel Resolution\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1920 x 1080\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Subwoofer\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Weight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t34.6 lb\xa0/\xa015.69 kg Without stand40.3 lb\xa0/\xa018.28 kg With stand\n', 'HDTV Compatibility\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1080\xa0p\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Lifespan\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Remote Control\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Response Time\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Operating/Storage Temperature\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Power\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t20\xa0W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tSurround Sound\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Consumption\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Video System\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNTSC\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Viewing Angle(H x V)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Brightness\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Refresh Rate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t120 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Picture in Picture (PIP)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNone\n', 'Orientation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tSRS TheaterSound HD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Colors\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Power Requirements\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t120 VAC, 50/60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wi-Fi\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNone\n', 'Picture Modes\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tFull\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Bezel\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Contrast Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'TV Tuner\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNone\n'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/bhphotovideo_tvs/UN50EH5300.html
+Screen Size (Diagonal)
+								
+								
+								
+								
+							 
+								49.5"
+                                
+                                
+                                
+							
+Panel Type
+								
+								
+								
+								
+							 
+								LED LCD
+                                
+                                
+                                
+							
+Aspect Ratio
+								
+								
+								
+								
+							 
+								16 : 9
+                                
+                                
+                                
+							
+Pixel Resolution
+								
+								
+								
+								
+							 
+								1920 x 1080
+                                
+                                
+                                
+							
+Refresh Rate
+								
+								
+								
+								
+							 
+								60 Hz
+                                
+                                
+                                
+							
+Viewing Angle(H x V)
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Video System
+								
+								
+								
+								
+							 
+								ATSC, Clear QAM, NTSC
+                                
+                                
+                                
+							
+HDTV Compatibility
+								
+								
+								
+								
+							 
+								1080 p1080 i720 p
+                                
+                                
+                                
+							
+TV Tuner
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+3D
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Sound
+								
+								
+								
+								
+							 
+								Stereo
+                                
+                                
+                                
+							
+Subwoofer
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Power
+								
+								
+								
+								
+							 
+								20 W
+                                
+                                
+                                
+							
+Orientation
+								
+								
+								
+								
+							 
+								SRS TheaterSound HD
+                                
+                                
+                                
+							
+Dolby Digital
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Inputs/Outputs
+								
+								
+								
+								
+							 
+								3x HDMI Audio/Video In1x RCA Component Video In1x RCA Composite Video In1x RCA Stereo (L/R) Audio In2x USB 2.0 Audio/Video/Photo In1x RCA S/PDIF Audio Out1x 1/8" (3.5mm) Mini Audio Out1x Mini DVI Audio In1x RS-232C Control In1x RF Antenna In
+                                
+                                
+                                
+							
+Media Player
+								
+								
+								
+								
+							 
+								3GPPAACAC3ADPCMASFAVIBMPDD+DTSDivXDivX 3.11DivX 4.xDivX 5.xDivX 6.xFLACFLVG.711H.264HE-AACJPEGLPCMM2TSM4AMKVMOVMP3MP4MPAMPEG1MPEG2MPEG4MPEG4 ASPMPEG4 SPMPOMTSOGGPNGPSPSBSMLSRTSSASUBSVITPTRPTSTXTVOBVP6VP8VROWEBMWMAWMA ProWMV
+                                
+                                
+                                
+							
+Wi-Fi
+								
+								
+								
+								
+							 
+								Built-in
+                                
+                                
+                                
+							
+Remote Control
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Wall Mounting
+								
+								
+								
+								
+							 
+								400 x 400 mm
+                                
+                                
+                                
+							
+Power Requirements
+								
+								
+								
+								
+							 
+								120 VAC, 60 Hz
+                                
+                                
+                                
+							
+Power Consumption
+								
+								
+								
+								
+							 
+								Standby:  
+						
+Energy Star Compliant
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Dimensions (WxHxD)
+								
+								
+								
+								
+							 
+								44.8 x 26.4 x 3.7" / 113.8 x 67.1 x 9.4 cm without stand44.8 x 28.5 x 9.8" / 113.8 x 72.4 x 24.9 cm with stand
+
+Bezel
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Weight
+								
+								
+								
+								
+							 
+								34.6 lb / 15.69 kg without stand40.3 lb / 18.28 kg with stand
+
+{'Dolby Digital\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Aspect Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t16 : 9\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dimensions (WxHxD)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t44.8 x 26.4 x 3.7"\xa0/\xa0113.8 x 67.1 x 9.4 cm without stand44.8 x 28.5 x 9.8"\xa0/\xa0113.8 x 72.4 x 24.9 cm with stand\n', 'Inputs/Outputs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t3x HDMI\xa0Audio/Video\xa0In1x RCA Component\xa0Video\xa0In1x RCA Composite\xa0Video\xa0In1x RCA Stereo (L/R)\xa0Audio\xa0In2x USB 2.0\xa0Audio/Video/Photo\xa0In1x RCA S/PDIF\xa0Audio\xa0Out1x 1/8" (3.5mm) Mini\xa0Audio\xa0Out1x Mini DVI\xa0Audio\xa0In1x RS-232C\xa0Control\xa0In1x RF\xa0Antenna\xa0In\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wall Mounting\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t400 x 400 mm\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Panel Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tLED LCD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Media Player\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t3GPPAACAC3ADPCMASFAVIBMPDD+DTSDivXDivX 3.11DivX 4.xDivX 5.xDivX 6.xFLACFLVG.711H.264HE-AACJPEGLPCMM2TSM4AMKVMOVMP3MP4MPAMPEG1MPEG2MPEG4MPEG4 ASPMPEG4 SPMPOMTSOGGPNGPSPSBSMLSRTSSASUBSVITPTRPTSTXTVOBVP6VP8VROWEBMWMAWMA ProWMV\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Pixel Resolution\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1920 x 1080\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Energy Star Compliant\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', '3D\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'HDTV Compatibility\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1080\xa0p1080\xa0i720\xa0p\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Subwoofer\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Remote Control\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t20\xa0W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tStereo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Consumption\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tStandby:  \n\t\t\t\t\t\t', 'Video System\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tATSC, Clear QAM, NTSC\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Viewing Angle(H x V)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Refresh Rate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Weight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t34.6 lb\xa0/\xa015.69 kg without stand40.3 lb\xa0/\xa018.28 kg with stand\n', 'Wi-Fi\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBuilt-in\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Requirements\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t120 VAC, 60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Orientation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tSRS TheaterSound HD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Bezel\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Screen Size (Diagonal)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t49.5"\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'TV Tuner\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/bhphotovideo_tvs/UN50HU8550.html
+Screen Size (Diagonal)
+								
+								
+								
+								
+							 
+								49.5"
+                                
+                                
+                                
+							
+Panel Type
+								
+								
+								
+								
+							 
+								LED LCD
+                                
+                                
+                                
+							
+Pixel Resolution
+								
+								
+								
+								
+							 
+								3840 x 2160
+                                
+                                
+                                
+							
+Refresh Rate
+								
+								
+								
+								
+							 
+								120 Hz
+                                
+                                
+                                
+							
+Video System
+								
+								
+								
+								
+							 
+								ATSC, Clear QAM
+                                
+                                
+                                
+							
+TV Scan Lines
+								
+								
+								
+								
+							 
+								Up to 3840
+                                
+                                
+                                
+							
+TV Tuner
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+3D
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Sound
+								
+								
+								
+								
+							 
+								Stereo
+                                
+                                
+                                
+							
+Subwoofer
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Power
+								
+								
+								
+								
+							 
+								40 W
+                                
+                                
+                                
+							
+Orientation
+								
+								
+								
+								
+							 
+								Built-in
+                                
+                                
+                                
+							
+Dolby Digital
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Inputs/Outputs
+								
+								
+								
+								
+							 
+								4x HDMI Audio/Video In3x USB Audio/Video/Photo In1x Ethernet LAN In/Out1x RCA Component Video In2x RCA Composite Video In2x RCA Stereo (L/R) Audio In1x TOSLINK Audio Out1x 1/8" (3.5mm) Mini Audio Out1x IR Control In/Out1x RS-232C Control/Service In/Out
+                                
+                                
+                                
+							
+Digital Media Slot
+								
+								
+								
+								
+							 
+None
+
+Wi-Fi
+								
+								
+								
+								
+							 
+								Built-in
+                                
+                                
+                                
+							
+Menu Language
+								
+								
+								
+								
+							 
+								English, Spanish, French
+                                
+                                
+                                
+							
+Remote Control
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Wall Mounting
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Power Requirements
+								
+								
+								
+								
+							 
+								110-120 VAC, 60 Hz
+                                
+                                
+                                
+							
+Power Consumption
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Dimensions (WxHxD)
+								
+								
+								
+								
+							 
+								43.9 x 25.4 x 1.4" / 111.5 x 64.5 x 3.6 cm Without Stand43.9 x 27.0 x 10.6" / 111.5 x 68.6 x 26.9 cm With Stand
+
+Bezel
+								
+								
+								
+								
+							 
+								7.6 mm
+                                
+                                
+                                
+							
+Weight
+								
+								
+								
+								
+							 
+								32.4 lb / 14.70 kg Without Stand39.7 lb / 18.01 kg With Stand
+
+{'Dolby Digital\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Digital Media Slot\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNone\n', 'TV Scan Lines\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tUp to 3840\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Inputs/Outputs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t4x HDMI\xa0Audio/Video\xa0In3x USB\xa0Audio/Video/Photo\xa0In1x Ethernet\xa0LAN\xa0In/Out1x RCA Component\xa0Video\xa0In2x RCA Composite\xa0Video\xa0In2x RCA Stereo (L/R)\xa0Audio\xa0In1x TOSLINK\xa0Audio\xa0Out1x 1/8" (3.5mm) Mini\xa0Audio\xa0Out1x IR\xa0Control\xa0In/Out1x RS-232C\xa0Control/Service\xa0In/Out\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wall Mounting\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Pixel Resolution\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t3840 x 2160\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dimensions (WxHxD)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t43.9 x 25.4 x 1.4"\xa0/\xa0111.5 x 64.5 x 3.6 cm Without Stand43.9 x 27.0 x 10.6"\xa0/\xa0111.5 x 68.6 x 26.9 cm With Stand\n', 'Menu Language\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tEnglish, Spanish, French\n                                \n                                \n                                \n\t\t\t\t\t\t\t', '3D\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Subwoofer\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Remote Control\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t40\xa0W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tStereo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Consumption\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Video System\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tATSC, Clear QAM\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Panel Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tLED LCD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Refresh Rate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t120 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Weight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t32.4 lb\xa0/\xa014.70 kg Without Stand39.7 lb\xa0/\xa018.01 kg With Stand\n', 'Orientation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBuilt-in\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Requirements\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t110-120 VAC, 60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wi-Fi\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBuilt-in\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Bezel\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t7.6 mm\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Screen Size (Diagonal)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t49.5"\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'TV Tuner\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/bhphotovideo_tvs/UN55F8000.html
+Screen Size (Diagonal)
+								
+								
+								
+								
+							 
+								54.6"
+                                
+                                
+                                
+							
+Panel Type
+								
+								
+								
+								
+							 
+								LED LCD
+                                
+                                
+                                
+							
+Aspect Ratio
+								
+								
+								
+								
+							 
+								16 : 9
+                                
+                                
+                                
+							
+Pixel Resolution
+								
+								
+								
+								
+							 
+								1920 x 1080
+                                
+                                
+                                
+							
+Refresh Rate
+								
+								
+								
+								
+							 
+								240 Hz
+                                
+                                
+                                
+							
+Viewing Angle(H x V)
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Video System
+								
+								
+								
+								
+							 
+								ATSC, Clear QAM, NTSC
+                                
+                                
+                                
+							
+TV Tuner
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+3D
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Sound
+								
+								
+								
+								
+							 
+								Stereo
+                                
+                                
+                                
+							
+Subwoofer
+								
+								
+								
+								
+							 
+								No
+                                
+                                
+                                
+							
+Power
+								
+								
+								
+								
+							 
+								20 W
+                                
+                                
+                                
+							
+Orientation
+								
+								
+								
+								
+							 
+								SRS TruSurround XT
+                                
+                                
+                                
+							
+Dolby Digital
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Inputs/Outputs
+								
+								
+								
+								
+							 
+								4x HDMI Audio/Video In1x RCA Component Video In2x RCA Composite Video In1x RCA Stereo (L/R) Audio In3x USB 2.0 Audio/Video/Photo In1x RCA S/PDIF Audio Out1x 1/8" (3.5mm) Mini Audio Out1x Mini DVI Audio In1x Ethernet LAN In1x RS-232C Control In1x RF Control In
+                                
+                                
+                                
+							
+Picture in Picture (PIP)
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Media Player
+								
+								
+								
+								
+							 
+								3GPPAACASFAVIBMPFLACFLVJPEGM2TSM4AMKVMOVMP3MP4MPAMPEG1MPOMTSOGGPNGPSBSMLSRTSSASUBSVITPTRPTSTXTVOBVROWEBMWMAWMV
+                                
+                                
+                                
+							
+Wi-Fi
+								
+								
+								
+								
+							 
+								Built-in
+                                
+                                
+                                
+							
+Menu Language
+								
+								
+								
+								
+							 
+								English, Spanish, French
+                                
+                                
+                                
+							
+Remote Control
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Wall Mounting
+								
+								
+								
+								
+							 
+								400 x 400 mm
+                                
+                                
+                                
+							
+Power Requirements
+								
+								
+								
+								
+							 
+								110-120 VAC, 60 Hz
+                                
+                                
+                                
+							
+Power Consumption
+								
+								
+								
+								
+							 
+								Maximum: 178.0WTypical: 70.0WStandby:  
+						
+Energy Star Compliant
+								
+								
+								
+								
+							 
+								Version 6.0
+                                
+                                
+                                
+							
+Dimensions (WxHxD)
+								
+								
+								
+								
+							 
+								48.2 x 27.8 x 1.4" / 122.4 x 70.6 x 3.6 cm without stand48.2 x 29.2 x 12.2" / 122.4 x 74.2 x 31.0 cm with stand
+
+Bezel
+								
+								
+								
+								
+							 
+								5.1 mm
+                                
+                                
+                                
+							
+Weight
+								
+								
+								
+								
+							 
+								37 lb / 16.78 kg without stand40.3 lb / 18.28 kg with stand
+
+{'Dolby Digital\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Aspect Ratio\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t16 : 9\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dimensions (WxHxD)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t48.2 x 27.8 x 1.4"\xa0/\xa0122.4 x 70.6 x 3.6 cm without stand48.2 x 29.2 x 12.2"\xa0/\xa0122.4 x 74.2 x 31.0 cm with stand\n', 'Inputs/Outputs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t4x HDMI\xa0Audio/Video\xa0In1x RCA Component\xa0Video\xa0In2x RCA Composite\xa0Video\xa0In1x RCA Stereo (L/R)\xa0Audio\xa0In3x USB 2.0\xa0Audio/Video/Photo\xa0In1x RCA S/PDIF\xa0Audio\xa0Out1x 1/8" (3.5mm) Mini\xa0Audio\xa0Out1x Mini DVI\xa0Audio\xa0In1x Ethernet\xa0LAN\xa0In1x RS-232C\xa0Control\xa0In1x RF\xa0Control\xa0In\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wall Mounting\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t400 x 400 mm\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Menu Language\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tEnglish, Spanish, French\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Panel Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tLED LCD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Media Player\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t3GPPAACASFAVIBMPFLACFLVJPEGM2TSM4AMKVMOVMP3MP4MPAMPEG1MPOMTSOGGPNGPSBSMLSRTSSASUBSVITPTRPTSTXTVOBVROWEBMWMAWMV\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Pixel Resolution\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1920 x 1080\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Energy Star Compliant\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tVersion 6.0\n                                \n                                \n                                \n\t\t\t\t\t\t\t', '3D\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Subwoofer\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tNo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Remote Control\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Weight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t37 lb\xa0/\xa016.78 kg without stand40.3 lb\xa0/\xa018.28 kg with stand\n', 'Power\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t20\xa0W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tStereo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Consumption\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tMaximum: 178.0WTypical: 70.0WStandby:  \n\t\t\t\t\t\t', 'Video System\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tATSC, Clear QAM, NTSC\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Viewing Angle(H x V)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Refresh Rate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t240 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Picture in Picture (PIP)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wi-Fi\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBuilt-in\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Requirements\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t110-120 VAC, 60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Orientation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tSRS TruSurround XT\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Bezel\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t5.1 mm\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Screen Size (Diagonal)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t54.6"\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'TV Tuner\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/bhphotovideo_tvs/UN65H7150.html
+Screen Size (Diagonal)
+								
+								
+								
+								
+							 
+								65"
+                                
+                                
+									
+1
+
+Please Note:
+Approximate Screen Size
+close
+
+
+
+Panel Type
+								
+								
+								
+								
+							 
+								LED LCD
+                                
+                                
+                                
+							
+Pixel Resolution
+								
+								
+								
+								
+							 
+								1920 x 1080
+                                
+                                
+                                
+							
+Refresh Rate
+								
+								
+								
+								
+							 
+								240 Hz
+                                
+                                
+                                
+							
+Viewing Angle(H x V)
+								
+								
+								
+								
+							 
+								178&deg H x 178&deg V
+                                
+                                
+                                
+							
+TV Scan Lines
+								
+								
+								
+								
+							 
+								Up to 1920
+                                
+                                
+                                
+							
+TV Tuner
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+3D
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Sound
+								
+								
+								
+								
+							 
+								Stereo
+                                
+                                
+                                
+							
+Dolby Digital
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Inputs/Outputs
+								
+								
+								
+								
+							 
+								4x HDMI Audio/Video In3x USB Audio/Video/Photo In1x RCA Component Video In2x RCA Composite Video In2x RCA Stereo (L/R) Audio In1x TOSLINK Audio Out1x RF Antenna In1x Ethernet LAN In/Out
+                                
+                                
+                                
+							
+Digital Media Slot
+								
+								
+								
+								
+							 
+None
+
+Wi-Fi
+								
+								
+								
+								
+							 
+								Built-in
+                                
+                                
+                                
+							
+Remote Control
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Wall Mounting
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Power Requirements
+								
+								
+								
+								
+							 
+								110-120 VAC, 60 Hz
+                                
+                                
+                                
+							
+Dimensions (WxHxD)
+								
+								
+								
+								
+							 
+								57.0 x 32.9 x 1.4" / 144.8 x 83.6 x 3.6 cm Without Stand57.0 x 34.9 x 12.5" / 144.8 x 88.6 x 31.8 cm With Stand
+
+Weight
+								
+								
+								
+								
+							 
+								50.0 lb / 22.68 kg Without Stand57.5 lb / 26.08 kg With Stand
+
+{'Dolby Digital\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Digital Media Slot\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNone\n', 'Remote Control\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'TV Scan Lines\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tUp to 1920\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Weight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t50.0 lb\xa0/\xa022.68 kg Without Stand57.5 lb\xa0/\xa026.08 kg With Stand\n', 'Screen Size (Diagonal)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t65"\n                                \n                                \n\t\t\t\t\t\t\t\t\t\n1\n\nPlease Note:\nApproximate Screen Size\nclose\n\n\n', 'Inputs/Outputs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t4x HDMI\xa0Audio/Video\xa0In3x USB\xa0Audio/Video/Photo\xa0In1x RCA Component\xa0Video\xa0In2x RCA Composite\xa0Video\xa0In2x RCA Stereo (L/R)\xa0Audio\xa0In1x TOSLINK\xa0Audio\xa0Out1x RF\xa0Antenna\xa0In1x Ethernet\xa0LAN\xa0In/Out\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Panel Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tLED LCD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Refresh Rate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t240 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Requirements\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t110-120 VAC, 60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wi-Fi\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBuilt-in\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Viewing Angle(H x V)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t178&deg H x 178&deg V\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wall Mounting\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Dimensions (WxHxD)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t57.0 x 32.9 x 1.4"\xa0/\xa0144.8 x 83.6 x 3.6 cm Without Stand57.0 x 34.9 x 12.5"\xa0/\xa0144.8 x 88.6 x 31.8 cm With Stand\n', 'Pixel Resolution\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t1920 x 1080\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tStereo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'TV Tuner\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', '3D\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/bhphotovideo_tvs/UN65HU8550.html
+Screen Size (Diagonal)
+								
+								
+								
+								
+							 
+								64.5"
+                                
+                                
+                                
+							
+Panel Type
+								
+								
+								
+								
+							 
+								LED LCD
+                                
+                                
+                                
+							
+Pixel Resolution
+								
+								
+								
+								
+							 
+								3840 x 2160
+                                
+                                
+                                
+							
+Refresh Rate
+								
+								
+								
+								
+							 
+								120 Hz
+                                
+                                
+                                
+							
+Video System
+								
+								
+								
+								
+							 
+								ATSC, Clear QAM
+                                
+                                
+                                
+							
+TV Scan Lines
+								
+								
+								
+								
+							 
+								Up to 3840
+                                
+                                
+                                
+							
+TV Tuner
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+3D
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Sound
+								
+								
+								
+								
+							 
+								Stereo
+                                
+                                
+                                
+							
+Subwoofer
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Power
+								
+								
+								
+								
+							 
+								40 W
+                                
+                                
+                                
+							
+Orientation
+								
+								
+								
+								
+							 
+								Built-in
+                                
+                                
+                                
+							
+Dolby Digital
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Inputs/Outputs
+								
+								
+								
+								
+							 
+								4x HDMI Audio/Video In3x USB Audio/Video/Photo In1x Ethernet LAN In/Out1x RCA Component Video In2x RCA Composite Video In2x RCA Stereo (L/R) Audio In1x TOSLINK Audio Out1x 1/8" (3.5mm) Mini Audio Out1x IR Control In/Out1x RS-232C Control/Service In/Out
+                                
+                                
+                                
+							
+Digital Media Slot
+								
+								
+								
+								
+							 
+None
+
+Wi-Fi
+								
+								
+								
+								
+							 
+								Built-in
+                                
+                                
+                                
+							
+Menu Language
+								
+								
+								
+								
+							 
+								English, Spanish, French
+                                
+                                
+                                
+							
+Remote Control
+								
+								
+								
+								
+							 
+								Yes
+                                
+                                
+                                
+							
+Wall Mounting
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Power Requirements
+								
+								
+								
+								
+							 
+								110-120 VAC, 60 Hz
+                                
+                                
+                                
+							
+Power Consumption
+								
+								
+								
+								
+							 
+Not Specified By Manufacturer
+
+Dimensions (WxHxD)
+								
+								
+								
+								
+							 
+								57.1 x 32.8 x 1.4" / 145.0 x 83.3 x 3.6 cm Without Stand57.1 x 34.4 x 11.6" / 145.0 x 87.4 x 29.5 cm With Stand
+
+Bezel
+								
+								
+								
+								
+							 
+								7.6 mm
+                                
+                                
+                                
+							
+Weight
+								
+								
+								
+								
+							 
+								54.2 lb / 24.58 kg Without Stand62.6 lb / 28.39 kg With Stand
+
+{'Dolby Digital\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Digital Media Slot\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNone\n', 'TV Scan Lines\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tUp to 3840\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Inputs/Outputs\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t4x HDMI\xa0Audio/Video\xa0In3x USB\xa0Audio/Video/Photo\xa0In1x Ethernet\xa0LAN\xa0In/Out1x RCA Component\xa0Video\xa0In2x RCA Composite\xa0Video\xa0In2x RCA Stereo (L/R)\xa0Audio\xa0In1x TOSLINK\xa0Audio\xa0Out1x 1/8" (3.5mm) Mini\xa0Audio\xa0Out1x IR\xa0Control\xa0In/Out1x RS-232C\xa0Control/Service\xa0In/Out\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wall Mounting\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Pixel Resolution\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t3840 x 2160\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Dimensions (WxHxD)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t57.1 x 32.8 x 1.4"\xa0/\xa0145.0 x 83.3 x 3.6 cm Without Stand57.1 x 34.4 x 11.6"\xa0/\xa0145.0 x 87.4 x 29.5 cm With Stand\n', 'Menu Language\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tEnglish, Spanish, French\n                                \n                                \n                                \n\t\t\t\t\t\t\t', '3D\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Subwoofer\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Remote Control\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t40\xa0W\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Sound\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tStereo\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Consumption\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\nNot Specified By Manufacturer\n', 'Video System\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tATSC, Clear QAM\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Panel Type\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tLED LCD\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Refresh Rate\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t120 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Weight\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t54.2 lb\xa0/\xa024.58 kg Without Stand62.6 lb\xa0/\xa028.39 kg With Stand\n', 'Orientation\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBuilt-in\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Power Requirements\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t110-120 VAC, 60 Hz\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Wi-Fi\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tBuilt-in\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Bezel\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t7.6 mm\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'Screen Size (Diagonal)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\t64.5"\n                                \n                                \n                                \n\t\t\t\t\t\t\t', 'TV Tuner\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t': '\n\t\t\t\t\t\t\t\tYes\n                                \n                                \n                                \n\t\t\t\t\t\t\t'}
+finalizou

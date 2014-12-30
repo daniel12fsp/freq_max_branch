@@ -1,0 +1,2027 @@
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ao_refrigerador/BL77.html
+
+                        Dimensions
+                        
+                     (H)177.0 x (W)54.5 x (D)53.5
+
+                        Brand
+                        
+                     Beko
+
+                        Colour
+                        
+                     White
+
+                        Category
+                        
+                     Fridges
+
+                        SKU
+                        
+                     BL77_WH
+
+                        Annual Energy Cost Based On 15.44p/Unit
+                        
+                     23.62 pounds
+
+Energy Rating
+
+ A+ Rated
+
+Annual Energy Consumption
+
+ 153 Kwh
+
+Noise Level
+
+ 31 dB
+
+Display Type
+
+ None
+
+Interior Light
+
+ Yes
+
+Adjustable Shelves
+
+ Yes
+
+Hinge Position
+
+ Right
+
+Open Door Alert
+
+ No
+
+Temperature Controls
+
+ Yes
+
+Temperature Warning Light
+
+ No
+
+Manufacturer Warranty
+
+ 2 Year(s)
+
+Fridge Capacity (Net)
+
+ 310 Litres
+
+                        Number of Shelves (Fridge)
+                        
+                     5
+
+Anti Bacterial Protection
+
+ No
+
+Auto Defrost Refrigerator
+
+ Yes
+
+Bottle Storage
+
+ Yes
+
+Dairy Compartment
+
+ No
+
+Egg Tray
+
+ Yes
+
+Salad Crisper
+
+ Yes
+
+Shelf Type
+
+ Safety Glass
+
+                        Larder Fridge
+                        
+                     Yes
+
+Required Room Temperature
+
+ 10 To 43 °C
+
+Requires Plumbing
+
+ No
+
+Requires Own Furniture Door
+
+ Yes
+
+Reversible Door
+
+ Yes
+{'\n                        Dimensions\n                        \n                    ': '(H)177.0 x (W)54.5 x (D)53.5', '\nFridge Capacity (Net)\n\n': '310 Litres', '\nAnti Bacterial Protection\n\n': 'No', '\nTemperature Controls\n\n': 'Yes', '\nNoise Level\n\n': '31 dB', '\nOpen Door Alert\n\n': 'No', '\n                        Category\n                        \n                    ': 'Fridges', '\nAnnual Energy Consumption\n\n': '153 Kwh', '\nAdjustable Shelves\n\n': 'Yes', '\nShelf Type\n\n': 'Safety Glass', '\nRequires Own Furniture Door\n\n': 'Yes', '\n                        Annual Energy Cost Based On 15.44p/Unit\n                        \n                    ': '23.62 pounds', '\nHinge Position\n\n': 'Right', '\nDairy Compartment\n\n': 'No', '\nRequires Plumbing\n\n': 'No', '\n                        Larder Fridge\n                        \n                    ': 'Yes', '\nEnergy Rating\n\n': 'A+ Rated', '\nRequired Room Temperature\n\n': '10 To 43 °C', '\nDisplay Type\n\n': 'None', '\nReversible Door\n\n': 'Yes', '\nEgg Tray\n\n': 'Yes', '\nSalad Crisper\n\n': 'Yes', '\nAuto Defrost Refrigerator\n\n': 'Yes', '\n                        Number of Shelves (Fridge)\n                        \n                    ': '5', '\nInterior Light\n\n': 'Yes', '\n                        SKU\n                        \n                    ': 'BL77_WH', '\n                        Colour\n                        \n                    ': 'White', '\nBottle Storage\n\n': 'Yes', '\nTemperature Warning Light\n\n': 'No', '\nManufacturer Warranty\n\n': '2 Year(s)', '\n                        Brand\n                        \n                    ': 'Beko'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ao_refrigerador/KUR15A50GB.html
+
+                        Dimensions
+                        
+                     (H)82.0 x (W)59.8 x (D)54.8
+
+                        Brand
+                        
+                     Bosch
+
+                        Colour
+                        
+                     White
+
+                        Category
+                        
+                     Fridges
+
+                        SKU
+                        
+                     KUR15A50GB
+
+                        Annual Energy Cost Based On 15.44p/Unit
+                        
+                     19.15 pounds
+
+Energy Rating
+
+ A+ Rated
+
+Annual Energy Consumption
+
+ 124 Kwh
+
+Noise Level
+
+ 38 dB
+
+Display Type
+
+ None
+
+Adjustable Shelves
+
+ Yes
+
+Hinge Position
+
+ Right
+
+Interior Light
+
+ Yes
+
+Open Door Alert
+
+ No
+
+Temperature Controls
+
+ Yes
+
+Temperature Warning Light
+
+ No
+
+Manufacturer Warranty
+
+ 2 Year(s)
+
+                        Number of Shelves (Fridge)
+                        
+                     2
+
+Fridge Capacity (Net)
+
+ 137 Litres
+
+Frozen Food Compartment
+
+ Yes
+
+Anti Bacterial Protection
+
+ No
+
+Auto Defrost Refrigerator
+
+ Yes
+
+Bottle Storage
+
+ Yes
+
+Dairy Compartment
+
+ No
+
+Egg Tray
+
+ Yes
+
+Salad Crisper
+
+ Yes
+
+Shelf Type
+
+ Safety Glass
+
+                        Ice Box
+                        
+                     No
+
+Required Room Temperature
+
+ 10 To 38 °C
+
+Requires Plumbing
+
+ No
+
+Requires Own Furniture Door
+
+ Yes
+
+Reversible Door
+
+ Yes
+{'\n                        Dimensions\n                        \n                    ': '(H)82.0 x (W)59.8 x (D)54.8', '\nFridge Capacity (Net)\n\n': '137 Litres', '\nAnti Bacterial Protection\n\n': 'No', '\nTemperature Controls\n\n': 'Yes', '\nNoise Level\n\n': '38 dB', '\nOpen Door Alert\n\n': 'No', '\n                        Category\n                        \n                    ': 'Fridges', '\nAnnual Energy Consumption\n\n': '124 Kwh', '\nShelf Type\n\n': 'Safety Glass', '\nRequires Own Furniture Door\n\n': 'Yes', '\n                        Ice Box\n                        \n                    ': 'No', '\n                        Annual Energy Cost Based On 15.44p/Unit\n                        \n                    ': '19.15 pounds', '\nHinge Position\n\n': 'Right', '\nDairy Compartment\n\n': 'No', '\nRequires Plumbing\n\n': 'No', '\nTemperature Warning Light\n\n': 'No', '\nEnergy Rating\n\n': 'A+ Rated', '\nAuto Defrost Refrigerator\n\n': 'Yes', '\nDisplay Type\n\n': 'None', '\nRequired Room Temperature\n\n': '10 To 38 °C', '\nReversible Door\n\n': 'Yes', '\nEgg Tray\n\n': 'Yes', '\nSalad Crisper\n\n': 'Yes', '\nAdjustable Shelves\n\n': 'Yes', '\n                        Number of Shelves (Fridge)\n                        \n                    ': '2', '\nInterior Light\n\n': 'Yes', '\n                        SKU\n                        \n                    ': 'KUR15A50GB', '\n                        Colour\n                        \n                    ': 'White', '\nBottle Storage\n\n': 'Yes', '\nFrozen Food Compartment\n\n': 'Yes', '\nManufacturer Warranty\n\n': '2 Year(s)', '\n                        Brand\n                        \n                    ': 'Bosch'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ao_refrigerador/L5010W.html
+
+                        Dimensions
+                        
+                     (H)84.5 x (W)50.1 x (D)54.0
+
+                        Brand
+                        
+                     Lec
+
+                        Colour
+                        
+                     White
+
+                        Category
+                        
+                     Fridges
+
+                        SKU
+                        
+                     L5010W_WH
+
+Glass Shelves
+
+ Yes
+
+                        Annual Energy Cost Based On 15.44p/Unit
+                        
+                     16.37 pounds
+
+Energy Rating
+
+ A+ Rated
+
+Annual Energy Consumption
+
+ 106 Kwh
+
+Noise Level
+
+ 40 dB
+
+Display Type
+
+ N/A
+
+Interior Light
+
+ Yes
+
+Adjustable Shelves
+
+ Yes
+
+Hinge Position
+
+ Right
+
+Open Door Alert
+
+ No
+
+Temperature Controls
+
+ Adjustable Thermostat
+
+Temperature Warning Light
+
+ No
+
+Manufacturer Warranty
+
+ 1 Year(s)
+
+Fridge Capacity (Net)
+
+ 112 Litres
+
+                        Number of Shelves (Fridge)
+                        
+                     3
+
+Anti Bacterial Protection
+
+ No
+
+Auto Defrost Refrigerator
+
+ Yes
+
+Bottle Storage
+
+ Yes
+
+Dairy Compartment
+
+ No
+
+Egg Tray
+
+ No
+
+Salad Crisper
+
+ Yes
+
+Shelf Type
+
+ Safety Glass
+
+                        Larder Fridge
+                        
+                     Yes
+
+                        Energy Saving Trust
+                        
+                     Yes
+
+Required Room Temperature
+
+ 18 To 38 °C
+
+Requires Plumbing
+
+ No
+
+Requires Own Furniture Door
+
+ No
+
+Reversible Door
+
+ Yes
+{'\n                        Dimensions\n                        \n                    ': '(H)84.5 x (W)50.1 x (D)54.0', '\nFridge Capacity (Net)\n\n': '112 Litres', '\nOpen Door Alert\n\n': 'No', '\nAnti Bacterial Protection\n\n': 'No', '\nTemperature Controls\n\n': 'Adjustable Thermostat', '\nNoise Level\n\n': '40 dB', '\nEnergy Rating\n\n': 'A+ Rated', '\n                        Category\n                        \n                    ': 'Fridges', '\nAnnual Energy Consumption\n\n': '106 Kwh', '\nShelf Type\n\n': 'Safety Glass', '\n                        Energy Saving Trust\n                        \n                    ': 'Yes', '\nRequires Own Furniture Door\n\n': 'No', '\n                        Annual Energy Cost Based On 15.44p/Unit\n                        \n                    ': '16.37 pounds', '\nHinge Position\n\n': 'Right', '\nDairy Compartment\n\n': 'No', '\nRequires Plumbing\n\n': 'No', '\n                        Larder Fridge\n                        \n                    ': 'Yes', '\nGlass Shelves\n\n': 'Yes', '\nAuto Defrost Refrigerator\n\n': 'Yes', '\nDisplay Type\n\n': 'N/A', '\nRequired Room Temperature\n\n': '18 To 38 °C', '\nReversible Door\n\n': 'Yes', '\nEgg Tray\n\n': 'No', '\nSalad Crisper\n\n': 'Yes', '\nAdjustable Shelves\n\n': 'Yes', '\n                        Number of Shelves (Fridge)\n                        \n                    ': '3', '\nInterior Light\n\n': 'Yes', '\n                        SKU\n                        \n                    ': 'L5010W_WH', '\n                        Colour\n                        \n                    ': 'White', '\nBottle Storage\n\n': 'Yes', '\nTemperature Warning Light\n\n': 'No', '\nManufacturer Warranty\n\n': '1 Year(s)', '\n                        Brand\n                        \n                    ': 'Lec'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ao_refrigerador/MTL55249.html
+
+                        Dimensions
+                        
+                     (H)144.0 x (W)55.4 x (D)55.1
+
+                        Brand
+                        
+                     Fridgemaster
+
+                        Colour
+                        
+                     White
+
+                        Category
+                        
+                     Fridges
+
+                        SKU
+                        
+                     MTL55249_WH
+
+                        Annual Energy Cost Based On 15.44p/Unit
+                        
+                     20.84 pounds
+
+Energy Rating
+
+ A+ Rated
+
+Annual Energy Consumption
+
+ 135 Kwh
+
+Noise Level
+
+ 43 dB
+
+Display Type
+
+ None
+
+Interior Light
+
+ Yes
+
+Adjustable Shelves
+
+ Yes
+
+Hinge Position
+
+ Right
+
+Open Door Alert
+
+ No
+
+Temperature Controls
+
+ Yes
+
+Temperature Warning Light
+
+ No
+
+Manufacturer Warranty
+
+ 1 Year(s)
+
+Fridge Capacity (Net)
+
+ 250 Litres
+
+                        Number of Shelves (Fridge)
+                        
+                     4
+
+Anti Bacterial Protection
+
+ Yes
+
+Auto Defrost Refrigerator
+
+ Yes
+
+Bottle Storage
+
+ Yes
+
+Dairy Compartment
+
+ No
+
+Egg Tray
+
+ Yes
+
+Salad Crisper
+
+ Yes
+
+Shelf Type
+
+ Safety Glass
+
+                        Larder Fridge
+                        
+                     Yes
+
+Required Room Temperature
+
+ 10 to 43 °C
+
+Requires Plumbing
+
+ No
+
+Requires Own Furniture Door
+
+ No
+
+Reversible Door
+
+ Yes
+{'\n                        Dimensions\n                        \n                    ': '(H)144.0 x (W)55.4 x (D)55.1', '\nFridge Capacity (Net)\n\n': '250 Litres', '\nAnti Bacterial Protection\n\n': 'Yes', '\nTemperature Controls\n\n': 'Yes', '\nNoise Level\n\n': '43 dB', '\nOpen Door Alert\n\n': 'No', '\n                        Category\n                        \n                    ': 'Fridges', '\nAnnual Energy Consumption\n\n': '135 Kwh', '\nAdjustable Shelves\n\n': 'Yes', '\nShelf Type\n\n': 'Safety Glass', '\nRequires Own Furniture Door\n\n': 'No', '\n                        Annual Energy Cost Based On 15.44p/Unit\n                        \n                    ': '20.84 pounds', '\nHinge Position\n\n': 'Right', '\nDairy Compartment\n\n': 'No', '\nRequires Plumbing\n\n': 'No', '\n                        Larder Fridge\n                        \n                    ': 'Yes', '\nEnergy Rating\n\n': 'A+ Rated', '\nRequired Room Temperature\n\n': '10 to 43 °C', '\nDisplay Type\n\n': 'None', '\nReversible Door\n\n': 'Yes', '\nEgg Tray\n\n': 'Yes', '\nSalad Crisper\n\n': 'Yes', '\nAuto Defrost Refrigerator\n\n': 'Yes', '\n                        Number of Shelves (Fridge)\n                        \n                    ': '4', '\nInterior Light\n\n': 'Yes', '\n                        SKU\n                        \n                    ': 'MTL55249_WH', '\n                        Colour\n                        \n                    ': 'White', '\nBottle Storage\n\n': 'Yes', '\nTemperature Warning Light\n\n': 'No', '\nManufacturer Warranty\n\n': '1 Year(s)', '\n                        Brand\n                        \n                    ': 'Fridgemaster'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ao_refrigerador/MTL55300.html
+
+                        Dimensions
+                        
+                     (H)168.7 x (W)55.4 x (D)55.1
+
+                        Brand
+                        
+                     Fridgemaster
+
+                        Colour
+                        
+                     White
+
+                        Category
+                        
+                     Fridges
+
+                        SKU
+                        
+                     MTL55300_WH
+
+                        Annual Energy Cost Based On 15.44p/Unit
+                        
+                     21.77 pounds
+
+Energy Rating
+
+ A+ Rated
+
+Annual Energy Consumption
+
+ 141 Kwh
+
+Noise Level
+
+ 43 dB
+
+Display Type
+
+ None
+
+Interior Light
+
+ Yes
+
+Adjustable Shelves
+
+ Yes
+
+Hinge Position
+
+ Right
+
+Open Door Alert
+
+ No
+
+Temperature Controls
+
+ Yes
+
+Temperature Warning Light
+
+ No
+
+Manufacturer Warranty
+
+ 1 Year(s)
+
+Fridge Capacity (Net)
+
+ 300 Litres
+
+                        Number of Shelves (Fridge)
+                        
+                     5
+
+Anti Bacterial Protection
+
+ No
+
+Auto Defrost Refrigerator
+
+ Yes
+
+Bottle Storage
+
+ Yes
+
+Dairy Compartment
+
+ No
+
+Egg Tray
+
+ Yes
+
+Salad Crisper
+
+ Yes
+
+Shelf Type
+
+ Safety Glass
+
+                        Larder Fridge
+                        
+                     Yes
+
+Frozen Food Compartment
+
+ No
+
+Water Dispenser
+
+ No
+
+Required Room Temperature
+
+ 10 to 43 °C
+
+Requires Plumbing
+
+ No
+
+Requires Own Furniture Door
+
+ No
+
+Reversible Door
+
+ Yes
+{'\n                        Dimensions\n                        \n                    ': '(H)168.7 x (W)55.4 x (D)55.1', '\nFridge Capacity (Net)\n\n': '300 Litres', '\nAnti Bacterial Protection\n\n': 'No', '\nTemperature Controls\n\n': 'Yes', '\nNoise Level\n\n': '43 dB', '\nOpen Door Alert\n\n': 'No', '\n                        Category\n                        \n                    ': 'Fridges', '\nAnnual Energy Consumption\n\n': '141 Kwh', '\nAdjustable Shelves\n\n': 'Yes', '\nShelf Type\n\n': 'Safety Glass', '\nRequires Own Furniture Door\n\n': 'No', '\n                        Annual Energy Cost Based On 15.44p/Unit\n                        \n                    ': '21.77 pounds', '\nHinge Position\n\n': 'Right', '\nDairy Compartment\n\n': 'No', '\nRequires Plumbing\n\n': 'No', '\nFrozen Food Compartment\n\n': 'No', '\n                        Larder Fridge\n                        \n                    ': 'Yes', '\nEnergy Rating\n\n': 'A+ Rated', '\nRequired Room Temperature\n\n': '10 to 43 °C', '\nDisplay Type\n\n': 'None', '\nWater Dispenser\n\n': 'No', '\nReversible Door\n\n': 'Yes', '\nEgg Tray\n\n': 'Yes', '\nSalad Crisper\n\n': 'Yes', '\nAuto Defrost Refrigerator\n\n': 'Yes', '\n                        Number of Shelves (Fridge)\n                        \n                    ': '5', '\nInterior Light\n\n': 'Yes', '\n                        SKU\n                        \n                    ': 'MTL55300_WH', '\n                        Colour\n                        \n                    ': 'White', '\nBottle Storage\n\n': 'Yes', '\nTemperature Warning Light\n\n': 'No', '\nManufacturer Warranty\n\n': '1 Year(s)', '\n                        Brand\n                        \n                    ': 'Fridgemaster'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ao_refrigerador/MUL49102.html
+
+                        Dimensions
+                        
+                     (H)83.9 x (W)49.4 x (D)49.4
+
+                        Brand
+                        
+                     Fridgemaster
+
+                        Colour
+                        
+                     White
+
+                        Category
+                        
+                     Fridges
+
+                        SKU
+                        
+                     MUL49102_WH
+
+                        Annual Energy Cost Based On 15.44p/Unit
+                        
+                     18.22 pounds
+
+Energy Rating
+
+ A+ Rated
+
+Annual Energy Consumption
+
+ 118 Kwh
+
+Noise Level
+
+ 43 dB
+
+Display Type
+
+ None
+
+Interior Light
+
+ Yes
+
+Adjustable Shelves
+
+ Yes
+
+Hinge Position
+
+ Right
+
+Open Door Alert
+
+ No
+
+Temperature Controls
+
+ Yes
+
+Temperature Warning Light
+
+ No
+
+Manufacturer Warranty
+
+ 1 Year(s)
+
+Fridge Capacity (Net)
+
+ 102 Litres
+
+                        Number of Shelves (Fridge)
+                        
+                     2
+
+Anti Bacterial Protection
+
+ Yes
+
+Auto Defrost Refrigerator
+
+ Yes
+
+Bottle Storage
+
+ Yes
+
+Dairy Compartment
+
+ No
+
+Egg Tray
+
+ Yes
+
+Salad Crisper
+
+ Yes
+
+Shelf Type
+
+ Safety Glass
+
+                        Larder Fridge
+                        
+                     Yes
+
+Frozen Food Compartment
+
+ No
+
+Ice Dispenser
+
+ No
+
+Water Dispenser
+
+ No
+
+Required Room Temperature
+
+ 10 to 43 °C
+
+Requires Plumbing
+
+ No
+
+Requires Own Furniture Door
+
+ No
+
+Reversible Door
+
+ Yes
+{'\n                        Dimensions\n                        \n                    ': '(H)83.9 x (W)49.4 x (D)49.4', '\nFridge Capacity (Net)\n\n': '102 Litres', '\nIce Dispenser\n\n': 'No', '\nAnti Bacterial Protection\n\n': 'Yes', '\nTemperature Controls\n\n': 'Yes', '\nNoise Level\n\n': '43 dB', '\nOpen Door Alert\n\n': 'No', '\n                        Category\n                        \n                    ': 'Fridges', '\nAnnual Energy Consumption\n\n': '118 Kwh', '\nAdjustable Shelves\n\n': 'Yes', '\nShelf Type\n\n': 'Safety Glass', '\nRequires Own Furniture Door\n\n': 'No', '\n                        Annual Energy Cost Based On 15.44p/Unit\n                        \n                    ': '18.22 pounds', '\nHinge Position\n\n': 'Right', '\nDairy Compartment\n\n': 'No', '\nRequires Plumbing\n\n': 'No', '\nFrozen Food Compartment\n\n': 'No', '\n                        Larder Fridge\n                        \n                    ': 'Yes', '\nEnergy Rating\n\n': 'A+ Rated', '\nRequired Room Temperature\n\n': '10 to 43 °C', '\nDisplay Type\n\n': 'None', '\nWater Dispenser\n\n': 'No', '\nReversible Door\n\n': 'Yes', '\nEgg Tray\n\n': 'Yes', '\nSalad Crisper\n\n': 'Yes', '\nAuto Defrost Refrigerator\n\n': 'Yes', '\n                        Number of Shelves (Fridge)\n                        \n                    ': '2', '\nInterior Light\n\n': 'Yes', '\n                        SKU\n                        \n                    ': 'MUL49102_WH', '\n                        Colour\n                        \n                    ': 'White', '\nBottle Storage\n\n': 'Yes', '\nTemperature Warning Light\n\n': 'No', '\nManufacturer Warranty\n\n': '1 Year(s)', '\n                        Brand\n                        \n                    ': 'Fridgemaster'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ao_refrigerador/RLA36P.html
+
+                        Dimensions
+                        
+                     (H)85.0 x (W)59.8 x (D)62.0
+
+                        Brand
+                        
+                     Hotpoint
+
+                        Colour
+                        
+                     White
+
+                        Category
+                        
+                     Fridges
+
+                        SKU
+                        
+                     RLA36P_WH
+
+Energy Recommended
+
+ Yes
+
+Glass Shelves
+
+ No
+
+Safety Glass Shelves
+
+ Yes
+
+                        Annual Energy Cost Based On 15.44p/Unit
+                        
+                     19.3 pounds
+
+Energy Rating
+
+ A+ Rated
+
+Annual Energy Consumption
+
+ 125 Kwh
+
+Noise Level
+
+ 42 dB
+
+Display Type
+
+ None
+
+Interior Light
+
+ Yes
+
+Adjustable Shelves
+
+ Yes
+
+Hinge Position
+
+ Right
+
+Open Door Alert
+
+ No
+
+Temperature Controls
+
+ Mechanical
+
+Temperature Warning Light
+
+ No
+
+Manufacturer Warranty
+
+ 1 Year(s)
+
+Fridge Capacity (Net)
+
+ 149 Litres
+
+                        Number of Shelves (Fridge)
+                        
+                     3
+
+Anti Bacterial Protection
+
+ Yes
+
+Auto Defrost Refrigerator
+
+ Yes
+
+Bottle Storage
+
+ No
+
+Dairy Compartment
+
+ Yes
+
+Egg Tray
+
+ Yes
+
+Salad Crisper
+
+ Yes
+
+Shelf Type
+
+ Safety Glass
+
+                        Larder Fridge
+                        
+                     Yes
+
+Frozen Food Compartment
+
+ No
+
+Digital Display
+
+ No
+
+Ice Dispenser
+
+ No
+
+                        Salad Bin
+                        
+                     Yes
+
+Required Room Temperature
+
+ 10 To 38 °C
+
+Requires Plumbing
+
+ No
+
+Requires Own Furniture Door
+
+ No
+
+Reversible Door
+
+ Yes
+
+                        Please Note
+                        
+                     30mm Gap Recommended On The Hinge Side
+{'\n                        Dimensions\n                        \n                    ': '(H)85.0 x (W)59.8 x (D)62.0', '\nSafety Glass Shelves\n\n': 'Yes', '\nIce Dispenser\n\n': 'No', '\nOpen Door Alert\n\n': 'No', '\nAnti Bacterial Protection\n\n': 'Yes', '\nFridge Capacity (Net)\n\n': '149 Litres', '\nTemperature Controls\n\n': 'Mechanical', '\nNoise Level\n\n': '42 dB', '\nEnergy Rating\n\n': 'A+ Rated', '\n                        Category\n                        \n                    ': 'Fridges', '\nAnnual Energy Consumption\n\n': '125 Kwh', '\nShelf Type\n\n': 'Safety Glass', '\nRequires Own Furniture Door\n\n': 'No', '\nEnergy Recommended\n\n': 'Yes', '\n                        Annual Energy Cost Based On 15.44p/Unit\n                        \n                    ': '19.3 pounds', '\nHinge Position\n\n': 'Right', '\nDairy Compartment\n\n': 'Yes', '\nRequires Plumbing\n\n': 'No', '\nFrozen Food Compartment\n\n': 'No', '\n                        Larder Fridge\n                        \n                    ': 'Yes', '\nDigital Display\n\n': 'No', '\n                        Salad Bin\n                        \n                    ': 'Yes', '\nGlass Shelves\n\n': 'No', '\nAuto Defrost Refrigerator\n\n': 'Yes', '\nDisplay Type\n\n': 'None', '\nRequired Room Temperature\n\n': '10 To 38 °C', '\nReversible Door\n\n': 'Yes', '\nEgg Tray\n\n': 'Yes', '\nSalad Crisper\n\n': 'Yes', '\nAdjustable Shelves\n\n': 'Yes', '\n                        Number of Shelves (Fridge)\n                        \n                    ': '3', '\nInterior Light\n\n': 'Yes', '\n                        SKU\n                        \n                    ': 'RLA36P_WH', '\n                        Colour\n                        \n                    ': 'White', '\n                        Please Note\n                        \n                    ': '30mm Gap Recommended On The Hinge Side', '\nBottle Storage\n\n': 'No', '\nTemperature Warning Light\n\n': 'No', '\nManufacturer Warranty\n\n': '1 Year(s)', '\n                        Brand\n                        \n                    ': 'Hotpoint'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ao_refrigerador/RR35H6110SA.html
+
+                        Dimensions
+                        
+                     (H)180.0 x (W)59.5 x (D)56.8
+
+                        Brand
+                        
+                     Samsung
+
+                        Colour
+                        
+                     Silver
+
+                        Category
+                        
+                     Fridges
+
+                        SKU
+                        
+                     RR35H6110SA_GH
+
+                        Annual Energy Cost Based On 15.44p/Unit
+                        
+                     22.08 pounds
+
+Energy Rating
+
+ A+ Rated
+
+Annual Energy Consumption
+
+ 143 Kwh
+
+Noise Level
+
+ 42 dB
+
+Display Type
+
+ LED
+
+Interior Light
+
+ LED
+
+Adjustable Shelves
+
+ Yes
+
+Hinge Position
+
+ Right
+
+Open Door Alert
+
+ Yes
+
+Temperature Controls
+
+ Yes
+
+Temperature Warning Light
+
+ Yes
+
+Manufacturer Warranty
+
+ 2 Year(s)
+
+                        Manufacturer DD Motor Warranty
+                        
+                     10 Year(s)
+
+Fridge Capacity (Net)
+
+ 350 Litres
+
+                        Number of Shelves (Fridge)
+                        
+                     5
+
+Anti Bacterial Protection
+
+ No
+
+Auto Defrost Refrigerator
+
+ Yes
+
+Bottle Storage
+
+ Yes
+
+Dairy Compartment
+
+ Yes
+
+Egg Tray
+
+ Yes
+
+Salad Crisper
+
+ Yes
+
+Shelf Type
+
+ Safety Glass
+
+                        Larder Fridge
+                        
+                     Yes
+
+                        Eco Function
+                        
+                     Yes
+
+Holiday Setting
+
+ Yes
+
+                        Invertor Motor
+                        
+                     Yes
+
+                        Multi Airflow Cooling
+                        
+                     Yes
+
+Required Room Temperature
+
+ 10 to 43 °C
+
+Requires Plumbing
+
+ No
+
+Requires Own Furniture Door
+
+ No
+
+Reversible Door
+
+ Yes
+{'\n                        Dimensions\n                        \n                    ': '(H)180.0 x (W)59.5 x (D)56.8', '\nFridge Capacity (Net)\n\n': '350 Litres', '\nHoliday Setting\n\n': 'Yes', '\nAnti Bacterial Protection\n\n': 'No', '\n                        Manufacturer DD Motor Warranty\n                        \n                    ': '10 Year(s)', '\nTemperature Controls\n\n': 'Yes', '\n                        Multi Airflow Cooling\n                        \n                    ': 'Yes', '\nNoise Level\n\n': '42 dB', '\nOpen Door Alert\n\n': 'Yes', '\n                        Category\n                        \n                    ': 'Fridges', '\nAnnual Energy Consumption\n\n': '143 Kwh', '\nShelf Type\n\n': 'Safety Glass', '\n                        Invertor Motor\n                        \n                    ': 'Yes', '\n                        Annual Energy Cost Based On 15.44p/Unit\n                        \n                    ': '22.08 pounds', '\nHinge Position\n\n': 'Right', '\nDairy Compartment\n\n': 'Yes', '\nRequires Plumbing\n\n': 'No', '\n                        Larder Fridge\n                        \n                    ': 'Yes', '\nEnergy Rating\n\n': 'A+ Rated', '\n                        Eco Function\n                        \n                    ': 'Yes', '\nAuto Defrost Refrigerator\n\n': 'Yes', '\nDisplay Type\n\n': 'LED', '\nRequired Room Temperature\n\n': '10 to 43 °C', '\nReversible Door\n\n': 'Yes', '\nEgg Tray\n\n': 'Yes', '\nSalad Crisper\n\n': 'Yes', '\nRequires Own Furniture Door\n\n': 'No', '\nAdjustable Shelves\n\n': 'Yes', '\n                        Number of Shelves (Fridge)\n                        \n                    ': '5', '\nInterior Light\n\n': 'LED', '\n                        SKU\n                        \n                    ': 'RR35H6110SA_GH', '\n                        Colour\n                        \n                    ': 'Silver', '\nBottle Storage\n\n': 'Yes', '\nTemperature Warning Light\n\n': 'Yes', '\nManufacturer Warranty\n\n': '2 Year(s)', '\n                        Brand\n                        \n                    ': 'Samsung'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ao_refrigerador/SIAA12.html
+
+                        Dimensions
+                        
+                     (H)175.0 x (W)60.0 x (D)65.0
+
+                        Brand
+                        
+                     Indesit
+
+                        Colour
+                        
+                     White
+
+                        Category
+                        
+                     Fridges
+
+                        SKU
+                        
+                     SIAA12_WH
+
+Safety Glass Shelves
+
+ Yes
+
+                        Annual Energy Cost Based On 15.44p/Unit
+                        
+                     23.01 pounds
+
+Energy Rating
+
+ A+ Rated
+
+Annual Energy Consumption
+
+ 149 Kwh
+
+Noise Level
+
+ 43 dB
+
+Display Type
+
+ None
+
+Interior Light
+
+ Yes
+
+Adjustable Shelves
+
+ Yes
+
+Hinge Position
+
+ Right
+
+Open Door Alert
+
+ No
+
+Temperature Controls
+
+ Yes
+
+Temperature Warning Light
+
+ No
+
+Manufacturer Warranty
+
+ 1 Year(s)
+
+Fridge Capacity (Net)
+
+ 342 Litres
+
+                        Number of Shelves (Fridge)
+                        
+                     4
+
+Anti Bacterial Protection
+
+ Yes
+
+Auto Defrost Refrigerator
+
+ Yes
+
+Bottle Storage
+
+ Yes
+
+Dairy Compartment
+
+ No
+
+Egg Tray
+
+ No
+
+Salad Crisper
+
+ Yes
+
+Shelf Type
+
+ Safety Glass
+
+                        Larder Fridge
+                        
+                     Yes
+
+                        Hygiene Control
+                        
+                     Yes
+
+Required Room Temperature
+
+ 10 to 43 °C
+
+Requires Plumbing
+
+ No
+
+Requires Own Furniture Door
+
+ No
+
+Reversible Door
+
+ Yes
+
+                        Please Note
+                        
+                     Must Be Fixed To Floor Or Wall With Stability Bracket Provided
+{'\n                        Dimensions\n                        \n                    ': '(H)175.0 x (W)60.0 x (D)65.0', '\nSafety Glass Shelves\n\n': 'Yes', '\nAnti Bacterial Protection\n\n': 'Yes', '\nFridge Capacity (Net)\n\n': '342 Litres', '\nTemperature Controls\n\n': 'Yes', '\nNoise Level\n\n': '43 dB', '\nOpen Door Alert\n\n': 'No', '\n                        Category\n                        \n                    ': 'Fridges', '\nAnnual Energy Consumption\n\n': '149 Kwh', '\nShelf Type\n\n': 'Safety Glass', '\nRequires Own Furniture Door\n\n': 'No', '\n                        Hygiene Control\n                        \n                    ': 'Yes', '\n                        Annual Energy Cost Based On 15.44p/Unit\n                        \n                    ': '23.01 pounds', '\nHinge Position\n\n': 'Right', '\nDairy Compartment\n\n': 'No', '\nRequires Plumbing\n\n': 'No', '\n                        Larder Fridge\n                        \n                    ': 'Yes', '\nEnergy Rating\n\n': 'A+ Rated', '\nAuto Defrost Refrigerator\n\n': 'Yes', '\nDisplay Type\n\n': 'None', '\nRequired Room Temperature\n\n': '10 to 43 °C', '\nReversible Door\n\n': 'Yes', '\nEgg Tray\n\n': 'No', '\nSalad Crisper\n\n': 'Yes', '\nAdjustable Shelves\n\n': 'Yes', '\n                        Number of Shelves (Fridge)\n                        \n                    ': '4', '\nInterior Light\n\n': 'Yes', '\n                        SKU\n                        \n                    ': 'SIAA12_WH', '\n                        Colour\n                        \n                    ': 'White', '\n                        Please Note\n                        \n                    ': 'Must Be Fixed To Floor Or Wall With Stability Bracket Provided', '\nBottle Storage\n\n': 'Yes', '\nTemperature Warning Light\n\n': 'No', '\nManufacturer Warranty\n\n': '1 Year(s)', '\n                        Brand\n                        \n                    ': 'Indesit'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ao_refrigerador/TLAA10S.html
+
+                        Dimensions
+                        
+                     (H)85.0 x (W)55.0 x (D)58.0
+
+                        Brand
+                        
+                     Indesit
+
+                        Colour
+                        
+                     Silver
+
+                        Category
+                        
+                     Fridges
+
+                        SKU
+                        
+                     TLAA10S_SI
+
+                        Annual Energy Cost Based On 15.44p/Unit
+                        
+                     23.16 pounds
+
+Energy Rating
+
+ A+ Rated
+
+Annual Energy Consumption
+
+ 150 Kwh
+
+Noise Level
+
+ 40 dB
+
+Display Type
+
+ None
+
+Interior Light
+
+ Yes
+
+Adjustable Shelves
+
+ Yes
+
+Hinge Position
+
+ Right
+
+Open Door Alert
+
+ No
+
+Temperature Controls
+
+ Yes
+
+Temperature Warning Light
+
+ No
+
+Manufacturer Warranty
+
+ 1 Year(s)
+
+Fridge Capacity (Net)
+
+ 127 Litres
+
+                        Number of Shelves (Fridge)
+                        
+                     2
+
+Anti Bacterial Protection
+
+ No
+
+Auto Defrost Refrigerator
+
+ Yes
+
+Bottle Storage
+
+ Yes
+
+Dairy Compartment
+
+ No
+
+Egg Tray
+
+ Yes
+
+Salad Crisper
+
+ Yes
+
+Shelf Type
+
+ Safety Glass
+
+                        Larder Fridge
+                        
+                     Yes
+
+Required Room Temperature
+
+ 10 To 38 °C
+
+Requires Plumbing
+
+ No
+
+Requires Own Furniture Door
+
+ No
+
+Reversible Door
+
+ Yes
+{'\n                        Dimensions\n                        \n                    ': '(H)85.0 x (W)55.0 x (D)58.0', '\nFridge Capacity (Net)\n\n': '127 Litres', '\nAnti Bacterial Protection\n\n': 'No', '\nTemperature Controls\n\n': 'Yes', '\nNoise Level\n\n': '40 dB', '\nOpen Door Alert\n\n': 'No', '\n                        Category\n                        \n                    ': 'Fridges', '\nAnnual Energy Consumption\n\n': '150 Kwh', '\nAdjustable Shelves\n\n': 'Yes', '\nShelf Type\n\n': 'Safety Glass', '\nRequires Own Furniture Door\n\n': 'No', '\n                        Annual Energy Cost Based On 15.44p/Unit\n                        \n                    ': '23.16 pounds', '\nHinge Position\n\n': 'Right', '\nDairy Compartment\n\n': 'No', '\nRequires Plumbing\n\n': 'No', '\n                        Larder Fridge\n                        \n                    ': 'Yes', '\nEnergy Rating\n\n': 'A+ Rated', '\nRequired Room Temperature\n\n': '10 To 38 °C', '\nDisplay Type\n\n': 'None', '\nReversible Door\n\n': 'Yes', '\nEgg Tray\n\n': 'Yes', '\nSalad Crisper\n\n': 'Yes', '\nAuto Defrost Refrigerator\n\n': 'Yes', '\n                        Number of Shelves (Fridge)\n                        \n                    ': '2', '\nInterior Light\n\n': 'Yes', '\n                        SKU\n                        \n                    ': 'TLAA10S_SI', '\n                        Colour\n                        \n                    ': 'Silver', '\nBottle Storage\n\n': 'Yes', '\nTemperature Warning Light\n\n': 'No', '\nManufacturer Warranty\n\n': '1 Year(s)', '\n                        Brand\n                        \n                    ': 'Indesit'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ao_refrigerador/TLDC671S.html
+
+                        Dimensions
+                        
+                     (H)171.4 x (W)60.0 x (D)65.0
+
+                        Brand
+                        
+                     Beko
+
+                        Colour
+                        
+                     Silver
+
+                        Category
+                        
+                     Fridges
+
+                        SKU
+                        
+                     TLDC671S_SI
+
+                        Annual Energy Cost Based On 15.44p/Unit
+                        
+                     22.39 pounds
+
+Energy Rating
+
+ A+ Rated
+
+Annual Energy Consumption
+
+ 145 Kwh
+
+Noise Level
+
+ 39 dB
+
+Display Type
+
+ N/A
+
+Interior Light
+
+ Yes
+
+Adjustable Shelves
+
+ Yes
+
+Hinge Position
+
+ Right
+
+Open Door Alert
+
+ No
+
+Temperature Controls
+
+ Yes
+
+Temperature Warning Light
+
+ Yes
+
+Manufacturer Warranty
+
+ 1 Year(s)
+
+Fridge Capacity (Net)
+
+ 359 Litres
+
+                        Number of Shelves (Fridge)
+                        
+                     5
+
+Anti Bacterial Protection
+
+ Yes
+
+Auto Defrost Refrigerator
+
+ Yes
+
+Bottle Storage
+
+ Yes
+
+Dairy Compartment
+
+ No
+
+Egg Tray
+
+ Yes
+
+Salad Crisper
+
+ Yes
+
+Shelf Type
+
+ Safety Glass
+
+                        Larder Fridge
+                        
+                     Yes
+
+Chiller Zone
+
+ Yes
+
+                        Non Plumbed
+                        
+                     Yes
+
+Water Dispenser
+
+ Yes
+
+                        WineRack
+                        
+                     Yes
+
+Required Room Temperature
+
+ 10 to 43 °C
+
+Requires Plumbing
+
+ No
+
+Requires Own Furniture Door
+
+ No
+
+Reversible Door
+
+ Yes
+{'\n                        Dimensions\n                        \n                    ': '(H)171.4 x (W)60.0 x (D)65.0', '\nFridge Capacity (Net)\n\n': '359 Litres', '\nAnti Bacterial Protection\n\n': 'Yes', '\nTemperature Controls\n\n': 'Yes', '\nNoise Level\n\n': '39 dB', '\nOpen Door Alert\n\n': 'No', '\n                        Category\n                        \n                    ': 'Fridges', '\nAnnual Energy Consumption\n\n': '145 Kwh', '\nAdjustable Shelves\n\n': 'Yes', '\nShelf Type\n\n': 'Safety Glass', '\nRequires Own Furniture Door\n\n': 'No', '\n                        Annual Energy Cost Based On 15.44p/Unit\n                        \n                    ': '22.39 pounds', '\nHinge Position\n\n': 'Right', '\nDairy Compartment\n\n': 'No', '\nRequired Room Temperature\n\n': '10 to 43 °C', '\n                        Larder Fridge\n                        \n                    ': 'Yes', '\nChiller Zone\n\n': 'Yes', '\nEnergy Rating\n\n': 'A+ Rated', '\n                        Non Plumbed\n                        \n                    ': 'Yes', '\n                        WineRack\n                        \n                    ': 'Yes', '\nDisplay Type\n\n': 'N/A', '\nWater Dispenser\n\n': 'Yes', '\nReversible Door\n\n': 'Yes', '\nEgg Tray\n\n': 'Yes', '\nSalad Crisper\n\n': 'Yes', '\nRequires Plumbing\n\n': 'No', '\nAuto Defrost Refrigerator\n\n': 'Yes', '\n                        Number of Shelves (Fridge)\n                        \n                    ': '5', '\nInterior Light\n\n': 'Yes', '\n                        SKU\n                        \n                    ': 'TLDC671S_SI', '\n                        Colour\n                        \n                    ': 'Silver', '\nBottle Storage\n\n': 'Yes', '\nTemperature Warning Light\n\n': 'Yes', '\nManufacturer Warranty\n\n': '1 Year(s)', '\n                        Brand\n                        \n                    ': 'Beko'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ao_refrigerador/UL584APS.html
+
+                        Dimensions
+                        
+                     (H)84.0 x (W)54.5 x (D)59.5
+
+                        Brand
+                        
+                     Beko
+
+                        Colour
+                        
+                     Silver
+
+                        Category
+                        
+                     Fridges
+
+                        SKU
+                        
+                     UL584APS_SI
+
+Glass Shelves
+
+ Yes
+
+                        Annual Energy Cost Based On 15.44p/Unit
+                        
+                     17.91 pounds
+
+Energy Rating
+
+ A+ Rated
+
+Annual Energy Consumption
+
+ 116 Kwh
+
+Noise Level
+
+ 39 dB
+
+Display Type
+
+ None
+
+Interior Light
+
+ Yes
+
+Adjustable Shelves
+
+ Yes
+
+Hinge Position
+
+ Right
+
+Open Door Alert
+
+ No
+
+Temperature Controls
+
+ Yes
+
+Temperature Warning Light
+
+ No
+
+Manufacturer Warranty
+
+ 1 Year(s)
+
+Fridge Capacity (Net)
+
+ 130 Litres
+
+                        Number of Shelves (Fridge)
+                        
+                     3
+
+Anti Bacterial Protection
+
+ Yes
+
+Auto Defrost Refrigerator
+
+ Yes
+
+Bottle Storage
+
+ Yes
+
+Dairy Compartment
+
+ No
+
+Egg Tray
+
+ Yes
+
+Salad Crisper
+
+ Yes
+
+Shelf Type
+
+ Glass 
+
+                        Larder Fridge
+                        
+                     Yes
+
+Required Room Temperature
+
+ 10 To 32 °C
+
+Requires Plumbing
+
+ No
+
+Requires Own Furniture Door
+
+ No
+
+Reversible Door
+
+ Yes
+{'\n                        Dimensions\n                        \n                    ': '(H)84.0 x (W)54.5 x (D)59.5', '\nFridge Capacity (Net)\n\n': '130 Litres', '\nOpen Door Alert\n\n': 'No', '\nAnti Bacterial Protection\n\n': 'Yes', '\nTemperature Controls\n\n': 'Yes', '\nNoise Level\n\n': '39 dB', '\nEnergy Rating\n\n': 'A+ Rated', '\n                        Category\n                        \n                    ': 'Fridges', '\nAnnual Energy Consumption\n\n': '116 Kwh', '\nShelf Type\n\n': 'Glass ', '\nRequires Own Furniture Door\n\n': 'No', '\n                        Annual Energy Cost Based On 15.44p/Unit\n                        \n                    ': '17.91 pounds', '\nHinge Position\n\n': 'Right', '\nDairy Compartment\n\n': 'No', '\nRequires Plumbing\n\n': 'No', '\n                        Larder Fridge\n                        \n                    ': 'Yes', '\nGlass Shelves\n\n': 'Yes', '\nAuto Defrost Refrigerator\n\n': 'Yes', '\nDisplay Type\n\n': 'None', '\nRequired Room Temperature\n\n': '10 To 32 °C', '\nReversible Door\n\n': 'Yes', '\nEgg Tray\n\n': 'Yes', '\nSalad Crisper\n\n': 'Yes', '\nAdjustable Shelves\n\n': 'Yes', '\n                        Number of Shelves (Fridge)\n                        \n                    ': '3', '\nInterior Light\n\n': 'Yes', '\n                        SKU\n                        \n                    ': 'UL584APS_SI', '\n                        Colour\n                        \n                    ': 'Silver', '\nBottle Storage\n\n': 'Yes', '\nTemperature Warning Light\n\n': 'No', '\nManufacturer Warranty\n\n': '1 Year(s)', '\n                        Brand\n                        \n                    ': 'Beko'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ao_refrigerador/UL584APW.html
+
+                        Dimensions
+                        
+                     (H)84.0 x (W)54.5 x (D)59.5
+
+                        Brand
+                        
+                     Beko
+
+                        Colour
+                        
+                     White
+
+                        Category
+                        
+                     Fridges
+
+                        SKU
+                        
+                     UL584APW_WH
+
+Glass Shelves
+
+ Yes
+
+                        Annual Energy Cost Based On 15.44p/Unit
+                        
+                     17.91 pounds
+
+Energy Rating
+
+ A+ Rated
+
+Annual Energy Consumption
+
+ 116 Kwh
+
+Noise Level
+
+ 39 dB
+
+Display Type
+
+ None
+
+Interior Light
+
+ Yes
+
+Adjustable Shelves
+
+ Yes
+
+Hinge Position
+
+ Right
+
+Open Door Alert
+
+ No
+
+Temperature Controls
+
+ Yes
+
+Temperature Warning Light
+
+ No
+
+Manufacturer Warranty
+
+ 1 Year(s)
+
+Fridge Capacity (Net)
+
+ 130 Litres
+
+                        Number of Shelves (Fridge)
+                        
+                     3
+
+Anti Bacterial Protection
+
+ Yes
+
+Auto Defrost Refrigerator
+
+ Yes
+
+Bottle Storage
+
+ Yes
+
+Dairy Compartment
+
+ No
+
+Egg Tray
+
+ Yes
+
+Salad Crisper
+
+ Yes
+
+Shelf Type
+
+ Glass 
+
+                        Larder Fridge
+                        
+                     Yes
+
+Required Room Temperature
+
+ 10 To 32 °C
+
+Requires Plumbing
+
+ No
+
+Requires Own Furniture Door
+
+ No
+
+Reversible Door
+
+ Yes
+{'\n                        Dimensions\n                        \n                    ': '(H)84.0 x (W)54.5 x (D)59.5', '\nFridge Capacity (Net)\n\n': '130 Litres', '\nOpen Door Alert\n\n': 'No', '\nAnti Bacterial Protection\n\n': 'Yes', '\nTemperature Controls\n\n': 'Yes', '\nNoise Level\n\n': '39 dB', '\nEnergy Rating\n\n': 'A+ Rated', '\n                        Category\n                        \n                    ': 'Fridges', '\nAnnual Energy Consumption\n\n': '116 Kwh', '\nShelf Type\n\n': 'Glass ', '\nRequires Own Furniture Door\n\n': 'No', '\n                        Annual Energy Cost Based On 15.44p/Unit\n                        \n                    ': '17.91 pounds', '\nHinge Position\n\n': 'Right', '\nDairy Compartment\n\n': 'No', '\nRequires Plumbing\n\n': 'No', '\n                        Larder Fridge\n                        \n                    ': 'Yes', '\nGlass Shelves\n\n': 'Yes', '\nAuto Defrost Refrigerator\n\n': 'Yes', '\nDisplay Type\n\n': 'None', '\nRequired Room Temperature\n\n': '10 To 32 °C', '\nReversible Door\n\n': 'Yes', '\nEgg Tray\n\n': 'Yes', '\nSalad Crisper\n\n': 'Yes', '\nAdjustable Shelves\n\n': 'Yes', '\n                        Number of Shelves (Fridge)\n                        \n                    ': '3', '\nInterior Light\n\n': 'Yes', '\n                        SKU\n                        \n                    ': 'UL584APW_WH', '\n                        Colour\n                        \n                    ': 'White', '\nBottle Storage\n\n': 'Yes', '\nTemperature Warning Light\n\n': 'No', '\nManufacturer Warranty\n\n': '1 Year(s)', '\n                        Brand\n                        \n                    ': 'Beko'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ao_refrigerador/ZRA40100WA.html
+
+                        Dimensions
+                        
+                     (H)185.0 x (W)60.0 x (D)65.8
+
+                        Brand
+                        
+                     Zanussi
+
+                        Colour
+                        
+                     White
+
+                        Category
+                        
+                     Fridges
+
+                        SKU
+                        
+                     ZRA40100WA_WH
+
+                        Annual Energy Cost Based On 15.44p/Unit
+                        
+                     21.62 pounds
+
+Energy Rating
+
+ A+ Rated
+
+Annual Energy Consumption
+
+ 140 Kwh
+
+Noise Level
+
+ 38 dB
+
+Display Type
+
+ None
+
+Adjustable Shelves
+
+ Yes
+
+Hinge Position
+
+ Right
+
+Interior Light
+
+ LED
+
+Open Door Alert
+
+ No
+
+Temperature Controls
+
+ Yes
+
+Temperature Warning Light
+
+ No
+
+Manufacturer Warranty
+
+ 1 Year(s)
+
+                        Number of Shelves (Fridge)
+                        
+                     5
+
+Fridge Capacity (Net)
+
+ 395 Litres
+
+Frozen Food Compartment
+
+ Yes
+
+Anti Bacterial Protection
+
+ No
+
+Auto Defrost Refrigerator
+
+ Yes
+
+Bottle Storage
+
+ Yes
+
+Dairy Compartment
+
+ No
+
+Egg Tray
+
+ Yes
+
+Salad Crisper
+
+ Yes
+
+Shelf Type
+
+ Safety Glass
+
+                        SpacePlus ®
+                        
+                     Yes
+
+Required Room Temperature
+
+ 10 to 38 °C
+
+Requires Plumbing
+
+ No
+
+Requires Own Furniture Door
+
+ No
+
+Reversible Door
+
+ Yes
+{'\n                        Dimensions\n                        \n                    ': '(H)185.0 x (W)60.0 x (D)65.8', '\nFridge Capacity (Net)\n\n': '395 Litres', '\nAnti Bacterial Protection\n\n': 'No', '\nTemperature Controls\n\n': 'Yes', '\n                        SpacePlus ®\n                        \n                    ': 'Yes', '\nNoise Level\n\n': '38 dB', '\nOpen Door Alert\n\n': 'No', '\n                        Category\n                        \n                    ': 'Fridges', '\nAnnual Energy Consumption\n\n': '140 Kwh', '\nShelf Type\n\n': 'Safety Glass', '\nRequires Own Furniture Door\n\n': 'No', '\n                        Annual Energy Cost Based On 15.44p/Unit\n                        \n                    ': '21.62 pounds', '\nHinge Position\n\n': 'Right', '\nDairy Compartment\n\n': 'No', '\nRequires Plumbing\n\n': 'No', '\nTemperature Warning Light\n\n': 'No', '\nEnergy Rating\n\n': 'A+ Rated', '\nAuto Defrost Refrigerator\n\n': 'Yes', '\nDisplay Type\n\n': 'None', '\nRequired Room Temperature\n\n': '10 to 38 °C', '\nReversible Door\n\n': 'Yes', '\nEgg Tray\n\n': 'Yes', '\nSalad Crisper\n\n': 'Yes', '\nAdjustable Shelves\n\n': 'Yes', '\n                        Number of Shelves (Fridge)\n                        \n                    ': '5', '\nInterior Light\n\n': 'LED', '\n                        SKU\n                        \n                    ': 'ZRA40100WA_WH', '\n                        Colour\n                        \n                    ': 'White', '\nBottle Storage\n\n': 'Yes', '\nFrozen Food Compartment\n\n': 'Yes', '\nManufacturer Warranty\n\n': '1 Year(s)', '\n                        Brand\n                        \n                    ': 'Zanussi'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ao_refrigerador/ZRG16603WA.html
+
+                        Dimensions
+                        
+                     (H)85.0 x (W)54.5 x (D)61.2
+
+                        Brand
+                        
+                     Zanussi
+
+                        Colour
+                        
+                     White
+
+                        Category
+                        
+                     Fridges
+
+                        SKU
+                        
+                     ZRG16603WA_WH
+
+                        Annual Energy Cost Based On 15.44p/Unit
+                        
+                     18.37 pounds
+
+Energy Rating
+
+ A+ Rated
+
+Annual Energy Consumption
+
+ 119 Kwh
+
+Noise Level
+
+ 38 dB
+
+Display Type
+
+ None
+
+Interior Light
+
+ Yes
+
+Adjustable Shelves
+
+ Yes
+
+Hinge Position
+
+ Right
+
+Open Door Alert
+
+ No
+
+Temperature Controls
+
+ Yes
+
+Temperature Warning Light
+
+ No
+
+Manufacturer Warranty
+
+ 1 Year(s)
+
+Fridge Capacity (Net)
+
+ 153 Litres
+
+                        Number of Shelves (Fridge)
+                        
+                     2
+
+Anti Bacterial Protection
+
+ No
+
+Auto Defrost Refrigerator
+
+ Yes
+
+Bottle Storage
+
+ Yes
+
+Dairy Compartment
+
+ No
+
+Egg Tray
+
+ Yes
+
+Salad Crisper
+
+ Yes
+
+Shelf Type
+
+ Safety Glass
+
+                        Larder Fridge
+                        
+                     Yes
+
+Frozen Food Compartment
+
+ No
+
+Digital Display
+
+ No
+
+Vacation Button
+
+ No
+
+Required Room Temperature
+
+ 10 to 38 °C
+
+Requires Plumbing
+
+ No
+
+Requires Own Furniture Door
+
+ No
+
+Reversible Door
+
+ Yes
+{'\n                        Dimensions\n                        \n                    ': '(H)85.0 x (W)54.5 x (D)61.2', '\nFridge Capacity (Net)\n\n': '153 Litres', '\nAnti Bacterial Protection\n\n': 'No', '\nTemperature Controls\n\n': 'Yes', '\nVacation Button\n\n': 'No', '\nNoise Level\n\n': '38 dB', '\nOpen Door Alert\n\n': 'No', '\n                        Category\n                        \n                    ': 'Fridges', '\nAnnual Energy Consumption\n\n': '119 Kwh', '\nAdjustable Shelves\n\n': 'Yes', '\nShelf Type\n\n': 'Safety Glass', '\nRequires Own Furniture Door\n\n': 'No', '\n                        Annual Energy Cost Based On 15.44p/Unit\n                        \n                    ': '18.37 pounds', '\nHinge Position\n\n': 'Right', '\nDairy Compartment\n\n': 'No', '\nRequires Plumbing\n\n': 'No', '\nFrozen Food Compartment\n\n': 'No', '\n                        Larder Fridge\n                        \n                    ': 'Yes', '\nDigital Display\n\n': 'No', '\nEnergy Rating\n\n': 'A+ Rated', '\nRequired Room Temperature\n\n': '10 to 38 °C', '\nDisplay Type\n\n': 'None', '\nReversible Door\n\n': 'Yes', '\nEgg Tray\n\n': 'Yes', '\nSalad Crisper\n\n': 'Yes', '\nAuto Defrost Refrigerator\n\n': 'Yes', '\n                        Number of Shelves (Fridge)\n                        \n                    ': '2', '\nInterior Light\n\n': 'Yes', '\n                        SKU\n                        \n                    ': 'ZRG16603WA_WH', '\n                        Colour\n                        \n                    ': 'White', '\nBottle Storage\n\n': 'Yes', '\nTemperature Warning Light\n\n': 'No', '\nManufacturer Warranty\n\n': '1 Year(s)', '\n                        Brand\n                        \n                    ': 'Zanussi'}
+finalizou

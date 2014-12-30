@@ -1,0 +1,1654 @@
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/pc_nation_camera/RC3438.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204053SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: PEN
+Product Model: E-P5
+Product Name: PEN E-P5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Screen Size: 3"
+Display Screen Type: LCD
+Touchscreen: Yes
+Display Resolution: 1037000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 17.2 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes:  Auto WB 7 Preset WBs 2 Capture WBs Custom WB (Kelvin Setting) Sunny (5300K) Shadow (7500K) Cloudy (6000K) Incandescent (3000K) Fluorescent (4000K) Underwater WB Flash (5500K) 
+Aspect Ratio: 16:9
+Image Formats: JPEG
+  RAW
+  MPO
+Maximum Image Resolution: 4608 x 3456
+Video Formats: MOV
+  MPEG-4 AVC
+  Motion JPEG (AVI)
+  AVCHD
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 30 fps
+Audio Formats: WAV
+  PCM
+Digital Zoom: 2x
+Wide Angle: Yes
+Focal Length: 17 mm (Lens 1)
+Focal Length (35mm Equivalent): 34 mm (Lens 1)
+Lens Construction: 9 Elements in 6 Groups
+Aperture Range: f/1.8
+Image Stabilization: Electronic
+  Optical
+Autofocus Points: 35
+Focus Modes: Auto
+  Manual
+Minimum Focus Distance: 9.84"
+Lens Mount Type: Micro Four Thirds
+Filter Attachment Diameter: 46 mm
+Shortest Shutter Speed: 1/8000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto
+  ISO 100
+  ISO 200
+  ISO 400
+  ISO 800
+  ISO 1600
+  ISO 3200
+  ISO 6400
+  ISO 12800
+  ISO 16000
+  ISO 20000
+  ISO 25600
+Exposure Control:  Program AE Aperture Priority AE Shutter Priority AE Manual 
+Built-in Flash: Yes
+Built-in Flash Modes: Auto Flash
+  Flash OFF
+  Flash ON
+  Slow Sync
+  Red-eye Reduction
+  Front Curtain Sync
+  Rear Curtain Sync
+  X-sync
+  Flash Exposure Compensation
+External Flash: Optional
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Secure Digital (SD) Card
+  Secure Digital Extended Capacity (SDXC)
+  Secure Digital High Capacity (SDHC) Card
+  Secure Digital Extended Capacity (SDXC UHS-I)
+  Secure Digital High Capacity (SDHC UHS-I)
+  Eye-Fi Card
+Wireless LAN: Yes
+Wireless LAN Standard: IEEE 802.11b/g/n
+GPS: No
+Camera Modes: Scene Modes:  Portrait e-Portrait Landscape Landscape + Portrait Sport Night Night + Portrait Children High Key Low Key DIS Mode Macro Nature Macro Candle Sunset Documents Panorama Fireworks Beach & Snow Fisheye Conv. Wide Conv. Macro Conv. 3D 
+Self Timer: 12 Second
+  30 Second
+  500 ms
+  1 Second
+  2 Second
+  3 Second
+HDMI: Yes
+USB: Yes
+PictBridge: Yes
+Built-in Devices: Speaker
+  Microphone
+  Wireless Flash Control
+Software Included: Viewer 3
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Camera Assembly: Body with Lens Kit
+Height: 2.7"
+Width: 4.8"
+Depth: 1.5"
+Weight (Approximate): 13.33 oz
+Package Contents:  PEN E-P5 Mirrorless Camera M.Zuiko Digital 17mm f1.8 Lens VF-4 Viewfinder Li-ion Battery BLN-1 Li-ion Battery Charger BCN-1 USB Cable Shoulder Strap Software CD-ROM Instruction Manual Warranty Card 
+Features: Continuous Shooting Mode
+  Live View
+  Face Detection
+  Orientation Sensor
+  Time Lapse Function
+Language Supported: English
+  French
+  German
+  Spanish
+  Italian
+  Japanese
+  Korean
+  Chinese (Simplified)
+  Chinese (Traditional)
+  Russian
+  Czech
+  Dutch
+  Danish
+  Polish
+  Portuguese
+  Swedish
+  Norwegian
+  Finnish
+  Croatian
+  Slovenian
+  Hungarian
+  Greek
+  Slovakian
+  Turkish
+  Latvian
+  Estonian
+  Lithuanian
+  Ukrainian
+  Serbian
+  Bulgarian
+  Romanian
+  Indonesian
+  Malay
+  Thai
+Platform Supported: PC
+  Mac
+Limited Warranty: 1 Year
+{'Battery Built-in:': 'No', 'ISO Sensitivity:': 'Auto', 'Image Sensor Size:': '4/3" (0.71" x 0.53")', 'Product Name:': 'PEN E-P5 Mirrorless Camera', 'Software Included:': 'Viewer 3', 'Manufacturer:': 'Olympus Corporation', 'Audio Formats:': 'WAV', 'Focus Modes:': 'Auto', 'Autofocus Points:': '35', 'Product Model:': 'E-P5', 'Focal Length (35mm Equivalent):': '34 mm (Lens 1)', 'Viewfinder Type:': 'Electronic', 'Minimum Diopter Adjustment:': '-4', 'Maximum Video Resolution:': '1920 x 1080', 'Screen Size:': '3"', 'Filter Attachment Diameter:': '46 mm', 'Language Supported:': 'English', 'Built-in Flash Modes:': 'Auto Flash', 'Weight (Approximate):': '13.33 oz', 'HDMI:': 'Yes', 'White Balance Modes:': ' Auto WB 7 Preset WBs 2 Capture WBs Custom WB (Kelvin Setting) Sunny (5300K) Shadow (7500K) Cloudy (6000K) Incandescent (3000K) Fluorescent (4000K) Underwater WB Flash (5500K) ', 'Battery Life:': '330 Shot', 'Minimum Focus Distance:': '9.84"', 'Battery Size Supported:': 'Proprietary Battery Size', 'Focal Length:': '17 mm (Lens 1)', 'Wireless LAN:': 'Yes', 'Features:': 'Continuous Shooting Mode', 'Digital Zoom:': '2x', 'Lens Mount Type:': 'Micro Four Thirds', 'External Flash:': 'Optional', 'Touchscreen:': 'Yes', 'Color:': 'Silver', 'Maximum Image Resolution:': '4608 x 3456', 'Manufacturer Part Number:': 'V204053SU000', 'Product Line:': 'PEN', 'Depth:': '1.5"', 'Camera Modes:': 'Scene Modes:  Portrait e-Portrait Landscape Landscape + Portrait Sport Night Night + Portrait Children High Key Low Key DIS Mode Macro Nature Macro Candle Sunset Documents Panorama Fireworks Beach & Snow Fisheye Conv. Wide Conv. Macro Conv. 3D ', 'Self Timer:': '12 Second', 'Image Sensor Type:': 'Live MOS', 'Total Camera Resolution:': '17.2 Megapixel', 'Exposure Control:': ' Program AE Aperture Priority AE Shutter Priority AE Manual ', 'Product Type:': 'Mirrorless Camera', 'Brand Name:': 'Olympus', 'Platform Supported:': 'PC', 'Maximum Diopter Adjustment:': '2', 'Effective Camera Resolution:': '16.1 Megapixel', 'Shortest Shutter Speed:': '1/8000 Second', 'Built-in Devices:': 'Speaker', 'Maximum Frame Rate:': '30 fps', 'Display Screen Type:': 'LCD', 'Memory Card Supported:': 'Secure Digital (SD) Card', 'HD Movie Mode:': 'Yes', 'PictBridge:': 'Yes', 'Video Formats:': 'MOV', 'Wide Angle:': 'Yes', 'Battery Rechargeable:': 'Yes', 'Wireless LAN Standard:': 'IEEE 802.11b/g/n', 'Camera Assembly:': 'Body with Lens Kit', 'Width:': '4.8"', 'Package Contents:': ' PEN E-P5 Mirrorless Camera M.Zuiko Digital 17mm f1.8 Lens VF-4 Viewfinder Li-ion Battery BLN-1 Li-ion Battery Charger BCN-1 USB Cable Shoulder Strap Software CD-ROM Instruction Manual Warranty Card ', '\xa0': 'Mac', 'GPS:': 'No', 'Image Formats:': 'JPEG', 'Height:': '2.7"', 'Manufacturer Website Address:': 'http://www.olympusamerica.com', 'Aspect Ratio:': '16:9', 'Display Resolution:': '1037000 Pixel', 'Limited Warranty:': '1 Year', 'Lens Construction:': '9 Elements in 6 Groups', 'Built-in Flash:': 'Yes', 'Battery Chemistry:': 'Lithium Ion (Li-Ion)', 'Longest Shutter Speed:': '60 Second', 'USB:': 'Yes', 'Battery Model Supported:': 'BLN-1', 'Battery Included:': 'Yes', 'Number of Batteries Supported:': '1', 'Image Stabilization:': 'Electronic', 'Aperture Range:': 'f/1.8'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/pc_nation_camera/RC3439.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V204053BU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Line: PEN
+Product Model: E-P5
+Product Name: PEN E-P5 Mirrorless Camera
+Product Type: Mirrorless Camera
+Screen Size: 3"
+Display Screen Type: LCD
+Touchscreen: Yes
+Display Resolution: 1037000 Pixel
+Effective Camera Resolution: 16.1 Megapixel
+Total Camera Resolution: 17.2 Megapixel
+Image Sensor Size: 4/3" (0.71" x 0.53")
+Image Sensor Type: Live MOS
+White Balance Modes:  Auto WB 7 Preset WBs 2 Capture WBs Custom WB (Kelvin Setting) Sunny (5300K) Shadow (7500K) Cloudy (6000K) Incandescent (3000K) Fluorescent (4000K) Underwater WB Flash (5500K) 
+Aspect Ratio: 16:9
+Image Formats: JPEG
+  MPO
+  RAW
+Maximum Image Resolution: 4608 x 3456
+Video Formats: MOV
+  MPEG-4 AVC
+  Motion JPEG (AVI)
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 30 fps
+Audio Formats: WAV
+  PCM
+Digital Zoom: 2x
+Wide Angle: Yes
+Focal Length: 17 mm
+Focal Length (35mm Equivalent): 34 mm
+Lens Construction: 9 Elements in 6 Groups
+Aperture Range: f/1.8
+Image Stabilization: Optical
+Autofocus Points: 35
+Focus Modes: Auto
+  Manual
+Minimum Focus Distance: 9.84"
+Lens Mount Type: Micro Four Thirds
+Filter Attachment Diameter: 46 mm
+Shortest Shutter Speed: 1/8000 Second
+Longest Shutter Speed: 60 Second
+ISO Sensitivity: Auto
+  ISO 100
+  ISO 200
+  ISO 400
+  ISO 800
+  ISO 1600
+  ISO 3200
+  ISO 6400
+  ISO 12800
+  ISO 16000
+  ISO 20000
+  ISO 25600
+Exposure Control:  Program AE Aperture Priority AE Shutter Priority AE Manual 
+Built-in Flash: Yes
+Built-in Flash Modes: Auto Flash
+  Flash ON
+  Flash OFF
+  Slow Sync
+  Red-eye Reduction
+  Front Curtain Sync
+  Rear Curtain Sync
+  Flash Exposure Compensation
+External Flash: Optional
+Viewfinder Type: Electronic
+Minimum Diopter Adjustment: -4
+Maximum Diopter Adjustment: 2
+Memory Card Supported: Eye-Fi Card
+  Secure Digital (SD) Card
+  Secure Digital High Capacity (SDHC) Card
+  Secure Digital Extended Capacity (SDXC)
+  Secure Digital Extended Capacity (SDXC UHS-I)
+  Secure Digital High Capacity (SDHC UHS-I)
+Wireless LAN: Yes
+Wireless LAN Standard: IEEE 802.11b/g/n
+GPS: No
+Camera Modes: Scene Modes:  Portrait e-Portrait Landscape Landscape + Portrait Sport Night Night + Portrait Children High Key Low Key DIS Mode Macro Nature Macro Candle Sunset Documents Panorama Fireworks Beach & Snow Fisheye Conv. Wide Conv. Macro Conv. 3D 
+Self Timer: 1 Second
+  2 Second
+  3 Second
+  12 Second
+  30 Second
+  500 ms
+HDMI: Yes
+USB: Yes
+PictBridge: Yes
+Built-in Devices: Microphone
+  Speaker
+  Wireless Flash Control
+Software Included: Viewer 3 
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: BLN-1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Black
+Camera Assembly: Body with Lens Kit
+Height: 2.7"
+Width: 4.8"
+Depth: 1.5"
+Weight (Approximate): 13.33 oz
+Package Contents:  PEN E-P5 Mirrorless Camera M.Zuiko Digital 17mm f1.8 Lens VF-4 Viewfinder Li-ion Battery BLN-1 Li-ion Battery Charger BCN-1 USB Cable Shoulder Strap Software CD-ROM Instruction Manual Warranty Card 
+Features: Continuous Shooting Mode
+  Live View
+  Face Detection
+  Orientation Sensor
+  Time Lapse Function
+Language Supported: English
+  French
+  German
+  Spanish
+  Italian
+  Japanese
+  Korean
+  Chinese (Simplified)
+  Chinese (Traditional)
+  Russian
+  Czech
+  Dutch
+  Danish
+  Polish
+  Portuguese
+  Swedish
+  Norwegian
+  Finnish
+  Croatian
+  Slovenian
+  Hungarian
+  Greek
+  Slovakian
+  Turkish
+  Latvian
+  Estonian
+  Lithuanian
+  Ukrainian
+  Serbian
+  Bulgarian
+  Romanian
+  Indonesian
+  Malay
+  Thai
+Platform Supported: PC
+  Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: RoHS
+  WEEE
+Limited Warranty: 1 Year
+{'Battery Built-in:': 'No', 'ISO Sensitivity:': 'Auto', 'Image Sensor Size:': '4/3" (0.71" x 0.53")', 'Product Name:': 'PEN E-P5 Mirrorless Camera', 'Software Included:': 'Viewer 3 ', 'Manufacturer:': 'Olympus Corporation', 'Audio Formats:': 'WAV', 'Focus Modes:': 'Auto', 'Autofocus Points:': '35', 'Product Model:': 'E-P5', 'Focal Length (35mm Equivalent):': '34 mm', 'Viewfinder Type:': 'Electronic', 'Minimum Diopter Adjustment:': '-4', 'Maximum Video Resolution:': '1920 x 1080', 'Screen Size:': '3"', 'Filter Attachment Diameter:': '46 mm', 'Language Supported:': 'English', 'Built-in Flash Modes:': 'Auto Flash', 'Weight (Approximate):': '13.33 oz', 'HDMI:': 'Yes', 'White Balance Modes:': ' Auto WB 7 Preset WBs 2 Capture WBs Custom WB (Kelvin Setting) Sunny (5300K) Shadow (7500K) Cloudy (6000K) Incandescent (3000K) Fluorescent (4000K) Underwater WB Flash (5500K) ', 'Battery Life:': '330 Shot', 'Minimum Focus Distance:': '9.84"', 'Battery Size Supported:': 'Proprietary Battery Size', 'Focal Length:': '17 mm', 'Green Compliant:': 'Yes', 'Wireless LAN:': 'Yes', 'Features:': 'Continuous Shooting Mode', 'Digital Zoom:': '2x', 'Lens Mount Type:': 'Micro Four Thirds', 'External Flash:': 'Optional', 'Touchscreen:': 'Yes', 'Color:': 'Black', 'Maximum Image Resolution:': '4608 x 3456', 'Manufacturer Part Number:': 'V204053BU000', 'Product Line:': 'PEN', 'Depth:': '1.5"', 'Camera Modes:': 'Scene Modes:  Portrait e-Portrait Landscape Landscape + Portrait Sport Night Night + Portrait Children High Key Low Key DIS Mode Macro Nature Macro Candle Sunset Documents Panorama Fireworks Beach & Snow Fisheye Conv. Wide Conv. Macro Conv. 3D ', 'Self Timer:': '1 Second', 'Image Sensor Type:': 'Live MOS', 'Total Camera Resolution:': '17.2 Megapixel', 'Exposure Control:': ' Program AE Aperture Priority AE Shutter Priority AE Manual ', 'Product Type:': 'Mirrorless Camera', 'Brand Name:': 'Olympus', 'Platform Supported:': 'PC', 'Maximum Diopter Adjustment:': '2', 'Effective Camera Resolution:': '16.1 Megapixel', 'Shortest Shutter Speed:': '1/8000 Second', 'Built-in Devices:': 'Microphone', 'Maximum Frame Rate:': '30 fps', 'Display Screen Type:': 'LCD', 'Memory Card Supported:': 'Eye-Fi Card', 'Green Compliance Certificate/Authority:': 'RoHS', 'HD Movie Mode:': 'Yes', 'PictBridge:': 'Yes', 'Video Formats:': 'MOV', 'Wide Angle:': 'Yes', 'Battery Rechargeable:': 'Yes', 'Wireless LAN Standard:': 'IEEE 802.11b/g/n', 'Camera Assembly:': 'Body with Lens Kit', 'Width:': '4.8"', 'Package Contents:': ' PEN E-P5 Mirrorless Camera M.Zuiko Digital 17mm f1.8 Lens VF-4 Viewfinder Li-ion Battery BLN-1 Li-ion Battery Charger BCN-1 USB Cable Shoulder Strap Software CD-ROM Instruction Manual Warranty Card ', '\xa0': 'WEEE', 'GPS:': 'No', 'Image Formats:': 'JPEG', 'Height:': '2.7"', 'Manufacturer Website Address:': 'http://www.olympusamerica.com', 'Aspect Ratio:': '16:9', 'Display Resolution:': '1037000 Pixel', 'Limited Warranty:': '1 Year', 'Lens Construction:': '9 Elements in 6 Groups', 'Built-in Flash:': 'Yes', 'Battery Chemistry:': 'Lithium Ion (Li-Ion)', 'Longest Shutter Speed:': '60 Second', 'USB:': 'Yes', 'Battery Model Supported:': 'BLN-1', 'Battery Included:': 'Yes', 'Number of Batteries Supported:': '1', 'Image Stabilization:': 'Optical', 'Aperture Range:': 'f/1.8'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/pc_nation_camera/RY5893.html
+Manufacturer: Sony Corporation
+Manufacturer Part Number: DSCRX100M2/B
+Manufacturer Website Address: http://www.sony.com
+Brand Name: Sony
+Product Line: Cyber-shot
+Product Model: DSCRX100
+Product Name: Cyber-shot Digital Camera RX100 II
+Product Type: Compact Camera
+Screen Size: 3"
+Display Screen Type: LCD
+Touchscreen: No
+Display Resolution: 1229000 Pixel
+Effective Camera Resolution: 20.2 Megapixel
+Total Camera Resolution: 20.9 Megapixel
+Image Sensor Size: 1" (0.52" x 0.35")
+Image Sensor Type: Exmor CMOS
+White Balance Modes: AutoDaylightShadeCloudyIncandescentFluor (Warm White)Fluor (Cool White)Fluor (Day White)Fluor (Daylight)FlashC. Temp.FilterCustom
+Aspect Ratio: 16:9
+Image Formats: JPEG
+  RAW
+Maximum Image Resolution: 5472 x 3648
+Video Formats: AVCHD
+  MP4
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Optical Zoom: 3.6x
+Digital Zoom: 14x
+Wide Angle: Yes
+Focal Length: 10.40 mm to 37.10 mm
+Focal Length (35mm Equivalent): 28 mm to 100 mm
+Lens Construction: 7 Elements in 6 Groups
+Aperture Range: f/1.8 to 4.9
+Image Stabilization: Optical
+Autofocus Points: 25
+Focus Modes: Auto
+  Manual
+Minimum Focus Distance: 1.97"
+Shortest Shutter Speed: 1/2000 Second
+Longest Shutter Speed: 30 Second
+ISO Sensitivity: Auto
+  ISO 160
+  ISO 200
+  ISO 400
+  ISO 800
+  ISO 1600
+  ISO 3200
+  ISO 6400
+  ISO 12800
+  ISO 25600
+Exposure Control: Program AEAperture Priority AEShutter Prioirty AEManual
+Built-in Flash: Yes
+Built-in Flash Modes: Auto Flash
+  Flash ON
+  Flash OFF
+  Rear Curtain Sync
+  Slow Sync
+External Flash: No
+Viewfinder Type: No
+Minimum Diopter Adjustment: No
+Maximum Diopter Adjustment: No
+Memory Card Supported: Memory Stick Duo
+  Memory Stick PRO Duo
+  Memory Stick PRO High Speed Duo
+  Memory Stick PRO-HG Duo
+  Secure Digital (SD) Card
+  Secure Digital Extended Capacity (SDXC)
+  Secure Digital High Capacity (SDHC) Card
+  Eye-Fi Card
+GPS: No
+Camera Modes: Scene Mode:PortraitAnti Motion BlurSports ActionPetGourmetMacroLandscapeSunsetNight SceneHand-Held TwilightNight PortraitFireworksHigh Sensitivity
+Self Timer: 2 Second
+  10 Second
+HDMI: Yes
+USB: Yes
+Analog Video Out: No
+PictBridge: No
+Built-in Devices: Microphone
+  Speaker
+Software Included: PlayMemories Home
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: NP-BX1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 330 Shot/2.75 Hour Video
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Black
+Height: 2.3"
+Width: 4"
+Depth: 1.4"
+Weight (Approximate): 7.51 oz
+Package Contents:  Cyber-shot Digital Camera RX100 II Battery NP-BX1 AC Adaptor AC-UD11 Micro USB Cable Wrist Strap Shoulder Strap Adaptor Instruction Manual 
+Features: Face Detection
+  Live View
+  Orientation Sensor
+  Continuous Shooting Mode
+  3D Panorama
+Language Supported: English
+  French
+  German
+  Spanish
+  Italian
+  Portuguese
+  Dutch
+  Swedish
+  Norwegian
+  Finnish
+  Polish
+  Czech
+  Hungarian
+  Turkish
+  Greek
+  Bulgarian
+  Croatian
+  Romanian
+  Danish
+Platform Supported: PC
+  Mac
+Limited Warranty: 1 Year
+{'Battery Built-in:': 'No', 'ISO Sensitivity:': 'Auto', 'Image Sensor Size:': '1" (0.52" x 0.35")', 'Product Name:': 'Cyber-shot Digital Camera RX100 II', 'PictBridge:': 'No', 'Manufacturer:': 'Sony Corporation', 'Focus Modes:': 'Auto', 'Autofocus Points:': '25', 'Product Model:': 'DSCRX100', 'Focal Length (35mm Equivalent):': '28 mm to 100 mm', 'Viewfinder Type:': 'No', 'Optical Zoom:': '3.6x', 'Maximum Video Resolution:': '1920 x 1080', 'Screen Size:': '3"', 'Battery Model Supported:': 'NP-BX1', 'Language Supported:': 'English', 'Built-in Flash Modes:': 'Auto Flash', 'HDMI:': 'Yes', 'White Balance Modes:': 'AutoDaylightShadeCloudyIncandescentFluor (Warm White)Fluor (Cool White)Fluor (Day White)Fluor (Daylight)FlashC. Temp.FilterCustom', 'Battery Life:': '330 Shot/2.75 Hour Video', 'Minimum Focus Distance:': '1.97"', 'Battery Size Supported:': 'Proprietary Battery Size', 'Focal Length:': '10.40 mm to 37.10 mm', 'Features:': 'Face Detection', 'Digital Zoom:': '14x', 'Weight (Approximate):': '7.51 oz', 'Built-in Flash:': 'Yes', 'Touchscreen:': 'No', 'Color:': 'Black', 'Maximum Image Resolution:': '5472 x 3648', 'Manufacturer Part Number:': 'DSCRX100M2/B', 'Product Line:': 'Cyber-shot', 'Depth:': '1.4"', 'Camera Modes:': 'Scene Mode:PortraitAnti Motion BlurSports ActionPetGourmetMacroLandscapeSunsetNight SceneHand-Held TwilightNight PortraitFireworksHigh Sensitivity', 'Self Timer:': '2 Second', 'Image Sensor Type:': 'Exmor CMOS', 'Total Camera Resolution:': '20.9 Megapixel', 'Exposure Control:': 'Program AEAperture Priority AEShutter Prioirty AEManual', 'Product Type:': 'Compact Camera', 'Brand Name:': 'Sony', 'Platform Supported:': 'PC', 'Maximum Diopter Adjustment:': 'No', 'Effective Camera Resolution:': '20.2 Megapixel', 'Shortest Shutter Speed:': '1/2000 Second', 'Built-in Devices:': 'Microphone', 'Maximum Frame Rate:': '60 fps', 'Display Screen Type:': 'LCD', 'Memory Card Supported:': 'Memory Stick Duo', 'HD Movie Mode:': 'Yes', 'Minimum Diopter Adjustment:': 'No', 'Video Formats:': 'AVCHD', 'Wide Angle:': 'Yes', 'Battery Rechargeable:': 'Yes', 'Analog Video Out:': 'No', 'Width:': '4"', 'Package Contents:': ' Cyber-shot Digital Camera RX100 II Battery NP-BX1 AC Adaptor AC-UD11 Micro USB Cable Wrist Strap Shoulder Strap Adaptor Instruction Manual ', '\xa0': 'Mac', 'GPS:': 'No', 'Image Formats:': 'JPEG', 'Height:': '2.3"', 'Manufacturer Website Address:': 'http://www.sony.com', 'Aspect Ratio:': '16:9', 'Display Resolution:': '1229000 Pixel', 'Limited Warranty:': '1 Year', 'Software Included:': 'PlayMemories Home', 'Lens Construction:': '7 Elements in 6 Groups', 'External Flash:': 'No', 'Battery Chemistry:': 'Lithium Ion (Li-Ion)', 'Longest Shutter Speed:': '30 Second', 'USB:': 'Yes', 'Battery Included:': 'Yes', 'Number of Batteries Supported:': '1', 'Image Stabilization:': 'Optical', 'Aperture Range:': 'f/1.8 to 4.9'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/pc_nation_camera/TB6450.html
+Manufacturer: International Innovations, Inc
+Manufacturer Part Number: IC16
+Manufacturer Website Address: http://www.intova.net
+Brand Name: Intova
+Product Model: IC16
+Product Name: IC16 Underwater Camera
+Product Type: Compact Camera
+Screen Size: 2.7"
+Display Screen Type: LCD
+Display Resolution: 230000 Pixel
+Effective Camera Resolution: 16 Megapixel
+Image Sensor Size: 1/2.33"
+Image Sensor Type: CCD
+White Balance Modes:  Auto, Incandescent Fluorescent 1 Fluorescent 2 Daylight Cloudy Manual 
+Aspect Ratio: 16:9
+Image Formats: JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: Motion JPEG (AVI)
+Maximum Video Resolution: 1280 x 720
+HD Movie Mode: Yes
+Maximum Frame Rate: 30 fps
+Optical Zoom: 5x
+Digital Zoom: 4x
+Focal Length: 5 mm to 25 mm
+Focal Length (35mm Equivalent): 28 mm to 140 mm
+Aperture Range: f/3.2 to 6.5
+Focus Modes: Auto
+Minimum Focus Distance: 3.94"
+Shortest Shutter Speed: 1/2000 Second
+Longest Shutter Speed: 2 Second
+ISO Sensitivity: Auto
+  ISO 100
+  ISO 6400
+Exposure Control:  Auto Program AE Aperture Priority / Av Shutter Speed Priority / Tv Auto Exposure Bracketing 
+Built-in Flash: Yes
+Built-in Flash Modes: Auto Flash
+  Flash ON
+  Flash OFF
+  Red-eye Reduction
+  Slow Sync
+Viewfinder Type: No
+Minimum Diopter Adjustment: No
+Maximum Diopter Adjustment: No
+Flash Memory Capacity: 32 MB
+Memory Card Supported: Secure Digital (SD) Card
+  Secure Digital High Capacity (SDHC) Card
+Camera Modes: Shooting Modes:  Intelligent Scene Panorama Video (combine pictures in camera automatically) Mirroring Lomo Fisheye Toy Sketch Watercolor Beauty Enhancer Portrait Night Scene Night Portrait Fireworks Candlelight Sports Pets Landscape Natural Green Flow Water Splash Water Sunset Sunrise Snow Beach Text 
+Self Timer: 2 Second
+  10 Second
+USB: Yes
+Analog Video Out: Yes
+Built-in Devices: Microphone
+Durability: Water Proof
+Height: 2.3"
+Width: 3.8"
+Depth: 0.7"
+Weight (Approximate): 3.74 oz
+Features: Face Detection
+  Smile Detection
+  Continuous Shooting Mode
+  Self-timer
+Platform Supported: Mac
+  PC
+Waterproof Measure: Upto 180 ft
+{'ISO Sensitivity:': 'Auto', 'Image Sensor Size:': '1/2.33"', 'Product Name:': 'IC16 Underwater Camera', 'Built-in Flash Modes:': 'Auto Flash', 'Manufacturer:': 'International Innovations, Inc', 'Focus Modes:': 'Auto', 'Product Model:': 'IC16', 'Focal Length (35mm Equivalent):': '28 mm to 140 mm', 'Optical Zoom:': '5x', 'Maximum Video Resolution:': '1280 x 720', 'Viewfinder Type:': 'No', 'White Balance Modes:': ' Auto, Incandescent Fluorescent 1 Fluorescent 2 Daylight Cloudy Manual ', 'Minimum Focus Distance:': '3.94"', 'Flash Memory Capacity:': '32 MB', 'Focal Length:': '5 mm to 25 mm', 'Features:': 'Face Detection', 'Digital Zoom:': '4x', 'Weight (Approximate):': '3.74 oz', 'Screen Size:': '2.7"', 'Analog Video Out:': 'Yes', 'Maximum Image Resolution:': '4608 x 3456', 'Manufacturer Part Number:': 'IC16', '\xa0': 'PC', 'Depth:': '0.7"', 'Camera Modes:': 'Shooting Modes:  Intelligent Scene Panorama Video (combine pictures in camera automatically) Mirroring Lomo Fisheye Toy Sketch Watercolor Beauty Enhancer Portrait Night Scene Night Portrait Fireworks Candlelight Sports Pets Landscape Natural Green Flow Water Splash Water Sunset Sunrise Snow Beach Text ', 'Self Timer:': '2 Second', 'Image Sensor Type:': 'CCD', 'Exposure Control:': ' Auto Program AE Aperture Priority / Av Shutter Speed Priority / Tv Auto Exposure Bracketing ', 'Product Type:': 'Compact Camera', 'Brand Name:': 'Intova', 'Platform Supported:': 'Mac', 'Maximum Diopter Adjustment:': 'No', 'Effective Camera Resolution:': '16 Megapixel', 'Maximum Frame Rate:': '30 fps', 'Display Screen Type:': 'LCD', 'Memory Card Supported:': 'Secure Digital (SD) Card', 'HD Movie Mode:': 'Yes', 'Video Formats:': 'Motion JPEG (AVI)', 'Built-in Devices:': 'Microphone', 'Image Formats:': 'JPEG', 'Width:': '3.8"', 'Shortest Shutter Speed:': '1/2000 Second', 'Minimum Diopter Adjustment:': 'No', 'Height:': '2.3"', 'Manufacturer Website Address:': 'http://www.intova.net', 'Aspect Ratio:': '16:9', 'Display Resolution:': '230000 Pixel', 'Built-in Flash:': 'Yes', 'Durability:': 'Water Proof', 'Longest Shutter Speed:': '2 Second', 'USB:': 'Yes', 'Waterproof Measure:': 'Upto 180 ft', 'Aperture Range:': 'f/3.2 to 6.5'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/pc_nation_camera/TW8748.html
+Manufacturer: Fuji Photo Film Co. Ltd
+Manufacturer Part Number: 16291015
+Manufacturer Website Address: http://www.fujifilm.com
+Brand Name: Fujifilm
+Product Line: FinePix
+Product Series: J
+Product Model: JX660
+Product Name: FinePix JX660 Compact Camera
+Product Type: Compact Camera
+Screen Size: 3"
+Display Screen Type: LCD
+Display Resolution: 230000 Pixel
+Effective Camera Resolution: 16 Megapixel
+Image Sensor Size: 1/2.3" (0.24" x 0.18")
+Image Sensor Type: CCD
+White Balance Modes:  Auto Fine Shade Fluorescent Light (Daylight) Fluorescent Light (Warm White) Fluorescent Light (Cool White) Incandescent Light 
+Aspect Ratio: 16:9
+Image Formats: JPEG
+Maximum Image Resolution: 4608 x 3440
+Video Formats: Motion JPEG (AVI)
+Maximum Video Resolution: 1280 x 720
+HD Movie Mode: Yes
+Maximum Frame Rate: 30 fps
+Optical Zoom: 5x
+Digital Zoom: 7.2x
+Focal Length: 4.60 mm to 23 mm
+Focal Length (35mm Equivalent): 26 mm to 130 mm
+Lens Construction: 6 Elements in 5 Groups
+Aperture Range: f/3.5 to 6.3
+Focus Modes: Auto
+Minimum Focus Distance: 3.94"
+Shortest Shutter Speed: 1/1400 Second
+Longest Shutter Speed: 1/4 Second
+ISO Sensitivity: Auto
+  ISO 100
+  ISO 200
+  ISO 400
+  ISO 800
+  ISO 1600
+  ISO 3200
+Exposure Control: Programmed AE
+Built-in Flash: Yes
+Built-in Flash Modes: Auto Flash
+  Flash OFF
+  Flash ON
+  Suppressed Flash
+  Slow Sync
+  Red-eye Reduction
+  Flash Exposure Compensation
+Memory Card Supported: Secure Digital (SD) Card
+  Secure Digital High Capacity (SDHC) Card
+  Secure Digital Extended Capacity (SDXC)
+Camera Modes: Shooting Modes:  SR AUTO AUTO Program Natural Light & with Flash Natural Light Portrait Baby Smile Landscape Panorama Sport Night Night (Tripod) Fireworks Sunset Snow Beach Party Flower Text Advanced Filter Individual Shutter 3D  Scene Modes:  Automatic Scene Selection Toy Camera Miniature Pop Color High-key Soft Focus Cross Screen Partial Color Red Orange Yellow Green Blue Purple 
+Self Timer: 2 Second
+  10 Second
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: NP-45A
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 230 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Black
+Height: 2.2"
+Width: 3.7"
+Depth: 0.8"
+Weight (Approximate): 3.67 oz
+Package Contents:  FinePix JX660 Compact Camera Li-ion Battery NP-45A or NP-45B AC Power Adapter USB Cable Hand Strap CD-ROM Owner's Manual 
+Features: Face Detection
+  Blink Detection
+  3D Shooting
+  Self-timer
+  Continuous Shooting Mode
+Platform Supported: PC
+  Mac
+Limited Warranty: 1 Year
+{'Battery Built-in:': 'No', 'ISO Sensitivity:': 'Auto', 'Image Sensor Size:': '1/2.3" (0.24" x 0.18")', 'Product Name:': 'FinePix JX660 Compact Camera', 'Manufacturer:': 'Fuji Photo Film Co. Ltd', 'Focus Modes:': 'Auto', 'Product Model:': 'JX660', 'Focal Length (35mm Equivalent):': '26 mm to 130 mm', 'Optical Zoom:': '5x', 'Maximum Video Resolution:': '1280 x 720', 'Screen Size:': '3"', 'Battery Model Supported:': 'NP-45A', 'Built-in Flash Modes:': 'Auto Flash', 'White Balance Modes:': ' Auto Fine Shade Fluorescent Light (Daylight) Fluorescent Light (Warm White) Fluorescent Light (Cool White) Incandescent Light ', 'Battery Life:': '230 Shot', 'Minimum Focus Distance:': '3.94"', 'Battery Size Supported:': 'Proprietary Battery Size', 'Focal Length:': '4.60 mm to 23 mm', 'Features:': 'Face Detection', 'Digital Zoom:': '7.2x', 'Weight (Approximate):': '3.67 oz', 'Longest Shutter Speed:': '1/4 Second', 'Color:': 'Black', 'Maximum Image Resolution:': '4608 x 3440', 'Manufacturer Part Number:': '16291015', '\xa0': 'Mac', 'Product Line:': 'FinePix', 'Camera Modes:': 'Shooting Modes:  SR AUTO AUTO Program Natural Light & with Flash Natural Light Portrait Baby Smile Landscape Panorama Sport Night Night (Tripod) Fireworks Sunset Snow Beach Party Flower Text Advanced Filter Individual Shutter 3D  Scene Modes:  Automatic Scene Selection Toy Camera Miniature Pop Color High-key Soft Focus Cross Screen Partial Color Red Orange Yellow Green Blue Purple ', 'Self Timer:': '2 Second', 'Image Sensor Type:': 'CCD', 'Exposure Control:': 'Programmed AE', 'Product Type:': 'Compact Camera', 'Brand Name:': 'Fujifilm', 'Platform Supported:': 'PC', 'Effective Camera Resolution:': '16 Megapixel', 'Maximum Frame Rate:': '30 fps', 'Display Screen Type:': 'LCD', 'Memory Card Supported:': 'Secure Digital (SD) Card', 'HD Movie Mode:': 'Yes', 'PictBridge:': 'Yes', 'Video Formats:': 'Motion JPEG (AVI)', 'Battery Rechargeable:': 'Yes', 'Depth:': '0.8"', 'Analog Video Out:': 'Yes', 'Width:': '3.7"', 'Package Contents:': " FinePix JX660 Compact Camera Li-ion Battery NP-45A or NP-45B AC Power Adapter USB Cable Hand Strap CD-ROM Owner's Manual ", 'Shortest Shutter Speed:': '1/1400 Second', 'Image Formats:': 'JPEG', 'Height:': '2.2"', 'Manufacturer Website Address:': 'http://www.fujifilm.com', 'Aspect Ratio:': '16:9', 'Display Resolution:': '230000 Pixel', 'Limited Warranty:': '1 Year', 'Lens Construction:': '6 Elements in 5 Groups', 'Built-in Flash:': 'Yes', 'Product Series:': 'J', 'USB:': 'Yes', 'Battery Included:': 'Yes', 'Number of Batteries Supported:': '1', 'Battery Chemistry:': 'Lithium Ion (Li-Ion)', 'Aperture Range:': 'f/3.5 to 6.3'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/pc_nation_camera/TW8749.html
+Manufacturer: Fuji Photo Film Co. Ltd
+Manufacturer Part Number: 16291376
+Manufacturer Website Address: http://www.fujifilm.com
+Brand Name: Fujifilm
+Product Line: FinePix
+Product Series: J
+Product Model: JX660
+Product Name: FinePix JX660 Compact Camera
+Product Type: Compact Camera
+Screen Size: 3"
+Display Screen Type: LCD
+Display Resolution: 230000 Pixel
+Effective Camera Resolution: 16 Megapixel
+Image Sensor Size: 1/2.3" (0.24" x 0.18")
+Image Sensor Type: CCD
+White Balance Modes:  Auto Fine Shade Fluorescent Light (Daylight) Fluorescent Light (Warm White) Fluorescent Light (Cool White) Incandescent Light 
+Aspect Ratio: 16:9
+Image Formats: JPEG
+Maximum Image Resolution: 4608 x 3440
+Video Formats: Motion JPEG (AVI)
+Maximum Video Resolution: 1280 x 720
+HD Movie Mode: Yes
+Maximum Frame Rate: 30 fps
+Optical Zoom: 5x
+Digital Zoom: 7.2x
+Focal Length: 4.60 mm to 23 mm
+Focal Length (35mm Equivalent): 26 mm to 130 mm
+Lens Construction: 6 Elements in 5 Groups
+Aperture Range: f/3.5 to 6.3
+Focus Modes: Auto
+Minimum Focus Distance: 3.94"
+Shortest Shutter Speed: 1/1400 Second
+Longest Shutter Speed: 8 Second
+ISO Sensitivity: Auto
+  ISO 100
+  ISO 200
+  ISO 400
+  ISO 800
+  ISO 1600
+  ISO 3200
+Exposure Control: Programmed AE
+Built-in Flash: Yes
+Built-in Flash Modes: Auto Flash
+  Flash OFF
+  Flash ON
+  Suppressed Flash
+  Slow Sync
+  Red-eye Reduction
+  Flash Exposure Compensation
+Memory Card Supported: Secure Digital (SD) Card
+  Secure Digital High Capacity (SDHC) Card
+  Secure Digital Extended Capacity (SDXC)
+Camera Modes: Shooting Modes:  SR AUTO AUTO Program Natural Light & with Flash Natural Light Portrait Baby Smile Landscape Panorama Sport Night Night (Tripod) Fireworks Sunset Snow Beach Party Flower Text Advanced Filter Individual Shutter 3D  Scene Modes:  Automatic Scene Selection Toy Camera Miniature Pop Color High-key Soft Focus Cross Screen Partial Color Red Orange Yellow Green Blue Purple 
+Self Timer: 2 Second
+  10 Second
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: NP-45A/NP-45B
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 230 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Red
+Height: 2.2"
+Width: 3.7"
+Depth: 0.8"
+Weight (Approximate): 3.67 oz
+Package Contents:  FinePix JX660 Compact Camera Li-ion Battery NP-45A or NP-45B AC Power Adapter USB Cable Hand Strap CD-ROM Owner's Manual 
+Features: Face Detection
+  Blink Detection
+  3D Shooting
+  Self-timer
+  Continuous Shooting Mode
+Platform Supported: PC
+  Mac
+Limited Warranty: 1 Year
+{'Battery Built-in:': 'No', 'ISO Sensitivity:': 'Auto', 'Image Sensor Size:': '1/2.3" (0.24" x 0.18")', 'Product Name:': 'FinePix JX660 Compact Camera', 'Manufacturer:': 'Fuji Photo Film Co. Ltd', 'Focus Modes:': 'Auto', 'Product Model:': 'JX660', 'Focal Length (35mm Equivalent):': '26 mm to 130 mm', 'Optical Zoom:': '5x', 'Maximum Video Resolution:': '1280 x 720', 'Screen Size:': '3"', 'Battery Model Supported:': 'NP-45A/NP-45B', 'Built-in Flash Modes:': 'Auto Flash', 'White Balance Modes:': ' Auto Fine Shade Fluorescent Light (Daylight) Fluorescent Light (Warm White) Fluorescent Light (Cool White) Incandescent Light ', 'Battery Life:': '230 Shot', 'Minimum Focus Distance:': '3.94"', 'Battery Size Supported:': 'Proprietary Battery Size', 'Focal Length:': '4.60 mm to 23 mm', 'Features:': 'Face Detection', 'Digital Zoom:': '7.2x', 'Weight (Approximate):': '3.67 oz', 'Longest Shutter Speed:': '8 Second', 'Color:': 'Red', 'Maximum Image Resolution:': '4608 x 3440', 'Manufacturer Part Number:': '16291376', '\xa0': 'Mac', 'Product Line:': 'FinePix', 'Camera Modes:': 'Shooting Modes:  SR AUTO AUTO Program Natural Light & with Flash Natural Light Portrait Baby Smile Landscape Panorama Sport Night Night (Tripod) Fireworks Sunset Snow Beach Party Flower Text Advanced Filter Individual Shutter 3D  Scene Modes:  Automatic Scene Selection Toy Camera Miniature Pop Color High-key Soft Focus Cross Screen Partial Color Red Orange Yellow Green Blue Purple ', 'Self Timer:': '2 Second', 'Image Sensor Type:': 'CCD', 'Exposure Control:': 'Programmed AE', 'Product Type:': 'Compact Camera', 'Brand Name:': 'Fujifilm', 'Platform Supported:': 'PC', 'Effective Camera Resolution:': '16 Megapixel', 'Maximum Frame Rate:': '30 fps', 'Display Screen Type:': 'LCD', 'Memory Card Supported:': 'Secure Digital (SD) Card', 'HD Movie Mode:': 'Yes', 'PictBridge:': 'Yes', 'Video Formats:': 'Motion JPEG (AVI)', 'Battery Rechargeable:': 'Yes', 'Depth:': '0.8"', 'Analog Video Out:': 'Yes', 'Width:': '3.7"', 'Package Contents:': " FinePix JX660 Compact Camera Li-ion Battery NP-45A or NP-45B AC Power Adapter USB Cable Hand Strap CD-ROM Owner's Manual ", 'Shortest Shutter Speed:': '1/1400 Second', 'Image Formats:': 'JPEG', 'Height:': '2.2"', 'Manufacturer Website Address:': 'http://www.fujifilm.com', 'Aspect Ratio:': '16:9', 'Display Resolution:': '230000 Pixel', 'Limited Warranty:': '1 Year', 'Lens Construction:': '6 Elements in 5 Groups', 'Built-in Flash:': 'Yes', 'Product Series:': 'J', 'USB:': 'Yes', 'Battery Included:': 'Yes', 'Number of Batteries Supported:': '1', 'Battery Chemistry:': 'Lithium Ion (Li-Ion)', 'Aperture Range:': 'f/3.5 to 6.3'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/pc_nation_camera/TW8750.html
+Manufacturer: Fuji Photo Film Co. Ltd
+Manufacturer Part Number: 16409662
+Manufacturer Website Address: http://www.fujifilm.com
+Brand Name: Fujifilm
+Product Line: FinePix
+Product Series: XP
+Product Model: XP70
+Product Name: FinePix XP70 Compact Camera
+Product Type: Compact Camera
+Screen Size: 2.7"
+Display Screen Type: LCD
+Touchscreen: No
+Display Resolution: 460000 Pixel
+Effective Camera Resolution: 16.4 Megapixel
+Total Camera Resolution: 17.5 Megapixel
+Image Sensor Size: 1/2.3" (0.24" x 0.18")
+Image Sensor Type: CMOS
+White Balance Modes:  Automatic Scene Recognition Fine Shade Fluorescent Light (Daylight) Fluorescent Light (Warm White) Fluorescent Light (Cool White) Incandescent Light Under water 
+Aspect Ratio: 16:9
+Image Formats: JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: H.264
+  MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 380 fps
+Audio Formats: PCM
+Optical Zoom: 5x
+Digital Zoom: 2x
+Focal Length: 5 mm to 25 mm
+Focal Length (35mm Equivalent): 28 mm to 140 mm
+Lens Construction: 13 Elements in 11 Groups
+Aperture Range: f/3.9 to 4.9
+Image Stabilization: Optical
+Focus Modes: Auto
+Minimum Focus Distance: 3.54"
+Shortest Shutter Speed: 1/2000 Second
+Longest Shutter Speed: 4 Second
+ISO Sensitivity: Auto
+  ISO 100
+  ISO 200
+  ISO 400
+  ISO 800
+  ISO 1600
+  ISO 3200
+  ISO 6400
+  Auto 400
+  Auto 800
+  Auto 1600
+Exposure Control: Program AE
+Built-in Flash: Yes
+Built-in Flash Modes: Auto Flash
+  Flash ON
+  Flash OFF
+  Red-eye Reduction
+  Slow Sync
+  Suppressed Flash
+External Flash: No
+Viewfinder Type: No
+Minimum Diopter Adjustment: No
+Maximum Diopter Adjustment: No
+Flash Memory Capacity: 99 MB
+Memory Card Supported: Secure Digital (SD) Card
+  Secure Digital High Capacity (SDHC UHS-I)
+  Secure Digital Extended Capacity (SDXC UHS-I)
+  Secure Digital Extended Capacity (SDXC)
+  Secure Digital High Capacity (SDHC) Card
+Wireless LAN: Yes
+Wireless LAN Standard: IEEE 802.11b/g/n
+Camera Modes: Shooting Modes:  Portrait Landscape Sport Night Night (Tripod) Sunset Snow Beach Under Water Under Water (Macro) Party Flower Text 
+Self Timer: 2 Second
+  10 Second
+HDMI: Yes
+USB: Yes
+PictBridge: Yes
+Built-in Devices: Microphone
+  Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: NP-45S
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 210 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Orange
+Durability: Dust Proof
+  Water Proof
+  Shock Proof
+  Freeze Proof
+Height: 2.6"
+Width: 4"
+Depth: 1"
+Weight (Approximate): 5.71 oz
+Package Contents:  FinePix XP70 Compact Camera Li-ion Battery NP-45S AC Power Adapter AC-5VT USB Cable Hand Strap Owner's Manual 
+Features: Face Detection
+  Live View
+  Orientation Sensor
+  Continuous Shooting Mode
+Certifications & Standards:  IP6X IPX8 MIL-STD-810F-516.5 
+Platform Supported: PC
+  Mac
+Limited Warranty: 1 Year
+{'Battery Built-in:': 'No', 'ISO Sensitivity:': 'Auto', 'Image Sensor Size:': '1/2.3" (0.24" x 0.18")', 'Product Name:': 'FinePix XP70 Compact Camera', 'PictBridge:': 'Yes', 'Manufacturer:': 'Fuji Photo Film Co. Ltd', 'Audio Formats:': 'PCM', 'Focus Modes:': 'Auto', 'Wireless LAN:': 'Yes', 'Product Model:': 'XP70', 'Focal Length (35mm Equivalent):': '28 mm to 140 mm', 'Viewfinder Type:': 'No', 'Optical Zoom:': '5x', 'Maximum Video Resolution:': '1920 x 1080', 'Battery Model Supported:': 'NP-45S', 'Built-in Flash Modes:': 'Auto Flash', 'HDMI:': 'Yes', 'White Balance Modes:': ' Automatic Scene Recognition Fine Shade Fluorescent Light (Daylight) Fluorescent Light (Warm White) Fluorescent Light (Cool White) Incandescent Light Under water ', 'Battery Life:': '210 Shot', 'Minimum Focus Distance:': '3.54"', 'Flash Memory Capacity:': '99 MB', 'Screen Size:': '2.7"', 'Features:': 'Face Detection', 'Digital Zoom:': '2x', 'Touchscreen:': 'No', 'Weight (Approximate):': '5.71 oz', 'Built-in Flash:': 'Yes', 'Longest Shutter Speed:': '4 Second', 'Color:': 'Orange', 'Maximum Image Resolution:': '4608 x 3456', 'Manufacturer Part Number:': '16409662', 'Product Line:': 'FinePix', 'Depth:': '1"', 'Camera Modes:': 'Shooting Modes:  Portrait Landscape Sport Night Night (Tripod) Sunset Snow Beach Under Water Under Water (Macro) Party Flower Text ', 'Self Timer:': '2 Second', 'Durability:': 'Dust Proof', 'Width:': '4"', 'Image Sensor Type:': 'CMOS', 'Total Camera Resolution:': '17.5 Megapixel', 'Exposure Control:': 'Program AE', 'Product Type:': 'Compact Camera', 'Brand Name:': 'Fujifilm', 'Battery Size Supported:': 'Proprietary Battery Size', 'Platform Supported:': 'PC', 'Maximum Diopter Adjustment:': 'No', 'Effective Camera Resolution:': '16.4 Megapixel', 'Shortest Shutter Speed:': '1/2000 Second', 'Maximum Frame Rate:': '380 fps', 'Display Screen Type:': 'LCD', 'Memory Card Supported:': 'Secure Digital (SD) Card', 'HD Movie Mode:': 'Yes', 'Minimum Diopter Adjustment:': 'No', 'Video Formats:': 'H.264', 'Built-in Devices:': 'Microphone', 'Battery Rechargeable:': 'Yes', 'Wireless LAN Standard:': 'IEEE 802.11b/g/n', 'Focal Length:': '5 mm to 25 mm', 'Package Contents:': " FinePix XP70 Compact Camera Li-ion Battery NP-45S AC Power Adapter AC-5VT USB Cable Hand Strap Owner's Manual ", '\xa0': 'Mac', 'Image Formats:': 'JPEG', 'Height:': '2.6"', 'Manufacturer Website Address:': 'http://www.fujifilm.com', 'Certifications & Standards:': ' IP6X IPX8 MIL-STD-810F-516.5 ', 'Aspect Ratio:': '16:9', 'Display Resolution:': '460000 Pixel', 'Limited Warranty:': '1 Year', 'Lens Construction:': '13 Elements in 11 Groups', 'External Flash:': 'No', 'Battery Chemistry:': 'Lithium Ion (Li-Ion)', 'Product Series:': 'XP', 'USB:': 'Yes', 'Battery Included:': 'Yes', 'Number of Batteries Supported:': '1', 'Image Stabilization:': 'Optical', 'Aperture Range:': 'f/3.9 to 4.9'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/pc_nation_camera/TW8751.html
+Manufacturer: Fuji Photo Film Co. Ltd
+Manufacturer Part Number: 16409856
+Manufacturer Website Address: http://www.fujifilm.com
+Brand Name: Fujifilm
+Product Line: FinePix
+Product Series: XP
+Product Model: XP70
+Product Name: FinePix XP70 Compact Camera
+Product Type: Compact Camera
+Screen Size: 2.7"
+Display Screen Type: LCD
+Touchscreen: No
+Display Resolution: 460000 Pixel
+Effective Camera Resolution: 16.4 Megapixel
+Total Camera Resolution: 17.5 Megapixel
+Image Sensor Size: 1/2.3" (0.24" x 0.18")
+Image Sensor Type: CMOS
+White Balance Modes:  Automatic Scene Recognition Fine Shade Fluorescent Light (Daylight) Fluorescent Light (Warm White) Fluorescent Light (Cool White) Incandescent Light Under water 
+Aspect Ratio: 16:9
+Image Formats: JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: H.264
+  MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 380 fps
+Audio Formats: PCM
+Optical Zoom: 5x
+Digital Zoom: 2x
+Focal Length: 5 mm to 25 mm
+Focal Length (35mm Equivalent): 28 mm to 140 mm
+Lens Construction: 13 Elements in 11 Groups
+Aperture Range: f/3.9 to 4.9
+Image Stabilization: Optical
+Focus Modes: Auto
+Minimum Focus Distance: 3.54"
+Shortest Shutter Speed: 1/2000 Second
+Longest Shutter Speed: 4 Second
+ISO Sensitivity: Auto
+  ISO 100
+  ISO 200
+  ISO 400
+  ISO 800
+  ISO 1600
+  ISO 3200
+  ISO 6400
+  Auto 400
+  Auto 800
+  Auto 1600
+Exposure Control: Program AE
+Built-in Flash: Yes
+Built-in Flash Modes: Auto Flash
+  Flash ON
+  Flash OFF
+  Red-eye Reduction
+  Slow Sync
+  Suppressed Flash
+External Flash: No
+Viewfinder Type: No
+Minimum Diopter Adjustment: No
+Maximum Diopter Adjustment: No
+Flash Memory Capacity: 99 MB
+Memory Card Supported: Secure Digital (SD) Card
+  Secure Digital High Capacity (SDHC UHS-I)
+  Secure Digital Extended Capacity (SDXC UHS-I)
+  Secure Digital Extended Capacity (SDXC)
+  Secure Digital High Capacity (SDHC) Card
+Wireless LAN: Yes
+Wireless LAN Standard: IEEE 802.11b/g/n
+Camera Modes: Shooting Modes:  Portrait Landscape Sport Night Night (Tripod) Sunset Snow Beach Under Water Under Water (Macro) Party Flower Text 
+Self Timer: 2 Second
+  10 Second
+HDMI: Yes
+USB: Yes
+PictBridge: Yes
+Built-in Devices: Microphone
+  Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: NP-45S
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 210 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Yellow
+Durability: Dust Proof
+  Water Proof
+  Shock Proof
+  Freeze Proof
+Height: 2.6"
+Width: 4"
+Depth: 1"
+Weight (Approximate): 5.71 oz
+Package Contents:  FinePix XP70 Compact Camera Li-ion Battery NP-45S AC Power Adapter AC-5VT USB Cable Hand Strap Owner's Manual 
+Features: Face Detection
+  Live View
+  Orientation Sensor
+  Continuous Shooting Mode
+Certifications & Standards:  IP6X IPX8 MIL-STD-810F-516.5 
+Platform Supported: PC
+  Mac
+Limited Warranty: 1 Year
+{'Battery Built-in:': 'No', 'ISO Sensitivity:': 'Auto', 'Image Sensor Size:': '1/2.3" (0.24" x 0.18")', 'Product Name:': 'FinePix XP70 Compact Camera', 'PictBridge:': 'Yes', 'Manufacturer:': 'Fuji Photo Film Co. Ltd', 'Audio Formats:': 'PCM', 'Focus Modes:': 'Auto', 'Wireless LAN:': 'Yes', 'Product Model:': 'XP70', 'Focal Length (35mm Equivalent):': '28 mm to 140 mm', 'Viewfinder Type:': 'No', 'Optical Zoom:': '5x', 'Maximum Video Resolution:': '1920 x 1080', 'Battery Model Supported:': 'NP-45S', 'Built-in Flash Modes:': 'Auto Flash', 'HDMI:': 'Yes', 'White Balance Modes:': ' Automatic Scene Recognition Fine Shade Fluorescent Light (Daylight) Fluorescent Light (Warm White) Fluorescent Light (Cool White) Incandescent Light Under water ', 'Battery Life:': '210 Shot', 'Minimum Focus Distance:': '3.54"', 'Flash Memory Capacity:': '99 MB', 'Screen Size:': '2.7"', 'Features:': 'Face Detection', 'Digital Zoom:': '2x', 'Touchscreen:': 'No', 'Weight (Approximate):': '5.71 oz', 'Built-in Flash:': 'Yes', 'Longest Shutter Speed:': '4 Second', 'Color:': 'Yellow', 'Maximum Image Resolution:': '4608 x 3456', 'Manufacturer Part Number:': '16409856', 'Product Line:': 'FinePix', 'Depth:': '1"', 'Camera Modes:': 'Shooting Modes:  Portrait Landscape Sport Night Night (Tripod) Sunset Snow Beach Under Water Under Water (Macro) Party Flower Text ', 'Self Timer:': '2 Second', 'Durability:': 'Dust Proof', 'Width:': '4"', 'Image Sensor Type:': 'CMOS', 'Total Camera Resolution:': '17.5 Megapixel', 'Exposure Control:': 'Program AE', 'Product Type:': 'Compact Camera', 'Brand Name:': 'Fujifilm', 'Battery Size Supported:': 'Proprietary Battery Size', 'Platform Supported:': 'PC', 'Maximum Diopter Adjustment:': 'No', 'Effective Camera Resolution:': '16.4 Megapixel', 'Shortest Shutter Speed:': '1/2000 Second', 'Maximum Frame Rate:': '380 fps', 'Display Screen Type:': 'LCD', 'Memory Card Supported:': 'Secure Digital (SD) Card', 'HD Movie Mode:': 'Yes', 'Minimum Diopter Adjustment:': 'No', 'Video Formats:': 'H.264', 'Built-in Devices:': 'Microphone', 'Battery Rechargeable:': 'Yes', 'Wireless LAN Standard:': 'IEEE 802.11b/g/n', 'Focal Length:': '5 mm to 25 mm', 'Package Contents:': " FinePix XP70 Compact Camera Li-ion Battery NP-45S AC Power Adapter AC-5VT USB Cable Hand Strap Owner's Manual ", '\xa0': 'Mac', 'Image Formats:': 'JPEG', 'Height:': '2.6"', 'Manufacturer Website Address:': 'http://www.fujifilm.com', 'Certifications & Standards:': ' IP6X IPX8 MIL-STD-810F-516.5 ', 'Aspect Ratio:': '16:9', 'Display Resolution:': '460000 Pixel', 'Limited Warranty:': '1 Year', 'Lens Construction:': '13 Elements in 11 Groups', 'External Flash:': 'No', 'Battery Chemistry:': 'Lithium Ion (Li-Ion)', 'Product Series:': 'XP', 'USB:': 'Yes', 'Battery Included:': 'Yes', 'Number of Batteries Supported:': '1', 'Image Stabilization:': 'Optical', 'Aperture Range:': 'f/3.9 to 4.9'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/pc_nation_camera/TW8752.html
+Manufacturer: Fuji Photo Film Co. Ltd
+Manufacturer Part Number: 16409284
+Manufacturer Website Address: http://www.fujifilm.com
+Brand Name: Fujifilm
+Product Line: FinePix
+Product Series: XP
+Product Model: XP70
+Product Name: FinePix XP70 Compact Camera
+Product Type: Compact Camera
+Screen Size: 2.7"
+Display Screen Type: LCD
+Touchscreen: No
+Display Resolution: 460000 Pixel
+Effective Camera Resolution: 16.4 Megapixel
+Total Camera Resolution: 17.5 Megapixel
+Image Sensor Size: 1/2.3" (0.24" x 0.18")
+Image Sensor Type: CMOS
+White Balance Modes:  Automatic Scene Recognition Fine Shade Fluorescent Light (Daylight) Fluorescent Light (Warm White) Fluorescent Light (Cool White) Incandescent Light Under water 
+Aspect Ratio: 16:9
+Image Formats: JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: H.264
+  MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 380 fps
+Audio Formats: PCM
+Optical Zoom: 5x
+Digital Zoom: 2x
+Focal Length: 5 mm to 25 mm
+Focal Length (35mm Equivalent): 28 mm to 140 mm
+Lens Construction: 13 Elements in 11 Groups
+Aperture Range: f/3.9 to 4.9
+Image Stabilization: Optical
+Focus Modes: Auto
+Minimum Focus Distance: 3.54"
+Shortest Shutter Speed: 1/2000 Second
+Longest Shutter Speed: 4 Second
+ISO Sensitivity: Auto
+  ISO 100
+  ISO 200
+  ISO 400
+  ISO 800
+  ISO 1600
+  ISO 3200
+  ISO 6400
+  Auto 400
+  Auto 800
+  Auto 1600
+Exposure Control: Program AE
+Built-in Flash: Yes
+Built-in Flash Modes: Auto Flash
+  Flash ON
+  Flash OFF
+  Red-eye Reduction
+  Slow Sync
+  Suppressed Flash
+External Flash: No
+Viewfinder Type: No
+Minimum Diopter Adjustment: No
+Maximum Diopter Adjustment: No
+Flash Memory Capacity: 99 MB
+Memory Card Supported: Secure Digital (SD) Card
+  Secure Digital High Capacity (SDHC UHS-I)
+  Secure Digital Extended Capacity (SDXC UHS-I)
+  Secure Digital Extended Capacity (SDXC)
+  Secure Digital High Capacity (SDHC) Card
+Wireless LAN: Yes
+Wireless LAN Standard: IEEE 802.11b/g/n
+Camera Modes: Shooting Modes:  Portrait Landscape Sport Night Night (Tripod) Sunset Snow Beach Under Water Under Water (Macro) Party Flower Text 
+Self Timer: 2 Second
+  10 Second
+HDMI: Yes
+USB: Yes
+PictBridge: Yes
+Built-in Devices: Microphone
+  Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: NP-45S
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 210 Shot
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Blue
+Durability: Dust Proof
+  Water Proof
+  Shock Proof
+  Freeze Proof
+Height: 2.6"
+Width: 4"
+Depth: 1"
+Weight (Approximate): 5.71 oz
+Package Contents:  FinePix XP70 Compact Camera Li-ion Battery NP-45S AC Power Adapter AC-5VT USB Cable Hand Strap Owner's Manual 
+Features: Face Detection
+  Live View
+  Orientation Sensor
+  Continuous Shooting Mode
+Certifications & Standards:  IP6X IPX8 MIL-STD-810F-516.5 
+Platform Supported: PC
+  Mac
+Limited Warranty: 1 Year
+{'Battery Built-in:': 'No', 'ISO Sensitivity:': 'Auto', 'Image Sensor Size:': '1/2.3" (0.24" x 0.18")', 'Product Name:': 'FinePix XP70 Compact Camera', 'PictBridge:': 'Yes', 'Manufacturer:': 'Fuji Photo Film Co. Ltd', 'Audio Formats:': 'PCM', 'Focus Modes:': 'Auto', 'Wireless LAN:': 'Yes', 'Product Model:': 'XP70', 'Focal Length (35mm Equivalent):': '28 mm to 140 mm', 'Viewfinder Type:': 'No', 'Optical Zoom:': '5x', 'Maximum Video Resolution:': '1920 x 1080', 'Battery Model Supported:': 'NP-45S', 'Built-in Flash Modes:': 'Auto Flash', 'HDMI:': 'Yes', 'White Balance Modes:': ' Automatic Scene Recognition Fine Shade Fluorescent Light (Daylight) Fluorescent Light (Warm White) Fluorescent Light (Cool White) Incandescent Light Under water ', 'Battery Life:': '210 Shot', 'Minimum Focus Distance:': '3.54"', 'Flash Memory Capacity:': '99 MB', 'Screen Size:': '2.7"', 'Features:': 'Face Detection', 'Digital Zoom:': '2x', 'Touchscreen:': 'No', 'Weight (Approximate):': '5.71 oz', 'Built-in Flash:': 'Yes', 'Longest Shutter Speed:': '4 Second', 'Color:': 'Blue', 'Maximum Image Resolution:': '4608 x 3456', 'Manufacturer Part Number:': '16409284', 'Product Line:': 'FinePix', 'Depth:': '1"', 'Camera Modes:': 'Shooting Modes:  Portrait Landscape Sport Night Night (Tripod) Sunset Snow Beach Under Water Under Water (Macro) Party Flower Text ', 'Self Timer:': '2 Second', 'Durability:': 'Dust Proof', 'Width:': '4"', 'Image Sensor Type:': 'CMOS', 'Total Camera Resolution:': '17.5 Megapixel', 'Exposure Control:': 'Program AE', 'Product Type:': 'Compact Camera', 'Brand Name:': 'Fujifilm', 'Battery Size Supported:': 'Proprietary Battery Size', 'Platform Supported:': 'PC', 'Maximum Diopter Adjustment:': 'No', 'Effective Camera Resolution:': '16.4 Megapixel', 'Shortest Shutter Speed:': '1/2000 Second', 'Maximum Frame Rate:': '380 fps', 'Display Screen Type:': 'LCD', 'Memory Card Supported:': 'Secure Digital (SD) Card', 'HD Movie Mode:': 'Yes', 'Minimum Diopter Adjustment:': 'No', 'Video Formats:': 'H.264', 'Built-in Devices:': 'Microphone', 'Battery Rechargeable:': 'Yes', 'Wireless LAN Standard:': 'IEEE 802.11b/g/n', 'Focal Length:': '5 mm to 25 mm', 'Package Contents:': " FinePix XP70 Compact Camera Li-ion Battery NP-45S AC Power Adapter AC-5VT USB Cable Hand Strap Owner's Manual ", '\xa0': 'Mac', 'Image Formats:': 'JPEG', 'Height:': '2.6"', 'Manufacturer Website Address:': 'http://www.fujifilm.com', 'Certifications & Standards:': ' IP6X IPX8 MIL-STD-810F-516.5 ', 'Aspect Ratio:': '16:9', 'Display Resolution:': '460000 Pixel', 'Limited Warranty:': '1 Year', 'Lens Construction:': '13 Elements in 11 Groups', 'External Flash:': 'No', 'Battery Chemistry:': 'Lithium Ion (Li-Ion)', 'Product Series:': 'XP', 'USB:': 'Yes', 'Battery Included:': 'Yes', 'Number of Batteries Supported:': '1', 'Image Stabilization:': 'Optical', 'Aperture Range:': 'f/3.9 to 4.9'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/pc_nation_camera/TW8753.html
+Manufacturer: Fuji Photo Film Co. Ltd
+Manufacturer Part Number: 16407145
+Manufacturer Website Address: http://www.fujifilm.com
+Brand Name: Fujifilm
+Product Line: FinePix
+Product Series: S
+Product Model: S8600
+Product Name: FinePix S8600 Compact Camera
+Product Type: Compact Camera
+Screen Size: 3"
+Display Screen Type: LCD
+Touchscreen: No
+Display Resolution: 460000 Pixel
+Effective Camera Resolution: 16 Megapixel
+Image Sensor Size: 1/2.3" (0.24" x 0.18")
+Image Sensor Type: CCD
+White Balance Modes:  Automatic Scene Recognition Fine Shade Fluorescent Light (Daylight) Fluorescent Light (Warm White) Fluorescent Light (Cool White) Incandescent Light Custom 
+Aspect Ratio: 16:9
+Image Formats: JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: Motion JPEG
+  AVI
+Maximum Video Resolution: 1280 x 720
+HD Movie Mode: Yes
+Maximum Frame Rate: 30 fps
+Audio Formats: PCM
+Optical Zoom: 36x
+Digital Zoom: 2x
+Wide Angle: Yes
+Focal Length: 4.50 mm to 162 mm
+Focal Length (35mm Equivalent): 25 mm to 900 mm
+Lens Construction: 14 Elements in 12 Groups
+Aperture Range: f/2.9 to 6.9
+Image Stabilization: Optical
+Focus Modes: Auto
+Minimum Focus Distance: 2.76"
+Shortest Shutter Speed: 1/1700 Second
+Longest Shutter Speed: 8 Second
+ISO Sensitivity: Auto
+  ISO 100
+  ISO 200
+  ISO 400
+  ISO 800
+  ISO 1600
+  ISO 3200
+  ISO 6400
+  Auto 400
+  Auto 800
+  Auto 1600
+Exposure Control:  Program AE Shutter Priority AE Manual 
+Built-in Flash: Yes
+Built-in Flash Modes: Auto Flash
+  Flash OFF
+  Flash ON
+  Slow Sync
+  Suppressed Flash
+  Red-eye Reduction
+External Flash: No
+Viewfinder Type: No
+Minimum Diopter Adjustment: No
+Maximum Diopter Adjustment: No
+Memory Card Supported: Secure Digital (SD) Card
+  Secure Digital Extended Capacity (SDXC)
+  Secure Digital High Capacity (SDHC) Card
+GPS: No
+Camera Modes: Shooting Modes:  Portrait Baby Landscape Sport Night Night (Tripod) Fireworks Sunset Snow Beach Party Flower Text 
+Self Timer: 2 Second
+  10 Second
+HDMI: Yes
+USB: Yes
+PictBridge: Yes
+Number of Batteries Supported: 3
+Battery Size Supported: AA
+Battery Built-in: No
+Battery Included: Yes
+Battery Life: 250 Shot
+Battery Chemistry: Alkaline
+Color: Black
+Height: 3.2"
+Width: 4.8"
+Depth: 2.5"
+Weight (Approximate): 13.40 oz
+Package Contents:  FinePix S8600 Compact Camera 3 x AA Alkaline Batteries Shoulder Strap Lens Cap Lens Cap Cord Owner's Manual 
+Features: Continuous Shooting Mode
+  Live View
+  Orientation Sensor
+  Face Detection
+Platform Supported: PC
+  Mac
+Limited Warranty: 1 Year
+{'Battery Built-in:': 'No', 'ISO Sensitivity:': 'Auto', 'Image Sensor Size:': '1/2.3" (0.24" x 0.18")', 'Product Name:': 'FinePix S8600 Compact Camera', 'PictBridge:': 'Yes', 'Manufacturer:': 'Fuji Photo Film Co. Ltd', 'Audio Formats:': 'PCM', 'Focus Modes:': 'Auto', 'Product Model:': 'S8600', 'Focal Length (35mm Equivalent):': '25 mm to 900 mm', 'Viewfinder Type:': 'No', 'Optical Zoom:': '36x', 'Maximum Video Resolution:': '1280 x 720', 'Built-in Flash Modes:': 'Auto Flash', 'HDMI:': 'Yes', 'White Balance Modes:': ' Automatic Scene Recognition Fine Shade Fluorescent Light (Daylight) Fluorescent Light (Warm White) Fluorescent Light (Cool White) Incandescent Light Custom ', 'Battery Life:': '250 Shot', 'Minimum Focus Distance:': '2.76"', 'Battery Size Supported:': 'AA', 'Screen Size:': '3"', 'Features:': 'Continuous Shooting Mode', 'Digital Zoom:': '2x', 'Touchscreen:': 'No', 'Weight (Approximate):': '13.40 oz', 'Built-in Flash:': 'Yes', 'Longest Shutter Speed:': '8 Second', 'Color:': 'Black', 'Maximum Image Resolution:': '4608 x 3456', 'Manufacturer Part Number:': '16407145', '\xa0': 'Mac', 'Product Line:': 'FinePix', 'Camera Modes:': 'Shooting Modes:  Portrait Baby Landscape Sport Night Night (Tripod) Fireworks Sunset Snow Beach Party Flower Text ', 'Self Timer:': '2 Second', 'Image Sensor Type:': 'CCD', 'GPS:': 'No', 'Exposure Control:': ' Program AE Shutter Priority AE Manual ', 'Product Type:': 'Compact Camera', 'Brand Name:': 'Fujifilm', 'Platform Supported:': 'PC', 'Maximum Diopter Adjustment:': 'No', 'Effective Camera Resolution:': '16 Megapixel', 'Focal Length:': '4.50 mm to 162 mm', 'Maximum Frame Rate:': '30 fps', 'Display Screen Type:': 'LCD', 'Memory Card Supported:': 'Secure Digital (SD) Card', 'HD Movie Mode:': 'Yes', 'Minimum Diopter Adjustment:': 'No', 'Video Formats:': 'Motion JPEG', 'Wide Angle:': 'Yes', 'Depth:': '2.5"', 'Width:': '4.8"', 'Package Contents:': " FinePix S8600 Compact Camera 3 x AA Alkaline Batteries Shoulder Strap Lens Cap Lens Cap Cord Owner's Manual ", 'Shortest Shutter Speed:': '1/1700 Second', 'Image Formats:': 'JPEG', 'Height:': '3.2"', 'Manufacturer Website Address:': 'http://www.fujifilm.com', 'Aspect Ratio:': '16:9', 'Display Resolution:': '460000 Pixel', 'Limited Warranty:': '1 Year', 'Lens Construction:': '14 Elements in 12 Groups', 'External Flash:': 'No', 'Battery Chemistry:': 'Alkaline', 'Product Series:': 'S', 'USB:': 'Yes', 'Battery Included:': 'Yes', 'Number of Batteries Supported:': '3', 'Image Stabilization:': 'Optical', 'Aperture Range:': 'f/2.9 to 6.9'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/pc_nation_camera/TW9598.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V107080SU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Series: S
+Product Model: SH-1
+Product Name: SH-1 Compact Camera
+Product Type: Compact Camera
+Screen Size: 3"
+Display Screen Type: LCD
+Touchscreen: Yes
+Display Resolution: 460000 Pixel
+Effective Camera Resolution: 16 Megapixel
+Image Sensor Size: 1/2.3" (0.24" x 0.18")
+Image Sensor Type: BSI CMOS
+White Balance Modes:  Auto One-Touch Cloudy Sunny Incandescent Fluorescent  
+Aspect Ratio: 3:2
+Image Formats: JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: MOV
+  H.264
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 240 fps
+Audio Formats: LPCM
+Optical Zoom: 24x
+Digital Zoom: 4x
+Focal Length: 4.50 mm to 108 mm
+Focal Length (35mm Equivalent): 25 mm to 600 mm
+Aperture Range: f/3 to 20
+Image Stabilization: Electronic
+Focus Modes: Auto
+Minimum Focus Distance: 1.18"
+Shortest Shutter Speed: 1/2000 Second
+Longest Shutter Speed: 30 Second
+ISO Sensitivity: Auto
+  High ISO Auto
+  ISO 125
+  ISO 400
+  ISO 800
+  ISO 1600
+  ISO 3200
+  ISO 6400
+Exposure Control:  Program AE Manual 
+Built-in Flash: Yes
+Built-in Flash Modes: Auto Flash
+  Red-eye Reduction
+  Fill Flash
+  Flash OFF
+External Flash: No
+Viewfinder Type: No
+Minimum Diopter Adjustment: No
+Maximum Diopter Adjustment: No
+Flash Memory Capacity: 37 MB
+Memory Card Supported: Secure Digital (SD) Card
+  Secure Digital High Capacity (SDHC) Card
+  Secure Digital Extended Capacity (SDXC)
+Wireless LAN: Yes
+Wireless LAN Standard: IEEE 802.11b/g/n
+GPS: Yes
+Camera Modes: Shooting Modes:  Intelligent Auto (iAUTO) Art Filters Scene Modes Hand-Held Starlight Panorama Photo Story Advanced Movie  Scene Modes:  Portrait e-Portrait Landscape Interval Shooting Night Scene Night + Portrait Sport Indoor Self Portrait Sunset Fireworks Cuisine Documents Beach & Snow Super Macro Backlight HDR 
+Self Timer: 2 Second
+  12 Second
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+Built-in Devices: Microphone
+  Speaker
+Software Included: Olympus Viewer 3
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: LI-92B
+Battery Rechargeable: Yes
+Battery Life: 380 Shot/1.80 Hour Video
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Silver
+Height: 2.5"
+Width: 4.3"
+Depth: 1.7"
+Weight (Approximate): 9.50 oz
+Package Contents:  SH-1 Compact Camera Shoulder Strap LI-92B Rechargeable Lithium-Ion Battery USB Cable (CB-USB8) AC Adapter (F-2AC) Quick Start Guide Instruction Manual and Software CD-ROM Worldwide Warranty Card 
+Features: Face Detection
+  Time Lapse Function
+  Continuous Shooting Mode
+  Live View
+  Orientation Sensor
+Language Supported: English
+  French
+  Spanish
+  Portuguese (European and Brazilian)
+  German
+  Italian
+  Russian
+  Czech
+  Dutch
+  Danish
+  Polish
+  Swedish
+  Norwegian
+  Finnish
+  Croatian
+  Slovenian
+  Hungarian
+  Greek
+  Slovakian
+  Turkish
+  Latvian
+  Estonian
+  Lithuanian
+  Ukrainian
+  Serbian
+  Korean
+  Chinese (Simplified and Traditional)
+  Thai
+  Arabic
+  Bulgarian
+  Romanian
+  Persian
+  Indonesian
+  Hebrew
+  Malay
+  Vietnamese
+  Japanese
+Limited Warranty: 1 Year
+{'ISO Sensitivity:': 'Auto', 'Image Sensor Size:': '1/2.3" (0.24" x 0.18")', 'Product Name:': 'SH-1 Compact Camera', 'Software Included:': 'Olympus Viewer 3', 'Built-in Flash Modes:': 'Auto Flash', 'Manufacturer:': 'Olympus Corporation', 'Audio Formats:': 'LPCM', 'Focus Modes:': 'Auto', 'Wireless LAN:': 'Yes', 'Product Model:': 'SH-1', 'Focal Length (35mm Equivalent):': '25 mm to 600 mm', 'Minimum Diopter Adjustment:': 'No', 'Maximum Video Resolution:': '1920 x 1080', 'Screen Size:': '3"', 'Battery Model Supported:': 'LI-92B', 'Language Supported:': 'English', 'Viewfinder Type:': 'No', 'HDMI:': 'Yes', 'White Balance Modes:': ' Auto One-Touch Cloudy Sunny Incandescent Fluorescent  ', 'Battery Life:': '380 Shot/1.80 Hour Video', 'Minimum Focus Distance:': '1.18"', 'Flash Memory Capacity:': '37 MB', 'Focal Length:': '4.50 mm to 108 mm', 'Features:': 'Face Detection', 'Digital Zoom:': '4x', 'Weight (Approximate):': '9.50 oz', 'Built-in Flash:': 'Yes', 'Longest Shutter Speed:': '30 Second', 'Color:': 'Silver', 'Maximum Image Resolution:': '4608 x 3456', 'Manufacturer Part Number:': 'V107080SU000', 'Touchscreen:': 'Yes', 'Depth:': '1.7"', 'Camera Modes:': 'Shooting Modes:  Intelligent Auto (iAUTO) Art Filters Scene Modes Hand-Held Starlight Panorama Photo Story Advanced Movie  Scene Modes:  Portrait e-Portrait Landscape Interval Shooting Night Scene Night + Portrait Sport Indoor Self Portrait Sunset Fireworks Cuisine Documents Beach & Snow Super Macro Backlight HDR ', 'Self Timer:': '2 Second', 'Image Sensor Type:': 'BSI CMOS', 'GPS:': 'Yes', 'Exposure Control:': ' Program AE Manual ', 'Product Type:': 'Compact Camera', 'Brand Name:': 'Olympus', 'Battery Size Supported:': 'Proprietary Battery Size', 'Maximum Diopter Adjustment:': 'No', 'Effective Camera Resolution:': '16 Megapixel', 'Shortest Shutter Speed:': '1/2000 Second', 'Maximum Frame Rate:': '240 fps', 'Display Screen Type:': 'LCD', 'Memory Card Supported:': 'Secure Digital (SD) Card', 'HD Movie Mode:': 'Yes', 'Video Formats:': 'MOV', 'Built-in Devices:': 'Microphone', 'Battery Rechargeable:': 'Yes', 'Wireless LAN Standard:': 'IEEE 802.11b/g/n', 'Analog Video Out:': 'Yes', 'Width:': '4.3"', 'Package Contents:': ' SH-1 Compact Camera Shoulder Strap LI-92B Rechargeable Lithium-Ion Battery USB Cable (CB-USB8) AC Adapter (F-2AC) Quick Start Guide Instruction Manual and Software CD-ROM Worldwide Warranty Card ', '\xa0': 'Japanese', 'Image Formats:': 'JPEG', 'Height:': '2.5"', 'Manufacturer Website Address:': 'http://www.olympusamerica.com', 'Aspect Ratio:': '3:2', 'Display Resolution:': '460000 Pixel', 'Limited Warranty:': '1 Year', 'External Flash:': 'No', 'Optical Zoom:': '24x', 'Battery Chemistry:': 'Lithium Ion (Li-Ion)', 'Product Series:': 'S', 'USB:': 'Yes', 'Number of Batteries Supported:': '1', 'Image Stabilization:': 'Electronic', 'Aperture Range:': 'f/3 to 20'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/pc_nation_camera/TW9599.html
+Manufacturer: Olympus Corporation
+Manufacturer Part Number: V107080BU000
+Manufacturer Website Address: http://www.olympusamerica.com
+Brand Name: Olympus
+Product Series: S
+Product Model: SH-1
+Product Name: SH-1 Compact Camera
+Product Type: Compact Camera
+Screen Size: 3"
+Display Screen Type: LCD
+Touchscreen: Yes
+Display Resolution: 460000 Pixel
+Effective Camera Resolution: 16 Megapixel
+Image Sensor Size: 1/2.3" (0.24" x 0.18")
+Image Sensor Type: BSI CMOS
+White Balance Modes:  Auto One-touch Cloudy Sunny Incandescent Fluorescent  
+Aspect Ratio: 3:2
+Image Formats: JPEG
+Maximum Image Resolution: 4608 x 3456
+Video Formats: MOV
+  H.264
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 240 fps
+Audio Formats: LPCM
+Optical Zoom: 24x
+Digital Zoom: 4x
+Focal Length: 4.50 mm to 108 mm
+Focal Length (35mm Equivalent): 25 mm to 600 mm
+Aperture Range: f/3 to 20
+Image Stabilization: Electronic
+Focus Modes: Auto
+Minimum Focus Distance: 1.18"
+Shortest Shutter Speed: 1/2000 Second
+Longest Shutter Speed: 30 Second
+ISO Sensitivity: Auto
+  High ISO Auto
+  ISO 125
+  ISO 400
+  ISO 800
+  ISO 1600
+  ISO 3200
+  ISO 6400
+Exposure Control:  Program AE Manual 
+Built-in Flash: Yes
+Built-in Flash Modes: Auto Flash
+  Red-eye Reduction
+  Fill Flash
+  Flash OFF
+External Flash: No
+Viewfinder Type: No
+Flash Memory Capacity: 37 MB
+Memory Card Supported: Secure Digital (SD) Card
+  Secure Digital High Capacity (SDHC) Card
+  Secure Digital Extended Capacity (SDXC)
+Wireless LAN: Yes
+Wireless LAN Standard: IEEE 802.11b/g/n
+GPS: Yes
+Camera Modes: Shooting Modes:  Intelligent Auto (iAUTO) Art Filters Scene Modes Hand-Held Starlight Panorama Photo Story Advanced Movie  Scene Modes:  Portrait e-Portrait Landscape Interval Shooting Night Scene Night + Portrait Sport Indoor Self Portrait Sunset Fireworks Cuisine Documents Beach & Snow Super Macro Backlight HDR 
+Self Timer: 2 Second
+  12 Second
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+Built-in Devices: Microphone
+  Speaker
+Software Included: Olympus Viewer 3
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: LI-92B
+Battery Rechargeable: Yes
+Battery Life: 380 Shot/1.80 Hour Video
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Black
+Height: 2.5"
+Width: 4.3"
+Depth: 1.7"
+Weight (Approximate): 9.50 oz
+Package Contents:  SH-1 Compact Camera Shoulder Strap LI-92B Rechargeable Lithium-Ion Battery USB Cable (CB-USB8) AC Adapter (F-2AC) Quick Start Guide Instruction Manual and Software CD-ROM Worldwide Warranty Card 
+Features: Face Detection
+  Time Lapse Function
+  Continuous Shooting Mode
+  Live View
+  Orientation Sensor
+Language Supported: English
+  French
+  Spanish
+  Portuguese (European and Brazilian)
+  German
+  Italian
+  Russian
+  Czech
+  Dutch
+  Danish
+  Polish
+  Swedish
+  Norwegian
+  Finnish
+  Croatian
+  Slovenian
+  Hungarian
+  Greek
+  Slovakian
+  Turkish
+  Latvian
+  Estonian
+  Lithuanian
+  Ukrainian
+  Serbian
+  Korean
+  Chinese (Simplified and Traditional)
+  Thai
+  Arabic
+  Bulgarian
+  Romanian
+  Persian
+  Indonesian
+  Hebrew
+  Malay
+  Vietnamese
+  Japanese
+Limited Warranty: 1 Year
+{'ISO Sensitivity:': 'Auto', 'Image Sensor Size:': '1/2.3" (0.24" x 0.18")', 'Product Name:': 'SH-1 Compact Camera', 'Software Included:': 'Olympus Viewer 3', 'Built-in Flash Modes:': 'Auto Flash', 'Manufacturer:': 'Olympus Corporation', 'Audio Formats:': 'LPCM', 'Focus Modes:': 'Auto', 'Wireless LAN:': 'Yes', 'Product Model:': 'SH-1', 'Focal Length (35mm Equivalent):': '25 mm to 600 mm', 'Optical Zoom:': '24x', 'Maximum Video Resolution:': '1920 x 1080', 'Screen Size:': '3"', 'Battery Model Supported:': 'LI-92B', 'Language Supported:': 'English', 'Viewfinder Type:': 'No', 'HDMI:': 'Yes', 'White Balance Modes:': ' Auto One-touch Cloudy Sunny Incandescent Fluorescent  ', 'Battery Life:': '380 Shot/1.80 Hour Video', 'Minimum Focus Distance:': '1.18"', 'Flash Memory Capacity:': '37 MB', 'Focal Length:': '4.50 mm to 108 mm', 'Features:': 'Face Detection', 'Digital Zoom:': '4x', 'Weight (Approximate):': '9.50 oz', 'Built-in Flash:': 'Yes', 'Longest Shutter Speed:': '30 Second', 'Color:': 'Black', 'Maximum Image Resolution:': '4608 x 3456', 'Manufacturer Part Number:': 'V107080BU000', 'Touchscreen:': 'Yes', 'Depth:': '1.7"', 'Camera Modes:': 'Shooting Modes:  Intelligent Auto (iAUTO) Art Filters Scene Modes Hand-Held Starlight Panorama Photo Story Advanced Movie  Scene Modes:  Portrait e-Portrait Landscape Interval Shooting Night Scene Night + Portrait Sport Indoor Self Portrait Sunset Fireworks Cuisine Documents Beach & Snow Super Macro Backlight HDR ', 'Self Timer:': '2 Second', 'Image Sensor Type:': 'BSI CMOS', 'Exposure Control:': ' Program AE Manual ', 'Product Type:': 'Compact Camera', 'Brand Name:': 'Olympus', 'Battery Size Supported:': 'Proprietary Battery Size', 'GPS:': 'Yes', 'Effective Camera Resolution:': '16 Megapixel', 'Shortest Shutter Speed:': '1/2000 Second', 'Maximum Frame Rate:': '240 fps', 'Display Screen Type:': 'LCD', 'Memory Card Supported:': 'Secure Digital (SD) Card', 'HD Movie Mode:': 'Yes', 'Video Formats:': 'MOV', 'Built-in Devices:': 'Microphone', 'Battery Rechargeable:': 'Yes', 'Wireless LAN Standard:': 'IEEE 802.11b/g/n', 'Analog Video Out:': 'Yes', 'Width:': '4.3"', 'Package Contents:': ' SH-1 Compact Camera Shoulder Strap LI-92B Rechargeable Lithium-Ion Battery USB Cable (CB-USB8) AC Adapter (F-2AC) Quick Start Guide Instruction Manual and Software CD-ROM Worldwide Warranty Card ', '\xa0': 'Japanese', 'Image Formats:': 'JPEG', 'Height:': '2.5"', 'Manufacturer Website Address:': 'http://www.olympusamerica.com', 'Aspect Ratio:': '3:2', 'Display Resolution:': '460000 Pixel', 'Limited Warranty:': '1 Year', 'External Flash:': 'No', 'Battery Chemistry:': 'Lithium Ion (Li-Ion)', 'Product Series:': 'S', 'USB:': 'Yes', 'Number of Batteries Supported:': '1', 'Image Stabilization:': 'Electronic', 'Aperture Range:': 'f/3 to 20'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/pc_nation_camera/VQ9466.html
+Manufacturer: Sony Corporation
+Manufacturer Part Number: DSCW800B
+Manufacturer Website Address: http://www.sony.com
+Brand Name: Sony
+Product Model: DSC-W800
+Product Name: Point and Shoot Digital Still Camera
+Product Type: Compact Camera
+Screen Size: 2.7"
+Display Screen Type: LCD
+Display Resolution: 230000 Pixel
+Effective Camera Resolution: 20.1 Megapixel
+Total Camera Resolution: 20.4 Megapixel
+Image Sensor Size: 1/2.3" (0.24" x 0.18")
+Image Sensor Type: Super HAD CCD
+White Balance Modes:  Auto Daylight Cloudy Flourescent White Balance 1 Flourescent White Balance 2 Flourescent White Balance 3 Incandescent Flash 
+Aspect Ratio: 16:9
+Image Formats: JPEG
+Maximum Image Resolution: 5152 x 3864
+Video Formats: Motion JPEG (AVI)
+Maximum Video Resolution: 1280 x 720
+HD Movie Mode: Yes
+Maximum Frame Rate: 30 fps
+Audio Formats: MP3
+Optical Zoom: 5x
+Digital Zoom: 10x
+Focal Length (35mm Equivalent): 26 mm to 130 mm
+Aperture Range: f/3.2 to 6.4
+Image Stabilization: Optical
+Focus Modes: Auto
+Minimum Focus Distance: 1.97"
+Shortest Shutter Speed: 1/1500 Second
+Longest Shutter Speed: 2 Second
+ISO Sensitivity: Auto
+  ISO 100
+  ISO 200
+  ISO 400
+  ISO 800
+  ISO 1600
+  ISO 3200
+Built-in Flash: Yes
+Built-in Flash Modes: Red-eye Reduction
+  Auto Flash
+  Flash ON
+  Slow Sync
+  Flash OFF
+  Advanced Flash
+External Flash: No
+Memory Card Supported: Memory Stick Duo
+  Memory Stick PRO Duo
+  Memory Stick PRO Duo (Mark 2)
+  Memory Stick PRO-HG Duo
+  Memory Stick Micro
+  Memory Stick Micro (M2)
+  Memory Stick XC-HG Duo
+  Secure Digital (SD) Card
+  Secure Digital High Capacity (SDHC) Card
+  Secure Digital Extended Capacity (SDXC)
+  microSD Card
+  microSDHC Card
+  microSD Extended Capacity (microSDXC)
+GPS: No
+Camera Modes: Scene Modes:  High Sensitivity Night Scene Night Portrait Landscape Portrait Beach Snow Gourmet Pet Mode 
+Self Timer: 2 Second
+  10 Second
+USB: Yes
+Analog Video Out: Yes
+Built-in Devices: Microphone
+  Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: NP-BN
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Black
+Height: 0.9"
+Width: 2"
+Depth: 2.1"
+Weight (Approximate): 3.84 oz
+Package Contents:  Point and Shoot Digital Still Camera Battery (NP-BN) AC Adaptor AC-UB10C Wrist Strap Multi USB Cable Instruction Manual 
+Features: Face Detection
+  Smile Detection
+  Blink Detection
+  Self-timer
+  Continuous Shooting Mode
+  Live View
+  Orientation Sensor
+Limited Warranty: 1 Year
+{'Battery Built-in:': 'No', 'ISO Sensitivity:': 'Auto', 'Image Sensor Size:': '1/2.3" (0.24" x 0.18")', 'Product Name:': 'Point and Shoot Digital Still Camera', 'Manufacturer:': 'Sony Corporation', 'Audio Formats:': 'MP3', 'Focus Modes:': 'Auto', 'Product Model:': 'DSC-W800', 'Focal Length (35mm Equivalent):': '26 mm to 130 mm', 'Optical Zoom:': '5x', 'Maximum Video Resolution:': '1280 x 720', 'Battery Model Supported:': 'NP-BN', 'Built-in Flash Modes:': 'Red-eye Reduction', 'White Balance Modes:': ' Auto Daylight Cloudy Flourescent White Balance 1 Flourescent White Balance 2 Flourescent White Balance 3 Incandescent Flash ', 'Color:': 'Black', 'Minimum Focus Distance:': '1.97"', 'Battery Size Supported:': 'Proprietary Battery Size', 'Features:': 'Face Detection', 'Digital Zoom:': '10x', 'Weight (Approximate):': '3.84 oz', 'Built-in Flash:': 'Yes', 'Screen Size:': '2.7"', 'Maximum Image Resolution:': '5152 x 3864', 'Manufacturer Part Number:': 'DSCW800B', '\xa0': 'Orientation Sensor', 'Depth:': '2.1"', 'Camera Modes:': 'Scene Modes:  High Sensitivity Night Scene Night Portrait Landscape Portrait Beach Snow Gourmet Pet Mode ', 'Self Timer:': '2 Second', 'Image Sensor Type:': 'Super HAD CCD', 'Total Camera Resolution:': '20.4 Megapixel', 'Product Type:': 'Compact Camera', 'Brand Name:': 'Sony', 'GPS:': 'No', 'Effective Camera Resolution:': '20.1 Megapixel', 'Maximum Frame Rate:': '30 fps', 'Display Screen Type:': 'LCD', 'Memory Card Supported:': 'Memory Stick Duo', 'HD Movie Mode:': 'Yes', 'Video Formats:': 'Motion JPEG (AVI)', 'Built-in Devices:': 'Microphone', 'Battery Rechargeable:': 'Yes', 'Analog Video Out:': 'Yes', 'Width:': '2"', 'Package Contents:': ' Point and Shoot Digital Still Camera Battery (NP-BN) AC Adaptor AC-UB10C Wrist Strap Multi USB Cable Instruction Manual ', 'Shortest Shutter Speed:': '1/1500 Second', 'Image Formats:': 'JPEG', 'Height:': '0.9"', 'Manufacturer Website Address:': 'http://www.sony.com', 'Aspect Ratio:': '16:9', 'Display Resolution:': '230000 Pixel', 'Limited Warranty:': '1 Year', 'External Flash:': 'No', 'Battery Chemistry:': 'Lithium Ion (Li-Ion)', 'Longest Shutter Speed:': '2 Second', 'USB:': 'Yes', 'Battery Included:': 'Yes', 'Number of Batteries Supported:': '1', 'Image Stabilization:': 'Optical', 'Aperture Range:': 'f/3.2 to 6.4'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/pc_nation_camera/VQ9468.html
+Manufacturer: Sony Corporation
+Manufacturer Part Number: DSCWX350B
+Manufacturer Website Address: http://www.sony.com
+Brand Name: Sony
+Product Line: Cyber-shot
+Product Series: WX
+Product Model: DSC-WX350
+Product Name: WX350 Compact Camera with 20x Optical Zoom
+Product Type: Compact Camera
+Screen Size: 3"
+Display Screen Type: LCD
+Touchscreen: No
+Display Resolution: 460800 Pixel
+Effective Camera Resolution: 18.2 Megapixel
+Total Camera Resolution: 21.1 Megapixel
+Image Sensor Size: 1/2.3" (0.24" x 0.18")
+Image Sensor Type: Exmor R CMOS
+White Balance Modes:  Auto Daylight Cloudy Fluorescent 1 (White Fluorescent Lighting) Fluorescent 2 (Natural White Fluorescent Lighting) Fluorescent 3 (Day White Fluorescent Lighting) Incandescent Flash One Push One Push Set 
+Aspect Ratio: 16:9
+Image Formats: JPEG
+Maximum Image Resolution: 4896 x 3264
+Video Formats: MP4
+  AVCHD
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 50 fps
+Audio Formats: AAC-LC
+Optical Zoom: 20x
+Digital Zoom: 80x
+Focal Length: 4.30 mm to 86 mm (Lens 1)
+Focal Length (35mm Equivalent): 32.50 mm to 1625 mm (Lens 1)
+Lens Construction: 11 Elements in 10 Groups
+Aperture Range: f/3.5 to 6.5
+Image Stabilization: Optical
+Focus Modes: Auto
+Minimum Focus Distance: 1.97"
+Shortest Shutter Speed: 1/1600 Second
+Longest Shutter Speed: 4 Second
+ISO Sensitivity: ISO 200
+  Auto
+  ISO 80
+  ISO 100
+  ISO 800
+  ISO 1600
+  ISO 3200
+  ISO 6400
+  ISO 12800
+  ISO 400
+Built-in Flash: Yes
+Built-in Flash Modes: Auto Flash
+  Flash ON
+  Slow Sync
+  Flash OFF
+  Advanced Flash
+  Red-eye Reduction
+Viewfinder Type: No
+Minimum Diopter Adjustment: No
+Maximum Diopter Adjustment: No
+Memory Card Supported: Memory Stick Duo
+  Memory Stick PRO Duo
+  Memory Stick PRO High Speed
+  Memory Stick PRO-HG Duo
+  Memory Stick XC-HG Duo
+  Memory Stick Micro
+  Memory Stick Micro (M2)
+  Secure Digital (SD) Card
+  Secure Digital High Capacity (SDHC) Card
+  Secure Digital Extended Capacity (SDXC)
+  miniSD Card
+  microSDHC Card
+  microSD Extended Capacity (microSDXC)
+Wireless LAN: Yes
+Wireless LAN Standard: IEEE 802.11b/g/n
+GPS: Yes
+Camera Modes: Scene Modes:  High Sensitivity Soft Snap Soft Skin Landscape Night Portrait Night Scene Handheld Twilight Gourmet Beach Snow Fireworks Pet mode Anti-motion Blur Backlight Correction HDR  Shooting Modes:  Intelligent Auto Panorama Easy Shooting Scene Selection Movie Mode(Intelligent Auto/Scene Selection) 
+Self Timer: 2 Second
+  10 Second
+HDMI: Yes
+USB: Yes
+Built-in Devices: Microphone
+  Speaker
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: NP-BX1
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 470 Shot/3.92 Hour Video
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Black
+Height: 2.2"
+Width: 3.8"
+Depth: 1"
+Weight (Approximate): 4.83 oz
+Package Contents:  WX350 Compact Camera with 20x Optical Zoom Rechargeable Battery Pack NP-BX1 AC Adaptor AC-UB10C/UB10D Micro USB Cable Wrist Strap Instruction Manual 
+Features: Near Field Communication (NFC)
+  Face Detection
+  Smile Detection
+  Live View
+  Continuous Shooting Mode
+  Self-timer
+  Noise Reduction
+Platform Supported: PC
+  Mac
+Limited Warranty: 1 Year
+{'Battery Built-in:': 'No', 'ISO Sensitivity:': 'ISO 200', 'Image Sensor Size:': '1/2.3" (0.24" x 0.18")', 'Product Name:': 'WX350 Compact Camera with 20x Optical Zoom', 'Manufacturer:': 'Sony Corporation', 'Audio Formats:': 'AAC-LC', 'Focus Modes:': 'Auto', 'Wireless LAN:': 'Yes', 'Product Model:': 'DSC-WX350', 'Focal Length (35mm Equivalent):': '32.50 mm to 1625 mm (Lens 1)', 'Minimum Diopter Adjustment:': 'No', 'Maximum Video Resolution:': '1920 x 1080', 'Battery Model Supported:': 'NP-BX1', 'Built-in Flash Modes:': 'Auto Flash', 'HDMI:': 'Yes', 'White Balance Modes:': ' Auto Daylight Cloudy Fluorescent 1 (White Fluorescent Lighting) Fluorescent 2 (Natural White Fluorescent Lighting) Fluorescent 3 (Day White Fluorescent Lighting) Incandescent Flash One Push One Push Set ', 'Battery Life:': '470 Shot/3.92 Hour Video', 'Minimum Focus Distance:': '1.97"', 'Battery Size Supported:': 'Proprietary Battery Size', 'Screen Size:': '3"', 'Features:': 'Near Field Communication (NFC)', 'Digital Zoom:': '80x', 'Touchscreen:': 'No', 'Weight (Approximate):': '4.83 oz', 'Longest Shutter Speed:': '4 Second', 'Color:': 'Black', 'Maximum Image Resolution:': '4896 x 3264', 'Manufacturer Part Number:': 'DSCWX350B', 'Product Line:': 'Cyber-shot', 'Depth:': '1"', 'Camera Modes:': 'Scene Modes:  High Sensitivity Soft Snap Soft Skin Landscape Night Portrait Night Scene Handheld Twilight Gourmet Beach Snow Fireworks Pet mode Anti-motion Blur Backlight Correction HDR  Shooting Modes:  Intelligent Auto Panorama Easy Shooting Scene Selection Movie Mode(Intelligent Auto/Scene Selection) ', 'Self Timer:': '2 Second', 'Width:': '3.8"', 'Image Sensor Type:': 'Exmor R CMOS', 'Total Camera Resolution:': '21.1 Megapixel', 'Viewfinder Type:': 'No', 'Product Type:': 'Compact Camera', 'Brand Name:': 'Sony', 'Platform Supported:': 'PC', 'Maximum Diopter Adjustment:': 'No', 'Effective Camera Resolution:': '18.2 Megapixel', 'Shortest Shutter Speed:': '1/1600 Second', 'Maximum Frame Rate:': '50 fps', 'Display Screen Type:': 'LCD', 'Memory Card Supported:': 'Memory Stick Duo', 'HD Movie Mode:': 'Yes', 'Video Formats:': 'MP4', 'Built-in Devices:': 'Microphone', 'Battery Rechargeable:': 'Yes', 'Wireless LAN Standard:': 'IEEE 802.11b/g/n', 'Focal Length:': '4.30 mm to 86 mm (Lens 1)', 'Package Contents:': ' WX350 Compact Camera with 20x Optical Zoom Rechargeable Battery Pack NP-BX1 AC Adaptor AC-UB10C/UB10D Micro USB Cable Wrist Strap Instruction Manual ', '\xa0': 'Mac', 'GPS:': 'Yes', 'Image Formats:': 'JPEG', 'Height:': '2.2"', 'Manufacturer Website Address:': 'http://www.sony.com', 'Aspect Ratio:': '16:9', 'Display Resolution:': '460800 Pixel', 'Limited Warranty:': '1 Year', 'Lens Construction:': '11 Elements in 10 Groups', 'Built-in Flash:': 'Yes', 'Optical Zoom:': '20x', 'Battery Chemistry:': 'Lithium Ion (Li-Ion)', 'Product Series:': 'WX', 'USB:': 'Yes', 'Battery Included:': 'Yes', 'Number of Batteries Supported:': '1', 'Image Stabilization:': 'Optical', 'Aperture Range:': 'f/3.5 to 6.5'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/pc_nation_camera/XR6545.html
+Manufacturer: Canon, Inc
+Manufacturer Part Number: 9126B003
+Manufacturer Website Address: http://www.usa.canon.com
+Brand Name: Canon
+Product Line: EOS Rebel
+Product Model: T5
+Product Name: EOS Rebel T5 Digital SLR Camera
+Product Type: Digital SLR Camera
+Screen Size: 3"
+Display Screen Type: LCD
+Touchscreen: No
+Display Resolution: 460000 Pixel
+Effective Camera Resolution: 18 Megapixel
+Total Camera Resolution: 18.7 Megapixel
+Image Sensor Size: 0.88" x 0.59"
+Image Sensor Type: CMOS
+White Balance Modes:  Auto Custom 
+Aspect Ratio: 16:9
+Image Formats: JPEG
+  RAW
+Maximum Image Resolution: 5184 x 3456
+Video Formats: H.264
+  MOV
+Maximum Video Resolution: 1920 x 1080
+HD Movie Mode: Yes
+Maximum Frame Rate: 60 fps
+Audio Formats: PCM
+Optical Zoom: 3.1x
+Digital Zoom: No
+Wide Angle: Yes
+Focal Length: 18 mm to 55 mm
+Focal Length (35mm Equivalent): 29 mm to 88 mm
+Lens Construction: 11 Elements in 9 Groups
+Aperture Range: f/3.5 to 5.6
+Image Stabilization: Optical
+Autofocus Points: 9
+Focus Modes: Auto
+  Manual
+Minimum Focus Distance: 9.80"
+Lens Mount Type: Canon EF/EF-S
+Filter Attachment Diameter: 58 mm
+Shortest Shutter Speed: 1/4000 Second
+Longest Shutter Speed: 30 Second
+ISO Sensitivity: Auto
+  ISO 100
+  ISO 200
+  ISO 400
+  ISO 800
+  ISO 1600
+  ISO 3200
+  ISO 6400
+Exposure Control:  Program AE Shutter Priority AE Aperture Priority AE Manual 
+Built-in Flash: Yes
+Built-in Flash Modes: Flash ON
+  Flash OFF
+  Red-eye Reduction
+  Auto Flash
+  Flash Exposure Compensation
+  X-sync
+  High Speed Sync
+External Flash: Optional
+Viewfinder Type: Optical
+Minimum Diopter Adjustment: -2.5
+Maximum Diopter Adjustment: 0.5
+Memory Card Supported: Secure Digital High Capacity (SDHC) Card
+  Secure Digital (SD) Card
+  Secure Digital Extended Capacity (SDXC)
+  Eye-Fi Card
+GPS: No
+Camera Modes: Shooting Modes:  Scene Intelligent Auto Flash Off Creative Auto Landscape Close-up Sports Night Portrait 
+Self Timer: 2 Second
+  10 Second
+HDMI: Yes
+USB: Yes
+Analog Video Out: Yes
+PictBridge: Yes
+Built-in Devices: Speaker
+  Microphone
+Number of Batteries Supported: 1
+Battery Size Supported: Proprietary Battery Size
+Battery Model Supported: LP-E10
+Battery Built-in: No
+Battery Included: Yes
+Battery Rechargeable: Yes
+Battery Life: 600 Shot/1.25 Hour Video
+Battery Chemistry: Lithium Ion (Li-Ion)
+Color: Black
+Camera Assembly: Body with Lens Kit
+Height: 3.9"
+Width: 5.1"
+Depth: 3.1"
+Weight (Approximate): 16.93 lb
+Package Contents:  EOS Rebel T5 Digital SLR Camera EF-S 18-55mm f/3.5-5.6 IS II Lens Eyecup Ef Battery Pack LP-E10 Battery Charger LC-E10 USB Interface Cable IFC-130U Wide Strap EW-300D EOS Digital Solution Disc & Software Instruction Manual CD Camera Instruction Manual 
+Features: Live View
+  Face Detection
+  Orientation Sensor
+  Time Lapse Function
+  Continuous Shooting Mode
+  Self-timer
+  External Flash Shoe
+Language Supported: English
+  German
+  French
+  Dutch
+  Danish
+  Portuguese
+  Finnish
+  Italian
+  Norwegian
+  Swedish
+  Spanish
+  Greek
+  Russian
+  Polish
+  Hungarian
+  Czech
+  Romanian
+  Ukrainian
+  Turkish
+  Thai
+  Simplified Chinese
+  Korean
+  Japanese
+  Chinese (Traditional)
+Platform Supported: PC
+  Mac
+Green Compliant: Yes
+Green Compliance Certificate/Authority: REACH
+  RoHS
+  WEEE
+Limited Warranty: 1 Year
+{'Battery Built-in:': 'No', 'ISO Sensitivity:': 'Auto', 'Image Sensor Size:': '0.88" x 0.59"', 'Product Name:': 'EOS Rebel T5 Digital SLR Camera', 'PictBridge:': 'Yes', 'Manufacturer:': 'Canon, Inc', 'Audio Formats:': 'PCM', 'Focus Modes:': 'Auto', 'Autofocus Points:': '9', 'Image Sensor Type:': 'CMOS', 'Focal Length (35mm Equivalent):': '29 mm to 88 mm', 'Viewfinder Type:': 'Optical', 'Optical Zoom:': '3.1x', 'Maximum Video Resolution:': '1920 x 1080', 'Screen Size:': '3"', 'Filter Attachment Diameter:': '58 mm', 'Language Supported:': 'English', 'Built-in Flash Modes:': 'Flash ON', 'Green Compliant:': 'Yes', 'HDMI:': 'Yes', 'White Balance Modes:': ' Auto Custom ', 'Battery Life:': '600 Shot/1.25 Hour Video', 'Minimum Focus Distance:': '9.80"', 'Battery Size Supported:': 'Proprietary Battery Size', 'Focal Length:': '18 mm to 55 mm', 'Features:': 'Live View', 'Digital Zoom:': 'No', 'Weight (Approximate):': '16.93 lb', 'External Flash:': 'Optional', 'Touchscreen:': 'No', 'Color:': 'Black', 'Maximum Image Resolution:': '5184 x 3456', 'Manufacturer Part Number:': '9126B003', 'Product Line:': 'EOS Rebel', 'Depth:': '3.1"', 'Camera Modes:': 'Shooting Modes:  Scene Intelligent Auto Flash Off Creative Auto Landscape Close-up Sports Night Portrait ', 'Self Timer:': '2 Second', 'Lens Mount Type:': 'Canon EF/EF-S', 'Total Camera Resolution:': '18.7 Megapixel', 'Exposure Control:': ' Program AE Shutter Priority AE Aperture Priority AE Manual ', 'Product Type:': 'Digital SLR Camera', 'Brand Name:': 'Canon', 'Platform Supported:': 'PC', 'Maximum Diopter Adjustment:': '0.5', 'Effective Camera Resolution:': '18 Megapixel', 'Shortest Shutter Speed:': '1/4000 Second', 'Built-in Devices:': 'Speaker', 'Product Model:': 'T5', 'Maximum Frame Rate:': '60 fps', 'Display Screen Type:': 'LCD', 'Memory Card Supported:': 'Secure Digital High Capacity (SDHC) Card', 'Green Compliance Certificate/Authority:': 'REACH', 'HD Movie Mode:': 'Yes', 'Minimum Diopter Adjustment:': '-2.5', 'Video Formats:': 'H.264', 'Wide Angle:': 'Yes', 'Battery Rechargeable:': 'Yes', 'Analog Video Out:': 'Yes', 'Camera Assembly:': 'Body with Lens Kit', 'Width:': '5.1"', 'Package Contents:': ' EOS Rebel T5 Digital SLR Camera EF-S 18-55mm f/3.5-5.6 IS II Lens Eyecup Ef Battery Pack LP-E10 Battery Charger LC-E10 USB Interface Cable IFC-130U Wide Strap EW-300D EOS Digital Solution Disc & Software Instruction Manual CD Camera Instruction Manual ', '\xa0': 'WEEE', 'GPS:': 'No', 'Image Formats:': 'JPEG', 'Height:': '3.9"', 'Manufacturer Website Address:': 'http://www.usa.canon.com', 'Aspect Ratio:': '16:9', 'Display Resolution:': '460000 Pixel', 'Limited Warranty:': '1 Year', 'Lens Construction:': '11 Elements in 9 Groups', 'Built-in Flash:': 'Yes', 'Battery Chemistry:': 'Lithium Ion (Li-Ion)', 'Longest Shutter Speed:': '30 Second', 'USB:': 'Yes', 'Battery Model Supported:': 'LP-E10', 'Battery Included:': 'Yes', 'Number of Batteries Supported:': '1', 'Image Stabilization:': 'Optical', 'Aperture Range:': 'f/3.5 to 5.6'}
+finalizou

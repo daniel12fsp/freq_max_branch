@@ -1,0 +1,40 @@
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ricardoeletron_refrigerador/1118.html
+Sistema de refrigeração Frost Free 
+Cor Branco 
+Consumo aproximado de energia 71 KWh
+Display digital Sim 
+Eficiência energética Classe A/Selo Procel 
+Material Aço Galvanizado com Pintura Eletrostática 
+Pés Pés niveladores dianteiros e rodízios dianteiros e traseiros 
+Congelamento rápido Sim 
+Bandeja de café da manhã removível Sim 
+Compartimento extra frio Sim 
+Fruteira Sim 
+Gavetas Gavetão transparente com controle de umidade e divisória aproveitável 
+Porta-garrafas Sim com capacidade de Até garrafa 3,3L 
+Porta-latas Sim 6 Unidades 
+Porta-ovos Sim 18 Unidades 
+Portas 2 
+Prateleiras/cestos 2 Cestos e 12 Prateleiras 
+Adega Não 
+Alarme sonoro na porta Sim 
+Recipiente para Bebidas Geladas Sim 
+Controle de temperatura externo Sim 
+Controle de temperatura interno Sim 
+Desodorizador Sim 
+Elimina bactérias Sim 
+Dispenser interno de água Não 
+Dispenser interno de gelo Sim 
+Dispenser na porta externo de água Não 
+Dispenser na porta externo de gelo Não 
+Capacidade Total Bruta 557 L
+Capacidade Total Líquida 553 L
+Capacidade de armazenamento Freezer 132 L
+Capacidade de armazenamento Refrigerador 421 L
+Acima de 400 Litros Sim 
+Altura 190 cm
+Largura 80.9 cm
+Comprimento 75 cm
+Peso 104 kg
+Garantia  12 meses 
+{'Pés': 'Pés niveladores dianteiros e rodízios dianteiros e traseiros ', 'Capacidade Total Bruta': '557 L', 'Controle de temperatura interno': 'Sim ', 'Portas': '2 ', 'Garantia': ' 12 meses ', 'Display digital': 'Sim ', 'Sistema de refrigeração': 'Frost Free ', 'Comprimento': '75 cm', 'Capacidade Total Líquida': '553 L', 'Capacidade de armazenamento Freezer': '132 L', 'Material': 'Aço Galvanizado com Pintura Eletrostática ', 'Porta-garrafas': 'Sim com capacidade de Até garrafa 3,3L ', 'Eficiência energética': 'Classe A/Selo Procel ', 'Acima de 400 Litros': 'Sim ', 'Compartimento extra frio': 'Sim ', 'Gavetas': 'Gavetão transparente com controle de umidade e divisória aproveitável ', 'Peso': '104 kg', 'Dispenser na porta externo de gelo': 'Não ', 'Controle de temperatura externo': 'Sim ', 'Congelamento rápido': 'Sim ', 'Consumo aproximado de energia': '71 KWh', 'Altura': '190 cm', 'Elimina bactérias': 'Sim ', 'Fruteira': 'Sim ', 'Porta-ovos': 'Sim 18 Unidades ', 'Dispenser interno de água': 'Não ', 'Cor': 'Branco ', 'Largura': '80.9 cm', 'Alarme sonoro na porta': 'Sim ', 'Dispenser na porta externo de água': 'Não ', 'Adega': 'Não ', 'Porta-latas': 'Sim 6 Unidades ', 'Capacidade de armazenamento Refrigerador': '421 L', 'Dispenser interno de gelo': 'Sim ', 'Desodorizador': 'Sim ', 'Recipiente para Bebidas Geladas': 'Sim ', 'Bandeja de café da manhã removível': 'Sim ', 'Prateleiras/cestos': '2 Cestos e 12 Prateleiras '}

@@ -1,0 +1,52 @@
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/searsoutlet_refrigerador/KSC24C8EYY .html
+Color Family: Stainless steel
+Handle Material: Metal
+Adjustable Shelves: Yes
+Crisper Style: Slide-out
+Flexible Storage Shelf: No
+Gallon Door Storage: Yes
+Humidity-Controlled Crisper: Yes
+Number of Refrigerator Door Bins: 4
+Number of Refrigerator Drawers: 3
+Number of Refrigerator Shelves: 3
+Refrigerator Interior Light: Yes
+Water Filter: Yes
+Next Day: No
+Ice Style: Crushed & Cubed
+Internal Water Dispenser: No
+Thru Door Dispenser: Ice & Water Dispenser
+Water Filter Replacement Part Number: 04609900000
+Control Type: Digital
+Defrost System: Frost-free
+Kilowatt Hrs. per Year: 570
+Adjustable Legs: Yes
+Control Location: Exterior
+Compressor Noise Level (dB.): 0
+Freezer Interior Light: Yes
+Freezer Shelf Material: Glass
+Ice Maker: Yes
+Number of Freezer Door Bins: 3
+Number of Freezer Shelves/Baskets: 3
+Power Cord Included: Yes
+Depth w/ Handle (in.): 28.938
+Depth w/o Handle (in.): 27.25
+Standard or Counter Depth: Counter Depth
+Depth w/Door Open 90 Degrees (In.): 45.5625
+Height to Top of Case (in.): 71
+Height to Top of Hinge (in.): 71.625
+Freezer Capacity (Cu Ft): 10.1
+Overall Capacity Range: 19.1 cu. ft. - 23.9 cu. ft.
+Width w/ Door Closed (In.): 35.438
+Width w/Door Open 90 Degrees (In.): 38.2
+Refrigerator Capacity: 13.8
+Door Finish: Smooth
+Refrigerator Shelf Material: Glass
+Cabinet Color: Monochromatic
+Crisper Color: Clear
+Door Style: Flat
+Handle Color: Monochromatic
+Door Color: Stainless steel
+ENERGY STAR Compliant: No
+Overall Capacity (Cu Ft): 23.9
+General Warranty: 1 year limited
+{'Width w/ Door Closed (In.):': '35.438', 'Water Filter:': 'Yes', 'Crisper Style:': 'Slide-out', 'Humidity-Controlled Crisper:': 'Yes', 'Kilowatt Hrs. per Year:': '570', 'Water Filter Replacement Part Number:': '04609900000', 'Number of Refrigerator Door Bins:': '4', 'Adjustable Legs:': 'Yes', 'Handle Color:': 'Monochromatic', 'Number of Refrigerator Drawers:': '3', 'Overall Capacity (Cu Ft):': '23.9', 'Crisper Color:': 'Clear', 'Internal Water Dispenser:': 'No', 'Power Cord Included:': 'Yes', 'Depth w/ Handle (in.):': '28.938', 'Control Type:': 'Digital', 'Ice Maker:': 'Yes', 'Standard or Counter Depth:': 'Counter Depth', 'Freezer Interior Light:': 'Yes', 'Height to Top of Case (in.):': '71', 'Handle Material:': 'Metal', 'Defrost System:': 'Frost-free', 'Control Location:': 'Exterior', 'Depth w/Door Open 90 Degrees (In.):': '45.5625', 'Freezer Capacity (Cu Ft):': '10.1', 'Refrigerator Shelf Material:': 'Glass', 'Freezer Shelf Material:': 'Glass', 'Door Finish:': 'Smooth', 'Door Style:': 'Flat', 'Refrigerator Capacity:': '13.8', 'Depth w/o Handle (in.):': '27.25', 'Refrigerator Interior Light:': 'Yes', 'General Warranty:': '1 year limited', 'Number of Refrigerator Shelves:': '3', 'Adjustable Shelves:': 'Yes', 'Width w/Door Open 90 Degrees (In.):': '38.2', 'Door Color:': 'Stainless steel', 'Next Day:': 'No', 'Gallon Door Storage:': 'Yes', 'Color Family:': 'Stainless steel', 'ENERGY STAR Compliant:': 'No', 'Overall Capacity Range:': '19.1 cu. ft. - 23.9 cu. ft.', 'Number of Freezer Shelves/Baskets:': '3', 'Thru Door Dispenser:': 'Ice & Water Dispenser', 'Ice Style:': 'Crushed & Cubed', 'Flexible Storage Shelf:': 'No', 'Compressor Noise Level (dB.):': '0', 'Height to Top of Hinge (in.):': '71.625', 'Number of Freezer Door Bins:': '3', 'Cabinet Color:': 'Monochromatic'}

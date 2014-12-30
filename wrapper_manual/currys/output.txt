@@ -1,0 +1,850 @@
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/currys_celular/041647.html
+Type SIM-free mobile phone
+Colour Black
+Bluetooth No
+GPS No
+Infrared No
+Screen size 1.52"
+Screen resolution  128 x 128p
+Screen type LCD
+Camera No
+Video recording No
+Radio No
+Phonebook Yes
+Ringtones MP3 ringtones
+Handsfree No
+Other features - 5-way navigation key
+- Anti-dust keypad
+Battery capacity 800 mAh
+Standby time 720 hours
+Talk time 7 hours
+Dimensions 108 x 44 x 13.5 mm (L x W x D)
+Weight 61.5 g
+{'Phonebook': 'Yes', 'Battery capacity': '800 mAh', 'Screen resolution ': '128 x 128p', 'Screen size': '1.52"', 'Colour': 'Black', 'Handsfree': 'No', 'Talk time': '7 hours', 'Dimensions': '108 x 44 x 13.5 mm (L x W x D)', 'Standby time': '720 hours', 'Ringtones': 'MP3 ringtones', 'Radio': 'No', 'Bluetooth': 'No', 'Weight': '61.5 g', 'Other features': '- 5-way navigation key\n- Anti-dust keypad', 'Video recording': 'No', 'Type': 'SIM-free mobile phone', 'GPS': 'No', 'Infrared': 'No', 'Screen type': 'LCD', 'Camera': 'No'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/currys_celular/070843.html
+Type SIM-free smartphone
+Operating system Android 4.1.2 (Jelly Bean)
+Processor 1.2 GHz, quad-core
+Sensor G-sensor
+Colour Black
+Internal memory No internal memory - expandable up to 64 GB
+Memory card supported microSD
+RAM 1 GB
+Charging interface Micro-USB
+WiFi Yes
+4G ready No
+3G ready Yes
+Bluetooth Bluetooth 3.0
+NFC No
+GPS Yes
+Infrared No
+Screen size 5"
+Screen resolution  960 x 540p
+Screen type IPS
+Touchscreen Yes
+Number of colours 16 million
+Screen features - Wide viewing angle
+- Full black laminated process glass
+Camera - 8 MP rear-facing 
+- 2 MP front-facing
+Flash Yes
+Zoom 8 x digital zoom
+Camera features Autofocus
+Video recording Yes
+Video resolution 720p
+Video format H.264
+MP3 player Yes
+Radio FM radio
+Speakers Yes
+Voice recording Yes
+Handsfree Yes
+Voice dialling Yes
+Other features Dual Sim support:
+
+- SIM 1: 2G (GSM/GPRS/ EDGE 900/1800/1900 MHz)
+- SIM 2: 2G/3G (WCDMA 900/2100)
+Battery capacity 2000 mAh
+Standby time 161 hours
+Talk time 12.3 hours
+Accessories included - USB charger
+- USB cable
+- Battery
+- Hands-free kit
+- Quick Start Guide
+- Warranty booklet
+Dimensions 169 x 111 x 50 mm (H x W x D)
+Weight 160 g
+{'Operating system': 'Android 4.1.2 (Jelly Bean)', 'RAM': '1 GB', 'Voice recording': 'Yes', 'Screen resolution ': '960 x 540p', 'Dimensions': '169 x 111 x 50 mm (H x W x D)', 'Charging interface': 'Micro-USB', 'Speakers': 'Yes', 'Screen features': '- Wide viewing angle\n- Full black laminated process glass', 'Standby time': '161 hours', 'Memory card supported': 'microSD', 'Voice dialling': 'Yes', 'Accessories included': '- USB charger\n- USB cable\n- Battery\n- Hands-free kit\n- Quick Start Guide\n- Warranty booklet', 'Weight': '160 g', 'NFC': 'No', 'Colour': 'Black', 'GPS': 'Yes', 'MP3 player': 'Yes', 'Flash': 'Yes', 'Bluetooth': 'Bluetooth 3.0', 'Screen type': 'IPS', 'Internal memory': 'No internal memory - expandable up to 64 GB', 'Talk time': '12.3 hours', 'Number of colours': '16 million', 'Camera features': 'Autofocus', 'Screen size': '5"', 'Handsfree': 'Yes', 'Zoom': '8 x digital zoom', 'Video format': 'H.264', '4G ready': 'No', '3G ready': 'Yes', 'Radio': 'FM radio', 'Sensor': 'G-sensor', 'Video resolution': '720p', 'WiFi': 'Yes', 'Other features': 'Dual Sim support:\n\n- SIM 1: 2G (GSM/GPRS/ EDGE 900/1800/1900 MHz)\n- SIM 2: 2G/3G (WCDMA 900/2100)', 'Processor': '1.2 GHz, quad-core', 'Type': 'SIM-free smartphone', 'Infrared': 'No', 'Battery capacity': '2000 mAh', 'Touchscreen': 'Yes', 'Video recording': 'Yes', 'Camera': '- 8 MP rear-facing \n- 2 MP front-facing'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/currys_celular/084782.html
+Type SIM-free smartphone
+Operating system Android 4.4 (KitKat)
+Processor Qualcomm Snapdragon 800 (2.26 GHz, quad-core)
+Sensor - Accelerometer
+- Gyro
+- Proximity
+- Compass
+- Barometer
+Colour Black
+Internal memory 16 GB
+RAM 2 GB
+Charging interface Micro-USB
+WiFi Yes
+4G ready Yes
+3G ready Yes
+Bluetooth Bluetooth 4.0
+NFC Yes
+GPS Yes
+Screen size 4.95"
+Screen resolution  1920 x 1080p
+Screen type LED
+Touchscreen Yes
+Number of colours 16 million
+Camera - 8 MP front-facing
+- Front-facing
+Maximum resolution 3264 x 2448p
+Flash Yes
+Panoramic function No
+Camera features - Face detection
+- Photo sphere
+- HDR
+- Dual recording
+Video recording Yes
+Video resolution Full HD 1920 x 1080p
+Video format MP4, H.264, H.263
+Video features Recording up to 30 fps
+MP3 player Yes
+Radio No
+Sound technology Active noise cancellation with dedicated microphone
+Voice recording Yes
+Handsfree Yes
+Other features - Wireless charging
+- SNS integration
+Battery Lithium-polymer
+Battery capacity 2300 mAh
+Standby time 300 hours
+Talk time 17 hours
+Pre-installed apps - Image/video editor
+- Document editor
+- Google Search, Maps, Gmail
+- YouTube, Calendar, Google Talk, Picasa
+Accessories included - Phone charger
+- Manual
+Dimensions 69.17 x 137.84 x 8.59 mm (L x W x D)
+Weight 130 g
+Manufacturer’s guarantee 1 year
+{'Operating system': 'Android 4.4 (KitKat)', 'RAM': '2 GB', 'Voice recording': 'Yes', 'Screen resolution ': '1920 x 1080p', 'Dimensions': '69.17 x 137.84 x 8.59 mm (L x W x D)', 'Charging interface': 'Micro-USB', 'Standby time': '300 hours', 'Battery': 'Lithium-polymer', 'Weight': '130 g', 'Video features': 'Recording up to 30 fps', 'NFC': 'Yes', 'Colour': 'Black', 'Battery capacity': '2300 mAh', 'MP3 player': 'Yes', 'Manufacturer’s guarantee': '1 year', 'Flash': 'Yes', 'Bluetooth': 'Bluetooth 4.0', 'Screen type': 'LED', 'Internal memory': '16 GB', 'Accessories included': '- Phone charger\n- Manual', 'Number of colours': '16 million', 'Pre-installed apps': '- Image/video editor\n- Document editor\n- Google Search, Maps, Gmail\n- YouTube, Calendar, Google Talk, Picasa', 'Panoramic function': 'No', 'Camera features': '- Face detection\n- Photo sphere\n- HDR\n- Dual recording', 'Screen size': '4.95"', 'Talk time': '17 hours', 'Handsfree': 'Yes', 'Maximum resolution': '3264 x 2448p', 'Sound technology': 'Active noise cancellation with dedicated microphone', 'Video format': 'MP4, H.264, H.263', '4G ready': 'Yes', '3G ready': 'Yes', 'Radio': 'No', 'Sensor': '- Accelerometer\n- Gyro\n- Proximity\n- Compass\n- Barometer', 'Video resolution': 'Full HD 1920 x 1080p', 'WiFi': 'Yes', 'Other features': '- Wireless charging\n- SNS integration', 'Processor': 'Qualcomm Snapdragon 800 (2.26 GHz, quad-core)', 'Type': 'SIM-free smartphone', 'GPS': 'Yes', 'Touchscreen': 'Yes', 'Video recording': 'Yes', 'Camera': '- 8 MP front-facing\n- Front-facing'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/currys_celular/093551.html
+Type SIM-free smartphone
+Operating system Windows 8
+Processor Qualcomm Snapdragon 800 (2.2 GHz, quad-core)
+Sensor - Accelerometer
+- Gyro
+- Proximity
+- Compass
+Colour Black
+Internal memory 32 GB
+Memory card supported microSD (up to 64 GB)
+RAM 2 GB
+Charging interface Micro-USB
+WiFi Yes
+4G ready Yes
+3G ready Yes
+Bluetooth Bluetooth 4.0
+NFC Yes
+GPS Yes
+Screen size 6"
+Screen resolution  1920 x 1080p
+Screen type LCD
+Touchscreen Yes
+Number of colours 16 million
+Screen features Corning Gorilla Glass 2
+Camera - 20 MP rear-facing 
+- 1.2 MP front-facing
+Flash Yes
+Zoom 2 x digital zoom
+Panoramic function Yes
+Camera features - ZEISS optics
+- PureView 
+- Autofocus with two-stage capture key
+Video recording Yes
+Video resolution 1280 x 960p
+Video calling Yes
+Video features - Image stabilisation
+- Continuous autofocus
+- Nokia Video Trimmer app
+- Nokia Rich Recording with four microphones
+MP3 player Yes
+Radio FM radio
+Speakers Yes
+Sound technology Dolby Headphone sound enhancement
+Voice recording Yes
+Handsfree Yes
+Battery Lithium-ion
+Battery capacity 3400 mAh
+Standby time 768 hours
+Talk time 25 hours
+Pre-installed apps - Google Talk
+- Twitter
+- Windows Live Messenger
+- WhatsApp
+- Yahoo! Messenger
+- Skype IM
+- Facebook / Yahoo! Mail
+- Outlook Mobile
+- Gmail
+- Office 365
+- Nokia Mail
+- Windows Live / Hotmail / Outlook.com
+- MS Exchange Active Sync / Calculator
+- OneNote
+- Wallet
+- Family Room
+Accessories included - Micro-USB charger
+- Charging & data cable
+- Nokia WH-208 Headset
+- Quick guide
+- SIM Door Key
+Dimensions 162.8 x 85.4 x 8.7 mm (H x W x D)
+Weight 209 g
+Manufacturer’s guarantee 1 year
+{'Screen resolution ': '1920 x 1080p', 'Speakers': 'Yes', 'Battery': 'Lithium-ion', 'Weight': '209 g', 'NFC': 'Yes', 'Charging interface': 'Micro-USB', 'Video features': '- Image stabilisation\n- Continuous autofocus\n- Nokia Video Trimmer app\n- Nokia Rich Recording with four microphones', 'Sensor': '- Accelerometer\n- Gyro\n- Proximity\n- Compass', 'Dimensions': '162.8 x 85.4 x 8.7 mm (H x W x D)', 'Internal memory': '32 GB', 'Accessories included': '- Micro-USB charger\n- Charging & data cable\n- Nokia WH-208 Headset\n- Quick guide\n- SIM Door Key', 'Voice recording': 'Yes', 'Manufacturer’s guarantee': '1 year', 'Talk time': '25 hours', '4G ready': 'Yes', 'Standby time': '768 hours', 'Pre-installed apps': '- Google Talk\n- Twitter\n- Windows Live Messenger\n- WhatsApp\n- Yahoo! Messenger\n- Skype IM\n- Facebook / Yahoo! Mail\n- Outlook Mobile\n- Gmail\n- Office 365\n- Nokia Mail\n- Windows Live / Hotmail / Outlook.com\n- MS Exchange Active Sync / Calculator\n- OneNote\n- Wallet\n- Family Room', 'Touchscreen': 'Yes', 'Processor': 'Qualcomm Snapdragon 800 (2.2 GHz, quad-core)', 'Type': 'SIM-free smartphone', 'GPS': 'Yes', 'Camera features': '- ZEISS optics\n- PureView \n- Autofocus with two-stage capture key', 'Video recording': 'Yes', 'Operating system': 'Windows 8', 'RAM': '2 GB', 'Battery capacity': '3400 mAh', 'Camera': '- 20 MP rear-facing \n- 1.2 MP front-facing', 'Screen features': 'Corning Gorilla Glass 2', 'Memory card supported': 'microSD (up to 64 GB)', 'Colour': 'Black', 'Zoom': '2 x digital zoom', 'MP3 player': 'Yes', 'Screen type': 'LCD', 'Panoramic function': 'Yes', 'Number of colours': '16 million', 'Screen size': '6"', 'Video calling': 'Yes', 'Handsfree': 'Yes', 'Sound technology': 'Dolby Headphone sound enhancement', 'Flash': 'Yes', '3G ready': 'Yes', 'Radio': 'FM radio', 'Bluetooth': 'Bluetooth 4.0', 'Video resolution': '1280 x 960p', 'WiFi': 'Yes'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/currys_celular/096645.html
+Type SIM-free smartphone
+Operating system Android 4.4 (KitKat)
+Processor 2.5 GHz, quad-core
+Sensor - Accelerometer
+- Gyro
+- Proximity
+- Compass
+- Barometer
+- Hall
+- RGB light
+- Gesture
+- Fingerprint
+- Heart Rate Sensor
+Colour Black
+Internal memory 16 GB
+Memory card supported microSD (up to 128 GB)
+RAM 2 GB
+Charging interface Micro-USB
+WiFi Yes
+4G ready Yes
+3G ready Yes
+Bluetooth Bluetooth 4.0
+NFC Yes
+GPS Yes
+Infrared Yes
+Connectivity features Quick Connect
+Screen size 5.1"
+Screen resolution  1920 x 1080p
+Screen type Super AMOLED
+Touchscreen Yes
+Number of colours 16 million
+Screen features Water & dust resistant
+Camera - 16 MP rear-facing 
+- 2 MP front-facing
+Image sensor CMOS
+Maximum resolution 5312 x 2988p
+Flash Yes
+Zoom 4 x digital zoom
+Panoramic function Yes
+Camera features - Autofocus
+- HDR
+- Selective focus
+Video recording Yes
+Video resolution Full HD 1920 x 1080p
+Video format MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM
+Video calling Yes
+MP3 player Yes
+Voice recording Yes
+Handsfree Yes
+Voice dialling Yes
+Other features - S Health
+- Private Mode
+- Ultra Power Saving Mode
+Battery Lithium-ion
+Battery capacity 2800 mAh
+Standby time 390 hours
+Talk time 21 hours
+Pre-installed apps - ChatON
+- S Health
+- S Voice
+- Dropbox
+- Flipboard
+- Google services
+Dimensions 142 x 72.5 x 8.1 mm (L x W x D)
+Weight 145 g
+Manufacturer’s guarantee 2 years
+{'Screen resolution ': '1920 x 1080p', 'Dimensions': '142 x 72.5 x 8.1 mm (L x W x D)', 'Battery': 'Lithium-ion', 'Weight': '145 g', 'NFC': 'Yes', 'Charging interface': 'Micro-USB', 'Flash': 'Yes', 'Sensor': '- Accelerometer\n- Gyro\n- Proximity\n- Compass\n- Barometer\n- Hall\n- RGB light\n- Gesture\n- Fingerprint\n- Heart Rate Sensor', 'Standby time': '390 hours', 'Voice recording': 'Yes', 'Manufacturer’s guarantee': '2 years', 'Talk time': '21 hours', '4G ready': 'Yes', 'Voice dialling': 'Yes', 'Internal memory': '16 GB', 'Pre-installed apps': '- ChatON\n- S Health\n- S Voice\n- Dropbox\n- Flipboard\n- Google services', 'Touchscreen': 'Yes', 'Processor': '2.5 GHz, quad-core', 'Type': 'SIM-free smartphone', 'GPS': 'Yes', 'Camera features': '- Autofocus\n- HDR\n- Selective focus', 'Video recording': 'Yes', 'Operating system': 'Android 4.4 (KitKat)', 'RAM': '2 GB', 'Battery capacity': '2800 mAh', 'Camera': '- 16 MP rear-facing \n- 2 MP front-facing', 'Screen features': 'Water & dust resistant', 'Memory card supported': 'microSD (up to 128 GB)', 'Connectivity features': 'Quick Connect', 'Colour': 'Black', 'Zoom': '4 x digital zoom', 'MP3 player': 'Yes', 'Image sensor': 'CMOS', 'Screen type': 'Super AMOLED', 'Panoramic function': 'Yes', 'Number of colours': '16 million', 'Screen size': '5.1"', 'Video calling': 'Yes', 'Handsfree': 'Yes', 'Maximum resolution': '5312 x 2988p', 'Video format': 'MP4, M4V, 3GP, 3G2, WMV, ASF, AVI, FLV, MKV, WEBM', '3G ready': 'Yes', 'Bluetooth': 'Bluetooth 4.0', 'Video resolution': 'Full HD 1920 x 1080p', 'WiFi': 'Yes', 'Other features': '- S Health\n- Private Mode\n- Ultra Power Saving Mode', 'Infrared': 'Yes'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/currys_celular/108956.html
+Type SIM-free smartphone
+Operating system Android 4.4 (KitKat)
+Processor Qualcomm Snapdragon 801 (2.46 GHz, quad-core)
+Sensor - Accelerometer
+- Gyro
+- Proximity
+- Compass
+Colour Metallic black
+Internal memory 16 GB
+Memory card supported microSD (up to 128 GB)
+RAM 2 GB
+Charging interface Micro-USB
+WiFi Yes
+4G ready Yes
+3G ready Yes
+Bluetooth Bluetooth 4.0
+NFC Yes
+GPS Yes
+Infrared Yes
+Connectivity features DNLA certified
+Screen size 5.5"
+Screen resolution  - 1440 x 2560p
+- 538 ppi
+Screen type LCD
+Touchscreen Yes
+Number of colours 16 million
+Screen features - Quad HD display
+- Corning Gorilla Glass 3
+Camera - 13 MP rear-facing
+- 2 MP front-facing
+Image sensor BSI CMOS
+Flash Yes
+Camera features - Optical image stabilisation
+- Laser focus with touch control
+Video recording Yes
+Video format HDR
+Video calling No
+Video features - Stereo sound
+- Video stabilisation
+MP3 player Yes
+Sound technology Dolby Mobile Sound Enhancement
+Voice recording Yes
+Handsfree Yes
+Voice dialling No
+Other features Smart Notice
+Battery Lithium-ion
+Battery capacity 3000 mAh
+Dimensions 146.3 x 74.6 x 8.9 mm (H x W x D)
+Weight 149 g
+Manufacturer’s guarantee 1 year
+{'Operating system': 'Android 4.4 (KitKat)', 'RAM': '2 GB', 'Voice recording': 'Yes', 'Screen resolution ': '- 1440 x 2560p\n- 538 ppi', 'Dimensions': '146.3 x 74.6 x 8.9 mm (H x W x D)', 'Charging interface': 'Micro-USB', 'Screen features': '- Quad HD display\n- Corning Gorilla Glass 3', 'Memory card supported': 'microSD (up to 128 GB)', 'Battery': 'Lithium-ion', 'Voice dialling': 'No', 'Weight': '149 g', 'Connectivity features': 'DNLA certified', 'Video features': '- Stereo sound\n- Video stabilisation', 'NFC': 'Yes', 'Colour': 'Metallic black', 'GPS': 'Yes', 'MP3 player': 'Yes', 'Manufacturer’s guarantee': '1 year', 'Image sensor': 'BSI CMOS', 'Bluetooth': 'Bluetooth 4.0', 'Screen type': 'LCD', 'Internal memory': '16 GB', 'Number of colours': '16 million', 'Video format': 'HDR', 'Camera features': '- Optical image stabilisation\n- Laser focus with touch control', 'Screen size': '5.5"', 'Video calling': 'No', 'Handsfree': 'Yes', 'Sound technology': 'Dolby Mobile Sound Enhancement', 'Flash': 'Yes', '4G ready': 'Yes', '3G ready': 'Yes', 'Sensor': '- Accelerometer\n- Gyro\n- Proximity\n- Compass', 'WiFi': 'Yes', 'Other features': 'Smart Notice', 'Processor': 'Qualcomm Snapdragon 801 (2.46 GHz, quad-core)', 'Type': 'SIM-free smartphone', 'Infrared': 'Yes', 'Battery capacity': '3000 mAh', 'Touchscreen': 'Yes', 'Video recording': 'Yes', 'Camera': '- 13 MP rear-facing\n- 2 MP front-facing'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/currys_celular/115004.html
+Type SIM-free smartphone
+Operating system Android 4.3 (Jelly Bean)
+Processor Qualcomm MSM8926 (1.2 GHz, quad-core)
+Colour Black
+Internal memory 8 GB
+Memory card supported microSD (up to 32 GB)
+RAM 1 GB
+Charging interface Micro-USB
+WiFi Yes
+4G ready Yes
+3G ready Yes
+Bluetooth Bluetooth 4.0
+NFC Yes
+GPS Yes
+Infrared Yes
+Connectivity features - Sony Smart Connect
+- DLNA certified
+- Screen mirroring
+Screen size 4.8"
+Screen resolution  540 x 960p
+Screen type LED
+Touchscreen Yes
+Number of colours 16 million
+Camera - 8 MP rear-facing
+- 0.3 MP front-facing
+Image sensor Sony Exmor RS
+Flash Yes
+Zoom 4 x digital zoom
+Panoramic function Yes
+Camera features - Face & smile detection
+- Touch focus & capture
+- Image stabilisation
+- Scene recognition
+- Smile Shutter
+- Red-eye reduction
+- HDR
+Video recording Yes
+Video resolution Full HD 1920 x 1080p
+Video format MP4
+Video calling Yes
+MP3 player Yes
+Radio Yes
+Sound technology - Clear Audio+, Clear Bass, Clear Phase and Clear stereo
+- xLoud Experience
+Voice recording Yes
+Frequencies GSM 850 / 900 / 1800 / 1900
+Handsfree Yes
+Voice dialling Yes
+Battery Lithium-ion
+Battery capacity 2300 mAh
+Standby time 633 hours
+Talk time 14 hours 36 minutes
+Accessories included - Manual
+- Charger
+Dimensions 139.7 x 71.1 x 8.6 mm (H x W x D)
+Weight 148 g
+Manufacturer’s guarantee 1 year
+{'Screen resolution ': '540 x 960p', 'Dimensions': '139.7 x 71.1 x 8.6 mm (H x W x D)', 'Battery': 'Lithium-ion', 'Weight': '148 g', 'NFC': 'Yes', 'Charging interface': 'Micro-USB', 'Flash': 'Yes', 'Standby time': '633 hours', 'Accessories included': '- Manual\n- Charger', 'Voice recording': 'Yes', 'Manufacturer’s guarantee': '1 year', 'Talk time': '14 hours 36 minutes', 'Frequencies': 'GSM 850 / 900 / 1800 / 1900', '4G ready': 'Yes', 'Voice dialling': 'Yes', 'Internal memory': '8 GB', 'Touchscreen': 'Yes', 'Processor': 'Qualcomm MSM8926 (1.2 GHz, quad-core)', 'Type': 'SIM-free smartphone', 'GPS': 'Yes', 'Camera features': '- Face & smile detection\n- Touch focus & capture\n- Image stabilisation\n- Scene recognition\n- Smile Shutter\n- Red-eye reduction\n- HDR', 'Video recording': 'Yes', 'Operating system': 'Android 4.3 (Jelly Bean)', 'RAM': '1 GB', 'Battery capacity': '2300 mAh', 'Camera': '- 8 MP rear-facing\n- 0.3 MP front-facing', 'Memory card supported': 'microSD (up to 32 GB)', 'Connectivity features': '- Sony Smart Connect\n- DLNA certified\n- Screen mirroring', 'Colour': 'Black', 'Zoom': '4 x digital zoom', 'MP3 player': 'Yes', 'Image sensor': 'Sony Exmor RS', 'Screen type': 'LED', 'Panoramic function': 'Yes', 'Number of colours': '16 million', 'Screen size': '4.8"', 'Video calling': 'Yes', 'Handsfree': 'Yes', 'Sound technology': '- Clear Audio+, Clear Bass, Clear Phase and Clear stereo\n- xLoud Experience', 'Video format': 'MP4', '3G ready': 'Yes', 'Radio': 'Yes', 'Bluetooth': 'Bluetooth 4.0', 'Video resolution': 'Full HD 1920 x 1080p', 'WiFi': 'Yes', 'Infrared': 'Yes'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/currys_celular/115152.html
+Type SIM-free smartphone
+Operating system Windows Phone 8.1
+Processor Qualcomm Snapdragon 400 (1.2 GHz, quad core)
+Colour Orange
+Internal memory 8 GB
+Memory card supported microSD (up to 128 GB)
+RAM 512 MB
+Charging interface Micro-USB
+WiFi Yes
+3G ready Yes
+Bluetooth Yes
+GPS Yes
+Connectivity features DLNA
+Screen size 4.5"
+Screen resolution  480 x 854p
+Screen type IPS LCD
+Touchscreen Yes
+Camera 5 MP
+Video recording Yes
+Video resolution 720p HD
+MP3 player Yes
+Radio Yes
+Handsfree Yes
+Voice dialling Yes
+Other features - Works in USA
+- Voice recognition
+Dimensions 129.5 x 66.7 x 9.2 mm  (H x W x D)
+Weight 134 g
+{'Operating system': 'Windows Phone 8.1', 'RAM': '512 MB', 'Screen resolution ': '480 x 854p', 'Dimensions': '129.5 x 66.7 x 9.2 mm  (H x W x D)', 'Charging interface': 'Micro-USB', 'Camera': '5 MP', 'Memory card supported': 'microSD (up to 128 GB)', 'Voice dialling': 'Yes', 'Connectivity features': 'DLNA', 'Weight': '134 g', 'Colour': 'Orange', 'MP3 player': 'Yes', 'Screen type': 'IPS LCD', 'Internal memory': '8 GB', 'Screen size': '4.5"', 'Handsfree': 'Yes', '3G ready': 'Yes', 'Radio': 'Yes', 'Bluetooth': 'Yes', 'Video resolution': '720p HD', 'WiFi': 'Yes', 'Other features': '- Works in USA\n- Voice recognition', 'Video recording': 'Yes', 'Type': 'SIM-free smartphone', 'GPS': 'Yes', 'Touchscreen': 'Yes', 'Processor': 'Qualcomm Snapdragon 400 (1.2 GHz, quad core)'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/currys_celular/116103.html
+Type SIM-free smartphone
+Operating system iOS 8
+Processor - Apple A8 processor
+- M8 motion coprocessor
+Sensor - Touch ID
+- Barometer
+- Three-axis gyro
+- Accelerometer
+- Proximity 
+- Ambient light
+Colour Space grey
+Internal memory 16 GB
+Memory card supported No
+Charging interface Lightning
+WiFi Yes
+4G ready Yes
+3G ready Yes
+Bluetooth Bluetooth 4.0
+NFC Yes
+GPS Yes
+Connectivity features - AirPlay Mirroring
+- AirDrop
+- iCloud Drive
+Screen size 4.7"
+Screen resolution  - 1334 x 750
+- 326 ppi
+Screen type Retina Display
+Touchscreen Yes
+Screen features Fingerprint-resistant coating
+Camera - 8 MP rear-facing 
+- 1.2 MP front-facing
+Flash Yes
+Panoramic function Yes
+Camera features - Autofocus with Focus Pixels
+- Sapphire crystal lens cover
+- Auto image stabilisation
+- Auto HDR
+- Face detection
+- Exposure control
+- Burst mode
+- Touch focus
+Video recording Yes
+Video resolution Full HD 1920 x 1080p
+Video calling Yes
+Video features - Slo-mo video (120 fps or 240 fps)
+- Time-lapse video
+- Cinematic video stabilisation
+- Continuous autofocus video
+- Face detection
+- 3x zoom
+MP3 player Yes
+Handsfree Yes - Siri
+Voice dialling Yes - Siri
+Other features Fingerprint sensor
+Battery Lithium-ion
+Standby time 250 hours
+Talk time 14 hours
+Accessories included - Apple EarPods with storage case
+- Lightning to USB Cable
+- USB Power Adapter
+- Documentation
+Dimensions 138.1 x 67 x 6.9 mm (H x W x D)
+Weight 129 g
+Manufacturer’s guarantee 1 year
+{'Operating system': 'iOS 8', 'Screen resolution ': '- 1334 x 750\n- 326 ppi', 'Dimensions': '138.1 x 67 x 6.9 mm (H x W x D)', 'Charging interface': 'Lightning', 'Screen features': 'Fingerprint-resistant coating', 'Standby time': '250 hours', 'Memory card supported': 'No', 'Battery': 'Lithium-ion', 'Voice dialling': 'Yes - Siri', 'Connectivity features': '- AirPlay Mirroring\n- AirDrop\n- iCloud Drive', 'Video features': '- Slo-mo video (120 fps or 240 fps)\n- Time-lapse video\n- Cinematic video stabilisation\n- Continuous autofocus video\n- Face detection\n- 3x zoom', 'NFC': 'Yes', 'Colour': 'Space grey', 'MP3 player': 'Yes', 'Manufacturer’s guarantee': '1 year', 'Flash': 'Yes', 'Bluetooth': 'Bluetooth 4.0', 'Screen type': 'Retina Display', 'Internal memory': '16 GB', 'Talk time': '14 hours', 'Panoramic function': 'Yes', 'Camera features': '- Autofocus with Focus Pixels\n- Sapphire crystal lens cover\n- Auto image stabilisation\n- Auto HDR\n- Face detection\n- Exposure control\n- Burst mode\n- Touch focus', 'Screen size': '4.7"', 'Video calling': 'Yes', 'Handsfree': 'Yes - Siri', 'Weight': '129 g', '4G ready': 'Yes', '3G ready': 'Yes', 'Sensor': '- Touch ID\n- Barometer\n- Three-axis gyro\n- Accelerometer\n- Proximity \n- Ambient light', 'Video resolution': 'Full HD 1920 x 1080p', 'WiFi': 'Yes', 'Other features': 'Fingerprint sensor', 'Processor': '- Apple A8 processor\n- M8 motion coprocessor', 'Type': 'SIM-free smartphone', 'GPS': 'Yes', 'Accessories included': '- Apple EarPods with storage case\n- Lightning to USB Cable\n- USB Power Adapter\n- Documentation', 'Touchscreen': 'Yes', 'Video recording': 'Yes', 'Camera': '- 8 MP rear-facing \n- 1.2 MP front-facing'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/currys_celular/116104.html
+Type SIM-free smartphone
+Operating system iOS 8
+Processor - Apple A8 processor
+- M8 motion coprocessor
+Sensor - Touch ID
+- Barometer
+- Three-axis gyro
+- Accelerometer
+- Proximity 
+- Ambient light
+Colour Silver
+Internal memory 16 GB
+Memory card supported No
+Charging interface Lightning
+WiFi Yes
+4G ready Yes
+3G ready Yes
+Bluetooth Bluetooth 4.0
+NFC Yes
+GPS Yes
+Connectivity features - AirPlay Mirroring
+- AirDrop
+- iCloud Drive
+Screen size 4.7"
+Screen resolution  - 1334 x 750
+- 326 ppi
+Screen type Retina Display
+Touchscreen Yes
+Screen features Fingerprint-resistant coating
+Camera - 8 MP rear-facing 
+- 1.2 MP front-facing
+Flash Yes
+Panoramic function Yes
+Camera features - Autofocus with Focus Pixels
+- Sapphire crystal lens cover
+- Auto image stabilisation
+- Auto HDR
+- Face detection
+- Exposure control
+- Burst mode
+- Touch focus
+Video recording Yes
+Video resolution Full HD 1920 x 1080p
+Video calling Yes
+Video features - Slo-mo video (120 fps or 240 fps)
+- Time-lapse video
+- Cinematic video stabilisation
+- Continuous autofocus video
+- Face detection
+- 3x zoom
+MP3 player Yes
+Handsfree Yes - Siri
+Voice dialling Yes - Siri
+Other features Fingerprint sensor
+Battery Lithium-ion
+Standby time 250 hours
+Talk time 14 hours
+Accessories included - Apple EarPods with storage case
+- Lightning to USB Cable
+- USB Power Adapter
+- Documentation
+Dimensions 138.1 x 67 x 6.9 mm (H x W x D)
+Weight 129 g
+Manufacturer’s guarantee 1 year
+{'Operating system': 'iOS 8', 'Screen resolution ': '- 1334 x 750\n- 326 ppi', 'Dimensions': '138.1 x 67 x 6.9 mm (H x W x D)', 'Charging interface': 'Lightning', 'Screen features': 'Fingerprint-resistant coating', 'Standby time': '250 hours', 'Memory card supported': 'No', 'Battery': 'Lithium-ion', 'Voice dialling': 'Yes - Siri', 'Connectivity features': '- AirPlay Mirroring\n- AirDrop\n- iCloud Drive', 'Video features': '- Slo-mo video (120 fps or 240 fps)\n- Time-lapse video\n- Cinematic video stabilisation\n- Continuous autofocus video\n- Face detection\n- 3x zoom', 'NFC': 'Yes', 'Colour': 'Silver', 'MP3 player': 'Yes', 'Manufacturer’s guarantee': '1 year', 'Flash': 'Yes', 'Bluetooth': 'Bluetooth 4.0', 'Screen type': 'Retina Display', 'Internal memory': '16 GB', 'Talk time': '14 hours', 'Panoramic function': 'Yes', 'Camera features': '- Autofocus with Focus Pixels\n- Sapphire crystal lens cover\n- Auto image stabilisation\n- Auto HDR\n- Face detection\n- Exposure control\n- Burst mode\n- Touch focus', 'Screen size': '4.7"', 'Video calling': 'Yes', 'Handsfree': 'Yes - Siri', 'Weight': '129 g', '4G ready': 'Yes', '3G ready': 'Yes', 'Sensor': '- Touch ID\n- Barometer\n- Three-axis gyro\n- Accelerometer\n- Proximity \n- Ambient light', 'Video resolution': 'Full HD 1920 x 1080p', 'WiFi': 'Yes', 'Other features': 'Fingerprint sensor', 'Processor': '- Apple A8 processor\n- M8 motion coprocessor', 'Type': 'SIM-free smartphone', 'GPS': 'Yes', 'Accessories included': '- Apple EarPods with storage case\n- Lightning to USB Cable\n- USB Power Adapter\n- Documentation', 'Touchscreen': 'Yes', 'Video recording': 'Yes', 'Camera': '- 8 MP rear-facing \n- 1.2 MP front-facing'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/currys_celular/116108.html
+Type SIM-free smartphone
+Operating system iOS 8
+Processor - Apple A8 processor
+- M8 motion coprocessor
+Sensor - Touch ID
+- Barometer
+- Three-axis gyro
+- Accelerometer
+- Proximity 
+- Ambient light
+Colour Space grey
+Internal memory 64 GB
+Memory card supported No
+Charging interface Lightning
+WiFi Yes
+4G ready Yes
+3G ready Yes
+Bluetooth Bluetooth 4.0
+NFC Yes
+GPS Yes
+Connectivity features - AirPlay Mirroring
+- AirDrop
+- iCloud Drive
+Screen size 4.7"
+Screen resolution  - 1334 x 750
+- 326 ppi
+Screen type Retina Display
+Touchscreen Yes
+Screen features Fingerprint-resistant coating
+Camera - 8 MP rear-facing 
+- 1.2 MP front-facing
+Flash Yes
+Panoramic function Yes
+Camera features - Autofocus with Focus Pixels
+- Sapphire crystal lens cover
+- Auto image stabilisation
+- Auto HDR
+- Face detection
+- Exposure control
+- Burst mode
+- Touch focus
+Video recording Yes
+Video resolution Full HD 1920 x 1080p
+Video calling Yes
+Video features - Slo-mo video (120 fps or 240 fps)
+- Time-lapse video
+- Cinematic video stabilisation
+- Continuous autofocus video
+- Face detection
+- 3x zoom
+MP3 player Yes
+Handsfree Yes - Siri
+Voice dialling Yes - Siri
+Other features Fingerprint sensor
+Battery Lithium-ion
+Standby time 250 hours
+Talk time 14 hours
+Accessories included - Apple EarPods with storage case
+- Lightning to USB Cable
+- USB Power Adapter
+- Documentation
+Dimensions 138.1 x 67 x 6.9 mm (H x W x D)
+Weight 129 g
+Manufacturer’s guarantee 1 year
+{'Operating system': 'iOS 8', 'Screen resolution ': '- 1334 x 750\n- 326 ppi', 'Dimensions': '138.1 x 67 x 6.9 mm (H x W x D)', 'Charging interface': 'Lightning', 'Screen features': 'Fingerprint-resistant coating', 'Standby time': '250 hours', 'Memory card supported': 'No', 'Battery': 'Lithium-ion', 'Voice dialling': 'Yes - Siri', 'Connectivity features': '- AirPlay Mirroring\n- AirDrop\n- iCloud Drive', 'Video features': '- Slo-mo video (120 fps or 240 fps)\n- Time-lapse video\n- Cinematic video stabilisation\n- Continuous autofocus video\n- Face detection\n- 3x zoom', 'NFC': 'Yes', 'Colour': 'Space grey', 'MP3 player': 'Yes', 'Manufacturer’s guarantee': '1 year', 'Flash': 'Yes', 'Bluetooth': 'Bluetooth 4.0', 'Screen type': 'Retina Display', 'Internal memory': '64 GB', 'Talk time': '14 hours', 'Panoramic function': 'Yes', 'Camera features': '- Autofocus with Focus Pixels\n- Sapphire crystal lens cover\n- Auto image stabilisation\n- Auto HDR\n- Face detection\n- Exposure control\n- Burst mode\n- Touch focus', 'Screen size': '4.7"', 'Video calling': 'Yes', 'Handsfree': 'Yes - Siri', 'Weight': '129 g', '4G ready': 'Yes', '3G ready': 'Yes', 'Sensor': '- Touch ID\n- Barometer\n- Three-axis gyro\n- Accelerometer\n- Proximity \n- Ambient light', 'Video resolution': 'Full HD 1920 x 1080p', 'WiFi': 'Yes', 'Other features': 'Fingerprint sensor', 'Processor': '- Apple A8 processor\n- M8 motion coprocessor', 'Type': 'SIM-free smartphone', 'GPS': 'Yes', 'Accessories included': '- Apple EarPods with storage case\n- Lightning to USB Cable\n- USB Power Adapter\n- Documentation', 'Touchscreen': 'Yes', 'Video recording': 'Yes', 'Camera': '- 8 MP rear-facing \n- 1.2 MP front-facing'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/currys_celular/116111.html
+Type SIM-free smartphone
+Operating system iOS 8
+Processor - Apple A8 processor
+- M8 motion coprocessor
+Sensor - Touch ID
+- Barometer
+- Three-axis gyro
+- Accelerometer
+- Proximity 
+- Ambient light
+Colour Gold
+Internal memory 64 GB
+Memory card supported No
+Charging interface Lightning
+WiFi Yes
+4G ready Yes
+3G ready Yes
+Bluetooth Bluetooth 4.0
+NFC Yes
+GPS Yes
+Connectivity features - AirPlay Mirroring
+- AirDrop
+- iCloud Drive
+Screen size 4.7"
+Screen resolution  - 1334 x 750
+- 326 ppi
+Screen type Retina Display
+Touchscreen Yes
+Screen features Fingerprint-resistant coating
+Camera - 8 MP rear-facing 
+- 1.2 MP front-facing
+Flash Yes
+Panoramic function Yes
+Camera features - Autofocus with Focus Pixels
+- Sapphire crystal lens cover
+- Auto image stabilisation
+- Auto HDR
+- Face detection
+- Exposure control
+- Burst mode
+- Touch focus
+Video recording Yes
+Video resolution Full HD 1920 x 1080p
+Video calling Yes
+Video features - Slo-mo video (120 fps or 240 fps)
+- Time-lapse video
+- Cinematic video stabilisation
+- Continuous autofocus video
+- Face detection
+- 3x zoom
+MP3 player Yes
+Handsfree Yes - Siri
+Voice dialling Yes - Siri
+Other features Fingerprint sensor
+Battery Lithium-ion
+Standby time 250 hours
+Talk time 14 hours
+Accessories included - Apple EarPods with storage case
+- Lightning to USB Cable
+- USB Power Adapter
+- Documentation
+Dimensions 138.1 x 67 x 6.9 mm (H x W x D)
+Weight 129 g
+Manufacturer’s guarantee 1 year
+{'Operating system': 'iOS 8', 'Screen resolution ': '- 1334 x 750\n- 326 ppi', 'Dimensions': '138.1 x 67 x 6.9 mm (H x W x D)', 'Charging interface': 'Lightning', 'Screen features': 'Fingerprint-resistant coating', 'Standby time': '250 hours', 'Memory card supported': 'No', 'Battery': 'Lithium-ion', 'Voice dialling': 'Yes - Siri', 'Connectivity features': '- AirPlay Mirroring\n- AirDrop\n- iCloud Drive', 'Video features': '- Slo-mo video (120 fps or 240 fps)\n- Time-lapse video\n- Cinematic video stabilisation\n- Continuous autofocus video\n- Face detection\n- 3x zoom', 'NFC': 'Yes', 'Colour': 'Gold', 'MP3 player': 'Yes', 'Manufacturer’s guarantee': '1 year', 'Flash': 'Yes', 'Bluetooth': 'Bluetooth 4.0', 'Screen type': 'Retina Display', 'Internal memory': '64 GB', 'Talk time': '14 hours', 'Panoramic function': 'Yes', 'Camera features': '- Autofocus with Focus Pixels\n- Sapphire crystal lens cover\n- Auto image stabilisation\n- Auto HDR\n- Face detection\n- Exposure control\n- Burst mode\n- Touch focus', 'Screen size': '4.7"', 'Video calling': 'Yes', 'Handsfree': 'Yes - Siri', 'Weight': '129 g', '4G ready': 'Yes', '3G ready': 'Yes', 'Sensor': '- Touch ID\n- Barometer\n- Three-axis gyro\n- Accelerometer\n- Proximity \n- Ambient light', 'Video resolution': 'Full HD 1920 x 1080p', 'WiFi': 'Yes', 'Other features': 'Fingerprint sensor', 'Processor': '- Apple A8 processor\n- M8 motion coprocessor', 'Type': 'SIM-free smartphone', 'GPS': 'Yes', 'Accessories included': '- Apple EarPods with storage case\n- Lightning to USB Cable\n- USB Power Adapter\n- Documentation', 'Touchscreen': 'Yes', 'Video recording': 'Yes', 'Camera': '- 8 MP rear-facing \n- 1.2 MP front-facing'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/currys_celular/116506.html
+Type SIM-free smartphone
+Operating system Android 4.3 (JellyBean)
+Processor Intel® Atom™ Z2560 (1.6 GHz multi-core)
+Sensor - E-Compass
+- G-Sensor
+- Hall Sensor
+- Light Sensor
+- Proximity Sensor
+Colour Black
+Internal memory 8 GB
+Memory card supported MicroSD (up to 64 GB)
+RAM 2 GB
+Charging interface Micro-USB
+WiFi Yes
+4G ready No
+3G ready Yes
+Bluetooth Bluetooth 4.0
+GPS Yes
+Infrared No
+Screen size 5"
+Screen resolution  1280 x 720p
+Screen type LED
+Touchscreen Yes
+Number of colours 16 million
+Screen features Corning Gorilla Glass 3
+Camera - 8 MP rear-facing
+- 2 MP front-facing
+Image sensor CMOS
+Maximum resolution 3264 x 2468p
+Flash Yes
+Zoom x4
+Panoramic function Yes
+Camera features - PixelMaster
+- Image stabilization technology
+- Auto focus
+Video recording Yes
+Video resolution Full HD 1920 x 1080p
+Video format MPEG 4
+Video calling Yes
+MP3 player Yes
+Radio FM radio (via app)
+Speakers Yes
+Sound technology SonicMaster
+Voice recording Yes
+Frequencies Dual-band
+Handsfree Yes
+Voice dialling No
+Battery Lithium-polymer
+Battery capacity 2030 mAh
+Standby time 334 hours
+Talk time 18.5 hours
+Pre-installed apps ASUS Apps
+Accessories included - Power adapter
+- USB Cable 
+- Quick start guide
+Dimensions 148.2 x 72.8 x 10.3 mm (H x W x D)
+Weight 145 g
+Manufacturer’s guarantee 1 year
+{'Screen resolution ': '1280 x 720p', 'Dimensions': '148.2 x 72.8 x 10.3 mm (H x W x D)', 'Speakers': 'Yes', 'Battery': 'Lithium-polymer', 'Weight': '145 g', 'Charging interface': 'Micro-USB', 'Flash': 'Yes', 'Sensor': '- E-Compass\n- G-Sensor\n- Hall Sensor\n- Light Sensor\n- Proximity Sensor', 'Standby time': '334 hours', 'Internal memory': '8 GB', 'Accessories included': '- Power adapter\n- USB Cable \n- Quick start guide', 'Voice recording': 'Yes', 'Manufacturer’s guarantee': '1 year', 'Talk time': '18.5 hours', '4G ready': 'No', 'Voice dialling': 'No', 'Frequencies': 'Dual-band', 'Pre-installed apps': 'ASUS Apps', 'Touchscreen': 'Yes', 'Processor': 'Intel® Atom™ Z2560 (1.6 GHz multi-core)', 'Type': 'SIM-free smartphone', 'GPS': 'Yes', 'Camera features': '- PixelMaster\n- Image stabilization technology\n- Auto focus', 'Video recording': 'Yes', 'Operating system': 'Android 4.3 (JellyBean)', 'RAM': '2 GB', 'Battery capacity': '2030 mAh', 'Camera': '- 8 MP rear-facing\n- 2 MP front-facing', 'Screen features': 'Corning Gorilla Glass 3', 'Memory card supported': 'MicroSD (up to 64 GB)', 'Colour': 'Black', 'Zoom': 'x4', 'MP3 player': 'Yes', 'Image sensor': 'CMOS', 'Screen type': 'LED', 'Panoramic function': 'Yes', 'Number of colours': '16 million', 'Screen size': '5"', 'Video calling': 'Yes', 'Handsfree': 'Yes', 'Maximum resolution': '3264 x 2468p', 'Sound technology': 'SonicMaster', 'Video format': 'MPEG 4', '3G ready': 'Yes', 'Radio': 'FM radio (via app)', 'Bluetooth': 'Bluetooth 4.0', 'Video resolution': 'Full HD 1920 x 1080p', 'WiFi': 'Yes', 'Infrared': 'No'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/currys_celular/116507.html
+Type SIM-free smartphone
+Operating system Android 4.3 (Jelly Bean)
+Processor 2 x 2: Intel® Atom™ Multi-Core Z2580 Processor 2.0 GHz with Intel Hyper-Threading Technology
+Sensor - Accelerator
+- Gyro
+- E-Compass
+- Proximity sensor
+- Light sensor
+- Hall Sensor
+Colour Black
+Internal memory 16 GB
+Memory card supported microSD (up to 64 GB)
+RAM 2 GB
+Charging interface Micro-USB
+WiFi Yes
+4G ready No
+3G ready Yes
+Bluetooth Yes
+GPS Yes
+Infrared No
+Screen size 6"
+Screen resolution  1280 x 720p
+Screen type LED
+Touchscreen Yes
+Number of colours 16 million
+Screen features Corning Gorilla Glass 3
+Camera - 13 MP rear-facing
+- 2 MP front-facing
+Maximum resolution 4128 x 3096p
+Flash Yes
+Zoom 4 x
+Panoramic function Yes
+Camera features - PixelMaster
+- Image stabilization technology
+- Auto focus
+Video recording Yes
+Video resolution Full HD 1920 x 1080p
+Video format - MPEG4
+- H.264
+Video calling Yes
+Video features 30 fps
+MP3 player Yes
+Radio Yes
+Speakers Yes
+Sound technology SonicMaster
+Voice recording Yes
+Frequencies Dual-band
+Handsfree Yes
+Voice dialling No
+Battery Lithium-polymer
+Battery capacity 3300 mAh
+Standby time Up to 398 hours
+Talk time 28 hours
+Accessories included - Power adapter
+- USB cable
+- Quick start guide
+Dimensions 166.9 x 84.3 x 9.9 mm (H x W x D)
+Weight 196 g
+Manufacturer’s guarantee 1 year
+{'Screen resolution ': '1280 x 720p', 'Dimensions': '166.9 x 84.3 x 9.9 mm (H x W x D)', 'Speakers': 'Yes', 'Battery': 'Lithium-polymer', 'Weight': '196 g', 'Charging interface': 'Micro-USB', 'Video features': '30 fps', 'Sensor': '- Accelerator\n- Gyro\n- E-Compass\n- Proximity sensor\n- Light sensor\n- Hall Sensor', 'Standby time': 'Up to 398 hours', 'Internal memory': '16 GB', 'Accessories included': '- Power adapter\n- USB cable\n- Quick start guide', 'Voice recording': 'Yes', 'Manufacturer’s guarantee': '1 year', 'Talk time': '28 hours', '4G ready': 'No', 'Voice dialling': 'No', 'Frequencies': 'Dual-band', 'Touchscreen': 'Yes', 'Processor': '2 x 2: Intel® Atom™ Multi-Core Z2580 Processor 2.0 GHz with Intel Hyper-Threading Technology', 'Type': 'SIM-free smartphone', 'GPS': 'Yes', 'Camera features': '- PixelMaster\n- Image stabilization technology\n- Auto focus', 'Video recording': 'Yes', 'Operating system': 'Android 4.3 (Jelly Bean)', 'RAM': '2 GB', 'Battery capacity': '3300 mAh', 'Camera': '- 13 MP rear-facing\n- 2 MP front-facing', 'Screen features': 'Corning Gorilla Glass 3', 'Memory card supported': 'microSD (up to 64 GB)', 'Colour': 'Black', 'Zoom': '4 x', 'MP3 player': 'Yes', 'Screen type': 'LED', 'Panoramic function': 'Yes', 'Number of colours': '16 million', 'Screen size': '6"', 'Video calling': 'Yes', 'Handsfree': 'Yes', 'Maximum resolution': '4128 x 3096p', 'Sound technology': 'SonicMaster', 'Flash': 'Yes', '3G ready': 'Yes', 'Radio': 'Yes', 'Bluetooth': 'Yes', 'Video resolution': 'Full HD 1920 x 1080p', 'WiFi': 'Yes', 'Infrared': 'No', 'Video format': '- MPEG4\n- H.264'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/currys_celular/116509.html
+Type SIM-free smartphone
+Operating system Android 4.1.2 (Jelly Bean)
+Processor Adreno 200 (1 GHz, single-core)
+Sensor - Accelerometer
+- Compass
+- Proximity
+Colour Black
+Internal memory 4 GB
+Memory card supported No
+RAM 512 MB RAM
+Charging interface Micro-USB
+WiFi Yes
+4G ready No
+3G ready Yes
+Bluetooth Yes
+GPS Yes
+Infrared No
+Screen size 3.2"
+Screen resolution  240 x 320p
+Screen type LCD
+Touchscreen Yes
+Camera 3 MP front-facing
+Maximum resolution 2048 x 1536p
+Flash Yes
+Zoom No
+Video recording Yes
+Video resolution 480 p at 30 fps
+Video calling No
+MP3 player Yes
+Radio FM radio
+Speakers Yes
+Frequencies GSM 850/900/1800/1900/HSDPA 900/2100
+Handsfree No
+Voice dialling No
+Battery Lithium-polymer
+Battery capacity 1540 mAh
+Standby time 700 hours
+Talk time 10 hours
+Accessories included - Charger
+- Manual
+Dimensions 102.6 x 61.1 x 11.9 mm (H x W x D)
+Weight 107g
+Manufacturer’s guarantee 1 year
+{'Operating system': 'Android 4.1.2 (Jelly Bean)', 'RAM': '512 MB RAM', 'Screen resolution ': '240 x 320p', 'Dimensions': '102.6 x 61.1 x 11.9 mm (H x W x D)', 'Charging interface': 'Micro-USB', 'Speakers': 'Yes', 'Zoom': 'No', 'Standby time': '700 hours', 'Memory card supported': 'No', 'Battery': 'Lithium-polymer', 'Voice dialling': 'No', 'Weight': '107g', 'Colour': 'Black', 'GPS': 'Yes', 'MP3 player': 'Yes', 'Manufacturer’s guarantee': '1 year', 'Flash': 'Yes', 'Bluetooth': 'Yes', 'Screen type': 'LCD', 'Internal memory': '4 GB', 'Talk time': '10 hours', 'Screen size': '3.2"', 'Video calling': 'No', 'Handsfree': 'No', 'Maximum resolution': '2048 x 1536p', 'Frequencies': 'GSM 850/900/1800/1900/HSDPA 900/2100', '4G ready': 'No', '3G ready': 'Yes', 'Radio': 'FM radio', 'Sensor': '- Accelerometer\n- Compass\n- Proximity', 'Video resolution': '480 p at 30 fps', 'WiFi': 'Yes', 'Accessories included': '- Charger\n- Manual', 'Processor': 'Adreno 200 (1 GHz, single-core)', 'Type': 'SIM-free smartphone', 'Infrared': 'No', 'Battery capacity': '1540 mAh', 'Touchscreen': 'Yes', 'Video recording': 'Yes', 'Camera': '3 MP front-facing'}
+finalizou

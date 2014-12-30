@@ -1,0 +1,389 @@
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/37021734.html
+Origem:  NACIONAL
+Desenvolvedor:  EA - WARNER GAMES
+Idiomas:  PORTUGUÊS
+Plataforma:  PS3
+Ano de Produção:  2014
+Código de Barras:  7892110198042
+Classificação Indicativa:  Livre
+Contêm Cenas de Violência:  Não
+Contêm Cenas de Nudez:  Não
+Contêm Cenas de Uso de Drogas:  Não
+Altura:  17.30 cm
+Largura:  13.50 cm
+Comprimento:  1.50 cm
+Quantidade de Discos:  1
+Número de Jogadores:  22
+Idioma do Manual:  PORTUGUÊS
+Compatível 3D:  Não
+Itens Inclusos:  Disco, manual e folheto
+Peso:  00.13 kg
+{'Idiomas:\xa0': 'PORTUGUÊS', 'Plataforma:\xa0': 'PS3', 'Código de Barras:\xa0': '7892110198042', 'Itens Inclusos:\xa0': 'Disco, manual e folheto', 'Altura:': ' 17.30 cm', 'Ano de Produção:\xa0': '2014', 'Origem:\xa0': 'NACIONAL', 'Comprimento:': ' 1.50 cm', 'Classificação Indicativa:': ' Livre', 'Idioma do Manual:\xa0': 'PORTUGUÊS', 'Contêm Cenas de Nudez:\xa0': 'Não', 'Peso:': ' 00.13 kg', 'Desenvolvedor:\xa0': 'EA - WARNER GAMES', 'Número de Jogadores:\xa0': '22', 'Contêm Cenas de Violência:\xa0': 'Não', 'Quantidade de Discos:\xa0': '1', 'Compatível 3D:\xa0': 'Não', 'Contêm Cenas de Uso de Drogas:\xa0': 'Não', 'Largura:': ' 13.50 cm'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/37021977.html
+Origem:  NACIONAL
+Desenvolvedor:  NINTENDO - BR
+Idioma Original:  INGLÊS - DOLBY DIGITAL
+Plataforma:  WIIU
+Ano de Produção:  2014
+Código de Barras:  045496903435
+Classificação Indicativa:  10 anos
+Contêm Cenas de Violência:  Sim
+Contêm Cenas de Nudez:  Não
+Contêm Cenas de Uso de Drogas:  Não
+Altura:  19.20 cm
+Largura:  13.50 cm
+Comprimento:  1.50 cm
+Quantidade de Discos:  1
+Número de Jogadores:  0
+Idioma do Manual:  INGLÊS
+Compatível 3D:  Não
+Peso:  00.13 kg
+{'Plataforma:\xa0': 'WIIU', 'Altura:': ' 19.20 cm', 'Código de Barras:\xa0': '045496903435', 'Comprimento:': ' 1.50 cm', 'Classificação Indicativa:': ' 10 anos', 'Origem:\xa0': 'NACIONAL', 'Ano de Produção:\xa0': '2014', 'Quantidade de Discos:\xa0': '1', 'Idioma do Manual:\xa0': 'INGLÊS', 'Contêm Cenas de Nudez:\xa0': 'Não', 'Peso:': ' 00.13 kg', 'Desenvolvedor:\xa0': 'NINTENDO - BR', 'Número de Jogadores:\xa0': '0', 'Contêm Cenas de Violência:\xa0': 'Sim', 'Idioma Original:\xa0': 'INGLÊS\xa0-\xa0DOLBY DIGITAL', 'Compatível 3D:\xa0': 'Não', 'Contêm Cenas de Uso de Drogas:\xa0': 'Não', 'Largura:': ' 13.50 cm'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/37022098.html
+Título Original:  VALKYRIA CHRONICLES
+Origem:  NACIONAL
+Desenvolvedor:  SEGA - SONY GAMES
+Coleção:  FAVORITOS
+Plataforma:  PS3
+Ano de Produção:  2008
+País de Produção:  United States
+Código de Barras:  711719052814
+Classificação Indicativa:  12 anos
+Contêm Cenas de Violência:  Sim
+Contêm Cenas de Nudez:  Não
+Contêm Cenas de Uso de Drogas:  Não
+Altura:  19.00 cm
+Largura:  13.50 cm
+Comprimento:  3.00 cm
+Quantidade de Discos:  1
+Número de Jogadores:  2
+Espaço Requerido:  4 MB
+Compatível 3D:  Não
+Peso:  00.20 kg
+{'Título Original:\xa0': 'VALKYRIA CHRONICLES', 'Plataforma:\xa0': 'PS3', 'Código de Barras:\xa0': '711719052814', 'Altura:': ' 19.00 cm', 'Ano de Produção:\xa0': '2008', 'País de Produção:\xa0': 'United States', 'Origem:\xa0': 'NACIONAL', 'Comprimento:': ' 3.00 cm', 'Classificação Indicativa:': ' 12 anos', 'Contêm Cenas de Nudez:\xa0': 'Não', 'Peso:': ' 00.20 kg', 'Desenvolvedor:\xa0': 'SEGA - SONY GAMES', 'Espaço Requerido:\xa0': '4 MB', 'Número de Jogadores:\xa0': '2', 'Contêm Cenas de Violência:\xa0': 'Sim', 'Quantidade de Discos:\xa0': '1', 'Compatível 3D:\xa0': 'Não', 'Contêm Cenas de Uso de Drogas:\xa0': 'Não', 'Largura:': ' 13.50 cm', 'Coleção:\xa0': 'FAVORITOS'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/37022259.html
+Origem:  NACIONAL
+Desenvolvedor:  NINTENDO - BR
+Idioma Original:  INGLÊS - STEREO 2.0
+Plataforma:  3DS
+Ano de Edição:  2014
+Ano de Produção:  2014
+País de Produção:  BRASIL
+Código de Barras:  045496742904
+Classificação Indicativa:  10 anos
+Contêm Cenas de Violência:  Sim
+Contêm Cenas de Nudez:  Não
+Contêm Cenas de Uso de Drogas:  Não
+Altura:  12,40 cm
+Largura:  13,80 cm
+Comprimento:  1,70 cm
+Quantidade de Discos:  1
+Número de Jogadores:  4
+Idioma do Manual:  INGLÊS
+Compatível 3D:  Não
+Peso:  00,13 kg
+{'Plataforma:\xa0': '3DS', 'Altura:': ' 12,40 cm', 'Código de Barras:\xa0': '045496742904', 'Comprimento:': ' 1,70 cm', 'País de Produção:\xa0': 'BRASIL', 'Origem:\xa0': 'NACIONAL', 'Ano de Produção:\xa0': '2014', 'Quantidade de Discos:\xa0': '1', 'Compatível 3D:\xa0': 'Não', 'Classificação Indicativa:': ' 10 anos', 'Contêm Cenas de Nudez:\xa0': 'Não', 'Ano de Edição:\xa0': '2014', 'Peso:': ' 00,13 kg', 'Desenvolvedor:\xa0': 'NINTENDO - BR', 'Número de Jogadores:\xa0': '4', 'Contêm Cenas de Violência:\xa0': 'Sim', 'Idioma Original:\xa0': 'INGLÊS\xa0-\xa0STEREO 2.0', 'Idioma do Manual:\xa0': 'INGLÊS', 'Contêm Cenas de Uso de Drogas:\xa0': 'Não', 'Largura:': ' 13,80 cm'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/37022271.html
+Origem:  NACIONAL
+Desenvolvedor:  UBISOFT
+Idioma Original:  PORTUGUÊS - DOLBY DIGITAL
+Idiomas:  PORTUGUÊS
+Plataforma:  PS4
+Ano de Produção:  2014
+País de Produção:  Brazil
+Código de Barras:  887256301378
+Classificação Indicativa:  18 anos
+Contêm Cenas de Violência:  Sim
+Contêm Cenas de Nudez:  Não
+Contêm Cenas de Uso de Drogas:  Não
+Altura:  17.30 cm
+Largura:  13.50 cm
+Comprimento:  1.50 cm
+Quantidade de Discos:  1
+Número de Jogadores:  4
+Idioma do Manual:  PORTUGUÊS
+Compatível 3D:  Não
+Peso:  00.13 kg
+{'Idiomas:\xa0': 'PORTUGUÊS', 'Plataforma:\xa0': 'PS4', 'Código de Barras:\xa0': '887256301378', 'Altura:': ' 17.30 cm', 'País de Produção:\xa0': 'Brazil', 'Origem:\xa0': 'NACIONAL', 'Comprimento:': ' 1.50 cm', 'Ano de Produção:\xa0': '2014', 'Quantidade de Discos:\xa0': '1', 'Compatível 3D:\xa0': 'Não', 'Classificação Indicativa:': ' 18 anos', 'Contêm Cenas de Nudez:\xa0': 'Não', 'Peso:': ' 00.13 kg', 'Desenvolvedor:\xa0': 'UBISOFT', 'Número de Jogadores:\xa0': '4', 'Contêm Cenas de Violência:\xa0': 'Sim', 'Idioma Original:\xa0': 'PORTUGUÊS\xa0-\xa0DOLBY DIGITAL', 'Idioma do Manual:\xa0': 'PORTUGUÊS', 'Contêm Cenas de Uso de Drogas:\xa0': 'Não', 'Largura:': ' 13.50 cm'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/37022277.html
+Origem:  NACIONAL
+Desenvolvedor:  UBISOFT
+Idioma Original:  PORTUGUÊS - DOLBY DIGITAL
+Idiomas:  PORTUGUÊS
+Plataforma:  PC
+Ano de Edição:  2014
+Ano de Produção:  2014
+Código de Barras:  887256000516
+Classificação Indicativa:  18 anos
+Contêm Cenas de Violência:  Sim
+Contêm Cenas de Nudez:  Não
+Contêm Cenas de Uso de Drogas:  Não
+Altura:  17.30 cm
+Largura:  13.50 cm
+Comprimento:  1.50 cm
+Quantidade de Discos:  0
+Número de Jogadores:  4
+Idioma do Manual:  PORTUGUÊS
+Compatível 3D:  Não
+Peso:  00.13 kg
+Faixa Etária:  a partir de 18 anos
+{'Idiomas:\xa0': 'PORTUGUÊS', 'Plataforma:\xa0': 'PC', 'Faixa Etária:\xa0': 'a partir de 18 anos', 'Código de Barras:\xa0': '887256000516', 'Altura:': ' 17.30 cm', 'Classificação Indicativa:': ' 18 anos', 'Origem:\xa0': 'NACIONAL', 'Comprimento:': ' 1.50 cm', 'Ano de Produção:\xa0': '2014', 'Quantidade de Discos:\xa0': '0', 'Idioma do Manual:\xa0': 'PORTUGUÊS', 'Contêm Cenas de Nudez:\xa0': 'Não', 'Ano de Edição:\xa0': '2014', 'Peso:': ' 00.13 kg', 'Desenvolvedor:\xa0': 'UBISOFT', 'Número de Jogadores:\xa0': '4', 'Contêm Cenas de Violência:\xa0': 'Sim', 'Idioma Original:\xa0': 'PORTUGUÊS\xa0-\xa0DOLBY DIGITAL', 'Compatível 3D:\xa0': 'Não', 'Contêm Cenas de Uso de Drogas:\xa0': 'Não', 'Largura:': ' 13.50 cm'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/37022283.html
+Origem:  NACIONAL
+Desenvolvedor:  UBISOFT
+Idioma Original:  PORTUGUÊS - DOLBY DIGITAL
+Idiomas:  PORTUGUÊS, PORTUGUÊS
+Plataforma:  PC
+Ano de Edição:  2014
+Ano de Produção:  2014
+Código de Barras:  887256000547
+Classificação Indicativa:  18 anos
+Contêm Cenas de Violência:  Sim
+Contêm Cenas de Nudez:  Sim
+Contêm Cenas de Uso de Drogas:  Sim
+Altura:  17,30 cm
+Largura:  13,50 cm
+Comprimento:  1,50 cm
+Quantidade de Discos:  0
+Número de Jogadores:  2
+Idioma do Manual:  PORTUGUÊS
+Compatível 3D:  Não
+Peso:  00,13 kg
+Faixa Etária:  a partir de 18 anos
+{'Idiomas:\xa0': 'PORTUGUÊS, PORTUGUÊS', 'Plataforma:\xa0': 'PC', 'Faixa Etária:\xa0': 'a partir de 18 anos', 'Código de Barras:\xa0': '887256000547', 'Altura:': ' 17,30 cm', 'Classificação Indicativa:': ' 18 anos', 'Origem:\xa0': 'NACIONAL', 'Comprimento:': ' 1,50 cm', 'Ano de Produção:\xa0': '2014', 'Quantidade de Discos:\xa0': '0', 'Idioma do Manual:\xa0': 'PORTUGUÊS', 'Contêm Cenas de Nudez:\xa0': 'Sim', 'Ano de Edição:\xa0': '2014', 'Peso:': ' 00,13 kg', 'Desenvolvedor:\xa0': 'UBISOFT', 'Número de Jogadores:\xa0': '2', 'Contêm Cenas de Violência:\xa0': 'Sim', 'Idioma Original:\xa0': 'PORTUGUÊS\xa0-\xa0DOLBY DIGITAL', 'Compatível 3D:\xa0': 'Não', 'Contêm Cenas de Uso de Drogas:\xa0': 'Sim', 'Largura:': ' 13,50 cm'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/37022442.html
+Origem:  NACIONAL
+Desenvolvedor:  UBISOFT
+Idioma Original:  PORTUGUÊS - DOLBY DIGITAL
+Idiomas:  PORTUGUÊS
+Plataforma:  WII
+Ano de Edição:  2014
+Ano de Produção:  2014
+País de Produção:  Brazil
+Código de Barras:  887256301194
+Classificação Indicativa:  Livre
+Contêm Cenas de Violência:  Não
+Contêm Cenas de Nudez:  Não
+Contêm Cenas de Uso de Drogas:  Não
+Altura:  19.20 cm
+Largura:  13.60 cm
+Comprimento:  1.50 cm
+Quantidade de Discos:  0
+Número de Jogadores:  0
+Idioma do Manual:  PORTUGUÊS
+Compatível 3D:  Não
+Peso:  00.13 kg
+{'Idiomas:\xa0': 'PORTUGUÊS', 'Plataforma:\xa0': 'WII', 'Código de Barras:\xa0': '887256301194', 'Altura:': ' 19.20 cm', 'País de Produção:\xa0': 'Brazil', 'Origem:\xa0': 'NACIONAL', 'Comprimento:': ' 1.50 cm', 'Ano de Produção:\xa0': '2014', 'Quantidade de Discos:\xa0': '0', 'Compatível 3D:\xa0': 'Não', 'Classificação Indicativa:': ' Livre', 'Contêm Cenas de Nudez:\xa0': 'Não', 'Ano de Edição:\xa0': '2014', 'Peso:': ' 00.13 kg', 'Desenvolvedor:\xa0': 'UBISOFT', 'Número de Jogadores:\xa0': '0', 'Contêm Cenas de Violência:\xa0': 'Não', 'Idioma Original:\xa0': 'PORTUGUÊS\xa0-\xa0DOLBY DIGITAL', 'Idioma do Manual:\xa0': 'PORTUGUÊS', 'Contêm Cenas de Uso de Drogas:\xa0': 'Não', 'Largura:': ' 13.60 cm'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/37022700.html
+Origem:  NACIONAL
+Desenvolvedor:  ACTIVISION - NEOPLAY
+Idioma Original:  PORTUGUÊS - DOLBY DIGITAL
+Idiomas:  PORTUGUÊS
+Idioma do Áudio:  INGLÊS - DOLBY DIGITAL
+Plataforma:  PS4
+Ano de Produção:  2014
+Código de Barras:  047875873209
+Classificação Indicativa:  18 anos
+Contêm Cenas de Violência:  Sim
+Contêm Cenas de Nudez:  Não
+Contêm Cenas de Uso de Drogas:  Não
+Altura:  19.00 cm
+Largura:  13.50 cm
+Comprimento:  1.50 cm
+Quantidade de Discos:  1
+Número de Jogadores:  18
+Espaço Requerido:  28 GB
+Idioma do Manual:  PORTUGUÊS
+Compatível 3D:  Não
+Itens Inclusos:  A Edicao Day Zero contem duas armas bonus - o "Fuzil de assalto AK-12G"e "Besta-B2", alem do Exoesqueleto de Bronze.
+Peso:  00.20 kg
+{'Plataforma:\xa0': 'PS4', 'Altura:': ' 19.00 cm', 'Itens Inclusos:\xa0': 'A Edicao Day Zero contem duas armas bonus - o "Fuzil de assalto AK-12G"e "Besta-B2", alem do Exoesqueleto de Bronze.', 'Número de Jogadores:\xa0': '18', 'Origem:\xa0': 'NACIONAL', 'Ano de Produção:\xa0': '2014', 'Contêm Cenas de Nudez:\xa0': 'Não', 'Peso:': ' 00.20 kg', 'Desenvolvedor:\xa0': 'ACTIVISION - NEOPLAY', 'Contêm Cenas de Violência:\xa0': 'Sim', 'Quantidade de Discos:\xa0': '1', 'Idioma do Áudio:\xa0': 'INGLÊS\xa0-\xa0DOLBY DIGITAL', 'Idiomas:\xa0': 'PORTUGUÊS', 'Código de Barras:\xa0': '047875873209', 'Comprimento:': ' 1.50 cm', 'Classificação Indicativa:': ' 18 anos', 'Idioma do Manual:\xa0': 'PORTUGUÊS', 'Espaço Requerido:\xa0': '28 GB', 'Idioma Original:\xa0': 'PORTUGUÊS\xa0-\xa0DOLBY DIGITAL', 'Compatível 3D:\xa0': 'Não', 'Contêm Cenas de Uso de Drogas:\xa0': 'Não', 'Largura:': ' 13.50 cm'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/37022706.html
+Origem:  NACIONAL
+Desenvolvedor:  CD PROJEKT RED
+Idioma Original:  PORTUGUÊS - DOLBY DIGITAL
+Idiomas:  PORTUGUÊS
+Plataforma:  PS4
+Ano de Edição:  2015
+Ano de Produção:  2015
+Código de Barras:  7898519232783
+Classificação Indicativa:  18 anos
+Contêm Cenas de Violência:  Sim
+Contêm Cenas de Nudez:  Sim
+Contêm Cenas de Uso de Drogas:  Não
+Altura:  17.30 cm
+Largura:  13.50 cm
+Comprimento:  1.50 cm
+Quantidade de Discos:  1
+Número de Jogadores:  0
+Compatível 3D:  Não
+Itens Inclusos:  Adesivos; Mapa do Jogo; Resumo da Historia; CD com a Trilha Sonora; Manual do Jogo.
+
+
+Peso:  00.13 kg
+{'Idiomas:\xa0': 'PORTUGUÊS', 'Plataforma:\xa0': 'PS4', 'Código de Barras:\xa0': '7898519232783', 'Itens Inclusos:\xa0': 'Adesivos; Mapa do Jogo; Resumo da Historia; CD com a Trilha Sonora; Manual do Jogo.\n\n', 'Altura:': ' 17.30 cm', 'Classificação Indicativa:': ' 18 anos', 'Origem:\xa0': 'NACIONAL', 'Comprimento:': ' 1.50 cm', 'Ano de Produção:\xa0': '2015', 'Quantidade de Discos:\xa0': '1', 'Contêm Cenas de Nudez:\xa0': 'Sim', 'Ano de Edição:\xa0': '2015', 'Peso:': ' 00.13 kg', 'Desenvolvedor:\xa0': 'CD PROJEKT RED', 'Número de Jogadores:\xa0': '0', 'Contêm Cenas de Violência:\xa0': 'Sim', 'Idioma Original:\xa0': 'PORTUGUÊS\xa0-\xa0DOLBY DIGITAL', 'Compatível 3D:\xa0': 'Não', 'Contêm Cenas de Uso de Drogas:\xa0': 'Não', 'Largura:': ' 13.50 cm'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/37022792.html
+Origem:  NACIONAL
+Desenvolvedor:  ROCKSTAR BR
+Idioma Original:  INGLÊS - DOLBY DIGITAL
+Idiomas:  PORTUGUÊS
+Plataforma:  PS4
+Ano de Produção:  2014
+Código de Barras:  710425474613
+Classificação Indicativa:  18 anos
+Contêm Cenas de Violência:  Sim
+Contêm Cenas de Nudez:  Sim
+Contêm Cenas de Uso de Drogas:  Sim
+Altura:  17.00 cm
+Largura:  13.50 cm
+Comprimento:  1.50 cm
+Quantidade de Discos:  1
+Número de Jogadores:  16
+Idioma do Manual:  INGLÊS
+Compatível 3D:  Não
+DLC Incluído:  Quem fizer a pre-venda do Grand Theft Auto V para PlayStation 4 ou Xbox One tera direito a um codigo para desbloquear $ 1.000.000 em dinheiro virtual no jogo, para usar tanto no modo história quanto no Grand Theft Auto Online (sao $ 500.000 para o modo historia e $ 500.000 para o GTA Online).
+Peso:  00.11 kg
+Faixa Etária:  a partir de 18 anos
+{'Idiomas:\xa0': 'PORTUGUÊS', 'Plataforma:\xa0': 'PS4', 'Faixa Etária:\xa0': 'a partir de 18 anos', 'Código de Barras:\xa0': '710425474613', 'DLC Incluído:\xa0': 'Quem fizer a pre-venda do Grand Theft Auto V para PlayStation 4 ou Xbox One tera direito a um codigo para desbloquear $ 1.000.000 em dinheiro virtual no jogo, para usar tanto no modo história quanto no Grand Theft Auto Online (sao $ 500.000 para o modo historia e $ 500.000 para o GTA Online).', 'Altura:': ' 17.00 cm', 'Classificação Indicativa:': ' 18 anos', 'Origem:\xa0': 'NACIONAL', 'Comprimento:': ' 1.50 cm', 'Ano de Produção:\xa0': '2014', 'Quantidade de Discos:\xa0': '1', 'Idioma do Manual:\xa0': 'INGLÊS', 'Contêm Cenas de Nudez:\xa0': 'Sim', 'Peso:': ' 00.11 kg', 'Desenvolvedor:\xa0': 'ROCKSTAR BR', 'Número de Jogadores:\xa0': '16', 'Contêm Cenas de Violência:\xa0': 'Sim', 'Idioma Original:\xa0': 'INGLÊS\xa0-\xa0DOLBY DIGITAL', 'Compatível 3D:\xa0': 'Não', 'Contêm Cenas de Uso de Drogas:\xa0': 'Sim', 'Largura:': ' 13.50 cm'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/37023358.html
+Título Original:  DRAGON AGE - INQUISITION
+Origem:  NACIONAL
+Desenvolvedor:  EA - WARNER GAMES
+Idioma Original:  INGLÊS - DOLBY DIGITAL 5.0
+Idiomas:  PORTUGUÊS
+Plataforma:  PS4
+Ano de Edição:  2014
+Ano de Produção:  2014
+País de Produção:  ESTADOS UNIDOS DA AMERICA
+Código de Barras:  7892110190435
+Classificação Indicativa:  18 anos
+Contêm Cenas de Violência:  Sim
+Contêm Cenas de Nudez:  Sim
+Contêm Cenas de Uso de Drogas:  Não
+Altura:  17,30 cm
+Largura:  13,50 cm
+Comprimento:  1,50 cm
+Quantidade de Discos:  1
+Número de Jogadores:  4
+Idioma do Manual:  INGLÊS
+Compatível 3D:  Não
+Itens Inclusos:   Discos, manual e folheto.
+ 
+Peso:  00,13 kg
+Faixa Etária:  a partir de 18 anos
+{'Compatível 3D:\xa0': 'Não', 'Idiomas:\xa0': 'PORTUGUÊS', 'Itens Inclusos:\xa0': ' Discos, manual e folheto.\n ', 'Altura:': ' 17,30 cm', 'Número de Jogadores:\xa0': '4', 'Origem:\xa0': 'NACIONAL', 'Ano de Produção:\xa0': '2014', 'Faixa Etária:\xa0': 'a partir de 18 anos', 'Contêm Cenas de Nudez:\xa0': 'Sim', 'Plataforma:\xa0': 'PS4', 'Peso:': ' 00,13 kg', 'Desenvolvedor:\xa0': 'EA - WARNER GAMES', 'Contêm Cenas de Violência:\xa0': 'Sim', 'Quantidade de Discos:\xa0': '1', 'Título Original:\xa0': 'DRAGON AGE - INQUISITION', 'Código de Barras:\xa0': '7892110190435', 'Comprimento:': ' 1,50 cm', 'País de Produção:\xa0': 'ESTADOS UNIDOS DA AMERICA', 'Classificação Indicativa:': ' 18 anos', 'Idioma do Manual:\xa0': 'INGLÊS', 'Ano de Edição:\xa0': '2014', 'Idioma Original:\xa0': 'INGLÊS\xa0-\xa0DOLBY DIGITAL 5.0', 'Contêm Cenas de Uso de Drogas:\xa0': 'Não', 'Largura:': ' 13,50 cm'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/37023361.html
+Título Original:  DRAGON AGE - INQUISITION
+Origem:  NACIONAL
+Desenvolvedor:  EA - WARNER GAMES
+Idioma Original:  INGLÊS - DOLBY DIGITAL
+Idiomas:  PORTUGUÊS
+Plataforma:  PC
+Ano de Produção:  2014
+País de Produção:  ESTADOS UNIDOS DA AMERICA
+Código de Barras:  7892110190442
+Classificação Indicativa:  18 anos
+Contêm Cenas de Violência:  Sim
+Contêm Cenas de Nudez:  Sim
+Contêm Cenas de Uso de Drogas:  Não
+Altura:  17,00 cm
+Largura:  13,50 cm
+Comprimento:  1,70 cm
+Quantidade de Discos:  1
+Número de Jogadores:  4
+Idioma do Manual:  PORTUGUÊS
+Compatível 3D:  Não
+Itens Inclusos:   Discos, manual e folheto. 
+Peso:  00,13 kg
+{'Compatível 3D:\xa0': 'Não', 'Idiomas:\xa0': 'PORTUGUÊS', 'Itens Inclusos:\xa0': ' Discos, manual e folheto. ', 'Altura:': ' 17,00 cm', 'Número de Jogadores:\xa0': '4', 'Origem:\xa0': 'NACIONAL', 'Ano de Produção:\xa0': '2014', 'Contêm Cenas de Nudez:\xa0': 'Sim', 'Plataforma:\xa0': 'PC', 'Peso:': ' 00,13 kg', 'Desenvolvedor:\xa0': 'EA - WARNER GAMES', 'Contêm Cenas de Violência:\xa0': 'Sim', 'Quantidade de Discos:\xa0': '1', 'Título Original:\xa0': 'DRAGON AGE - INQUISITION', 'Código de Barras:\xa0': '7892110190442', 'Comprimento:': ' 1,70 cm', 'País de Produção:\xa0': 'ESTADOS UNIDOS DA AMERICA', 'Classificação Indicativa:': ' 18 anos', 'Idioma do Manual:\xa0': 'PORTUGUÊS', 'Idioma Original:\xa0': 'INGLÊS\xa0-\xa0DOLBY DIGITAL', 'Contêm Cenas de Uso de Drogas:\xa0': 'Não', 'Largura:': ' 13,50 cm'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/42197908.html
+Origem:  NACIONAL
+Desenvolvedor:  SQUARE ENIX - BR
+Idioma Original:  INGLÊS - DOLBY DIGITAL
+Plataforma:  PS3
+Ano de Produção:  2014
+Código de Barras:  662248913704
+Classificação Indicativa:  12 anos
+Contêm Cenas de Violência:  Sim
+Contêm Cenas de Nudez:  Sim
+Contêm Cenas de Uso de Drogas:  Não
+Altura:  17.30 cm
+Largura:  13.50 cm
+Comprimento:  1.50 cm
+Quantidade de Discos:  0
+Número de Jogadores:  0
+Idioma do Manual:  PORTUGUÊS
+Compatível 3D:  Não
+Peso:  00.13 kg
+Faixa Etária:  a partir de 12 anos
+{'Plataforma:\xa0': 'PS3', 'Altura:': ' 17.30 cm', 'Faixa Etária:\xa0': 'a partir de 12 anos', 'Código de Barras:\xa0': '662248913704', 'Comprimento:': ' 1.50 cm', 'Classificação Indicativa:': ' 12 anos', 'Origem:\xa0': 'NACIONAL', 'Ano de Produção:\xa0': '2014', 'Quantidade de Discos:\xa0': '0', 'Idioma do Manual:\xa0': 'PORTUGUÊS', 'Contêm Cenas de Nudez:\xa0': 'Sim', 'Peso:': ' 00.13 kg', 'Desenvolvedor:\xa0': 'SQUARE ENIX - BR', 'Número de Jogadores:\xa0': '0', 'Contêm Cenas de Violência:\xa0': 'Sim', 'Idioma Original:\xa0': 'INGLÊS\xa0-\xa0DOLBY DIGITAL', 'Compatível 3D:\xa0': 'Não', 'Contêm Cenas de Uso de Drogas:\xa0': 'Não', 'Largura:': ' 13.50 cm'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/42235577.html
+Origem:  NACIONAL
+Desenvolvedor:  NINTENDO - BR
+Idioma Original:  INGLÊS - DOLBY DIGITAL
+Plataforma:  WIIU
+Ano de Produção:  2014
+Código de Barras:  045496903367
+Classificação Indicativa:  Livre
+Contêm Cenas de Violência:  Não
+Contêm Cenas de Nudez:  Não
+Contêm Cenas de Uso de Drogas:  Não
+Altura:  19.00 cm
+Largura:  13.60 cm
+Comprimento:  1.40 cm
+Quantidade de Discos:  1
+Número de Jogadores:  12
+Idioma do Manual:  INGLÊS
+Compatível 3D:  Não
+Peso:  00.08 kg
+{'Plataforma:\xa0': 'WIIU', 'Altura:': ' 19.00 cm', 'Código de Barras:\xa0': '045496903367', 'Comprimento:': ' 1.40 cm', 'Classificação Indicativa:': ' Livre', 'Origem:\xa0': 'NACIONAL', 'Ano de Produção:\xa0': '2014', 'Quantidade de Discos:\xa0': '1', 'Idioma do Manual:\xa0': 'INGLÊS', 'Contêm Cenas de Nudez:\xa0': 'Não', 'Peso:': ' 00.08 kg', 'Desenvolvedor:\xa0': 'NINTENDO - BR', 'Número de Jogadores:\xa0': '12', 'Contêm Cenas de Violência:\xa0': 'Não', 'Idioma Original:\xa0': 'INGLÊS\xa0-\xa0DOLBY DIGITAL', 'Compatível 3D:\xa0': 'Não', 'Contêm Cenas de Uso de Drogas:\xa0': 'Não', 'Largura:': ' 13.60 cm'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/42235604.html
+Origem:  NACIONAL
+Desenvolvedor:  WARNER GAMES BR
+Idioma Original:  INGLÊS - DOLBY DIGITAL
+Idiomas:  PORTUGUÊS
+Plataforma:  XBOX ONE
+Ano de Produção:  2013
+Código de Barras:  7892110080101
+Classificação Indicativa:  Livre
+Contêm Cenas de Violência:  Não
+Contêm Cenas de Nudez:  Não
+Contêm Cenas de Uso de Drogas:  Não
+Altura:  17.30 cm
+Largura:  13.50 cm
+Comprimento:  1.50 cm
+Quantidade de Discos:  0
+Número de Jogadores:  0
+Idioma do Manual:  PORTUGUÊS
+Compatível 3D:  Não
+Peso:  00.13 kg
+{'Idiomas:\xa0': 'PORTUGUÊS', 'Plataforma:\xa0': 'XBOX ONE', 'Código de Barras:\xa0': '7892110080101', 'Altura:': ' 17.30 cm', 'Classificação Indicativa:': ' Livre', 'Origem:\xa0': 'NACIONAL', 'Comprimento:': ' 1.50 cm', 'Ano de Produção:\xa0': '2013', 'Quantidade de Discos:\xa0': '0', 'Idioma do Manual:\xa0': 'PORTUGUÊS', 'Contêm Cenas de Nudez:\xa0': 'Não', 'Peso:': ' 00.13 kg', 'Desenvolvedor:\xa0': 'WARNER GAMES BR', 'Número de Jogadores:\xa0': '0', 'Contêm Cenas de Violência:\xa0': 'Não', 'Idioma Original:\xa0': 'INGLÊS\xa0-\xa0DOLBY DIGITAL', 'Compatível 3D:\xa0': 'Não', 'Contêm Cenas de Uso de Drogas:\xa0': 'Não', 'Largura:': ' 13.50 cm'}
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/cultura_game/42267514.html
+Origem:  NACIONAL
+Desenvolvedor:  SONY GAMES BR
+Idioma Original:  INGLÊS - DOLBY DIGITAL
+Idiomas:  PORTUGUÊS
+Idioma do Áudio:  PORTUGUÊS - DOLBY DIGITAL
+Plataforma:  PS4
+Ano de Produção:  2013
+Código de Barras:  711719500360
+Classificação Indicativa:  16 anos
+Contêm Cenas de Violência:  Sim
+Contêm Cenas de Nudez:  Não
+Contêm Cenas de Uso de Drogas:  Não
+Altura:  19.00 cm
+Largura:  13.50 cm
+Comprimento:  3.00 cm
+Quantidade de Discos:  1
+Formato da Tela:  WIDESCREEN 16:9
+Número de Jogadores:  8
+Espaço Requerido:  47 MB
+Idioma do Manual:  PORTUGUÊS
+Compatível 3D:  Não
+DLC Incluído:  Expansão single player Left Behind;
+Conjunto de oito mapas multiplayer no Abandoned e Reclaimed Territories;
+Comentários do elenco e director criativo sobre o jogo.
+Peso:  00.20 kg
+Faixa Etária:  a partir de 16 anos
+{'Plataforma:\xa0': 'PS4', 'Altura:': ' 19.00 cm', 'Número de Jogadores:\xa0': '8', 'Origem:\xa0': 'NACIONAL', 'Ano de Produção:\xa0': '2013', 'Faixa Etária:\xa0': 'a partir de 16 anos', 'Contêm Cenas de Nudez:\xa0': 'Não', 'Peso:': ' 00.20 kg', 'Desenvolvedor:\xa0': 'SONY GAMES BR', 'Idioma Original:\xa0': 'INGLÊS\xa0-\xa0DOLBY DIGITAL', 'Contêm Cenas de Violência:\xa0': 'Sim', 'Quantidade de Discos:\xa0': '1', 'Idioma do Áudio:\xa0': 'PORTUGUÊS\xa0-\xa0DOLBY DIGITAL', 'Idiomas:\xa0': 'PORTUGUÊS', 'Código de Barras:\xa0': '711719500360', 'DLC Incluído:\xa0': 'Expansão single player Left Behind;\nConjunto de oito mapas multiplayer no Abandoned e Reclaimed Territories;\nComentários do elenco e director criativo sobre o jogo.', 'Comprimento:': ' 3.00 cm', 'Classificação Indicativa:': ' 16 anos', 'Idioma do Manual:\xa0': 'PORTUGUÊS', 'Espaço Requerido:\xa0': '47 MB', 'Formato da Tela:\xa0': 'WIDESCREEN 16:9', 'Compatível 3D:\xa0': 'Não', 'Contêm Cenas de Uso de Drogas:\xa0': 'Não', 'Largura:': ' 13.50 cm'}
+finalizou

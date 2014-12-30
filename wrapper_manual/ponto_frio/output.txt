@@ -1,0 +1,660 @@
+/media/doc/home/doc/2013/academico/project_antigo/Implementacao/paginas_html/ColetaUFAM/ColetaNova/wrappers_base/ponto_frio_notebooks/7031463.html
+<dl class="Processador" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl00_rptCampos_ctl00_dlCategoria">
+<dt>
+                                    Processador
+                                </dt>
+<dd>
+                                            Intel® Core™ i5-3210M 2.5 - 3.1 GHz
+                                        </dd>
+</dl>
+
+
+
+                                            Intel® Core™ i5-3210M 2.5 - 3.1 GHz
+                                        
+
+
+<dl class="Cache even" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl00_rptCampos_ctl01_dlCategoria">
+<dt>
+                                    Cache
+                                </dt>
+<dd>
+                                            3 MB
+                                        </dd>
+</dl>
+
+
+
+                                            3 MB
+                                        
+
+
+<dl class="Sistema-operacional" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl00_rptCampos_ctl02_dlCategoria">
+<dt>
+                                    Sistema operacional
+                                </dt>
+<dd>
+                                            Windows® 8 64 bits
+                                        </dd>
+</dl>
+
+
+
+                                            Windows® 8 64 bits
+                                        
+
+
+<dl class="Tamanho-da-tela even" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl00_rptCampos_ctl03_dlCategoria">
+<dt>
+                                    Tamanho da tela
+                                </dt>
+<dd>
+                                            14"
+                                        </dd>
+</dl>
+
+
+
+                                            14"
+                                        
+
+
+<dl class="Tipo-de-tela" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl00_rptCampos_ctl04_dlCategoria">
+<dt>
+                                    Tipo de tela
+                                </dt>
+<dd>
+                                            LCD LED
+                                        </dd>
+</dl>
+
+
+
+                                            LCD LED
+                                        
+
+
+<dl class="Unidade-optica even" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl00_rptCampos_ctl05_dlCategoria">
+<dt>
+                                    Unidade óptica
+                                </dt>
+<dd>
+                                            Gravador de DVD/CD
+                                        </dd>
+</dl>
+
+
+
+                                            Gravador de DVD/CD
+                                        
+
+
+<dl class="Leitor-de-cartao" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl00_rptCampos_ctl06_dlCategoria">
+<dt>
+                                    Leitor de cartão
+                                </dt>
+<dd>
+                                            Memory Stick, 
+                                        </dd>
+<dd>
+                                            SDXC, 
+                                        </dd>
+<dd>
+                                            Memory Stick PRO, 
+                                        </dd>
+<dd>
+                                            SD, 
+                                        </dd>
+<dd>
+                                            SDHC, 
+                                        </dd>
+<dd>
+                                            xD, 
+                                        </dd>
+<dd>
+                                            MMC
+                                        </dd>
+</dl>
+
+
+
+                                            Memory Stick, 
+                                        
+
+
+
+                                            SDXC, 
+                                        
+
+
+
+                                            Memory Stick PRO, 
+                                        
+
+
+
+                                            SD, 
+                                        
+
+
+
+                                            SDHC, 
+                                        
+
+
+
+                                            xD, 
+                                        
+
+
+
+                                            MMC
+                                        
+
+
+<dl class="Webcam-integrada even" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl00_rptCampos_ctl07_dlCategoria">
+<dt>
+                                    Webcam integrada
+                                </dt>
+<dd>
+                                            Sim
+                                        </dd>
+</dl>
+
+
+
+                                            Sim
+                                        
+
+
+<dl class="Conexao-s--fio--wireless-" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl00_rptCampos_ctl08_dlCategoria">
+<dt>
+                                    Conexão s/ fio (wireless)
+                                </dt>
+<dd>
+                                            802.11 b/g/n
+                                        </dd>
+</dl>
+
+
+
+                                            802.11 b/g/n
+                                        
+
+
+<dl class="Conexao-Bluetooth even" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl00_rptCampos_ctl09_dlCategoria">
+<dt>
+                                    Conexão Bluetooth
+                                </dt>
+<dd>
+                                            Sim
+                                        </dd>
+</dl>
+
+
+
+                                            Sim
+                                        
+
+
+<dl class="Cor" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl00_rptCampos_ctl10_dlCategoria">
+<dt>
+                                    Cor
+                                </dt>
+<dd>
+                                            Preto
+                                        </dd>
+</dl>
+
+
+
+                                            Preto
+                                        
+
+
+<dl class="Caracteristicas-Gerais even" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl00_rptCampos_ctl11_dlCategoria">
+<dt>
+                                    Características Gerais
+                                </dt>
+<dd>
+                                            - Tela LCD HD com resolução de 1366 x 768
+- Webcam HD
+- Áudio: HD Audio, SRS WOW HD e SRS TruSurround HD
+- Alto-falantes: 1,5W x 2, estéreo
+- Super Multi Dual Layer (DVD-R/RW,+R/RW, RAM)
+- Bluetooth 4.0 + LE
+
+<strong>Bluetooth™ 4.0</strong>
+O Novo Bluetooth 4.0 provê velocidade superior comparado a sua versão anterior. Transfira musicas vídeos entre celulares, câmeras ou outros dispositivos em muito menos tempo!
+
+<strong>Leitor de Cartões</strong> 
+Com o leitor de cartão de memória integrado, você descobrirá como é rápido e fácil transferir ou visualizar as fotos da câmera digital. Muita praticidade para o seu dia a dia.
+
+<strong>Saída HDMI</strong>
+High-Definition Multimedia Interface (HDMI) é uma interface totalmente digital de áudio e vídeo, capaz de transmitir dados não comprimidos entre dispositivos compatíveis. Com essa tecnologia você conseguirá conectar o seu equipamento a sua TV LCD e transmitir conteúdo com qualidade surpreendente.
+
+<strong>Wireless (Wi-Fi)</strong>
+A tecnologia Wireless (sem fio) facilita sua mobilidade. Você elimina os fios e ganha liberdade para conectar-se a internet!
+
+<strong>Webcam</strong>
+Com a câmera é possível participar de vídeo de forma mais fácil e com muita qualidade, tornando o seu bate-papo no MSN e SKYPE muito mais divertido.
+
+<strong>Multi-Gesture</strong>
+Divirta-se e aproveite os recursos do "Multi-Gesture" que lhe oferece uma navegação intuitiva e fácil para ver páginas web, imagens, planilhas e muito mais.
+
+<strong>LCD LED</strong>
+Tela LCD retroiluminada por LED oferece melhor resolução, brilho, imagens mais limpas, cores mais vivas e redução no consumo de energia.
+                                        </dd>
+</dl>
+
+
+
+                                            - Tela LCD HD com resolução de 1366 x 768
+- Webcam HD
+- Áudio: HD Audio, SRS WOW HD e SRS TruSurround HD
+- Alto-falantes: 1,5W x 2, estéreo
+- Super Multi Dual Layer (DVD-R/RW,+R/RW, RAM)
+- Bluetooth 4.0 + LE
+
+
+Bluetooth™ 4.0
+
+O Novo Bluetooth 4.0 provê velocidade superior comparado a sua versão anterior. Transfira musicas vídeos entre celulares, câmeras ou outros dispositivos em muito menos tempo!
+
+
+Leitor de Cartões
+ 
+Com o leitor de cartão de memória integrado, você descobrirá como é rápido e fácil transferir ou visualizar as fotos da câmera digital. Muita praticidade para o seu dia a dia.
+
+
+Saída HDMI
+
+High-Definition Multimedia Interface (HDMI) é uma interface totalmente digital de áudio e vídeo, capaz de transmitir dados não comprimidos entre dispositivos compatíveis. Com essa tecnologia você conseguirá conectar o seu equipamento a sua TV LCD e transmitir conteúdo com qualidade surpreendente.
+
+
+Wireless (Wi-Fi)
+
+A tecnologia Wireless (sem fio) facilita sua mobilidade. Você elimina os fios e ganha liberdade para conectar-se a internet!
+
+
+Webcam
+
+Com a câmera é possível participar de vídeo de forma mais fácil e com muita qualidade, tornando o seu bate-papo no MSN e SKYPE muito mais divertido.
+
+
+Multi-Gesture
+
+Divirta-se e aproveite os recursos do "Multi-Gesture" que lhe oferece uma navegação intuitiva e fácil para ver páginas web, imagens, planilhas e muito mais.
+
+
+LCD LED
+
+Tela LCD retroiluminada por LED oferece melhor resolução, brilho, imagens mais limpas, cores mais vivas e redução no consumo de energia.
+                                        
+
+
+<dl class="Memoria-RAM" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl00_dlCategoria">
+<dt>
+                                    Memória RAM
+                                </dt>
+<dd>
+                                            4 GB DDR3
+                                        </dd>
+</dl>
+
+
+
+                                            4 GB DDR3
+                                        
+
+
+<dl class="Tipo-de-memoria even" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl01_dlCategoria">
+<dt>
+                                    Tipo de memória
+                                </dt>
+<dd>
+                                            DDR3
+                                        </dd>
+</dl>
+
+
+
+                                            DDR3
+                                        
+
+
+<dl class="Expansao-da-memoria-ate" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl02_dlCategoria">
+<dt>
+                                    Expansão da memória até
+                                </dt>
+<dd>
+                                            8 GB
+                                        </dd>
+</dl>
+
+
+
+                                            8 GB
+                                        
+
+
+<dl class="Disco-rigido--HD- even" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl03_dlCategoria">
+<dt>
+                                    Disco rígido (HD)
+                                </dt>
+<dd>
+                                            500 GB 5400 RPM SATA
+                                        </dd>
+</dl>
+
+
+
+                                            500 GB 5400 RPM SATA
+                                        
+
+
+<dl class="Chipset" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl04_dlCategoria">
+<dt>
+                                    Chipset
+                                </dt>
+<dd>
+                                            Intel® HM77
+                                        </dd>
+</dl>
+
+
+
+                                            Intel® HM77
+                                        
+
+
+<dl class="Portas-USB even" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl05_dlCategoria">
+<dt>
+                                    Portas USB
+                                </dt>
+<dd>
+                                            4 (2 x 2.0  e 2 x 3.0 - 1 com carregamento USB Inteligente)
+                                        </dd>
+</dl>
+
+
+
+                                            4 (2 x 2.0  e 2 x 3.0 - 1 com carregamento USB Inteligente)
+                                        
+
+
+<dl class="Saida-HDMI" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl06_dlCategoria">
+<dt>
+                                    Saída HDMI
+                                </dt>
+<dd>
+                                            sim
+                                        </dd>
+</dl>
+
+
+
+                                            sim
+                                        
+
+
+<dl class="Rede even" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl07_dlCategoria">
+<dt>
+                                    Rede
+                                </dt>
+<dd>
+                                            10/100/1000
+                                        </dd>
+</dl>
+
+
+
+                                            10/100/1000
+                                        
+
+
+<dl class="Outras-conexoes" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl08_dlCategoria">
+<dt>
+                                    Outras conexões
+                                </dt>
+<dd>
+                                            RJ45, 
+                                        </dd>
+<dd>
+                                            microfone, 
+                                        </dd>
+<dd>
+                                            fone de ouvido
+                                        </dd>
+</dl>
+
+
+
+                                            RJ45, 
+                                        
+
+
+
+                                            microfone, 
+                                        
+
+
+
+                                            fone de ouvido
+                                        
+
+
+<dl class="Placa-de-video even" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl09_dlCategoria">
+<dt>
+                                    Placa de vídeo
+                                </dt>
+<dd>
+                                            AMD® Radeon™ HD 7650M DDR3 com 1 GB de memória dedicada*
+                                        </dd>
+</dl>
+
+
+
+                                            AMD® Radeon™ HD 7650M DDR3 com 1 GB de memória dedicada*
+                                        
+
+
+<dl class="Teclado" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl10_dlCategoria">
+<dt>
+                                    Teclado
+                                </dt>
+<dd>
+                                            Pebble com 87 teclas padrão ABNT2
+                                        </dd>
+</dl>
+
+
+
+                                            Pebble com 87 teclas padrão ABNT2
+                                        
+
+
+<dl class="Mouse even" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl11_dlCategoria">
+<dt>
+                                    Mouse
+                                </dt>
+<dd>
+                                            Touchpad com scroll e função de gestos
+                                        </dd>
+</dl>
+
+
+
+                                            Touchpad com scroll e função de gestos
+                                        
+
+
+<dl class="Bateria" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl12_dlCategoria">
+<dt>
+                                    Bateria
+                                </dt>
+<dd>
+                                            6 células
+                                        </dd>
+</dl>
+
+
+
+                                            6 células
+                                        
+
+
+<dl class="Softwares-inclusos even" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl13_dlCategoria">
+<dt>
+                                    Softwares inclusos
+                                </dt>
+<dd>
+<strong>Desktop</strong>
+- LG Control Center
+- LG Easy Starter
+- LG Smart Share
+- LG Network Share
+- LG Care Center
+- LG Recovery Center
+- LG Update Center
+- MS Windows Essentials 2012
+- MS Office 2010 Trial
+- SRS Sound Solution
+- Arcsoft Webcam Companion 4
+- Norton Internet Security 2012 (versão trial de 90 dias)
+
+<strong>Windows 8 UI</strong>
+- LG Easy Guide
+- LG Trouble Shooting Guide
+- MS Skype
+- MS Fresh Paint
+- Evernote
+- Accuweather
+                                        </dd>
+</dl>
+
+
+
+
+Desktop
+
+- LG Control Center
+- LG Easy Starter
+- LG Smart Share
+- LG Network Share
+- LG Care Center
+- LG Recovery Center
+- LG Update Center
+- MS Windows Essentials 2012
+- MS Office 2010 Trial
+- SRS Sound Solution
+- Arcsoft Webcam Companion 4
+- Norton Internet Security 2012 (versão trial de 90 dias)
+
+
+Windows 8 UI
+
+- LG Easy Guide
+- LG Trouble Shooting Guide
+- MS Skype
+- MS Fresh Paint
+- Evernote
+- Accuweather
+                                        
+
+
+<dl class="Conteudo-da-Embalagem" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl14_dlCategoria">
+<dt>
+                                    Conteúdo da Embalagem
+                                </dt>
+<dd>
+                                            - Notebook
+- Carregador
+- Cabo de alimentação
+- Manual de usuário
+- Certificado de garantia
+- Certificado de garantia Internacional
+                                        </dd>
+</dl>
+
+
+
+                                            - Notebook
+- Carregador
+- Cabo de alimentação
+- Manual de usuário
+- Certificado de garantia
+- Certificado de garantia Internacional
+                                        
+
+
+<dl class="Garantia even" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl15_dlCategoria">
+<dt>
+                                    Garantia
+                                </dt>
+<dd>
+                                            12 meses
+                                        </dd>
+</dl>
+
+
+
+                                            12 meses
+                                        
+
+
+<dl class="Observacoes" id="ctl00_Conteudo_ctl51_DetalhesProduto_rptGrupos_ctl01_rptCampos_ctl16_dlCategoria">
+<dt>
+                                    Observações
+                                </dt>
+<dd>
+<strong>1. Foto meramente ilustrativa
+
+2. O Microsoft Office 2010 Starter é de testes, como uma amostra gratuita do programa. Por isso, ele é limitado, não só em suas funcionalidades mais avançadas, como também em seu período de uso, sendo este período de 25 acessos ou 60 dias de uso (o que ocorrer primeiro). Após isso, o cliente deve adquirir um Pacote completo junto a Microsoft ou a uma revenda especializada.</strong>
+
+*A memória dedicada da placa de vídeo fica oculta, pois devido a algumas configurações de fábrica, para economia de energia, a memória dedicada é desativada quando o produto não está conectado à energia elétrica.
+                                        </dd>
+</dl>
+
+
+
+
+1. Foto meramente ilustrativa
+
+2. O Microsoft Office 2010 Starter é de testes, como uma amostra gratuita do programa. Por isso, ele é limitado, não só em suas funcionalidades mais avançadas, como também em seu período de uso, sendo este período de 25 acessos ou 60 dias de uso (o que ocorrer primeiro). Após isso, o cliente deve adquirir um Pacote completo junto a Microsoft ou a uma revenda especializada.
+
+
+*A memória dedicada da placa de vídeo fica oculta, pois devido a algumas configurações de fábrica, para economia de energia, a memória dedicada é desativada quando o produto não está conectado à energia elétrica.
+                                        
+
+
+<dl><dt>Altura</dt><dd>3,00 Centimetros</dd><dt>Largura</dt><dd>33,00 Centimetros</dd><dt>Profundidade</dt><dd>23,00 Centimetros</dd><dt>Peso</dt><dd>2,13 Quilos</dd></dl>
+Largura
+33,00 Centimetros
+Profundidade
+23,00 Centimetros
+Peso
+2,13 Quilos
+<dl><dt>Altura</dt><dd>3,00 Centimetros</dd><dt>Largura</dt><dd>33,00 Centimetros</dd><dt>Profundidade</dt><dd>23,00 Centimetros</dd><dt>Peso</dt><dd>2,13 Quilos</dd></dl>
+Largura
+33,00 Centimetros
+Profundidade
+23,00 Centimetros
+Peso
+2,13 Quilos
+<dl><dt>Altura</dt><dd>3,00 Centimetros</dd><dt>Largura</dt><dd>33,00 Centimetros</dd><dt>Profundidade</dt><dd>23,00 Centimetros</dd><dt>Peso</dt><dd>2,13 Quilos</dd></dl>
+Largura
+33,00 Centimetros
+Profundidade
+23,00 Centimetros
+Peso
+2,13 Quilos
+<dl><dt>Altura</dt><dd>3,00 Centimetros</dd><dt>Largura</dt><dd>33,00 Centimetros</dd><dt>Profundidade</dt><dd>23,00 Centimetros</dd><dt>Peso</dt><dd>2,13 Quilos</dd></dl>
+Largura
+33,00 Centimetros
+Profundidade
+23,00 Centimetros
+Peso
+2,13 Quilos
+<dl><dt>Telefone:</dt><dd>Para todo o Brasil exceto capitais e regiões metropolitanas: 0800 707 5454  Para capitais e regiões metropolitanas: 4004 5400 </dd></dl>
+<dl class="even"><dt>E-mail/Site:</dt><dd>www.lge.com/br/index.jsp</dd></dl>
