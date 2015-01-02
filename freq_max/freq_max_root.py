@@ -78,8 +78,10 @@ def main(path_dir, qtd_max = 10):
 
 def rodada(store, output, output2):
 	xpaths_finais = {}
+	output2.write(store + "\n")
+	output.write(store + "\n" )
 	for _ in range(10):
-		for (xpath, weight) in main(info.path(store)):
+		for (xpath, weight) in main(info.base(store)):
 				if(xpaths_finais.get(xpath, False)):
 					xpaths_finais[xpath] += weight
 				else:

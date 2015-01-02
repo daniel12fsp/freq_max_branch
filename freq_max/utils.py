@@ -115,14 +115,3 @@ def dist_str(s1, s2):
 			matriz[i][j] = min(d, a, r)
 
 	return matriz[m - 1][n - 1]
-
-class PathNotExistError(Exception):
-
-	"""Docstring for PathNotExistError. """
-
-	def __init__(self):
-		"""TODO: to be defined1. """
-		Exception.__init__(self)
-    def __str__(self):
-        return "Path is not found(Errorr 404)"
-		

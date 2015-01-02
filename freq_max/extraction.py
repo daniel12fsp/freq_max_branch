@@ -42,8 +42,3 @@ def extraction_xpath_dir(path_dir, store, lca):
 		attrs = extraction(lca, page, id_file, file_json)
 		file_json.write("""{"id": %s, "atributos": %s}\n""" % (id_file,json.dumps(attrs, sort_keys=True)))
 	file_json.close()
-
-
-
-store = "ponto_frio"
-extraction_xpath_dir(info.path(store), store, info.lca(store))
