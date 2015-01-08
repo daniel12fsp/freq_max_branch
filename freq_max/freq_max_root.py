@@ -39,7 +39,7 @@ def merge_xpath(xpaths):
 
 	big_father = max(new_xpaths.items(), key = lambda x: x[1])
 	#print(new_xpaths)
-	print("###", big_father)			
+	#print("###", big_father)			
 	return new_xpaths
 
 
@@ -76,10 +76,9 @@ def main(path_dir, qtd_max = 10):
 
 
 
-def rodada(store, output, output2):
+def rodada(store, output):
 	xpaths_finais = {}
-	output2.write(store + "\n")
-	output.write(store + "\n" )
+	output.write(store + "\n")
 	for _ in range(10):
 		for (xpath, weight) in main(info.base(store)):
 				if(xpaths_finais.get(xpath, False)):
@@ -88,9 +87,9 @@ def rodada(store, output, output2):
 					xpaths_finais[xpath] = weight		
 	
 	big_fat = sorted(xpaths_finais.items(), key = lambda x: x[1], reverse=True)
-	output2.write(str(big_fat[:3]) + "\n")
-	output2.write("###" + str(big_fat[0]) + "\n")
-	output.write(str(big_fat[0]) + "\n" )
+	output.write("#"*30)
+	for f in big_fat[:3]:
+		output.write("\n" + str(f))
 
 
 
