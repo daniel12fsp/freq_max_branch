@@ -7,7 +7,7 @@ store = "ponto_frio"
 
 output2 = open("../output/xpaths_" + store, "w", 0)
 freq_max_root.rodada(store, output2)
-output.close()
+output2.close()
 
 
 #extraction_xpath_dir(info.path(store), store, info.lca(store))

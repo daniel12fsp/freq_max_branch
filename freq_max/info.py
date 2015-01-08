@@ -25,7 +25,6 @@ def gabarito(key):
 	return None#comparator.get(key,(None, None))[1]
 
 def is_valid_path(path):
-	print(path)
 	if(os.path.isdir(path)):
 		return path + "/"
 	else:

@@ -10,6 +10,16 @@ import codecs
 import xml.sax.saxutils as saxutils
 from unidecode import unidecode
 
+def weight_leaf(leaf):
+	return round(1.0/len(normalize(leaf)),3)
+
+
+def print_list(coments, ls):
+	print(coments)
+	for item in ls:
+		print(item)
+	print("-"*20)
+
 def normalize(leaf):
 	value = leaf.string.strip() #tirar os espacos
 	value = saxutils.unescape(value) #tira as entidades htmls
