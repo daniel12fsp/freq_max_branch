@@ -7,7 +7,7 @@ comparator_path = path + "/"
 report_path = path + "relatorios/"
 base_path = path + "base/"
 
-
+QTD_PAG = 2
 
 #function returns the paths
 def base(store):

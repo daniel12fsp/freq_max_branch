@@ -9,9 +9,10 @@ import numpy as np
 import codecs
 import xml.sax.saxutils as saxutils
 from unidecode import unidecode
+import itertools
 
 def weight_leaf(leaf):
-	return round(1.0/len(normalize(leaf)),3)
+	return round(1.0/(len(normalize(leaf))+1),3)
 
 
 def print_list(coments, ls):
@@ -21,6 +22,7 @@ def print_list(coments, ls):
 	print("-"*20)
 
 def normalize(leaf):
+	if(leaf == None): return []
 	value = leaf.string.strip() #tirar os espacos
 	value = saxutils.unescape(value) #tira as entidades htmls
 	value = unidecode(value)# retira os elementos acentuacos(especiais)
@@ -30,8 +32,11 @@ def html2tree(f):
 	tree = BeautifulSoup(f, "lxml").body
 	return tree
 
-def leaf_valid(parent):
-	return len(parent.parent.findAll(re.compile(".*\w"), text=True, recursive=False)) > 1
+def _leaf_valid_text(string):
+	return len(normalize(string)) > 0
+
+def leaf_valid(leaf):
+	return len(leaf.parent.findAll(re.compile(".*\w"), text=_leaf_valid_text, recursive=False)) > 1
 
 def generate_xpath(parent):
 		if(parent.name != "html"):
@@ -67,13 +72,17 @@ def remove_tag_re(path):
 	return html
 
 def take_leaf(t):
-	ls = t.findAll(text=True) 
-	r = []
-	for item in ls:
-		parent = item.parent
-		if( (len(item.string) > 1 and not "$" in item.string) or re.search("\w", item)  and leaf_valid(parent)):
-			r.append(item)
-	return r
+	try:
+		ls = t.findAll(text=True) 
+		r = []
+		for item in ls:
+			parent = item.parent
+			#if( (len(item.string) > 1 and not "$" in item.string) or re.search("\w", item)  and leaf_valid(parent)):
+			if(leaf_valid(parent)):
+				r.append(item)
+		return r
+	except:
+		return []
 
 def open_file_encode(filename):
 	#TODO
@@ -87,19 +96,17 @@ def open_file_encode(filename):
 	return bytes(f, encoding="utf8")
 	
 
-def list_random_pages(path_dir):
+def combinations_pages(base, quant):
+	path_dir = info.base(base)
 	pages = glob.glob(path_dir + "*html*")
-	random.shuffle(pages)
-	return pages
+	return itertools.combinations(pages, quant)
 
 def prepare(page):
-	try:
-		page = remove_tag_re(page)
-		tree = html2tree(page)
-		leafs = take_leaf(tree)
-		return leafs
-	except:
-		return []	
+	page = remove_tag_re(page)
+	tree = html2tree(page)
+	leafs = take_leaf(tree)
+	return leafs
+
 
 def dist_str(s1, s2):
 	s1 = "r" + s1
