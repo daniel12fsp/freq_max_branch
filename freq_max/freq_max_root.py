@@ -33,7 +33,6 @@ def main(pages, output):
 				xpaths[g] += utils.weight_leaf(l) 
 			else:
 				xpaths[g] = 1
-	#utils.print_list("xpaths_finais", xpaths.items())
 	return xpaths.items()
 
 
@@ -45,7 +44,11 @@ def rodada(pages, output):
 			else:
 				xpaths_finais[xpath] = weight		
 	big_fat = sorted(xpaths_finais.items(), key = lambda x: x[1], reverse=True)
+	if __debug__:
+		utils.print_list("big_fat", big_fat)
 	chooses_ones = big_fat[:5]
-	the_choose_one = chooses_ones[1]
-	output.write("\n"+ ">" + str(the_choose_one))
+	#the_choose_one = utils.merge_xpaths(chooses_ones)
+	#output.write("\n"+ "M>" + str(the_choose_one))
+	output.write("\n"+ "N^" + str(chooses_ones[0]))
+
 	output.write("\n" + "#"*30)

@@ -12,7 +12,7 @@ from unidecode import unidecode
 import itertools
 
 def weight_leaf(leaf):
-	return round(1.0/(len(normalize(leaf))+1),3)
+	return round(2.0/(len(normalize(leaf))+1),3)
 
 
 def print_list(coments, ls):
@@ -134,41 +134,44 @@ def dist_str(s1, s2):
 	return matriz[m - 1][n - 1]
 
 
-def equal_xpath(a, b):
+def equal_xpath(x, y):
 	"""
 		A variavel follow se refere ao indice depois do prefixo e da repeticao, o comeco do sufixo
 	"""
-	b, s = list_max_min(a, b)
+	if x == y: return False, None
+	b, s = len_max_min(x, y)
 	s =  s.split("/")[1:]
 	b =  b.split("/")[1:]
-	print(b)
-	print(s)
-	exit()
 	rs = list(s)
 	rs.reverse()
 	rb = list(b)
 	rb.reverse()
-	for i in range(1, len(b)):
+	follow = 0
+	for i in range(0, len(b)):
 		new_b = rb[0:i]
 		new_s = rs[0:i]
 		if(new_b == new_s):
-			follow = len(b) - i
+			follow = len(b) - i -1
+			print(i)
 		else:
 			break
-	tall = b[middle:]
-	middle_s = len(s) - len(tall) + 1
-	prefix = s[:middle_s]
+	print(s)
+	print(follow)
+	#prefix = s[:middle_s]
 	suffix_xpath = "/".join(b[follow:])
-	return (s[:middle_s] == b[:middle_s] and s[follow:] == b[follow:]), suffix_xpath
+	print(b[follow + 1:])	
+	print(s[follow:])	
+	suffix =  "/".join(s[follow:])
+	return s[follow:] == b[follow + 1:], suffix
 
-def list_max_min(a, b):
+def len_max_min(a, b):
 	if(len(a) < len(b)):
 		return b, a
 	else:
 		return a, b
 
 def merge_xpaths(xpaths):
-	ls = list(xpaths)
+	ls = list(xpaths[1:])
 	result = []
 	for (key_a, v_a) in xpaths:
 		for l in ls:
